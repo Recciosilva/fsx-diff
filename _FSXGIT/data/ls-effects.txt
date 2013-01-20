@@ -1,0 +1,1986 @@
+./Effects/
+./Effects/20can.wav
+./Effects/38SND.fx
+./Effects/39SND.fx
+./Effects/4X_DA-20_A1_Cockpit_Light.fx
+./Effects/4X_DA-20_A1_Landing_Light.fx
+./Effects/4X_DA-20_A1_Position_Light_green.fx
+./Effects/4X_DA-20_A1_Position_Light_red.fx
+./Effects/4X_DA-20_A1_Position_Light_white.fx
+./Effects/4X_DA-20_A1_Smoke_Oil.fx
+./Effects/4X_DA-20_A1_Strobe_Light.fx
+./Effects/4X_DA-20_A1_Taxi_Light.fx
+./Effects/787_eng.fx
+./Effects/787_taxi.fx
+./Effects/787_wing.fx
+./Effects/86_bano_green.fx
+./Effects/86_bano_red.fx
+./Effects/86_landing_light.fx
+./Effects/Aerosoft_EGLC_grlight_taxi_sm.fx
+./Effects/Aerosoft_EGLC_red.fx
+./Effects/Aerosoft_EGLC_spotlight.fx
+./Effects/Aerosoft_EGLC_taxilight.fx
+./Effects/Aerosoft_EGLC_taxi_middle_light.fx
+./Effects/Aerosoft_EGLC_Tower_Light.fx
+./Effects/Aerosoft_EGLC_white.fx
+./Effects/Aerosoft_LCLK_Spot_1.fx
+./Effects/ALPHA_Bou_vclight.fx
+./Effects/AntsAussieAirports_YBNAlighthouse.fx
+./Effects/Ants_Maritime_CardEast.fx
+./Effects/Ants_Maritime_CardNorth.fx
+./Effects/Ants_Maritime_CardSouth.fx
+./Effects/Ants_Maritime_CardWest.fx
+./Effects/Ants_Maritime_GreenFlash.fx
+./Effects/Ants_Maritime_RedFlash.fx
+./Effects/Ants_Maritime_Special.fx
+./Effects/Ants_P2002_EngFail.fx
+./Effects/Ants_P2002_EngineStart.fx
+./Effects/Ants_P2002_Flash.fx
+./Effects/Ants_P2002_Landing2.fx
+./Effects/Ants_P2002_Strobe2.fx
+./Effects/ants_P2002_tchdrt.fx
+./Effects/Ants_P2002_vclight2.fx
+./Effects/Apron_Flood_11.fx
+./Effects/Avalon_fx_Apron_light.fx
+./Effects/Avalon_fx_Apron_lightY.fx
+./Effects/Bf-109_cgun.fx
+./Effects/Bf-109_mgunL.fx
+./Effects/Bf-109_mgunR.fx
+./Effects/CLSFSX_747wing_lightin.fx
+./Effects/CLSFSX_747wing_lightout.fx
+./Effects/CLSFSX_747_vclight.fx
+./Effects/CLS_747wing_light.fx
+./Effects/CLS_beacon.fx
+./Effects/CLS_DC10_vclight.fx
+./Effects/CLS_nacelle_refl.fx
+./Effects/CLS_nav_yellow.fx
+./Effects/CLS_sparks.fx
+./Effects/CLS_wing_light.fx
+./Effects/Cntrl_Avalon_fx_Apron_light.fx
+./Effects/Cntrl_Avalon_fx_Apron_lightY.fx
+./Effects/Cntrl_Avalon_hangerwhitelight.fx
+./Effects/Cntrl_Avalon_streetlights.fx
+./Effects/Cntrl_Barn.fx
+./Effects/Cntrl_bldstm.fx
+./Effects/Cntrl_Deicing.fx
+./Effects/Cntrl_explosionUFO.fx
+./Effects/Cntrl_fireworks.fx
+./Effects/Cntrl_flashBulb.fx
+./Effects/Cntrl_ForestFireSingle.fx
+./Effects/Cntrl_FTX_Lighthouse_10s.fx
+./Effects/Cntrl_FTX_Lighthouse_10sx3.fx
+./Effects/Cntrl_FTX_Lighthouse_12s.fx
+./Effects/Cntrl_FTX_Lighthouse_12sx2.fx
+./Effects/Cntrl_FTX_Lighthouse_15s.fx
+./Effects/Cntrl_FTX_Lighthouse_15sx2.fx
+./Effects/Cntrl_FTX_Lighthouse_15sx4.fx
+./Effects/Cntrl_FTX_Lighthouse_20sx2.fx
+./Effects/Cntrl_FTX_Lighthouse_20sx4.fx
+./Effects/Cntrl_FTX_Lighthouse_4s.fx
+./Effects/Cntrl_FTX_Lighthouse_5s.fx
+./Effects/Cntrl_FTX_Lighthouse_6s_solid.fx
+./Effects/Cntrl_KilaueaEruption.fx
+./Effects/Cntrl_KilaueaSteam.fx
+./Effects/Cntrl_KORD_deice.fx
+./Effects/Cntrl_LCPH_TaxiGreen.fx
+./Effects/Cntrl_LightningFire.fx
+./Effects/Cntrl_LV_fnt.fx
+./Effects/Cntrl_LV_vol.fx
+./Effects/Cntrl_OldFaithfull.fx
+./Effects/Cntrl_Orbx_oceansurf.fx
+./Effects/Cntrl_Orbx_ST1.fx
+./Effects/Cntrl_Orbx_ST2.fx
+./Effects/Cntrl_Orbx_ST3.fx
+./Effects/Cntrl_Orbx_WW.fx
+./Effects/Cntrl_Orbx_WW2.fx
+./Effects/Cntrl_Orbx_WW3.fx
+./Effects/Cntrl_Orbx_WW4.fx
+./Effects/Cntrl_SmokeStack.fx
+./Effects/Coffs_fx_Apron_lightY.fx
+./Effects/crtl_ENGM_flash_red.fx
+./Effects/crtl_ENGM_flash_white.fx
+./Effects/crtl_ENGM_flood.fx
+./Effects/crtl_ENGM_red.fx
+./Effects/crtl_ENGM_rwy.fx
+./Effects/crtl_ENGM_taxi_blue.fx
+./Effects/crtl_ENVAapronlight.fx
+./Effects/crtl_ENVAflash_red.fx
+./Effects/crtl_ENVAflash_white.fx
+./Effects/crtl_ENVAfloodlight.fx
+./Effects/crtl_ENVAfloodlight2.fx
+./Effects/crtl_ENVAred.fx
+./Effects/crtl_ENVAtaxilight.fx
+./Effects/cs130_ato.fx
+./Effects/cs130_ato_smoke.fx
+./Effects/cs130_edge2.fx
+./Effects/cs130_engstart.fx
+./Effects/cs130_fdump.fx
+./Effects/cs130_gun105.fx
+./Effects/cs130_gun20.fx
+./Effects/cs130_gun40.fx
+./Effects/cs130_ir.fx
+./Effects/cs130_landing.fx
+./Effects/cs130_nav_gre.fx
+./Effects/cs130_nav_gre_flash.fx
+./Effects/cs130_nav_red.fx
+./Effects/cs130_nav_red_flash.fx
+./Effects/cs130_nav_whi.fx
+./Effects/cs130_nav_whi_double.fx
+./Effects/cs130_nav_whi_flash.fx
+./Effects/cs130_nav_whi_flash_double.fx
+./Effects/cs130_smoke.fx
+./Effects/cs130_taxi.fx
+./Effects/cs130_vcgr.fx
+./Effects/cs130_vcrd.fx
+./Effects/cs130_vcwt.fx
+./Effects/cs3_air_L.fx
+./Effects/cs3_air_R.fx
+./Effects/cs3_gun_C.fx
+./Effects/cs3_gun_L.fx
+./Effects/cs3_gun_R.fx
+./Effects/cs3_land.fx
+./Effects/cs3_nav_g.fx
+./Effects/cs3_nav_r.fx
+./Effects/cs3_smoke_0.fx
+./Effects/cs3_smoke_1.fx
+./Effects/cs3_smoke_2.fx
+./Effects/cs3_start.fx
+./Effects/cs3_tchdwn.fx
+./Effects/cs3_vclight.fx
+./Effects/cs3_vclight_b.fx
+./Effects/cs3_vclight_g.fx
+./Effects/cs3_vclight_r.fx
+./Effects/cs3_vclight_v.fx
+./Effects/cs3_vclight_w.fx
+./Effects/cs3_vclight_y.fx
+./Effects/cs52_sf.fx
+./Effects/cs52_smoke.fx
+./Effects/cs52_vcr.fx
+./Effects/cs52_vcw.fx
+./Effects/cs727_bc_w.fx
+./Effects/cs727_fdump.fx
+./Effects/cs727_landing.fx
+./Effects/cs727_landing2.fx
+./Effects/cs727_smoke.fx
+./Effects/cs727_tchdwn.fx
+./Effects/cs737_edge.fx
+./Effects/cs737_engstart.fx
+./Effects/cs737_smoke.fx
+./Effects/cs737_vclightwhi.fx
+./Effects/cs737_ww.fx
+./Effects/cs777_engstart.fx
+./Effects/cs777_sf.fx
+./Effects/cs777_smoke_dark.fx
+./Effects/cs777_vclightwhi.fx
+./Effects/DC-6_HP_L_Flame.fx
+./Effects/DC-6_HP_R_Flame.fx
+./Effects/DC-6_IP_L_Flame.fx
+./Effects/DC-6_IP_R_Flame.fx
+./Effects/DC-6_LP_L_Flame.fx
+./Effects/DC-6_LP_R_Flame.fx
+./Effects/DC6_EngStart.fx
+./Effects/effects.CFG
+./Effects/EMB110_start.fx
+./Effects/E_LT_Beacon.fx
+./Effects/E_LT_LL.fx
+./Effects/E_LT_LL_Splash.fx
+./Effects/E_LT_NavGreen.fx
+./Effects/E_LT_NavRed.fx
+./Effects/E_LT_NavWhite.fx
+./Effects/E_LT_Strobe.fx
+./Effects/F35_fx_RCB_Fandust.fx
+./Effects/F35_orange.fx
+./Effects/f35_Vapor.fx
+./Effects/f35_Vapor1.fx
+./Effects/f35_Vapor2.fx
+./Effects/f35_Vapor3.fx
+./Effects/f35_Vapor4.fx
+./Effects/f35_Vapor5.fx
+./Effects/f35_Vapor6.fx
+./Effects/f35_Vapor7.fx
+./Effects/filelist.txt
+./Effects/FWI_.yellow.fx
+./Effects/FWI_light_WhiteSteady.fx
+./Effects/FWI_Taxi_Edge_blue.fx
+./Effects/FW_Controller.fx
+./Effects/FW_show1.fx
+./Effects/FW_show2.fx
+./Effects/FW_show3.fx
+./Effects/FW_show4.fx
+./Effects/fx_40B-4_start.FX
+./Effects/fx_40C_start.FX
+./Effects/fx_441ice.fx
+./Effects/fx_441_Cabin.fx
+./Effects/fx_441_Exhaust.fx
+./Effects/fx_441_VC.fx
+./Effects/fx_A4beaconb.fx
+./Effects/fx_A4navgrem.fx
+./Effects/fx_A4navredm.fx
+./Effects/fx_A4navwhi.fx
+./Effects/fx_A4RedDot.fx
+./Effects/fx_A4strobe.fx
+./Effects/fx_A4vclight1.fx
+./Effects/fx_A4vclight2.fx
+./Effects/fx_Aerosoft_Bronco_engfire.fx
+./Effects/fx_Aerosoft_Bronco_engsmoke.fx
+./Effects/fx_Aerosoft_PBY_engfire.fx
+./Effects/fx_Aerosoft_PBY_engsmoke.fx
+./Effects/fx_Aerosoft_PBY_FD.fx
+./Effects/fx_Aerosoft_PBY_FD_disable.fx
+./Effects/fx_Aerosoft_PBY_Startup.fx
+./Effects/fx_Aerosoft_PBY_vclight.fx
+./Effects/fx_AfterBurnerFire1.fx
+./Effects/fx_AfterBurnerFire2.fx
+./Effects/fx_AfterBurnerFire3.fx
+./Effects/fx_afterburner_f3.fx
+./Effects/fx_af_f4u_amber.fx
+./Effects/fx_af_f4u_blue.fx
+./Effects/fx_af_f4u_engstrt.fx
+./Effects/fx_af_f4u_green.fx
+./Effects/fx_af_f4u_red.fx
+./Effects/fx_af_f4u_vc.fx
+./Effects/fx_af_f4u_whi.fx
+./Effects/fx_ai_fighter_contrail.fx
+./Effects/fx_ALPHA_B1B_AB.fx
+./Effects/fx_ALPHA_B1B_AB_light.fx
+./Effects/fx_ALPHA_B1B_Flapcontrail.fx
+./Effects/fx_ALPHA_B1B_smoke.fx
+./Effects/fx_ALPHA_B1B_Td.fx
+./Effects/fx_ALPHA_B1B_vclight_Saf.fx
+./Effects/fx_ALPHA_B1B_WTVortices.fx
+./Effects/fx_ALPHA_EZ_vclight.fx
+./Effects/fx_ALPHA_EZ_vclightEXT.fx
+./Effects/fx_ALPHA_GB_Dust.fx
+./Effects/fx_ALPHA_GB_engstrt.fx
+./Effects/fx_ALPHA_GB_Td.fx
+./Effects/fx_ALPHA_He111_contrail.fx
+./Effects/fx_ALPHA_He111_Dust.fx
+./Effects/fx_ALPHA_He111_engstrt.fx
+./Effects/fx_ALPHA_He111_ExSmoke.fx
+./Effects/fx_ALPHA_He111_Td.fx
+./Effects/fx_ALPHA_He111_vclight.fx
+./Effects/fx_ALPHA_He111_vclight1.fx
+./Effects/fx_ALPHA_S55_engstrt.fx
+./Effects/fx_ALPHA_T6_DSb.fx
+./Effects/fx_ALPHA_T6_DSr.fx
+./Effects/fx_ALPHA_T6_DSw.fx
+./Effects/fx_ALPHA_T6_Dust.fx
+./Effects/fx_ALPHA_T6_engstrt.fx
+./Effects/fx_ALPHA_T6_engstrt1.fx
+./Effects/fx_ALPHA_T6_ExhFlames.fx
+./Effects/fx_ALPHA_T6_ExSmoke.fx
+./Effects/fx_ALPHA_T6_Td.fx
+./Effects/fx_ALPHA_T6_WTVortices.fx
+./Effects/fx_amazonExplosion.fx
+./Effects/fx_amazonSmoke.fx
+./Effects/fx_amazonStatueDust.fx
+./Effects/fx_amazonTempleDust.fx
+./Effects/fx_animaldust.fx
+./Effects/fx_animalwake.fx
+./Effects/fx_AOA_amber.fx
+./Effects/fx_AOA_green.fx
+./Effects/fx_AOA_red.fx
+./Effects/fx_Aurora1.fx
+./Effects/fx_Aurora2.fx
+./Effects/fx_Aurora3.fx
+./Effects/fx_avalancheCharge.fx
+./Effects/fx_avalon_hangerwhitelight.fx
+./Effects/fx_avalon_StreetLight_Yellow.fx
+./Effects/fx_Barnstorm.fx
+./Effects/fx_beacon.fx
+./Effects/fx_beacon2_FSD.fx
+./Effects/fx_beacon85.fx
+./Effects/fx_beaconb.fx
+./Effects/fx_beaconcarac11.fx
+./Effects/fx_beaconcardose.fx
+./Effects/fx_beaconcn.fx
+./Effects/fx_beacong.fx
+./Effects/fx_beaconh.fx
+./Effects/fx_beaconOrange.fx
+./Effects/fx_beaconpa28archer.fx
+./Effects/fx_beaconpa34.fx
+./Effects/fx_beaconsm_F1ATR.fx
+./Effects/fx_beaconwhi.fx
+./Effects/fx_beacony.fx
+./Effects/fx_beacon_500.fx
+./Effects/fx_beacon_AS.fx
+./Effects/fx_beacon_E1X5.fx
+./Effects/fx_beacon_F1ATR.fx
+./Effects/fx_beacon_FSD.fx
+./Effects/fx_beacon_sml.fx
+./Effects/fx_BelgFount1.fx
+./Effects/fx_BelgFount2.fx
+./Effects/fx_BellyFire.fx
+./Effects/fx_BellyFire2.fx
+./Effects/fx_BilgePump.fx
+./Effects/fx_bird.fx
+./Effects/fx_BldStm_lrg.fx
+./Effects/fx_BldStm_med.fx
+./Effects/fx_BldStm_sml.fx
+./Effects/fx_blowHole.fx
+./Effects/fx_Boom_Y23_5.fx
+./Effects/fx_BPspotlight.fx
+./Effects/fx_bt67_beaconb.fx
+./Effects/fx_bt67_beaconh.fx
+./Effects/fx_bt67_dump.fx
+./Effects/fx_bt67_engstrt.fx
+./Effects/fx_bt67_ll.fx
+./Effects/fx_bt67_skisparks.fx
+./Effects/fx_bt67_strobes.fx
+./Effects/fx_bt67_vclight.fx
+./Effects/fx_c47reco_blue.fx
+./Effects/fx_c47reco_green.fx
+./Effects/fx_c47reco_red.fx
+./Effects/fx_c47reco_white.fx
+./Effects/fx_CampFire.fx
+./Effects/fx_canb_start.fx
+./Effects/fx_cargoDestroyLandMetal.fx
+./Effects/fx_cargoDestroyLandPropane.fx
+./Effects/fx_cargoDestroyLandSecret.fx
+./Effects/fx_cargoDestroyLandWood.fx
+./Effects/fx_cargoDestroyWaterMetal.fx
+./Effects/fx_cargoDestroyWaterPropane.fx
+./Effects/fx_cargoDestroyWaterSecret.fx
+./Effects/fx_cargoDestroyWaterWood.fx
+./Effects/fx_cargoImpactLand.fx
+./Effects/fx_cargoImpactWater.fx
+./Effects/fx_ChimneySmoke.fx
+./Effects/fx_chirpsnd.fx
+./Effects/fx_christeneagle_smoke.fx
+./Effects/fx_christeneagle_smoke1.fx
+./Effects/fx_cloudlightning01.fx
+./Effects/fx_cloudlightning02.fx
+./Effects/fx_cloudlightning03.fx
+./Effects/fx_cloudlightning04.fx
+./Effects/fx_cloudlightning05.fx
+./Effects/fx_cloudlightning06.fx
+./Effects/fx_cloudlightning07.fx
+./Effects/fx_cloudlightning08.fx
+./Effects/fx_cloudlightning09.fx
+./Effects/fx_cloudlightning10.fx
+./Effects/fx_coffs_carparklights_white.fx
+./Effects/fx_cof_apronlight.fx
+./Effects/fx_concretecrash.fx
+./Effects/fx_contrail_l.fx
+./Effects/fx_contrail_s.fx
+./Effects/fx_cropdust.fx
+./Effects/fx_crow.fx
+./Effects/Fx_D7cbn2.FX
+./Effects/Fx_D7cbn3.FX
+./Effects/fx_DDfire.fx
+./Effects/fx_deicing.fx
+./Effects/fx_deptchargeexplosion.fx
+./Effects/fx_DG_redlight.fx
+./Effects/fx_DH60_start.fx
+./Effects/fx_dirtcrash.fx
+./Effects/fx_dirtspray_l.fx
+./Effects/fx_dirtspray_m.fx
+./Effects/fx_dirtspray_s.fx
+./Effects/fx_doa.fx
+./Effects/fx_DolphinSpray.fx
+./Effects/fx_DrbGRNBulb.fx
+./Effects/fx_DrbLBulb.fx
+./Effects/fx_DrbOrengBulb.fx
+./Effects/fx_DrbREDBulb.fx
+./Effects/fx_Drbulb.fx
+./Effects/fx_DrGroundlgt.fx
+./Effects/fx_DrGroundlgtYL.fx
+./Effects/fx_DrumFire.fx
+./Effects/fx_dsb_cannon.fx
+./Effects/fx_dsb_hawk_smoke.fx
+./Effects/fx_dsb_heat.fx
+./Effects/fx_dsb_JetStartHeat3.fx
+./Effects/fx_dsb_tornadoburner1.fx
+./Effects/fx_dsb_tornadoburner2.fx
+./Effects/fx_dsb_tornadoflame.fx
+./Effects/fx_dsb_vclight_tq.fx
+./Effects/fx_dummy.fx
+./Effects/fx_dummy_DG.fx
+./Effects/fx_dustcloud_l.fx
+./Effects/fx_dustcloud_m.fx
+./Effects/fx_dustcloud_s.fx
+./Effects/fx_EmergencyLights.fx
+./Effects/fx_EmergencyLightsPolice.fx
+./Effects/fx_engFire.fx
+./Effects/fx_engFire_F18.fx
+./Effects/fx_ENGM_flash_red.fx
+./Effects/fx_ENGM_flash_white.fx
+./Effects/fx_ENGM_flood.fx
+./Effects/fx_engm_ground.fx
+./Effects/fx_engm_ground2.fx
+./Effects/fx_engm_ground3.fx
+./Effects/fx_engm_ground4.fx
+./Effects/fx_engm_ground5.fx
+./Effects/fx_engm_ground6.fx
+./Effects/fx_engm_ground7.fx
+./Effects/fx_ENGM_red.fx
+./Effects/fx_ENGM_rwy.fx
+./Effects/fx_ENGM_taxi_blue.fx
+./Effects/fx_engout.fx
+./Effects/fx_engsmoke.fx
+./Effects/fx_engsmoke2.fx
+./Effects/fx_engstrt.fx
+./Effects/fx_engstrt_BN2.fx
+./Effects/fx_engstrt_cub.fx
+./Effects/fx_engstrt_fw190.fx
+./Effects/fx_engstrt_jenny.fx
+./Effects/fx_engstrt_propliner.fx
+./Effects/fx_engstrt_ryan.fx
+./Effects/fx_engstrt_vega.fx
+./Effects/fx_engstrt_xp38n.fx
+./Effects/fx_eng_exhaust_brtwht.fx
+./Effects/fx_eng_exhaust_gry.fx
+./Effects/fx_enkb_ground.fx
+./Effects/fx_ENVAapronlight.fx
+./Effects/fx_ENVAflash_red.fx
+./Effects/fx_ENVAflash_white.fx
+./Effects/fx_ENVAfloodlight.fx
+./Effects/fx_ENVAfloodlight2.fx
+./Effects/fx_ENVAred.fx
+./Effects/fx_ENVAtaxilight.fx
+./Effects/fx_exhaust.fx
+./Effects/fx_explosion.fx
+./Effects/fx_explosionFire.fx
+./Effects/fx_explosionFireUFO.fx
+./Effects/fx_explosionOiltank.fx
+./Effects/fx_explosionOiltankHorizontal.fx
+./Effects/fx_explosionOiltankHuge.fx
+./Effects/fx_explosionOiltankSmall.fx
+./Effects/fx_explosionUFOCntrl1.fx
+./Effects/fx_explosionUFOCntrl2.fx
+./Effects/fx_explosionUFOCntrl3.fx
+./Effects/fx_explosionUFOCntrl4.fx
+./Effects/fx_f14AfterBurnerFire1.fx
+./Effects/fx_f14AfterBurnerFire2.fx
+./Effects/fx_f14AfterBurnerFire3.fx
+./Effects/fx_f14D_AfterBurnerFire1.fx
+./Effects/fx_f14D_AfterBurnerFire2.fx
+./Effects/fx_F14D_AfterBurnerFire3.fx
+./Effects/fx_f14_afterburner_1.fx
+./Effects/fx_f14_afterburner_2.fx
+./Effects/fx_f14_afterburner_3.fx
+./Effects/fx_f14_afterburner_4.fx
+./Effects/fx_f14_afterburner_5.fx
+./Effects/fx_f14_afterburner_6.fx
+./Effects/fx_F14_vclight.fx
+./Effects/fx_f16_ab.fx
+./Effects/fx_f16_beconredm.fx
+./Effects/fx_f16_navgrem.fx
+./Effects/fx_f16_navredm.fx
+./Effects/fx_f16_navwhih.fx
+./Effects/fx_f16_strobeGREEN.fx
+./Effects/fx_f16_strobeh.fx
+./Effects/fx_f16_strobeRED.fx
+./Effects/fx_f16_strobeWHITE.fx
+./Effects/fx_F18_EG_Smoke_L_APP.fx
+./Effects/fx_F18_EG_Smoke_L_NORM.fx
+./Effects/fx_F18_EG_Smoke_R_APP.fx
+./Effects/fx_F18_EG_Smoke_R_NORM.fx
+./Effects/fx_F18_FSXBA_MedG_LEXVapor_L.fx
+./Effects/fx_F18_FSXBA_MedG_LEXVapor_R.fx
+./Effects/fx_F18_HeatShimmer_L.fx
+./Effects/fx_F18_HeatShimmer_R.fx
+./Effects/fx_f35_beaconb.fx
+./Effects/fx_f35_navgrem.fx
+./Effects/fx_f35_navredm.fx
+./Effects/fx_F35_vclight.fx
+./Effects/fx_fastMover.fx
+./Effects/fx_finch.fx
+./Effects/fx_FireExhaust_JetTruck.fx
+./Effects/fx_FireJets_JetTruck.fx
+./Effects/fx_firework1.fx
+./Effects/fx_firework10.fx
+./Effects/fx_firework11.fx
+./Effects/fx_firework12.fx
+./Effects/fx_firework13.fx
+./Effects/fx_firework14.fx
+./Effects/fx_firework15.fx
+./Effects/fx_firework2.fx
+./Effects/fx_firework3.fx
+./Effects/fx_firework4.fx
+./Effects/fx_firework5.fx
+./Effects/fx_firework6.fx
+./Effects/fx_firework7.fx
+./Effects/fx_firework8.fx
+./Effects/fx_firework9.fx
+./Effects/fx_fire_OilRig.fx
+./Effects/fx_flame_f6.fx
+./Effects/fx_FlamingDebris.fx
+./Effects/fx_flare.fx
+./Effects/fx_flareEffect.fx
+./Effects/fx_flareRoad.fx
+./Effects/fx_flashBulb.fx
+./Effects/fx_FlourBombLand.fx
+./Effects/fx_FlourBombWater.fx
+./Effects/fx_forest.fx
+./Effects/fx_ForestBurntHuge.fx
+./Effects/fx_ForestBurntLarge.fx
+./Effects/fx_ForestFireHuge.fx
+./Effects/fx_ForestFireLarge.fx
+./Effects/fx_ForestFireMedium.fx
+./Effects/fx_ForestFireSmall.fx
+./Effects/fx_ForestFireSmoke.FX
+./Effects/fx_ForestSteam.fx
+./Effects/fx_ForestSteamHuge.fx
+./Effects/fx_ForestSteamLarge.fx
+./Effects/fx_formation_DG.fx
+./Effects/fx_FSDT_KFLLLGT.fx
+./Effects/fx_FSDT_KFLLLRED.fx
+./Effects/fx_FSDT_KFLL_SMOKE.fx
+./Effects/fx_FSDT_KJFKLGT.fx
+./Effects/fx_FSDT_KJFKLGT_WHT.fx
+./Effects/fx_FSXBA_AB.fx
+./Effects/fx_FTX_NZSI_Lighthouse_white_6s_solid.fx
+./Effects/fx_FTX_NZSI_Lighthouse_white_x1.fx
+./Effects/fx_FTX_NZSI_Lighthouse_white_x2.fx
+./Effects/fx_FTX_NZSI_Lighthouse_white_x3.fx
+./Effects/fx_FTX_NZSI_Lighthouse_white_x4.fx
+./Effects/fx_fueldump.fx
+./Effects/fx_fueldump_slow.fx
+./Effects/fx_GCdam1.fx
+./Effects/fx_geese.fx
+./Effects/fx_GenevaFountain.fx
+./Effects/fx_GFA Hudson_guns.fx
+./Effects/fx_glowingEyes.fx
+./Effects/fx_Glowingheat_SR71_AB-Left.fx
+./Effects/fx_Glowingheat_SR71_AB-Right.fx
+./Effects/fx_Glowingheat_SR71_AB.fx
+./Effects/fx_Glowingheat_SR71_AB1_port.fx
+./Effects/fx_Glowingheat_SR71_AB1_Starboard.fx
+./Effects/fx_Glowingheat_SR71_ABLL.fx
+./Effects/fx_Glowingheat_SR71_ABL_port.fx
+./Effects/fx_Glowingheat_SR71_ABL_starboard.fx
+./Effects/fx_Glowingheat_SR71_contrail.fx
+./Effects/fx_Glowingheat_SR71_smoke.fx
+./Effects/fx_Glowingheat_SR71_Td.fx
+./Effects/fx_Glowingheat_SR71_TEB_start.fx
+./Effects/fx_Glowingheat_SR71_vapor.fx
+./Effects/fx_Glowingheat_SR71_vapor1.fx
+./Effects/fx_Glowingheat_SR71_vapor3.fx
+./Effects/fx_Glowingheat_SR71_vclight.fx
+./Effects/fx_Glowingheat_SR71_vclighth.fx
+./Effects/fx_Glowingheat_SR71_Vortices.fx
+./Effects/fx_Glowingheat_SR71_Vortices1.fx
+./Effects/fx_gndexpl_l.fx
+./Effects/fx_GodzoneLight10.fx
+./Effects/fx_goose_spray.fx
+./Effects/fx_GreenDot.fx
+./Effects/fx_gulls.fx
+./Effects/fx_gunpack.fx
+./Effects/fx_HAMILTON_DRUMFIRE.fx
+./Effects/fx_hawk.fx
+./Effects/fx_hawk_vclight_orange.fx
+./Effects/FX_HB_F1_MUSTANG 2_BLUE_EXHAUST.FX
+./Effects/fx_heat_haze.fx
+./Effects/fx_heliFire.fx
+./Effects/fx_hotpool.fx
+./Effects/fx_HS_FSX_Bonneville_Dam_ground_mist.fx
+./Effects/fx_HS_FSX_Bonneville_Dam_spray.fx
+./Effects/fx_HS_FSX_CRM_Yellowstone_LowerFalls.fx
+./Effects/fx_HS_FSX_CRM_Yellowstone_steam.fx
+./Effects/fx_HS_FSX_CRM_Yellowstone_UpperFalls.fx
+./Effects/fx_HS_FSX_lakewavecontroller.fx
+./Effects/fx_HS_FSX_lakewaves.fx
+./Effects/fx_HS_FSX_lighthouse_green_5s.fx
+./Effects/fx_HS_FSX_lighthouse_white_10s.fx
+./Effects/fx_HS_FSX_lighthouse_white_6s.fx
+./Effects/fx_HS_FSX_marine_green_12s.fx
+./Effects/fx_HS_FSX_marine_green_1s.fx
+./Effects/fx_HS_FSX_marine_green_2s.fx
+./Effects/fx_HS_FSX_marine_green_4s.fx
+./Effects/fx_HS_FSX_marine_green_6s.fx
+./Effects/fx_HS_FSX_marine_green_fixed.fx
+./Effects/fx_HS_FSX_marine_red_12s.fx
+./Effects/fx_HS_FSX_marine_red_1s.fx
+./Effects/fx_HS_FSX_marine_red_2s.fx
+./Effects/fx_HS_FSX_marine_red_4s.fx
+./Effects/fx_HS_FSX_marine_red_6s.fx
+./Effects/fx_HS_FSX_marine_red_fixed.fx
+./Effects/fx_HS_FSX_marine_white_12s.fx
+./Effects/fx_HS_FSX_marine_white_1s.fx
+./Effects/fx_HS_FSX_marine_white_2s.fx
+./Effects/fx_HS_FSX_marine_white_4s.fx
+./Effects/fx_HS_FSX_marine_white_6s.fx
+./Effects/fx_HS_FSX_marine_white_fixed.fx
+./Effects/fx_HS_FSX_marine_yellow_12s.fx
+./Effects/fx_HS_FSX_marine_yellow_1s.fx
+./Effects/fx_HS_FSX_marine_yellow_2s.fx
+./Effects/fx_HS_FSX_marine_yellow_4s.fx
+./Effects/fx_HS_FSX_marine_yellow_6s.fx
+./Effects/fx_HS_FSX_marine_yellow_fixed.fx
+./Effects/fx_HS_FSX_Mt_St_Helens_steam_big.fx
+./Effects/fx_HS_FSX_Mt_St_Helens_steam_small.fx
+./Effects/fx_HS_FSX_NRM_HelmckenFalls.fx
+./Effects/fx_HS_FSX_NRM_HelmckenFalls_mist.fx
+./Effects/fx_HS_FSX_oceanwavecontroller.fx
+./Effects/fx_HS_FSX_oceanwaves.fx
+./Effects/fx_hudsonrockettrail_l.fx
+./Effects/fx_hudsonrockettrail_r.fx
+./Effects/fx_hudsonsmoke.fx
+./Effects/fx_hudson_depth_charge_bomb.fx
+./Effects/fx_hudson_flare.fx
+./Effects/fx_hudson_land_bomb.fx
+./Effects/fx_Hvr1.fx
+./Effects/fx_icelight_pa34.fx
+./Effects/fx_IndustrialStm_med.fx
+./Effects/fx_IndustrialStm_Sml.fx
+./Effects/fx_iris_146_flashred.fx
+./Effects/fx_iris_146_flashwhite.fx
+./Effects/fx_iris_146_navgreen.fx
+./Effects/fx_iris_146_navred.fx
+./Effects/fx_iris_146_navwhite.fx
+./Effects/fx_iris_146_vclight_white.fx
+./Effects/fx_iris_a10_engfire.fx
+./Effects/fx_iris_a10_explosion.fx
+./Effects/fx_iris_a10_gau8.fx
+./Effects/fx_iris_a10_vclight.fx
+./Effects/fx_iris_a10_vclight_nvis.fx
+./Effects/fx_iris_a10_vclight_white.fx
+./Effects/fx_iris_aim_thrust_lg.fx
+./Effects/fx_iris_aim_thrust_sm.fx
+./Effects/fx_iris_bd5_navgreen.fx
+./Effects/fx_iris_bd5_navred.fx
+./Effects/fx_iris_bd5_smoke.fx
+./Effects/fx_iris_bd5_strobe.fx
+./Effects/fx_iris_bd5_vclight.fx
+./Effects/fx_iris_beacon.fx
+./Effects/fx_iris_c27j_cargo.fx
+./Effects/fx_iris_c27j_engfire.fx
+./Effects/fx_iris_c27j_smoke.fx
+./Effects/fx_iris_c27j_vclight.fx
+./Effects/fx_iris_c27j_wing.fx
+./Effects/fx_iris_cluster_explosion.fx
+./Effects/fx_iris_da40_landing_light.fx
+./Effects/fx_iris_da40_navgreen.fx
+./Effects/fx_iris_da40_navred.fx
+./Effects/fx_iris_da40_navwhite.fx
+./Effects/fx_iris_da40_strobe.fx
+./Effects/fx_iris_da40_vclight.fx
+./Effects/fx_iris_explosion_lg.fx
+./Effects/fx_iris_explosion_sm.fx
+./Effects/fx_iris_f15_burner.fx
+./Effects/fx_iris_f15_burnerlight.fx
+./Effects/fx_iris_f15_engfire.fx
+./Effects/fx_iris_f15_flare.fx
+./Effects/fx_iris_f15_landing_light.fx
+./Effects/fx_iris_f15_m61_vulcan.fx
+./Effects/fx_iris_f15_noselight.fx
+./Effects/fx_iris_f15_pre_burner.fx
+./Effects/fx_iris_f15_vclight.fx
+./Effects/fx_iris_f22_engfire.fx
+./Effects/fx_iris_f22_explosion.fx
+./Effects/fx_iris_f22_gau8.fx
+./Effects/fx_iris_f22_vclight.fx
+./Effects/fx_iris_f22_vclight_nvis.fx
+./Effects/fx_iris_f22_vclight_white.fx
+./Effects/fx_iris_heat.fx
+./Effects/fx_iris_JetStartHeat3.fx
+./Effects/fx_iris_leftwingvapor.fx
+./Effects/fx_iris_navgreen.fx
+./Effects/fx_iris_navred.fx
+./Effects/fx_iris_navwhite.fx
+./Effects/fx_iris_p40_cannon.fx
+./Effects/fx_iris_p40_navgreen.fx
+./Effects/fx_iris_p40_navred.fx
+./Effects/fx_iris_p40_navwhite.fx
+./Effects/fx_iris_p40_start.fx
+./Effects/fx_iris_p40_vclight.fx
+./Effects/fx_iris_rightwingvapor.fx
+./Effects/fx_iris_smoke.fx
+./Effects/fx_iris_staticbeacon.fx
+./Effects/fx_iris_strobe.fx
+./Effects/fx_iris_vclight_green.fx
+./Effects/fx_iris_vclight_orange.fx
+./Effects/fx_iris_vclight_red.fx
+./Effects/fx_iris_vortices.fx
+./Effects/fx_jfgunDC1.fx
+./Effects/fx_jfgunDCs.fx
+./Effects/fx_JF_1049_HP_Exhaust.fx
+./Effects/fx_JF_1049_LP_Exhaust.fx
+./Effects/fx_JF_C-47_EngStart.fx
+./Effects/fx_JF_Connie_Smoke.fx
+./Effects/fx_JF_DC-3W_EngStart.fx
+./Effects/fx_JF_L049_EngStart.fx
+./Effects/FX_JF_L049_HP_Flame.fx
+./Effects/fx_JF_L1049_EngStart.fx
+./Effects/fx_JF_L749_EngStart.fx
+./Effects/FX_JF_L749_HP_Flame.fx
+./Effects/fx_JF_Lancstart.fx
+./Effects/fx_JF_smoikeprop.fx
+./Effects/fx_kilauea1.fx
+./Effects/fx_kilsteam.fx
+./Effects/Fx_KORD_Deice.fx
+./Effects/fx_L-12_start.FX
+./Effects/fx_lakewaves.fx
+./Effects/fx_landing.fx
+./Effects/fx_landing_AS.fx
+./Effects/fx_landing_DG1.fx
+./Effects/fx_landing_F1ATR.fx
+./Effects/fx_landing_FSD.fx
+./Effects/fx_land_glx.fx
+./Effects/fx_largage02.fx
+./Effects/fx_launch.fx
+./Effects/fx_launch2.fx
+./Effects/fx_launch3.fx
+./Effects/fx_launch4.fx
+./Effects/fx_LCPH_TaxiGreen.fx
+./Effects/fx_light0000FF.fx
+./Effects/fx_light00FFFF.fx
+./Effects/fx_lightFF0000.fx
+./Effects/fx_lightFFFFFF.fx
+./Effects/fx_lightning01.fx
+./Effects/fx_lightning02.fx
+./Effects/fx_lightning03.fx
+./Effects/fx_lightning04.fx
+./Effects/fx_lightning05.fx
+./Effects/fx_lightning06.fx
+./Effects/fx_LightningFailure01.fx
+./Effects/fx_lightningFire.fx
+./Effects/fx_LightningSparks.fx
+./Effects/fx_lightObsRedFlash40.fx
+./Effects/fx_lightObsRedFlash60.fx
+./Effects/fx_lightObsRedSteady.fx
+./Effects/fx_lightObsWhiteFlash40Hi.fx
+./Effects/fx_lightObsWhiteFlash40Med.fx
+./Effects/fx_lightObsWhiteFlash60Hi.fx
+./Effects/fx_lightObsWhiteFlash60Med.fx
+./Effects/fx_luxbeam1.fx
+./Effects/fx_luxbeam2.fx
+./Effects/fx_Lvfr_twn.fx
+./Effects/fx_matrapod.fx
+./Effects/fx_MirVolc.fx
+./Effects/fx_Moth_exhaust.fx
+./Effects/fx_multiply_test.fx
+./Effects/fx_navbluec.fx
+./Effects/fx_navgre.fx
+./Effects/fx_navgre85.fx
+./Effects/fx_navgrec.fx
+./Effects/fx_navgrecardose.fx
+./Effects/fx_navgrecarenmoon.fx
+./Effects/fx_navgrecarenpa34.fx
+./Effects/fx_navgreenpa28archer.fx
+./Effects/fx_navgreh.fx
+./Effects/fx_navgrem.fx
+./Effects/fx_navgre_500.fx
+./Effects/fx_navgre_AS.fx
+./Effects/fx_navgre_DG.fx
+./Effects/fx_navgre_E1X5.fx
+./Effects/fx_navgre_F1ATR.fx
+./Effects/fx_navgre_FSD.fx
+./Effects/fx_navgre_sirgtx2.fx
+./Effects/fx_navorange_t45.fx
+./Effects/fx_navrd_sirgtx2.fx
+./Effects/fx_navred.fx
+./Effects/fx_navred85.fx
+./Effects/fx_navredc.fx
+./Effects/fx_navredcardose.fx
+./Effects/fx_navredcarenmoon.fx
+./Effects/fx_navredcarenpa34.fx
+./Effects/fx_navredh.fx
+./Effects/fx_navredm.fx
+./Effects/fx_navredpa28archer.fx
+./Effects/fx_navred_500.fx
+./Effects/fx_navred_AS.fx
+./Effects/fx_navred_DG.fx
+./Effects/fx_navred_E1X5.fx
+./Effects/fx_navred_F1ATR.fx
+./Effects/fx_navred_FSD.fx
+./Effects/fx_navwhi.fx
+./Effects/fx_navwhi85.fx
+./Effects/fx_navwhicardose.fx
+./Effects/fx_navwhicarenmoon.fx
+./Effects/fx_navwhih.fx
+./Effects/fx_navwhihTRG.fx
+./Effects/fx_navwhi_AS.fx
+./Effects/fx_navwhi_DG.fx
+./Effects/fx_navwhi_F1ATR.fx
+./Effects/fx_navwhi_FSD.fx
+./Effects/fx_navwhi_sirgtx2.fx
+./Effects/fx_nbai_F15_ab.fx
+./Effects/fx_nbai_F15_ab_extended.fx
+./Effects/fx_Ngafalls_lrg.fx
+./Effects/fx_Ngafalls_sml.fx
+./Effects/fx_Ngastatic_lrg.fx
+./Effects/fx_Ngastatic_sml.fx
+./Effects/fx_nicks_tchdwn_s.fx
+./Effects/fx_nosewhi_DG.fx
+./Effects/fx_object_test.fx
+./Effects/fx_obslight.fx
+./Effects/fx_obslight2.fx
+./Effects/fx_OilFireHuge.fx
+./Effects/fx_OilFireMedium.fx
+./Effects/fx_OilFireSmall.fx
+./Effects/fx_OilLeak.fx
+./Effects/fx_oilleak_m.fx
+./Effects/fx_oilleak_s.fx
+./Effects/fx_oldfaith1.fx
+./Effects/fx_OrangeDot.fx
+./Effects/fx_Orbx_App_WhiteST1.fx
+./Effects/fx_Orbx_App_WhiteST2.fx
+./Effects/fx_Orbx_App_WhiteST3.fx
+./Effects/fx_Orbx_coolingtower_steam.fx
+./Effects/fx_Orbx_FlashingLights.fx
+./Effects/fx_Orbx_geothermal_Steam_Huge.fx
+./Effects/fx_Orbx_geothermal_Steam_Lrg.fx
+./Effects/fx_Orbx_geothermal_Steam_Sml.fx
+./Effects/fx_Orbx_Hugh_CLgreen.fx
+./Effects/fx_Orbx_lighthouse_white_6s.fx
+./Effects/fx_Orbx_Light_Blue.fx
+./Effects/fx_Orbx_Light_Blue_White.fx
+./Effects/fx_Orbx_Light_Orange.fx
+./Effects/fx_Orbx_Light_Orange_helipad.fx
+./Effects/fx_Orbx_Light_PaleOrange.fx
+./Effects/fx_Orbx_Light_Paleyellow.fx
+./Effects/fx_Orbx_Light_PaleYellow_Med.fx
+./Effects/fx_Orbx_Light_White.fx
+./Effects/fx_Orbx_Light_White_rwy.fx
+./Effects/fx_Orbx_Light_Yellow.fx
+./Effects/fx_Orbx_Obstruction_Red_2s.fx
+./Effects/fx_Orbx_Obstruction_White_4s.fx
+./Effects/fx_Orbx_ShellBlasts_Cntrl1.fx
+./Effects/fx_Orbx_ShellBlasts_Effect.fx
+./Effects/fx_Orbx_StreetLight.fx
+./Effects/fx_Orbx_StreetLight_2.fx
+./Effects/fx_Orbx_StreetLight_Blue_White.fx
+./Effects/fx_Orbx_StreetLight_Orange.fx
+./Effects/fx_Orbx_StreetLight_White.fx
+./Effects/fx_Orbx_StreetLight_Yellow.fx
+./Effects/fx_Orbx_TrafficLight.fx
+./Effects/fx_Orbx_TrafficLight_Red.fx
+./Effects/fx_Orbx_waves.fx
+./Effects/fx_Orbx_WW.fx
+./Effects/fx_Orbx_WW2.fx
+./Effects/fx_Orbx_YBBN_Blue.fx
+./Effects/fx_Orbx_YBBN_dock.fx
+./Effects/fx_Orbx_YBBN_green.fx
+./Effects/fx_Orbx_YBBN_Orange.fx
+./Effects/fx_Orbx_YBBN_red.fx
+./Effects/fx_Orbx_YBBN_white.fx
+./Effects/fx_Orbx_YBBN_yellow.fx
+./Effects/fx_Orbx_YBCS_yellow.fx
+./Effects/fx_Orbx_YCNK_Red.fx
+./Effects/fx_Orbx_YMML_Blue_White.fx
+./Effects/fx_Orbx_YMML_Orange.fx
+./Effects/fx_Orbx_YMML_Red.fx
+./Effects/fx_Orbx_YMML_TGreen.fx
+./Effects/fx_P180_beacon.fx
+./Effects/Fx_P180_cabinlight.fx
+./Effects/fx_P180_engFire.fx
+./Effects/fx_P180_LL.fx
+./Effects/fx_P180_navgre.fx
+./Effects/fx_P180_navred.fx
+./Effects/Fx_P180_navwhi.fx
+./Effects/FX_P180_none.fx
+./Effects/Fx_P180_panel_floodlight.fx
+./Effects/fx_P180_StartUp.fx
+./Effects/fx_P180_strobe.fx
+./Effects/fx_P180_tchdn.fx
+./Effects/FX_P180_TL.fx
+./Effects/Fx_P180_winsp.fx
+./Effects/fx_P180_winsp_LE.fx
+./Effects/fx_pa380land.fx
+./Effects/fx_pa380logo.fx
+./Effects/fx_PADbeaconh.fx
+./Effects/fx_PAland.fx
+./Effects/fx_pc9_beacon.fx
+./Effects/fx_pc9_engFire.fx
+./Effects/fx_pc9_grenade_smoke.fx
+./Effects/fx_pc9_landinglight.fx
+./Effects/fx_pc9_navgreen.fx
+./Effects/fx_pc9_navred.fx
+./Effects/fx_pc9_navwhite.fx
+./Effects/fx_pc9_strobe.fx
+./Effects/fx_PilingWaves.fx
+./Effects/fx_pistonFailure.fx
+./Effects/fx_plane_lightning.fx
+./Effects/fx_PMDG_NGX_apu_fire.fx
+./Effects/fx_PMDG_NGX_engsmoke.fx
+./Effects/fx_PMDG_NGX_vaportrail.fx
+./Effects/fx_PMDG_NGX_vclight.fx
+./Effects/fx_poacherMuzzleFlash.fx
+./Effects/fx_preoiler.fx
+./Effects/fx_PT17_exhaust.fx
+./Effects/fx_rainClose.fx
+./Effects/fx_rainDown.fx
+./Effects/fx_Razbam_A7_vclight_red.fx
+./Effects/fx_Razbam_f102_afterburner.fx
+./Effects/fx_RAZBAM_smoke1.fx
+./Effects/fx_RAZBAM_smoke2.fx
+./Effects/fx_rcs_exhaust_l.fx
+./Effects/fx_rcs_exhaust_l2.fx
+./Effects/fx_rcs_exhaust_r.fx
+./Effects/fx_rcs_exhaust_r2.fx
+./Effects/fx_recog.fx
+./Effects/fx_recog_p180.fx
+./Effects/fx_reflected_light.fx
+./Effects/fx_retardant.fx
+./Effects/fx_RobJcruise.FX
+./Effects/fx_rocket.fx
+./Effects/fx_rocket2.fx
+./Effects/fx_rocket3.fx
+./Effects/fx_rocketDetach.fx
+./Effects/fx_rocketLaunch.fx
+./Effects/fx_rocketLaunchStage2.fx
+./Effects/fx_rotdblelight.fx
+./Effects/fx_RP.fx
+./Effects/fx_rtr_cmnt.fx
+./Effects/fx_rtr_lnd.fx
+./Effects/fx_rtr_wtr.fx
+./Effects/fx_SBD_EngStart.fx
+./Effects/fx_sheep.fx
+./Effects/fx_shootstar1.fx
+./Effects/fx_shootstar2.fx
+./Effects/fx_Sht_beaconb.fx
+./Effects/fx_Sht_lightGreen_nav.fx
+./Effects/fx_Sht_lightRed_nav.fx
+./Effects/fx_Sht_lightWhite_nav.fx
+./Effects/fx_simwings_apronlight1.fx
+./Effects/fx_simwings_apronlight1_control.fx
+./Effects/fx_simwings_apronlight2.fx
+./Effects/fx_simwings_apronlight2_control.fx
+./Effects/fx_simwings_streetlight.fx
+./Effects/fx_simwings_streetlight_control.fx
+./Effects/fx_sinkingShip.fx
+./Effects/fx_sinkingShipStern.fx
+./Effects/fx_sirgtx2_l3.fx
+./Effects/fx_sirgtx2_l5.fx
+./Effects/fx_sirgtx2_l8.fx
+./Effects/fx_siroccogtx2_reflectors.fx
+./Effects/fx_skidmark.fx
+./Effects/fx_smkpuff_m.fx
+./Effects/fx_smkpuff_s.fx
+./Effects/fx_SmokeStack.fx
+./Effects/fx_SmokeStack2.fx
+./Effects/fx_smoke_ala.fx
+./Effects/fx_smoke_alaSU26.fx
+./Effects/fx_smoke_alawc.fx
+./Effects/fx_smoke_crop.fx
+./Effects/fx_smoke_f6.fx
+./Effects/fx_smoke_JT8D.fx
+./Effects/fx_smoke_pc9_violet.fx
+./Effects/fx_smoke_pc9_white.fx
+./Effects/fx_smoke_r.fx
+./Effects/fx_smoke_RP.fx
+./Effects/fx_Smoke_Sml.fx
+./Effects/fx_smoke_T5.fx
+./Effects/fx_smoke_w.fx
+./Effects/fx_SnowEngineWash.fx
+./Effects/fx_SnowSkiTrack.fx
+./Effects/fx_sparks.fx
+./Effects/fx_sparksElectrical.fx
+./Effects/fx_spray.fx
+./Effects/fx_spray_dss_sirocco2.fx
+./Effects/fx_spray_lie.fx
+./Effects/fx_spray_riva_v.fx
+./Effects/fx_steam1.fx
+./Effects/fx_Steam_Catapult.fx
+./Effects/fx_Steam_Lrg.fx
+./Effects/fx_Steam_Med.fx
+./Effects/fx_Steam_Sml.fx
+./Effects/fx_Strahler.fx
+./Effects/fx_strobe.fx
+./Effects/fx_strobe2_FSD.fx
+./Effects/fx_strobeAlaWaco.fx
+./Effects/fx_strobecarac11.fx
+./Effects/fx_strobecarc188.fx
+./Effects/fx_strobecarcn.fx
+./Effects/fx_strobecardose.fx
+./Effects/fx_strobecarenmoon.fx
+./Effects/fx_strobecarenpa34.fx
+./Effects/fx_strobeh.fx
+./Effects/fx_strobe_AS.fx
+./Effects/fx_strobe_E1X5.fx
+./Effects/fx_strobe_F1ATR.fx
+./Effects/fx_strobe_FSD.fx
+./Effects/fx_summer.fx
+./Effects/fx_T332beacon.fx
+./Effects/fx_T332eng.fx
+./Effects/fx_T332land.fx
+./Effects/fx_T332land2.fx
+./Effects/fx_T332logo.fx
+./Effects/fx_T332wing.fx
+./Effects/fx_tadustrun.fx
+./Effects/fx_TaxiwayBlue.fx
+./Effects/FX_taxi_FSD.fx
+./Effects/fx_taxi_glx.fx
+./Effects/fx_tchdrt.fx
+./Effects/fx_tchdrt_DG.fx
+./Effects/fx_tchdwn.fx
+./Effects/fx_tchdwn_f6.fx
+./Effects/fx_tchdwn_m.fx
+./Effects/fx_tchdwn_s.fx
+./Effects/fx_thrush.fx
+./Effects/fx_trailingFlame.fx
+./Effects/fx_trailingFlameSmall.fx
+./Effects/fx_TropLights.fx
+./Effects/fx_UFOExhaust.fx
+./Effects/fx_UFOExhaust2.fx
+./Effects/fx_UK2_beac_red.fx
+./Effects/fx_UK2_Blueedge.fx
+./Effects/fx_UK2_GroundLT1.fx
+./Effects/fx_UK2_GroundLT1fx.fx
+./Effects/fx_UK2_People_01.fx
+./Effects/fx_UK2_People_02.fx
+./Effects/fx_UK2_People_03.fx
+./Effects/fx_UK2_People_04.fx
+./Effects/fx_UK2_People_05.fx
+./Effects/fx_UK2_People_06.fx
+./Effects/fx_UK2_People_07.fx
+./Effects/fx_UK2_People_08.fx
+./Effects/fx_UK2_People_10.fx
+./Effects/fx_UK2_People_11.fx
+./Effects/fx_UK2_People_12.fx
+./Effects/fx_UK2_People_13.fx
+./Effects/fx_UK2_steam_01.fx
+./Effects/fx_UK2_steam_02.fx
+./Effects/fx_UK2_steam_03.fx
+./Effects/fx_UK2_white.fx
+./Effects/fx_UK2_wigwag01.fx
+./Effects/fx_UK2_wigwag02.fx
+./Effects/fx_V12_Exhaust.fx
+./Effects/fx_V12_IDLE_port.fx
+./Effects/fx_V12_IDLE_starb.fx
+./Effects/fx_V12_MAX_port.fx
+./Effects/fx_V12_MAX_starb.fx
+./Effects/fx_vaportrail_l.fx
+./Effects/fx_vaportrail_r.fx
+./Effects/fx_vapour_f6.fx
+./Effects/fx_vclight.fx
+./Effects/fx_vclight2_FSD.fx
+./Effects/fx_vclightac11.fx
+./Effects/fx_vclightalawc.fx
+./Effects/fx_vclightarcher.fx
+./Effects/fx_vclightarcher2.fx
+./Effects/fx_vclightc185.fx
+./Effects/fx_vclightc1852.fx
+./Effects/fx_vclightcar.fx
+./Effects/fx_vclightcarbu.fx
+./Effects/fx_vclightcarbu1.fx
+./Effects/fx_vclightcarbu2.fx
+./Effects/fx_vclightcarcn0.fx
+./Effects/fx_vclightcarcn2B.fx
+./Effects/fx_vclightcarcnB.fx
+./Effects/fx_vclightcarcnbB.fx
+./Effects/fx_vclightcardose.fx
+./Effects/fx_vclightcardose1.fx
+./Effects/fx_vclightcardose2.fx
+./Effects/fx_vclightDG.fx
+./Effects/fx_vclightGre.fx
+./Effects/fx_vclightGreH.fx
+./Effects/fx_vclighth.fx
+./Effects/fx_vclightlanc.fx
+./Effects/fx_vclightpa34.fx
+./Effects/fx_vclightpa342.fx
+./Effects/fx_vclightwhi.fx
+./Effects/fx_vclightwhite.fx
+./Effects/fx_vclight_deepred.fx
+./Effects/fx_vclight_DG.fx
+./Effects/fx_vclight_f1atr.fx
+./Effects/fx_vclight_f50.fx
+./Effects/fx_vclight_f6.fx
+./Effects/fx_vclight_FSD.fx
+./Effects/fx_vclight_fw190a5.fx
+./Effects/fx_vclight_green.fx
+./Effects/fx_vclight_grn.fx
+./Effects/fx_vclight_mjcd8.fx
+./Effects/fx_vclight_xp38n2 (2).fx
+./Effects/fx_vclight_xp38n2.fx
+./Effects/fx_vclight_YF23.fx
+./Effects/fx_vcred_DG.fx
+./Effects/fx_vcred_panel.fx
+./Effects/fx_vehFire.fx
+./Effects/fx_vehicledust.fx
+./Effects/fx_Virtav_contrail_EFA.fx
+./Effects/fx_Virtav_DisplaySmoke_EFA.fx
+./Effects/fx_Virtav_reheat_EFA.fx
+./Effects/fx_Virtav_Yak52_engstrt.fx
+./Effects/fx_Virtav_Yak_vclight.fx
+./Effects/fx_VLC_StreetLight.fx
+./Effects/fx_VLC_UrbanLight.fx
+./Effects/fx_VolcanoAsh.fx
+./Effects/fx_volcanoSteam.fx
+./Effects/fx_vortex.fx
+./Effects/fx_vortex2.fx
+./Effects/fx_Vortices.fx
+./Effects/fx_VSSBD_approach.fx
+./Effects/fx_VSSBD_bomb.fx
+./Effects/fx_VSSBD_chartboard.fx
+./Effects/fx_VSSBD_cockpit.fx
+./Effects/fx_VSSBD_compass.fx
+./Effects/fx_VSSBD_fstage1.fx
+./Effects/fx_VSSBD_fstage2.fx
+./Effects/fx_VSSBD_panel.fx
+./Effects/fx_VSSBD_ramber.fx
+./Effects/fx_VSSBD_rgreen.fx
+./Effects/fx_VSSBD_rred.fx
+./Effects/fx_VSSBD_rwhite.fx
+./Effects/fx_wake.fx
+./Effects/fx_wakeBow_carrier.fx
+./Effects/fx_wakeBow_l.fx
+./Effects/fx_wakeBow_m.fx
+./Effects/fx_wakeBow_s.fx
+./Effects/fx_wakeBow_ss.fx
+./Effects/fx_wakeBow_xl.fx
+./Effects/fx_WakeCSM.fx
+./Effects/fx_wake_carrier.fx
+./Effects/fx_wake_dg.fx
+./Effects/fx_wake_dss_sirocco2.fx
+./Effects/fx_wake_l.fx
+./Effects/fx_wake_m.fx
+./Effects/fx_wake_riva.fx
+./Effects/fx_wake_s.fx
+./Effects/fx_wake_ss.fx
+./Effects/fx_wake_Sulphur.fx
+./Effects/fx_wake_xl.fx
+./Effects/fx_WaterBallastDrain.fx
+./Effects/fx_watercrash.fx
+./Effects/fx_WaterDrop.fx
+./Effects/fx_WaterFall.fx
+./Effects/fx_WaterFallSplash.fx
+./Effects/fx_WaterFall_Small.fx
+./Effects/fx_waterSpill_L.fx
+./Effects/fx_waterSpill_R.fx
+./Effects/fx_waterSplashMed.fx
+./Effects/fx_waterSplashSml.fx
+./Effects/fx_wavecrash1.fx
+./Effects/fx_waves.fx
+./Effects/fx_WetEngineWash.fx
+./Effects/fx_whaleSplash.fx
+./Effects/fx_WheelSnowSpray.fx
+./Effects/fx_WheelWetSpray.fx
+./Effects/fx_WhiteDot.fx
+./Effects/fx_WingtipVortex.fx
+./Effects/fx_wingtipvortice_l.fx
+./Effects/fx_wingtipvortice_r.fx
+./Effects/fx_Wing_Guns.fx
+./Effects/fx_wing_light_FSD.fx
+./Effects/fx_wing_whi_FSD.fx
+./Effects/fx_WS_NavGre.fx
+./Effects/fx_WS_NavOrange.fx
+./Effects/fx_WS_NavRed.fx
+./Effects/fx_WS_P-51_Eng_Strt.fx
+./Effects/fx_WS_P-51_NavWhi.fx
+./Effects/fx_WS_P-51_tchdrt.fx
+./Effects/fx_WS_P-51_tchdwn.fx
+./Effects/fx_ws_vclight.fx
+./Effects/fx_wtrspray_l.fx
+./Effects/fx_wtrspray_m.fx
+./Effects/fx_wtrspray_s.fx
+./Effects/fx_YF23_5.fx
+./Effects/fx_YPMQ_apron_light_yellow.fx
+./Effects/fx_YPMQ_carpark_light_yellow.fx
+./Effects/gw_cntrl_navwhih.fx
+./Effects/gw_cntrl_obslight.fx
+./Effects/gw_cntrl_obslight_red_puls.fx
+./Effects/gw_cntrl_txlights.fx
+./Effects/gw_navwhih.fx
+./Effects/gw_obslight.fx
+./Effects/gw_obslight_red_puls.fx
+./Effects/gw_rauch.fx
+./Effects/gw_taxiwayedgelight.fx
+./Effects/g_2006_light_blue.fx
+./Effects/g_apron_n.fx
+./Effects/g_apron_n_bu.fx
+./Effects/g_apron_s.fx
+./Effects/g_cntrl_apron_n.fx
+./Effects/g_cntrl_apron_s.fx
+./Effects/g_cntrl_firelight_blue.fx
+./Effects/g_cntrl_flood.fx
+./Effects/g_cntrl_floodred.fx
+./Effects/g_cntrl_light_blue.fx
+./Effects/g_cntrl_navredh.fx
+./Effects/g_cntrl_obslight.fx
+./Effects/g_cntrl_rwedge.fx
+./Effects/g_cntrl_txlights.fx
+./Effects/g_cntrl_warnlight.fx
+./Effects/g_firelight_blue.fx
+./Effects/g_floodred.fx
+./Effects/g_floodred_MOD.fx
+./Effects/g_floodred_puls.fx
+./Effects/g_floodred_puls_MOD.fx
+./Effects/g_navredh.fx
+./Effects/g_obslight.fx
+./Effects/g_rwedge.fx
+./Effects/g_txlights.fx
+./Effects/g_warnlight.fx
+./Effects/hosplandinglightObsorangeFlash60Hi.fx
+./Effects/hosplandinglightsblueFlash60Med.fx
+./Effects/Ilyushin_smoke.fx
+./Effects/Kosrae International
+./Effects/Kosrae International/Kosrae International.doc
+./Effects/Kosrae International/scenery
+./Effects/Kosrae International/scenery/airsit2.bgl
+./Effects/Kosrae International/scenery/airsit3.bgl
+./Effects/Kosrae International/scenery/airsit4.bgl
+./Effects/Kosrae International/scenery/ban.bgl
+./Effects/Kosrae International/scenery/banana.bgl
+./Effects/Kosrae International/scenery/beachse.bgl
+./Effects/Kosrae International/scenery/bopin.bgl
+./Effects/Kosrae International/scenery/bredfrut1.bgl
+./Effects/Kosrae International/scenery/bridge.bgl
+./Effects/Kosrae International/scenery/cont10.bgl
+./Effects/Kosrae International/scenery/cont11.bgl
+./Effects/Kosrae International/scenery/cont12.bgl
+./Effects/Kosrae International/scenery/cont3.bgl
+./Effects/Kosrae International/scenery/cont4.bgl
+./Effects/Kosrae International/scenery/cont5.bgl
+./Effects/Kosrae International/scenery/cont6.bgl
+./Effects/Kosrae International/scenery/cont7.bgl
+./Effects/Kosrae International/scenery/cont8.bgl
+./Effects/Kosrae International/scenery/cont9.bgl
+./Effects/Kosrae International/scenery/controly.bgl
+./Effects/Kosrae International/scenery/controly1.bgl
+./Effects/Kosrae International/scenery/controly2.bgl
+./Effects/Kosrae International/scenery/cvxKOSVEH.BGL
+./Effects/Kosrae International/scenery/cvxKOSVEH1.BGL
+./Effects/Kosrae International/scenery/dockhut.bgl
+./Effects/Kosrae International/scenery/dockrail.bgl
+./Effects/Kosrae International/scenery/drydock.bgl
+./Effects/Kosrae International/scenery/drydock1.bgl
+./Effects/Kosrae International/scenery/firetrk.bgl
+./Effects/Kosrae International/scenery/fuelshed.bgl
+./Effects/Kosrae International/scenery/gable.bgl
+./Effects/Kosrae International/scenery/gocart.bgl
+./Effects/Kosrae International/scenery/gocart1.bgl
+./Effects/Kosrae International/scenery/hseware.bgl
+./Effects/Kosrae International/scenery/hseware1.bgl
+./Effects/Kosrae International/scenery/hseware2.bgl
+./Effects/Kosrae International/scenery/hseware3.bgl
+./Effects/Kosrae International/scenery/hseware4.bgl
+./Effects/Kosrae International/scenery/huma.bgl
+./Effects/Kosrae International/scenery/huma1.bgl
+./Effects/Kosrae International/scenery/jeep.bgl
+./Effects/Kosrae International/scenery/junket.bgl
+./Effects/Kosrae International/scenery/khsp_litepole.bgl
+./Effects/Kosrae International/scenery/khsp_propn.bgl
+./Effects/Kosrae International/scenery/kivung6.bgl
+./Effects/Kosrae International/scenery/kosbilbod.bgl
+./Effects/Kosrae International/scenery/kosbilbod1.bgl
+./Effects/Kosrae International/scenery/kosrae.bgl
+./Effects/Kosrae International/scenery/kosraeN.bgl
+./Effects/Kosrae International/scenery/kosraeS.bgl
+./Effects/Kosrae International/scenery/LC_9130.bgl
+./Effects/Kosrae International/scenery/leaf.bgl
+./Effects/Kosrae International/scenery/leaf1.bgl
+./Effects/Kosrae International/scenery/leaf2.bgl
+./Effects/Kosrae International/scenery/leaf3.bgl
+./Effects/Kosrae International/scenery/literoad.bgl
+./Effects/Kosrae International/scenery/mural.bgl
+./Effects/Kosrae International/scenery/pacline.bgl
+./Effects/Kosrae International/scenery/prins.bgl
+./Effects/Kosrae International/scenery/ptsasign.bgl
+./Effects/Kosrae International/scenery/ptsasign1.bgl
+./Effects/Kosrae International/scenery/ptsasign2.bgl
+./Effects/Kosrae International/scenery/ptsasign3.bgl
+./Effects/Kosrae International/scenery/ptsa_airsit.BGL
+./Effects/Kosrae International/scenery/ptsa_apron.bgl
+./Effects/Kosrae International/scenery/ptsa_apronup.bgl
+./Effects/Kosrae International/scenery/ptsa_apronup_0.bgl
+./Effects/Kosrae International/scenery/ptsa_apron_0.bgl
+./Effects/Kosrae International/scenery/ptsa_beachse.BGL
+./Effects/Kosrae International/scenery/ptsa_bridg.BGL
+./Effects/Kosrae International/scenery/ptsa_controly.BGL
+./Effects/Kosrae International/scenery/ptsa_drydock.BGL
+./Effects/Kosrae International/scenery/ptsa_firetrk.BGL
+./Effects/Kosrae International/scenery/ptsa_fuelshed.BGL
+./Effects/Kosrae International/scenery/ptsa_gabsign.BGL
+./Effects/Kosrae International/scenery/ptsa_gul.BGL
+./Effects/Kosrae International/scenery/ptsa_gulsnd.BGL
+./Effects/Kosrae International/scenery/ptsa_hseware.BGL
+./Effects/Kosrae International/scenery/ptsa_hseware1.BGL
+./Effects/Kosrae International/scenery/ptsa_hseware2.BGL
+./Effects/Kosrae International/scenery/ptsa_huma.BGL
+./Effects/Kosrae International/scenery/ptsa_ko.BGL
+./Effects/Kosrae International/scenery/ptsa_ko1.bgl
+./Effects/Kosrae International/scenery/ptsa_line.bgl
+./Effects/Kosrae International/scenery/ptsa_line_0.bgl
+./Effects/Kosrae International/scenery/ptsa_literd.BGL
+./Effects/Kosrae International/scenery/ptsa_marinhse.BGL
+./Effects/Kosrae International/scenery/ptsa_marinhse1.BGL
+./Effects/Kosrae International/scenery/ptsa_obj.BGL
+./Effects/Kosrae International/scenery/ptsa_obj1.BGL
+./Effects/Kosrae International/scenery/ptsa_obj2.BGL
+./Effects/Kosrae International/scenery/ptsa_obj3.BGL
+./Effects/Kosrae International/scenery/ptsa_obj4.BGL
+./Effects/Kosrae International/scenery/ptsa_objsign.BGL
+./Effects/Kosrae International/scenery/ptsa_objveg.BGL
+./Effects/Kosrae International/scenery/ptsa_park.bgl
+./Effects/Kosrae International/scenery/ptsa_parkline.bgl
+./Effects/Kosrae International/scenery/ptsa_parkline_0.bgl
+./Effects/Kosrae International/scenery/ptsa_park_0.bgl
+./Effects/Kosrae International/scenery/ptsa_prinsliner.BGL
+./Effects/Kosrae International/scenery/ptsa_radio.BGL
+./Effects/Kosrae International/scenery/ptsa_rolers.BGL
+./Effects/Kosrae International/scenery/ptsa_rwybarier.BGL
+./Effects/Kosrae International/scenery/ptsa_rwymark1.bgl
+./Effects/Kosrae International/scenery/ptsa_rwymark1_0.bgl
+./Effects/Kosrae International/scenery/ptsa_rwyno.bgl
+./Effects/Kosrae International/scenery/ptsa_rwysign.bgl
+./Effects/Kosrae International/scenery/ptsa_rwystop.bgl
+./Effects/Kosrae International/scenery/ptsa_rwystop_0.bgl
+./Effects/Kosrae International/scenery/ptsa_taxiway.bgl
+./Effects/Kosrae International/scenery/ptsa_taxiway_0.bgl
+./Effects/Kosrae International/scenery/ptsa_term.bgl
+./Effects/Kosrae International/scenery/ptsa_termlite.BGL
+./Effects/Kosrae International/scenery/ptsa_termnl.BGL
+./Effects/Kosrae International/scenery/ptsa_tikisign.BGL
+./Effects/Kosrae International/scenery/ptsa_tikiveg.BGL
+./Effects/Kosrae International/scenery/ptsa_veg1.BGL
+./Effects/Kosrae International/scenery/ptsa_vegroc.BGL
+./Effects/Kosrae International/scenery/ptsa_veh.BGL
+./Effects/Kosrae International/scenery/ptsa_walbar1.BGL
+./Effects/Kosrae International/scenery/ptsa_walbarier1.BGL
+./Effects/Kosrae International/scenery/ptsa_warehse.bgl
+./Effects/Kosrae International/scenery/ptsa_warehse1.bgl
+./Effects/Kosrae International/scenery/ptsa_warehse1waf.BGL
+./Effects/Kosrae International/scenery/ptsa_warehsefire.BGL
+./Effects/Kosrae International/scenery/ptsa_warf.BGL
+./Effects/Kosrae International/scenery/ptsa_warflite.BGL
+./Effects/Kosrae International/scenery/ptsa_wavsnd.BGL
+./Effects/Kosrae International/scenery/pwrbox.bgl
+./Effects/Kosrae International/scenery/pwrfan.bgl
+./Effects/Kosrae International/scenery/pwrwash.bgl
+./Effects/Kosrae International/scenery/rollers.bgl
+./Effects/Kosrae International/scenery/rollers1.bgl
+./Effects/Kosrae International/scenery/seagulls.bgl
+./Effects/Kosrae International/scenery/shutle.bgl
+./Effects/Kosrae International/scenery/tikisign.bgl
+./Effects/Kosrae International/scenery/tropichse.bgl
+./Effects/Kosrae International/scenery/tropichse1.bgl
+./Effects/Kosrae International/scenery/wafsmal.bgl
+./Effects/Kosrae International/scenery/walbarier.bgl
+./Effects/Kosrae International/scenery/walbarier1.bgl
+./Effects/Kosrae International/scenery/walwarf.bgl
+./Effects/Kosrae International/scenery/warfwal.bgl
+./Effects/Kosrae International/scenery/wavecrash1.bgl
+./Effects/Kosrae International/scenery/winch.bgl
+./Effects/Kosrae International/texture
+./Effects/Kosrae International/texture/103323101130332an.agn
+./Effects/Kosrae International/texture/103323101130333an.agn
+./Effects/Kosrae International/texture/103323101131222an.agn
+./Effects/Kosrae International/texture/103323101132101an.agn
+./Effects/Kosrae International/texture/103323101132102an.agn
+./Effects/Kosrae International/texture/103323101132103an.agn
+./Effects/Kosrae International/texture/103323101132110an.agn
+./Effects/Kosrae International/texture/103323101132111an.agn
+./Effects/Kosrae International/texture/103323101132112an.agn
+./Effects/Kosrae International/texture/103323101132113an.agn
+./Effects/Kosrae International/texture/103323101132120an.agn
+./Effects/Kosrae International/texture/103323101132121an.agn
+./Effects/Kosrae International/texture/103323101132130an.agn
+./Effects/Kosrae International/texture/103323101132131an.agn
+./Effects/Kosrae International/texture/103323101132133an.agn
+./Effects/Kosrae International/texture/103323101132201an.agn
+./Effects/Kosrae International/texture/103323101132202an.agn
+./Effects/Kosrae International/texture/103323101132203an.agn
+./Effects/Kosrae International/texture/103323101132210an.agn
+./Effects/Kosrae International/texture/103323101132211an.agn
+./Effects/Kosrae International/texture/103323101132220an.agn
+./Effects/Kosrae International/texture/103323101132221an.agn
+./Effects/Kosrae International/texture/103323101132230an.agn
+./Effects/Kosrae International/texture/103323101132231an.agn
+./Effects/Kosrae International/texture/103323101132232an.agn
+./Effects/Kosrae International/texture/103323101132233an.agn
+./Effects/Kosrae International/texture/103323101132302an.agn
+./Effects/Kosrae International/texture/103323101132310an.agn
+./Effects/Kosrae International/texture/103323101132320an.agn
+./Effects/Kosrae International/texture/103323101132321an.agn
+./Effects/Kosrae International/texture/103323101132322an.agn
+./Effects/Kosrae International/texture/103323101132323an.agn
+./Effects/Kosrae International/texture/103323101132332an.agn
+./Effects/Kosrae International/texture/103323101132333an.agn
+./Effects/Kosrae International/texture/103323101133000an.agn
+./Effects/Kosrae International/texture/103323101133002an.agn
+./Effects/Kosrae International/texture/103323101133003an.agn
+./Effects/Kosrae International/texture/103323101133020an.agn
+./Effects/Kosrae International/texture/103323101133021an.agn
+./Effects/Kosrae International/texture/103323101133022an.agn
+./Effects/Kosrae International/texture/103323101133023an.agn
+./Effects/Kosrae International/texture/103323101133200an.agn
+./Effects/Kosrae International/texture/103323101133201an.agn
+./Effects/Kosrae International/texture/103323101133203an.agn
+./Effects/Kosrae International/texture/103323101133220an.agn
+./Effects/Kosrae International/texture/103323101133221an.agn
+./Effects/Kosrae International/texture/103323101133222an.agn
+./Effects/Kosrae International/texture/103323101133223an.agn
+./Effects/Kosrae International/texture/103323101310011an.agn
+./Effects/Kosrae International/texture/103323101310100an.agn
+./Effects/Kosrae International/texture/103323101310101an.agn
+./Effects/Kosrae International/texture/103323101310110an.agn
+./Effects/Kosrae International/texture/103323101310111an.agn
+./Effects/Kosrae International/texture/103323101310112an.agn
+./Effects/Kosrae International/texture/103323101310113an.agn
+./Effects/Kosrae International/texture/103323101311000an.agn
+./Effects/Kosrae International/texture/airsit1.dds
+./Effects/Kosrae International/texture/airsit1_LM.dds
+./Effects/Kosrae International/texture/ban.dds
+./Effects/Kosrae International/texture/banana.dds
+./Effects/Kosrae International/texture/beachse.dds
+./Effects/Kosrae International/texture/beachse_LM.dds
+./Effects/Kosrae International/texture/bike.dds
+./Effects/Kosrae International/texture/birds.dds
+./Effects/Kosrae International/texture/bredfrut.dds
+./Effects/Kosrae International/texture/bridge.dds
+./Effects/Kosrae International/texture/canpadle.dds
+./Effects/Kosrae International/texture/coconut.dds
+./Effects/Kosrae International/texture/cont3.dds
+./Effects/Kosrae International/texture/cont4.dds
+./Effects/Kosrae International/texture/cont5.dds
+./Effects/Kosrae International/texture/cont6.dds
+./Effects/Kosrae International/texture/controly.dds
+./Effects/Kosrae International/texture/coral.dds
+./Effects/Kosrae International/texture/dinghy5.dds
+./Effects/Kosrae International/texture/dozer.dds
+./Effects/Kosrae International/texture/drink.dds
+./Effects/Kosrae International/texture/drink_LM.dds
+./Effects/Kosrae International/texture/drum8.dds
+./Effects/Kosrae International/texture/drydock.dds
+./Effects/Kosrae International/texture/duck.dds
+./Effects/Kosrae International/texture/duck1.dds
+./Effects/Kosrae International/texture/dugout.dds
+./Effects/Kosrae International/texture/dumptrk.dds
+./Effects/Kosrae International/texture/firetrk.dds
+./Effects/Kosrae International/texture/floodlite.dds
+./Effects/Kosrae International/texture/ford.dds
+./Effects/Kosrae International/texture/ford_LM.dds
+./Effects/Kosrae International/texture/freeze.dds
+./Effects/Kosrae International/texture/fuelshed.dds
+./Effects/Kosrae International/texture/gable.dds
+./Effects/Kosrae International/texture/genhse.dds
+./Effects/Kosrae International/texture/genhse7.dds
+./Effects/Kosrae International/texture/genhse7_LM.dds
+./Effects/Kosrae International/texture/genhsegrup1.dds
+./Effects/Kosrae International/texture/genhsegrup1_LM.dds
+./Effects/Kosrae International/texture/genhsegrup2.dds
+./Effects/Kosrae International/texture/genhsegrup2_LM.dds
+./Effects/Kosrae International/texture/girlpaddle.dds
+./Effects/Kosrae International/texture/gmctrk.dds
+./Effects/Kosrae International/texture/govbldg.dds
+./Effects/Kosrae International/texture/govbldg_LM.dds
+./Effects/Kosrae International/texture/govgen.dds
+./Effects/Kosrae International/texture/govgen_LM.dds
+./Effects/Kosrae International/texture/grader.dds
+./Effects/Kosrae International/texture/graswall.dds
+./Effects/Kosrae International/texture/graswall1.dds
+./Effects/Kosrae International/texture/graswall2.dds
+./Effects/Kosrae International/texture/hoe.dds
+./Effects/Kosrae International/texture/hoe1.dds
+./Effects/Kosrae International/texture/hsegunship.dds
+./Effects/Kosrae International/texture/hseware.dds
+./Effects/Kosrae International/texture/hseware2.dds
+./Effects/Kosrae International/texture/hseware2_LM.dds
+./Effects/Kosrae International/texture/hseware3.dds
+./Effects/Kosrae International/texture/hseware3_LM.dds
+./Effects/Kosrae International/texture/hseware_LM.dds
+./Effects/Kosrae International/texture/huma.dds
+./Effects/Kosrae International/texture/jeep.dds
+./Effects/Kosrae International/texture/junket.dds
+./Effects/Kosrae International/texture/junket_LM.dds
+./Effects/Kosrae International/texture/khsp_litepole.dds
+./Effects/Kosrae International/texture/khsp_litepole_LM.dds
+./Effects/Kosrae International/texture/khsp_macline.dds
+./Effects/Kosrae International/texture/khsp_propn.dds
+./Effects/Kosrae International/texture/kivung.dds
+./Effects/Kosrae International/texture/kosbilbod.dds
+./Effects/Kosrae International/texture/kosbilbod_LM.dds
+./Effects/Kosrae International/texture/kubota.dds
+./Effects/Kosrae International/texture/leaf.dds
+./Effects/Kosrae International/texture/leaf2.dds
+./Effects/Kosrae International/texture/leaf3.dds
+./Effects/Kosrae International/texture/literoad.dds
+./Effects/Kosrae International/texture/literoad_LM.dds
+./Effects/Kosrae International/texture/logo.dds
+./Effects/Kosrae International/texture/logo_LM.dds
+./Effects/Kosrae International/texture/mask.dds
+./Effects/Kosrae International/texture/mask1.dds
+./Effects/Kosrae International/texture/motor.dds
+./Effects/Kosrae International/texture/ngfuhut.dds
+./Effects/Kosrae International/texture/ngfuwarehse.dds
+./Effects/Kosrae International/texture/ngfuwarehse_LM.dds
+./Effects/Kosrae International/texture/ngfuwhaf.dds
+./Effects/Kosrae International/texture/ngfuwhaf_LM.dds
+./Effects/Kosrae International/texture/pacline.dds
+./Effects/Kosrae International/texture/pacline_LM.dds
+./Effects/Kosrae International/texture/parkline.dds
+./Effects/Kosrae International/texture/pathlite.dds
+./Effects/Kosrae International/texture/pathlite1.dds
+./Effects/Kosrae International/texture/pathlite1_LM.dds
+./Effects/Kosrae International/texture/pathlite_LM.dds
+./Effects/Kosrae International/texture/pelican.dds
+./Effects/Kosrae International/texture/pelican1.dds
+./Effects/Kosrae International/texture/pepsi.dds
+./Effects/Kosrae International/texture/pepsi1.dds
+./Effects/Kosrae International/texture/pepsi1_LM.dds
+./Effects/Kosrae International/texture/pepsi_LM.dds
+./Effects/Kosrae International/texture/planes.dds
+./Effects/Kosrae International/texture/pool3.dds
+./Effects/Kosrae International/texture/pool3_LM.dds
+./Effects/Kosrae International/texture/pool4.dds
+./Effects/Kosrae International/texture/pool4_LM.dds
+./Effects/Kosrae International/texture/prins.dds
+./Effects/Kosrae International/texture/prins_LM.dds
+./Effects/Kosrae International/texture/ptsa_apron.dds
+./Effects/Kosrae International/texture/ptsa_apronup.dds
+./Effects/Kosrae International/texture/ptsa_apronup_LM.dds
+./Effects/Kosrae International/texture/ptsa_apron_LM.dds
+./Effects/Kosrae International/texture/ptsa_rwymark.dds
+./Effects/Kosrae International/texture/ptsa_rwymark1.dds
+./Effects/Kosrae International/texture/ptsa_rwysign.dds
+./Effects/Kosrae International/texture/ptsa_rwysign_LM.dds
+./Effects/Kosrae International/texture/ptsa_taxiway.dds
+./Effects/Kosrae International/texture/ptsa_term.dds
+./Effects/Kosrae International/texture/ptsa_term_LM.dds
+./Effects/Kosrae International/texture/ptsa_warehse.dds
+./Effects/Kosrae International/texture/ptsa_warehse1.dds
+./Effects/Kosrae International/texture/ptsa_warehse1_LM.dds
+./Effects/Kosrae International/texture/ptsa_warehse_LM.dds
+./Effects/Kosrae International/texture/radiodrum.dds
+./Effects/Kosrae International/texture/rollers.dds
+./Effects/Kosrae International/texture/rwystop.dds
+./Effects/Kosrae International/texture/sailboat.dds
+./Effects/Kosrae International/texture/sailboat1.dds
+./Effects/Kosrae International/texture/sailboat1_LM.dds
+./Effects/Kosrae International/texture/sailboat2.dds
+./Effects/Kosrae International/texture/sailboat2_LM.dds
+./Effects/Kosrae International/texture/sailboat_LM.dds
+./Effects/Kosrae International/texture/saildug.dds
+./Effects/Kosrae International/texture/thatchut.dds
+./Effects/Kosrae International/texture/tikisign.dds
+./Effects/Kosrae International/texture/tikisign_LM.dds
+./Effects/Kosrae International/texture/toybus.dds
+./Effects/Kosrae International/texture/toybus1.dds
+./Effects/Kosrae International/texture/tractor4.dds
+./Effects/Kosrae International/texture/trailer.dds
+./Effects/Kosrae International/texture/tropichse.dds
+./Effects/Kosrae International/texture/tropichse1.dds
+./Effects/Kosrae International/texture/tropichse1_LM.dds
+./Effects/Kosrae International/texture/tropichse_LM.dds
+./Effects/Kosrae International/texture/turtle.dds
+./Effects/Kosrae International/texture/utility.dds
+./Effects/Kosrae International/texture/wafsmal.dds
+./Effects/Kosrae International/texture/walbarier.dds
+./Effects/Kosrae International/texture/walbarier1.dds
+./Effects/Kosrae International/texture/warfwal.dds
+./Effects/Kosrae International/texture/warfwal_LM.dds
+./Effects/Kosrae International/texture/warn.dds
+./Effects/Kosrae International/texture/winch.dds
+./Effects/lakewavecontroller.fx
+./Effects/lightglobe.fx
+./Effects/lightpour10m.fx
+./Effects/lightpour10m1spot.fx
+./Effects/lightpour20m.fx
+./Effects/lmml_fldlight_orange.fx
+./Effects/lmml_fldlight_orange2.fx
+./Effects/lmml_fldlight_orange3.fx
+./Effects/lmml_fldlight_white.fx
+./Effects/lmml_LUbeacon_controller.fx
+./Effects/lmml_LUbeacon_strobe.fx
+./Effects/lmml_obslight.fx
+./Effects/lmml_streetlamp.fx
+./Effects/lmml_twycentre.fx
+./Effects/lmml_twyedge.fx
+./Effects/LOWS_2006_apron_b.fx
+./Effects/LOWS_2006_apron_m.fx
+./Effects/LOWS_2006_apron_n.fx
+./Effects/LOWS_2006_apron_s.fx
+./Effects/LOWS_2006_apron_v_s.fx
+./Effects/LOWS_2006_cntrl_apron_b.fx
+./Effects/LOWS_2006_cntrl_apron_m.fx
+./Effects/LOWS_2006_cntrl_apron_n.fx
+./Effects/LOWS_2006_cntrl_apron_s.fx
+./Effects/LOWS_2006_cntrl_apron_v_s.fx
+./Effects/LOWS_2006_cntrl_floodlight.fx
+./Effects/LOWS_2006_cntrl_lichtkegel_110.fx
+./Effects/LOWS_2006_cntrl_lichtkegel_120.fx
+./Effects/LOWS_2006_cntrl_lichtkegel_150.fx
+./Effects/LOWS_2006_cntrl_light_blue.fx
+./Effects/LOWS_2006_cntrl_navgre.fx
+./Effects/LOWS_2006_cntrl_navgrem.fx
+./Effects/LOWS_2006_cntrl_navredh.fx
+./Effects/LOWS_2006_cntrl_smoke.fx
+./Effects/LOWS_2006_cntrl_txlights.fx
+./Effects/LOWS_2006_floodlight.fx
+./Effects/LOWS_2006_lichtkegel_110.fx
+./Effects/LOWS_2006_lichtkegel_120.fx
+./Effects/LOWS_2006_lichtkegel_150.fx
+./Effects/LOWS_2006_light_blue.fx
+./Effects/LOWS_2006_navgre.fx
+./Effects/LOWS_2006_navgrem.fx
+./Effects/LOWS_2006_navredh.fx
+./Effects/LOWS_2006_navwhih.fx
+./Effects/LOWS_2006_obslight2.fx
+./Effects/LOWS_2006_obslight2a.fx
+./Effects/LOWS_2006_smoke.fx
+./Effects/LOWS_2006_spot_med.fx
+./Effects/LOWS_2006_sv_signal.fx
+./Effects/LOWS_2006_txlights.fx
+./Effects/LTBA_appr_light_white_large.fx
+./Effects/LVLD_strobe.fx
+./Effects/LVLD_vclight2.fx
+./Effects/MilVizC310_TaxiBloom_01.fx
+./Effects/MilVizC310_TaxiBloom_02.fx
+./Effects/MilVizC310_TaxiBloom_03.fx
+./Effects/MilVizC310_TaxiBloom_04.fx
+./Effects/MilVizC310_TaxiBloom_05.fx
+./Effects/MilVizC310_TaxiBloom_06.fx
+./Effects/MilVizC310_TaxiBloom_07.fx
+./Effects/MilViz_Fire1.fx
+./Effects/MilViz_T38A_ABurner.fx
+./Effects/MilViz_T38_BurnerStage1.fx
+./Effects/MilViz_T38_BurnerStage2.fx
+./Effects/MilViz_T38_BurnerStage3.fx
+./Effects/MilViz_T38_BurnerStage4.fx
+./Effects/Opensky_747_vclight.fx
+./Effects/Opensky_beacon.fx
+./Effects/Opensky_Boeing_vclight.fx
+./Effects/Opensky_conden.fx
+./Effects/Opensky_condens.fx
+./Effects/Opensky_logo_light.fx
+./Effects/Opensky_nacelle_refl.fx
+./Effects/Opensky_nav_yellow.fx
+./Effects/Opensky_revspray.fx
+./Effects/Opensky_sparks.fx
+./Effects/Opensky_vortex.fx
+./Effects/Opensky_wing_light.fx
+./Effects/ORBX_ObsRed_Ctrl.fx
+./Effects/Orbx_PF2_Jackhammer.fx
+./Effects/Orbx_PF2_Jackhammer_Cntrl.fx
+./Effects/ORBX_RedStop_Ctrl.fx
+./Effects/ORBX_Smoke_Cigarette.fx
+./Effects/Orbx_Sound_CF_Ducks.fx
+./Effects/Orbx_Sound_CF_Ducks_Cntrl.fx
+./Effects/ORBX_TGreen_Ctrl.fx
+./Effects/ORBX_TOrange_Ctrl.fx
+./Effects/Orbx_VehFLW_balloon_burners_1s.fx
+./Effects/Orbx_VehFLW_balloon_burners_1s_Cntrl.fx
+./Effects/Orbx_VehFLW_balloon_burners_2s.fx
+./Effects/Orbx_VehFLW_balloon_burners_2s_Cntrl.fx
+./Effects/Orbx_VehFLW_balloon_burners_3s.fx
+./Effects/Orbx_VehFLW_balloon_burners_3s_Cntrl.fx
+./Effects/projecteur.fx
+./Effects/Pz339_fx_engsmoke.fx
+./Effects/Pz339_fx_smoke_engin.fx
+./Effects/Pz339_fx_smoke_g.fx
+./Effects/Pz339_fx_smoke_r.fx
+./Effects/Pz339_fx_smoke_w.fx
+./Effects/Pz339_fx_vclight.fx
+./Effects/Pz339_fx_WVortex.fx
+./Effects/QW757_contrail.fx
+./Effects/QW757_wingscan.fx
+./Effects/QW_vclight.fx
+./Effects/QW_vclight_big.fx
+./Effects/rcs_smoke_gry.fx
+./Effects/RFBMG.fx
+./Effects/RFCASINGS.fx
+./Effects/RFCASINGS2.fx
+./Effects/RFLND.fx
+./Effects/RFSND.fx
+./Effects/RFTRC.fx
+./Effects/RFTRC1.fx
+./Effects/sfx_CatalinaDlg03.fx
+./Effects/sfx_CatalinaDlg04.fx
+./Effects/sfx_CatalinaDlg05.fx
+./Effects/sfx_CatalinaDlg06.fx
+./Effects/sfx_dummyLoop.fx
+./Effects/sfx_dummyOneShot.fx
+./Effects/sfx_JetTruckDlg01.fx
+./Effects/sfx_JetTruckDlg05.fx
+./Effects/sfx_JetTruckDlg07.fx
+./Effects/sfx_JetTruckDlg09.fx
+./Effects/sfx_JetTruckDlg11.fx
+./Effects/sfx_JetTruckDlg13.fx
+./Effects/sfx_JetTruckDlg18.fx
+./Effects/sfx_LoopyLarryDlg01.fx
+./Effects/sfx_LoopyLarryDlg03.fx
+./Effects/sfx_LoopyLarryDlg05.fx
+./Effects/sfx_LoopyLarryDlg07.fx
+./Effects/sfx_LoopyLarryDlg08.fx
+./Effects/sfx_LoopyLarryDlg09.fx
+./Effects/sfx_LoopyLarryDlg10.fx
+./Effects/sfx_LoopyLarryDlg12.fx
+./Effects/sfx_LoopyLarryDlg14.fx
+./Effects/sfx_LoopyLarryDlg16.fx
+./Effects/sfx_LoopyLarryDlg16a.fx
+./Effects/sfx_LoopyLarryDlg18.fx
+./Effects/sfx_marinaloop.fx
+./Effects/sfx_RumbleLoop.fx
+./Effects/sfx_shorelight.fx
+./Effects/sr_fueldump.fx
+./Effects/su_combustion.fx
+./Effects/su_combustion_start.fx
+./Effects/texture
+./Effects/texture/a10_tracer.bmp
+./Effects/texture/Aerosoft_EGLC_grlight_taxi_sm.bmp
+./Effects/texture/Aerosoft_LCLK_Spots_1.bmp
+./Effects/texture/Apron_Flood_11.bmp
+./Effects/texture/apron_glow.bmp
+./Effects/texture/avalonFX2.bmp
+./Effects/texture/avalonFX3Y.bmp
+./Effects/texture/avalon_fx2.bmp
+./Effects/texture/A_F18-00.bmp
+./Effects/texture/A_F18-00b.bmp
+./Effects/texture/A_F18-1.bmp
+./Effects/texture/A_F18-2.bmp
+./Effects/texture/A_F18-3.bmp
+./Effects/texture/A_GB-F1.bmp
+./Effects/texture/A_He111_smoke.bmp
+./Effects/texture/A_T6-F1.bmp
+./Effects/texture/A_T6-F2.bmp
+./Effects/texture/Beacon.bmp
+./Effects/texture/Bf-109_ccase.bmp
+./Effects/texture/Bf-109_cgun.bmp
+./Effects/texture/Bf-109_mcase.bmp
+./Effects/texture/Bf-109_mgun.bmp
+./Effects/texture/burner.bmp
+./Effects/texture/burner2.bmp
+./Effects/texture/burner2A.bmp
+./Effects/texture/cs130.bmp
+./Effects/texture/cs131.bmp
+./Effects/texture/cs132.bmp
+./Effects/texture/cs133.bmp
+./Effects/texture/cs134.bmp
+./Effects/texture/cs_land_y3.bmp
+./Effects/texture/DR2.bmp
+./Effects/texture/ENGM_rwy.bmp
+./Effects/texture/envaX_Floodlight.bmp
+./Effects/texture/E_LT_Nav.bmp
+./Effects/texture/E_LT_Strobe.bmp
+./Effects/texture/f22_tracer.bmp
+./Effects/texture/flood.bmp
+./Effects/texture/flood2.bmp
+./Effects/texture/flood_2spot.bmp
+./Effects/texture/flood_3spot.bmp
+./Effects/texture/flood_3x3spot.bmp
+./Effects/texture/flood_4x3spot.bmp
+./Effects/texture/flood_terminal.bmp
+./Effects/texture/FR109_fx_1.bmp
+./Effects/texture/FR109_fx_2.bmp
+./Effects/texture/ft_E1X5_1.bmp
+./Effects/texture/ft_E1X5_2.bmp
+./Effects/texture/FWI_halo.bmp
+./Effects/texture/fx_1.bmp
+./Effects/texture/fx_2.bmp
+./Effects/texture/fx_208car.bmp
+./Effects/texture/fx_208car2.bmp
+./Effects/texture/fx_285.bmp
+./Effects/texture/fx_2c185.bmp
+./Effects/texture/fx_2car.bmp
+./Effects/texture/fx_2_EZ.bmp
+./Effects/texture/fx_2_orbx.bmp
+./Effects/texture/fx_2_orbx_obs.bmp
+./Effects/texture/fx_2_orbx_obs_hs.bmp
+./Effects/texture/fx_2_th_lighthouse.bmp
+./Effects/texture/fx_3.bmp
+./Effects/texture/fx_3car.bmp
+./Effects/texture/fx_4car.bmp
+./Effects/texture/fx_5.bmp
+./Effects/texture/fx_ac111.bmp
+./Effects/texture/fx_ac112.bmp
+./Effects/texture/fx_af_f4u_circle.bmp
+./Effects/texture/fx_Alabeo.bmp
+./Effects/texture/fx_aniburner1b.bmp
+./Effects/texture/fx_aurora.bmp
+./Effects/texture/fx_barnstorm.bmp
+./Effects/texture/fx_basler_ll.bmp
+./Effects/texture/fx_basler_star.bmp
+./Effects/texture/fx_bd5_light.bmp
+./Effects/texture/fx_bd5_rays.bmp
+./Effects/texture/fx_beaconcn.bmp
+./Effects/texture/fx_beam.bmp
+./Effects/texture/fx_blueedge.bmp
+./Effects/texture/fx_BPSpotLight.bmp
+./Effects/texture/fx_bubble.bmp
+./Effects/texture/fx_burner1.bmp
+./Effects/texture/fx_burner2.bmp
+./Effects/texture/fx_burner3.bmp
+./Effects/texture/fx_carcn.bmp
+./Effects/texture/fx_carcod.bmp
+./Effects/texture/fx_coflight.bmp
+./Effects/texture/fx_cotden.bmp
+./Effects/texture/fx_cropdust.bmp
+./Effects/texture/fx_cropvortex2.bmp
+./Effects/texture/fx_da40_light.bmp
+./Effects/texture/fx_da40_rays.bmp
+./Effects/texture/fx_Dots.bmp
+./Effects/texture/fx_EF_Burn.bmp
+./Effects/texture/fx_EF_BurnDiamond.bmp
+./Effects/texture/fx_F-15_AB1.bmp
+./Effects/texture/fx_F-15_AB2.bmp
+./Effects/texture/fx_F1ATR.bmp
+./Effects/texture/fx_F1ATR_nav.bmp
+./Effects/texture/fx_falls.bmp
+./Effects/texture/fx_fire.bmp
+./Effects/texture/fx_fireAdd.bmp
+./Effects/texture/fx_Firesheet01.bmp
+./Effects/texture/fx_flash.bmp
+./Effects/texture/fx_FSD_lights.bmp
+./Effects/texture/fx_FW1.bmp
+./Effects/texture/fx_FW2.bmp
+./Effects/texture/fx_heat.bmp
+./Effects/texture/fx_heat_r.bmp
+./Effects/texture/fx_Hugh_Orbx.bmp
+./Effects/texture/fx_iris_2.bmp
+./Effects/texture/fx_iris_flare.bmp
+./Effects/texture/fx_iris_halo.bmp
+./Effects/texture/fx_iris_impact.bmp
+./Effects/texture/fx_iris_light.bmp
+./Effects/texture/fx_iris_rays.bmp
+./Effects/texture/fx_iris_vortex.bmp
+./Effects/texture/fx_lightning1.bmp
+./Effects/texture/fx_MF_marine_light.bmp
+./Effects/texture/fx_mul_1.bmp
+./Effects/texture/fx_shockwave_circle.bmp
+./Effects/texture/fx_shockwave_light.bmp
+./Effects/texture/fx_shtstar.bmp
+./Effects/texture/fx_Sht_lightGreen.dds
+./Effects/texture/fx_Sht_lightRed.dds
+./Effects/texture/fx_Sht_lightWhite.dds
+./Effects/texture/fx_simwings_apronlight1.bmp
+./Effects/texture/fx_simwings_apronlight1side.bmp
+./Effects/texture/fx_simwings_streetlight.bmp
+./Effects/texture/fx_siroccogtx2_light.bmp
+./Effects/texture/fx_smoke.bmp
+./Effects/texture/fx_smokeala.bmp
+./Effects/texture/fx_smokeala2.bmp
+./Effects/texture/fx_smokealaSU26.bmp
+./Effects/texture/fx_smokealawc.bmp
+./Effects/texture/Fx_SR-1.bmp
+./Effects/texture/Fx_SR-1A.bmp
+./Effects/texture/fx_SR-2.bmp
+./Effects/texture/fx_SR-burner00.bmp
+./Effects/texture/Fx_SR-burner001.bmp
+./Effects/texture/fx_SR-burner002.bmp
+./Effects/texture/fx_SR-burner00A.bmp
+./Effects/texture/fx_SR-burner1.bmp
+./Effects/texture/fx_SR-burner10.bmp
+./Effects/texture/fx_SR-burner2.bmp
+./Effects/texture/fx_SR-burner3.bmp
+./Effects/texture/fx_SR-burner8.bmp
+./Effects/texture/fx_SR-burner9.bmp
+./Effects/texture/fx_strobeAlaWaco.bmp
+./Effects/texture/fx_strobec188.bmp
+./Effects/texture/fx_strobecn.bmp
+./Effects/texture/fx_swave_lights_1.bmp
+./Effects/texture/fx_swoosh.bmp
+./Effects/texture/fx_swoosh2.bmp
+./Effects/texture/fx_t6_light.bmp
+./Effects/texture/fx_t6_rays.bmp
+./Effects/texture/fx_taxi.bmp
+./Effects/texture/fx_tracer.bmp
+./Effects/texture/fx_track.bmp
+./Effects/texture/fx_track_727.bmp
+./Effects/texture/fx_track_y3.bmp
+./Effects/texture/fx_VLC_1.bmp
+./Effects/texture/fx_VLC_2.bmp
+./Effects/texture/fx_VLC_3.bmp
+./Effects/texture/fx_wake_1.bmp
+./Effects/texture/fx_wake_2.bmp
+./Effects/texture/fx_wake_3.bmp
+./Effects/texture/fx_wt.bmp
+./Effects/texture/fx_wt3.bmp
+./Effects/texture/fx_wt5.bmp
+./Effects/texture/fx_YMML2_orbx.bmp
+./Effects/texture/fx_YMML_orbx.bmp
+./Effects/texture/gunpack.bmp
+./Effects/texture/iris_fx_2.bmp
+./Effects/texture/lampadairejlv.bmp
+./Effects/texture/lmml.bmp
+./Effects/texture/lmml.zip
+./Effects/texture/Lvfr_twn.bmp
+./Effects/texture/MilVizBloom.bmp
+./Effects/texture/MilViz_AB_1.bmp
+./Effects/texture/MilViz_AB_2.bmp
+./Effects/texture/MilViz_AB_3.bmp
+./Effects/texture/MilViz_AB_4.bmp
+./Effects/texture/MilViz_AB_5.bmp
+./Effects/texture/MilViz_AB_AniFlame1.bmp
+./Effects/texture/MilViz_AB_AniFlame2.bmp
+./Effects/texture/MilViz_AB_AniFlame3.bmp
+./Effects/texture/MilViz_AB_AniFlame4.bmp
+./Effects/texture/MilViz_AB_AniFlame5.bmp
+./Effects/texture/MilViz_Fire1.bmp
+./Effects/texture/MilViz_fx_2.bmp
+./Effects/texture/NAV_Green.bmp
+./Effects/texture/NAV_Red.bmp
+./Effects/texture/NAV_White.bmp
+./Effects/texture/NAV_Yellow.bmp
+./Effects/texture/p40_cannon.bmp
+./Effects/texture/people.bmp
+./Effects/texture/projecteurb.bmp
+./Effects/texture/QW_fx.bmp
+./Effects/texture/Razbam_aniburner.bmp
+./Effects/texture/Razbam_burner1.bmp
+./Effects/texture/Razbam_burner2.bmp
+./Effects/texture/Razbam_burner5.bmp
+./Effects/texture/Razbam_burner9.bmp
+./Effects/texture/Razbam_f102_light.bmp
+./Effects/texture/Razbam_fx_2.bmp
+./Effects/texture/RFC.bmp
+./Effects/texture/rocket.bmp
+./Effects/texture/rospot.bmp
+./Effects/texture/sparks.bmp
+./Effects/texture/sr_burn.bmp
+./Effects/texture/sr_flame.bmp
+./Effects/texture/su_tracer.bmp
+./Effects/texture/Thumbs.db
+./Effects/texture/TR2.bmp
+./Effects/texture/TR2_b.bmp
+./Effects/texture/TW_Nav.bmp
+./Effects/texture/TW_Strobe.bmp
+./Effects/texture/Yk42_1.bmp
+./Effects/texture/Yk42_2.bmp
+./Effects/texture/Yk42_3.bmp
+./Effects/texture/Yk42_4.bmp
+./Effects/texture/Yk42_5.bmp
+./Effects/texture/YPMQ_fx1.bmp
+./Effects/texture/YPMQ_fx2.bmp
+./Effects/texture/zhdust.bmp
+./Effects/texture/Zh_An12box.bmp
+./Effects/texture/Zh_An12para.bmp
+./Effects/texture/ZH_cabin.bmp
+./Effects/texture/ZH_ikpp.bmp
+./Effects/TW_Beacon.fx
+./Effects/TW_LL.fx
+./Effects/TW_LL_Splash.fx
+./Effects/TW_NavGreen.fx
+./Effects/TW_NavRed.fx
+./Effects/TW_NavWhite.fx
+./Effects/TW_Strobe.fx
+./Effects/Vcolejets_gnav.fx
+./Effects/Vcolejets_inspect.fx
+./Effects/Vcolejets_logo.fx
+./Effects/Vcolejets_redbcn.fx
+./Effects/Vcolejets_rnav.fx
+./Effects/Vcolejets_wnav.fx
+./Effects/Vcolejets_wstrb.fx
+./Effects/Vcol_gnav.fx
+./Effects/Vcol_inspect.fx
+./Effects/Vcol_logo.fx
+./Effects/Vcol_redbcn.fx
+./Effects/Vcol_rnav.fx
+./Effects/Vcol_vclight.fx
+./Effects/vcol_vclighth.fx
+./Effects/vcol_vclighth2.fx
+./Effects/vcol_vclighth3.fx
+./Effects/Vcol_wnav.fx
+./Effects/Vcol_wstrb.fx
+./Effects/VS_RV8_cockpit.fx
+./Effects/VS_RV8_Navgreen.fx
+./Effects/VS_RV8_NavRed.fx
+./Effects/VS_RV8_strobe.fx
+./Effects/wavecontroller.fx
+./Effects/WS_vclight-m-orange.fx
+./Effects/WS_vclight-m-orange2.fx
+./Effects/WS_vclight-meridian-blue.fx
+./Effects/ZH_An12box.fx
+./Effects/ZH_An12dust.fx
+./Effects/ZH_An12smok.fx
+./Effects/ZH_An12snow.fx
+./Effects/zh_An12start.fx
+./Effects/ZH_cabin.fx
+./Effects/ZH_ikpp.fx
+./Effects/ZH_strobeG.fx
+./Effects/ZH_strobeR.fx
+./Effects/ZH_vcAn12.fx
+./Effects/zmissle.fx
+./Effects/zmissle1.fx

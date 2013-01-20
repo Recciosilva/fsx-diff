@@ -1,0 +1,114 @@
+*.bak
+*.bmp
+*.dat
+*.dll
+*.exe
+*.ins
+*.ini
+*.lng
+*.htm
+*.html
+*.log
+*.rtf
+*.url
+*.xml
+*.manifest
+*.pdf
+Thumbs.db
+/*.cfg
+
+_FSXGIT/bkups/
+
+acckey.txt
+ascdebuglog.txt
+dlxkey.txt
+jb777memfilemap.txt
+ls-effects.txt
+
+aerosoft/
+aircraft/
+charts/
+A2A/
+A300B4/
+A320PIC/
+Addon Scenery/
+Aircraft Factory/
+AivlaSoft/
+Autogen/
+BluePrint Simulations/
+CLS/
+Captain_Sim/
+Carenado/
+Classics Hangar/
+Config/
+Dialogs/
+Effects/
+Engine Sound Creations/
+FSAddon/
+FSWeb/
+FeelThere/
+Flight One Software/
+Flight Ontario/
+FlightSim Developers/
+Flights/
+Fonts/
+fsdreamteam/
+Gauges/
+Golden Age Simulations/
+IRIMG1.JPG
+IRIMG2.JPG
+IRIMG3.JPG
+IRIS AudioworX/
+IRIS Classics/
+IRIS Platinum Series/
+IRIS Premium Series/
+IRIS Pro Series/
+ISG/
+Icon/
+Imagine Simulation/
+Just Flight/
+JustFlight/
+KioskSettings.cfg
+LWcfg.spb
+Lessons/
+Level-D Simulations/
+Licenses/
+Missions/
+modules/
+CLS_A330_A340_FSX_remove
+Navigraph/
+Nemeth Designs/
+NemethDesigns/
+ORBX/
+OZx/
+PacSim/
+PMDG/
+PS Panels/
+Project Tupolev/
+Qualitywings/
+RAZBAM/
+Rewards/
+Scenery/
+script/
+Setup/
+Shade/
+ShadersHLSL/
+SimMarket/
+SimObjects/
+Sound/
+Texture/
+TropicalSim/
+UK2000 scenery/
+Uires/
+Uninstall_Bob
+VectorLandClass/
+VectorLandClass_AIShipping/
+VectorLandClass_ChathamIsland/
+VectorLandClass_DTM/
+Virtavia/
+Virtualcol FS Software/
+VistaMare/
+VLC*/
+Weather/
+messages/
+vasfmc/

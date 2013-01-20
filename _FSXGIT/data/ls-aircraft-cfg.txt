@@ -1,0 +1,226 @@
+./SimObjects/Airplanes/50N Boeing 737-300/aircraft.cfg
+./SimObjects/Airplanes/50N Boeing 737-400/aircraft.cfg
+./SimObjects/Airplanes/50N Boeing 737-500/aircraft.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/aircraft.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-500/aircraft.cfg
+./SimObjects/Airplanes/A-29B-SuperTucano/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft TwinOtter-backups/300/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft TwinOtter-backups/300-modern/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft TwinOtter-backups/300-ski/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft_PBY-5A_Civ/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft_PBY-5A_Mil/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft_PBY-5_Mil/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft_PBY-6A_Civ/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft_PBY-6A_Dan/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft_PBY-6A_Mil/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft_PBY_5A_Mil_Torp/aircraft.cfg
+./SimObjects/Airplanes/AF_F4U-1A/aircraft.cfg
+./SimObjects/Airplanes/AF_F4U-1C/aircraft.cfg
+./SimObjects/Airplanes/AF_F4U-1D/aircraft.cfg
+./SimObjects/Airplanes/Airborne/aircraft.cfg
+./SimObjects/Airplanes/Airborne FL/aircraft.cfg
+./SimObjects/Airplanes/Airbus_A321/aircraft.cfg
+./SimObjects/Airplanes/Airtuk-PL12/aircraft.cfg
+./SimObjects/Airplanes/Alabeo C188_AGTruck/aircraft.cfg
+./SimObjects/Airplanes/Alabeo C188_AGTruck_WDE/aircraft.cfg
+./SimObjects/Airplanes/Alabeo PITTS S2S/aircraft.cfg
+./SimObjects/Airplanes/Alabeo Sukhoi 26/aircraft.cfg
+./SimObjects/Airplanes/Alabeo WACO_YMF5/aircraft.cfg
+./SimObjects/Airplanes/Ants Tiger Moth/aircraft.cfg
+./SimObjects/Airplanes/Auster J1 Autocrat/aircraft.cfg
+./SimObjects/Airplanes/B-25J RAF MkII/aircraft.cfg
+./SimObjects/Airplanes/B737-200_TM2/aircraft.cfg
+./SimObjects/Airplanes/B737_800/aircraft.cfg
+./SimObjects/Airplanes/b747_400/aircraft.cfg
+./SimObjects/Airplanes/Basler_BT67/aircraft.cfg
+./SimObjects/Airplanes/Beaufighter/aircraft.cfg
+./SimObjects/Airplanes/beech_baron_58/aircraft.cfg
+./SimObjects/Airplanes/Beech_King_Air_350/aircraft.cfg
+./SimObjects/Airplanes/Bombardier_CRJ_700/aircraft.cfg
+./SimObjects/Airplanes/C172/aircraft.cfg
+./SimObjects/Airplanes/C208B/aircraft.cfg
+./SimObjects/Airplanes/C46/aircraft.cfg
+./SimObjects/Airplanes/CamSim Boeing 787-8 V3/aircraft.cfg
+./SimObjects/Airplanes/CamSim Boeing 787-9 V3/aircraft.cfg
+./SimObjects/Airplanes/Canberra_B(I)6/aircraft.cfg
+./SimObjects/Airplanes/Canberra_B15/aircraft.cfg
+./SimObjects/Airplanes/Canberra_B16/aircraft.cfg
+./SimObjects/Airplanes/Canberra_B6/aircraft.cfg
+./SimObjects/Airplanes/Carenado C185F/aircraft.cfg
+./SimObjects/Airplanes/Carenado C185F Amphibian/aircraft.cfg
+./SimObjects/Airplanes/Carenado C185F Float/aircraft.cfg
+./SimObjects/Airplanes/Carenado C185F Ski/aircraft.cfg
+./SimObjects/Airplanes/Carenado C185F Tundra/aircraft.cfg
+./SimObjects/Airplanes/Carenado C208B Grand Caravan/aircraft.cfg
+./SimObjects/Airplanes/Carenado Commander 114/aircraft.cfg
+./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/aircraft.cfg
+./SimObjects/Airplanes/Carenado PA-34 Seneca II/aircraft.cfg
+./SimObjects/Airplanes/Carenado_B200_King _Air/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-5/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-5_MGFF/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-6/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-7/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-7_R2/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-8/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-8_R2_Sturm_v1/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-8_R2_Sturm_v2/aircraft.cfg
+./SimObjects/Airplanes/Classics_Hangar_Fw190A-9/aircraft.cfg
+./SimObjects/Airplanes/CLS_A340_200/aircraft.cfg
+./SimObjects/Airplanes/CLS_A340_300/aircraft.cfg
+./SimObjects/Airplanes/CLS_B742_200_GE/aircraft.cfg
+./SimObjects/Airplanes/CLS_B742_200_PW/aircraft.cfg
+./SimObjects/Airplanes/CLS_B742_200_RR/aircraft.cfg
+./SimObjects/Airplanes/CLS_B743_300_GE/aircraft.cfg
+./SimObjects/Airplanes/CLS_B743_300_PW/aircraft.cfg
+./SimObjects/Airplanes/CLS_B743_300_RR/aircraft.cfg
+./SimObjects/Airplanes/CLS_DC10_10/aircraft.cfg
+./SimObjects/Airplanes/CLS_DC10_10F/aircraft.cfg
+./SimObjects/Airplanes/CLS_DC10_15/aircraft.cfg
+./SimObjects/Airplanes/CLS_DC10_30/aircraft.cfg
+./SimObjects/Airplanes/CLS_DC10_30F/aircraft.cfg
+./SimObjects/Airplanes/CLS_DC10_40/aircraft.cfg
+./SimObjects/Airplanes/CLS_DC10_40F/aircraft.cfg
+./SimObjects/Airplanes/CLS_KC10_Extender/aircraft.cfg
+./SimObjects/Airplanes/CLS_KDC10/aircraft.cfg
+./SimObjects/Airplanes/CLS_piperarrow/aircraft.cfg
+./SimObjects/Airplanes/CS_B52/aircraft.cfg
+./SimObjects/Airplanes/CS_B727-100/aircraft.cfg
+./SimObjects/Airplanes/CS_B727-100F/aircraft.cfg
+./SimObjects/Airplanes/CS_B727-200/aircraft.cfg
+./SimObjects/Airplanes/CS_B727-200F/aircraft.cfg
+./SimObjects/Airplanes/CS_B737-200/aircraft.cfg
+./SimObjects/Airplanes/CS_B737-200ADV/aircraft.cfg
+./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft.cfg
+./SimObjects/Airplanes/CS_B777-200ER_PW/aircraft.cfg
+./SimObjects/Airplanes/CS_B777-200LR/aircraft.cfg
+./SimObjects/Airplanes/CS_B777_PAX/aircraft.cfg
+./SimObjects/Airplanes/CS_C130/aircraft.cfg
+./SimObjects/Airplanes/CS_EX1_C130/aircraft.cfg
+./SimObjects/Airplanes/CS_EX1_CL130/aircraft.cfg
+./SimObjects/Airplanes/CS_EX1_KC130/aircraft.cfg
+./SimObjects/Airplanes/CS_EX2_AC130/aircraft.cfg
+./SimObjects/Airplanes/CS_EX2_C130/aircraft.cfg
+./SimObjects/Airplanes/CS_EX2_C133/aircraft.cfg
+./SimObjects/Airplanes/CS_EX2_LC130/aircraft.cfg
+./SimObjects/Airplanes/Curtis_Jenny/aircraft.cfg
+./SimObjects/Airplanes/cv580/aircraft.cfg
+./SimObjects/Airplanes/Dassault Falcon 50/aircraft.cfg
+./SimObjects/Airplanes/De Havilland 60 G/aircraft.cfg
+./SimObjects/Airplanes/De Havilland 60 X/aircraft.cfg
+./SimObjects/Airplanes/De Havilland DH-83 Fox Moth/aircraft.cfg
+./SimObjects/Airplanes/DeHavilland Vampire FB5/aircraft.cfg
+./SimObjects/Airplanes/DeHavilland_Beaver_DHC2/aircraft.cfg
+./SimObjects/Airplanes/Deltasim_Sirocco_GTX2/aircraft.cfg
+./SimObjects/Airplanes/DG808S/aircraft.cfg
+./SimObjects/Airplanes/Dh89a V4/aircraft.cfg
+./SimObjects/Airplanes/DH_Dash8_100/aircraft.cfg
+./SimObjects/Airplanes/Diamond DA20-100 'Katana'/aircraft.cfg
+./SimObjects/Airplanes/Douglas_C-47/aircraft.cfg
+./SimObjects/Airplanes/Douglas_DC3/aircraft.cfg
+./SimObjects/Airplanes/ELEC_CARGO/aircraft.cfg
+./SimObjects/Airplanes/ELEC_PASS/aircraft.cfg
+./SimObjects/Airplanes/EMB110-Banderainte/aircraft.cfg
+./SimObjects/Airplanes/Extra300/aircraft.cfg
+./SimObjects/Airplanes/F-35A/aircraft.cfg
+./SimObjects/Airplanes/F-35B/aircraft.cfg
+./SimObjects/Airplanes/F-35C/aircraft.cfg
+./SimObjects/Airplanes/F27/aircraft.cfg
+./SimObjects/Airplanes/FA-18/aircraft.cfg
+./SimObjects/Airplanes/FA18_2012_FSXBA_Effects/aircraft.cfg
+./SimObjects/Airplanes/FA18_2012_FSXBA_Multiplayer/aircraft.cfg
+./SimObjects/Airplanes/FeelThere ERJ145LR v2/aircraft.cfg
+./SimObjects/Airplanes/feelThere pic 737-300/aircraft.cfg
+./SimObjects/Airplanes/feelThere pic 737-300 v2/aircraft.cfg
+./SimObjects/Airplanes/feelThere pic 737-400/aircraft.cfg
+./SimObjects/Airplanes/feelThere pic 737-400 v2/aircraft.cfg
+./SimObjects/Airplanes/feelThere pic 737-500/aircraft.cfg
+./SimObjects/Airplanes/feelThere pic 737-500 v2/aircraft.cfg
+./SimObjects/Airplanes/FlightSim Developers P38J/aircraft.cfg
+./SimObjects/Airplanes/FlightSim Developers P38K/aircraft.cfg
+./SimObjects/Airplanes/FlightSim Developers P38L/aircraft.cfg
+./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/aircraft.cfg
+./SimObjects/Airplanes/FSD Cessna 337D/aircraft.cfg
+./SimObjects/Airplanes/FSD Cessna 337H/aircraft.cfg
+./SimObjects/Airplanes/FSD O2A/aircraft.cfg
+./SimObjects/Airplanes/FSD Piper Navajo/aircraft.cfg
+./SimObjects/Airplanes/FSD Piper Panther/aircraft.cfg
+./SimObjects/Airplanes/GAF Nomad/aircraft.cfg
+./SimObjects/Airplanes/Grumman_F14D/aircraft.cfg
+./SimObjects/Airplanes/Grumman_Goose_G21A/aircraft.cfg
+./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/aircraft.cfg
+./SimObjects/Airplanes/HJG Convair 990 v1.1/aircraft.cfg
+./SimObjects/Airplanes/HJG Douglas DC8-73/aircraft.cfg
+./SimObjects/Airplanes/HJG L1011 TriStar 50  RR RB211-22B v1/aircraft.cfg
+./SimObjects/Airplanes/HJG McDonnell Douglas MD-83_V1.1/aircraft.cfg
+./SimObjects/Airplanes/Hunter T/aircraft.cfg
+./SimObjects/Airplanes/IRIS AIM-120/aircraft.cfg
+./SimObjects/Airplanes/IRIS AIM-9/aircraft.cfg
+./SimObjects/Airplanes/IRIS C-27J Spartan/aircraft.cfg
+./SimObjects/Airplanes/IRIS P-40 Kittyhawk/aircraft.cfg
+./SimObjects/Airplanes/IRIS PC-9/aircraft.cfg
+./SimObjects/Airplanes/IRIS PC-9A/aircraft.cfg
+./SimObjects/Airplanes/jf_C152_INSIDER/aircraft.cfg
+./SimObjects/Airplanes/JF_C69/aircraft.cfg
+./SimObjects/Airplanes/JF_Douglas_AC47/aircraft.cfg
+./SimObjects/Airplanes/JF_Douglas_C47/aircraft.cfg
+./SimObjects/Airplanes/JF_Douglas_C47_Glider_Tug/aircraft.cfg
+./SimObjects/Airplanes/JF_Douglas_DC3_PW/aircraft.cfg
+./SimObjects/Airplanes/JF_Douglas_DC3_Wright/aircraft.cfg
+./SimObjects/Airplanes/JF_L049/aircraft.cfg
+./SimObjects/Airplanes/JF_L049/L049_Paintkit/JF_L049_PAINTKIT/aircraft.cfg
+./SimObjects/Airplanes/jf_pa28_Archer/aircraft.cfg
+./SimObjects/Airplanes/jf_pa38_Tomahawk/aircraft.cfg
+./SimObjects/Airplanes/Jodel/aircraft.cfg
+./SimObjects/Airplanes/Lear45/aircraft.cfg
+./SimObjects/Airplanes/LVLD_B763/aircraft.cfg
+./SimObjects/Airplanes/LVLD_B763_Winglet/aircraft.cfg
+./SimObjects/Airplanes/Maule_M7_260C/aircraft.cfg
+./SimObjects/Airplanes/Maule_M7_260C_Ski/aircraft.cfg
+./SimObjects/Airplanes/MD_83/aircraft.cfg
+./SimObjects/Airplanes/Meyers 200D/aircraft.cfg
+./SimObjects/Airplanes/Mitsubishi T-2 - Tim Conrad/aircraft.cfg
+./SimObjects/Airplanes/Mitsubishi-J2M3/aircraft.cfg
+./SimObjects/Airplanes/Mooney_Bravo/aircraft.cfg
+./SimObjects/Airplanes/P-51D_Little_Friends_75_DT/aircraft.cfg
+./SimObjects/Airplanes/P-51D_Little_Friends_75_DT/Alternative Aircraft.CFG File/aircraft.cfg
+./SimObjects/Airplanes/P-51D_Little_Friends_VLR/aircraft.cfg
+./SimObjects/Airplanes/P-51D_Little_Friends_VLR/Alternative Aircraft.CFG File/aircraft.cfg
+./SimObjects/Airplanes/P51_Racer/aircraft.cfg
+./SimObjects/Airplanes/PA28_180/aircraft.cfg
+./SimObjects/Airplanes/ParaFoil/aircraft.cfg
+./SimObjects/Airplanes/Pasped Skylark HD/aircraft.cfg
+./SimObjects/Airplanes/Piper_J3Cub/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-600NGX/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-700NGX/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-700NGX WL/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-900NGX/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-900NGX WL/aircraft.cfg
+./SimObjects/Airplanes/POSKY-742V4_JT9/aircraft.cfg
+./SimObjects/Airplanes/POSKY-742V4_RB211/aircraft.cfg
+./SimObjects/Airplanes/Project Airbus A321-211/aircraft.cfg
+./SimObjects/Airplanes/Project Airbus A321-231/aircraft.cfg
+./SimObjects/Airplanes/Project Airbus A380-800/aircraft.cfg
+./SimObjects/Airplanes/RF F6F_Hellcat/aircraft.cfg
+./SimObjects/Airplanes/Riva Aquarama/aircraft.cfg
+./SimObjects/Airplanes/RNZAF CT4Ev2/aircraft.cfg
+./SimObjects/Airplanes/RNZAF Skyhawk A4-K AA/aircraft.cfg
+./SimObjects/Airplanes/RNZAF Skyhawk A4-K AG/aircraft.cfg
+./SimObjects/Airplanes/RNZAF Skyhawk A4-K Clean/aircraft.cfg
+./SimObjects/Airplanes/RNZAF Skyhawk A4-K Fuel/aircraft.cfg
+./SimObjects/Airplanes/RNZAF Strikemaster/aircraft.cfg
+./SimObjects/Airplanes/Robin_3x_EW/aircraft.cfg
+./SimObjects/Airplanes/Saab340_PAD/aircraft.cfg
+./SimObjects/Airplanes/SE5/aircraft.cfg
+./SimObjects/Airplanes/SimCheck A300B4-200/aircraft.cfg
+./SimObjects/Airplanes/T-38A_MilViz/aircraft.cfg
+./SimObjects/Airplanes/Tom_A330-MRTT/aircraft.cfg
+./SimObjects/Airplanes/Tom_A340-300/aircraft.cfg
+./SimObjects/Airplanes/Virtavia Heinkel He111H/aircraft.cfg
+./SimObjects/Airplanes/VL_737-300_BasePack/aircraft.cfg
+./SimObjects/Airplanes/VL_Wilco_Merge_737-300/aircraft.cfg
+./SimObjects/Airplanes/VS_RV8/aircraft.cfg
+./SimObjects/Airplanes/VS_SBD/aircraft.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/aircraft.cfg
+./SimObjects/Airplanes/Yak-9U/aircraft.cfg

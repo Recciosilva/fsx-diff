@@ -1,0 +1,616 @@
+./scenery/World/Scenery/ADE_FTX_NZNI_NZAG_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZAP_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZCX_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZDA_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZDV_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZGB_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZGS_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZKF_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZKO_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZMA_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZME_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZMS_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZNE_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZNR_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZOP_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZRU_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZSD_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZSL_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZTG_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZTH_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZTM_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZTO_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZWK_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZWN_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZNI_NZYP_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZAS_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZCB_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZCI_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZCS_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZCW_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZDN_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZEV_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZFF_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZFG_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZGC_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZGH_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZGM_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZGT_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZGY_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZHK_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZHP_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZHR_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZHT_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZKI_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZKM_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZLE_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZLX_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZMC_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZMF_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZMJ_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZMK_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZMO_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZMR_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZMW_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZNS_elevation_adjustment.bak
+./scenery/World/Scenery/ADE_FTX_NZSI_NZNS_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZNV_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZOA_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZOB_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZOM_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZOU_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZPH_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZPN_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZQN_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZRC_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZRI_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZRT_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZTI_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZTK_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZTL_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZTU_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZTZ_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZUK_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZVL_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZWF_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZWG_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZWL_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZWM_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_T010_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_T012_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_T013_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_T015_elevation_adjustment.BGL
+./scenery/World/Scenery/AF2_FSX_YSNF_ADE_ORBX_ALT.BGL
+./scenery/World/Scenery/AF2_NZKT.bgl
+./scenery/World/Scenery/AF2_NZOM.bgl
+./scenery/World/Scenery/AF2_NZPN.bgl
+./scenery/World/Scenery/AF2_NZRO.bgl
+./scenery/World/Scenery/AFX_LXGB_ALT.bgl
+./scenery/World/Scenery/AFX_NCRG_ALT.bgl
+./scenery/World/Scenery/AFX_NZNP.bgl
+./scenery/World/Scenery/AFX_NZNR.bgl
+./scenery/World/Scenery/AFX_NZNS.bgl
+./scenery/World/Scenery/BNXWorld0.bgl
+./scenery/World/Scenery/BNXWorld1.bgl
+./scenery/World/Scenery/BNXWorld2.bgl
+./scenery/World/Scenery/BNXWorld3.bgl
+./scenery/World/Scenery/BNXWorld4.bgl
+./scenery/World/Scenery/BNXWorld5.bgl
+./scenery/World/Scenery/bvcf.bgl
+./scenery/World/Scenery/Gdansk Rebiechowo EPGD_ARP.BGL
+./scenery/World/Scenery/image_globe_00.bgl
+./scenery/World/Scenery/image_globe_01.bgl
+./scenery/World/Scenery/image_globe_10.bgl
+./scenery/World/Scenery/image_globe_11.bgl
+./scenery/World/Scenery/image_globe_20.bgl
+./scenery/World/Scenery/image_globe_21.bgl
+./scenery/World/Scenery/Jasionka EPRZ_ARP.BGL
+./scenery/World/Scenery/kess_traffic_fisher.bgl
+./scenery/World/Scenery/kess_traffic_motor.bgl
+./scenery/World/Scenery/kess_traffic_sail.bgl
+./scenery/World/Scenery/kess_ymaa_ai.bgl
+./scenery/World/Scenery/KMCO_ADE_OBJ.BGL
+./scenery/World/Scenery/Kone NWWD_ARP.bgl
+./scenery/World/Scenery/lak.bgl
+./scenery/World/Scenery/NZDA_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZFI_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZGA_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZHS_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZMA_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZNS_ADEX_GVF_ALT.BGL
+./scenery/World/Scenery/NZRU_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZTN_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZUN_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZWNmin.bgl
+./scenery/World/Scenery/NZWP_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/NZWV_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/OLRA_ADEX_LEBOR_ALT.BGL
+./scenery/World/Scenery/Ouloup NWWV_ARP.bgl
+./scenery/World/Scenery/Pyrzowice EPKT_ARP.bgl
+./scenery/World/Scenery/RPLL_ADE_ORI_ALT.BGL
+./scenery/World/Scenery/Rzeszow EPRJ_ARP.BGL
+./scenery/World/Scenery/TahitiX_AirTraffic.bgl
+./scenery/World/Scenery/TahitiX_BoatTraffic.bgl
+./scenery/World/Scenery/Traffic GNZLAP54_FSX.bgl
+./scenery/World/Scenery/Traffic-Raro_FSX.bgl
+./scenery/World/Scenery/TrafficAlhambra_FSX.bgl
+./scenery/World/Scenery/trafficBoats.bgl
+./scenery/World/Scenery/trafficCarriers.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Aeroflot Russian Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Aerolineas Argentinas_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Aerologic_Su09_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Aerotaxis Del Mediterraneo [Ryjet]_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Afriqiyah Airways_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Alps_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Arabia Maroc_Su09_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Armenia_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Asia [Thailand]_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Astana_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Austral_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Bridge Cargo_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Busan_Su10_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Cargo Germany_Wi12_FSX.bgl
+./scenery/World/Scenery/traffic_000_woa_air china_su10_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Gemini_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Greenland_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Italy Polska_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Italy_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Jamaica_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Mauritius_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Nostrum_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air One_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Pacific_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Southwest_Su08_FSX.bgl
+./scenery/World/Scenery/traffic_000_woa_air tahiti nui_wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air Tanzania_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Air VIA Bulgarian Airways_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Airblue_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Airnorth_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Arkia - Israeli Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Astra Airlines Greece_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Aurela_Su09_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Austrojet_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Aviana Airways Limited_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Aviavilsa_Su09_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_BA Cityflyer_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Bahamasair_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Bahrain Air_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Batavia Air_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Best Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Blue1_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_British Gulf International Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Brussels Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Bulgaria Air_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Bulgarian Air Charter_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Cargolux Airlines International_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Caribbean Airways Limited_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Carpatair_Su08_FSX.bgl
+./scenery/World/Scenery/traffic_000_woa_cayman airways_su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_China Airlines_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Cimber Air_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Click Airways_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_COPA_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Corendon Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Croatia Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Dana Air_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Delta Air Lines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_DHL Air_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Dragonair_Wi09_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Druk Air Corporation_Su09_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_East African Safari Air_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_East Star Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_EgyptAir Cargo_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Elmagal Aviation Services_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Emirates_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Empresa Aerocaribbean_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Eritrean Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Eurocypria Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_European Air Charter_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Evergreen International Airlines_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Exin_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Farnair Hungary_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Farnair Switzerland_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Firefly_Wi08_FSX.bgl
+./scenery/World/Scenery/traffic_000_woa_fly 540_wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Freebird Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Garuda Indonesia_Wi09_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Golden Air Flyg_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Grand China Express_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Grandstar Cargo_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Gulf Air_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Hawaiian Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Helvetic.com_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Hokkaido Air System_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Hokkaido International Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Iberia_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Iberworld Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Indigo Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Islas Airways_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Itali Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/traffic_000_woa_jal express_su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Janet Airlines_Su10_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Japan Air Commuter_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Japan Airlines (Cargo)_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_JAT Yugoslav Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Jet Airways [India]_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Jet2_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Jetblue Airways_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Jett8 Cargo Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Jettime_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_KLM Cityhopper_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Kona Shuttle_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Korean Air Lines (Cargo)_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_LIAT_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Libyan Arab Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Lion Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Livingston_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_LOT - Polish Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_LOT - Polish Airlines_Su11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Lufthansa Cargo_Su12_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Luxair_Su08_FSX.bgl
+./scenery/World/Scenery/traffic_000_woa_macedonian airlines_wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_MALEV Hungarian Airlines_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Mandarin Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Martinair Holland_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Medavia_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Meridian Aviation_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Meridiana_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Middle East Airlines - AirLiban_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Midwest Connect_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_MNG Airlines Cargo_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Moldavian Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Montenegro Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Nas Air_Su08_FSX.bgl
+./scenery/World/Scenery/traffic_000_woa_nasair_wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_National Jet Systems_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Nok Air_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Northwest Airlink_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_OLT-Ostfriesische Lufttransport_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Oman Air_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_OpenSkies_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Our Airline_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Ozjet_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Paramount Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Peach_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Pelican Air_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Philippine Airlines_Su11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Precision Air Services_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Qantas Jetconnect_Wi12_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Qatar Air Cargo_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Qatar Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Red Wings_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Robin Hood Aviation_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Royal Jordanian_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Rubystar_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Ryan International Airlines_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Ryanair_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Scoot_Su12_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Servicios Aereos Intergrales_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_SilkAir_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Singapore Airlines_Su09.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Sky Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_SkyAirWorld_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_SkyWest Airlines [Australia]_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Solaseed Air_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Spring Airlines_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Surinam Airways_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Swiss_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_TAP - Air Portugal_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_TAROM_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Tassili Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Thai Airways International_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Thomsonfly_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Turkmenistan Airlines_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Ukraine International Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Ultimate GA Citation 550_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_United Eagle Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_VietJet Air_Wi11_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Vietnam Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Vueling Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Westjet_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_White_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Wideroe's Flyveselskap_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Wings Air Indonesia_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Wizz Air_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Yemenia Airways_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_000_WoA_Zest Air_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_00_WoA_Air Wisconsin_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_00_WoA_Bangkok Airways_Wi05_FSX.bgl
+./scenery/World/Scenery/Traffic_00_WoA_Centurion Air Cargo_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_00_WoA_EVA Airways_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_00_WoA_Great Wall Airlines_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_00_WoA_Lufthansa Cargo_Wi05_FSX.bgl
+./scenery/World/Scenery/Traffic_00_WoA_Royal Air Maroc_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_06_WoA_Ghana International Airlines_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_083_WoA_Aer Lingus_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_094_WoA_Air Berlin_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_09_WoA_Frontier JetExpress_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_100_WoA_Clickair_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_102_WoA_Transaero Airlines_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_105_WoA_Air Dolomiti_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_106_WoA_LAM - Linhas Aereas de Mocambique_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_107_WoA_Starflyer Japan_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_108_WoA_Allegiant Air_Su06_FSX.bgl
+./scenery/World/Scenery/traffic_111_woa_korean air lines_su07_FSX.bgl
+./scenery/World/Scenery/Traffic_115_WoA_Southwest Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_118_WoA_Juneyao Airlines_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_119_WoA_flyniki_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_120_WoA_Sun Country Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_122_WoA_VLM Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_125_WoA_Aegean Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_126_WoA_TUIfly_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_127_WoA_Air France_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_128_WoA_Mango_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_12_WoA_Styrian_Spirit_Wi05_FSX.bgl
+./scenery/World/Scenery/Traffic_132_WoA_Air Bosna_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_13_WoA_United Parcel Service_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_143_WoA_All Nippon Airways_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_145_WoA_Thomas Cook Airline [Belgium]_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_146_WoA_Air India Express_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_148_WoA_Virgin America_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_14_WoA_Omni Air Express_Wi05_FSX.bgl
+./scenery/World/Scenery/Traffic_151_WoA_Air Europa_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_155_WoA_Scandinavian Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_158_WoA_Germania Fluggesellschaft_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_15_WoA_Xiamen Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_167_WoA_bmiBaby_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_170_WoA_China Airlines Cargo_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_172_WoA_Lufthansa (Regional Partners)_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_175_WoA_LAN Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_176_WoA_SriLankan Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_178_WoA_Kaliningradavia_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_182_WoA_Comair [South Africa]_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_184_WoA_Virgin Atlantic Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_187_WoA_Dragonair_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_188_WoA_Cathay Pacific Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_189_WoA_Mexicana_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_191_WoA_United Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_192_WoA_Aigle Azur_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_193_WoA_Sevenair (Tuninter)_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_195_WoA_Skyeurope Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_196_WoA_Turkish Airlines_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_197_WoA_Air Comet_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_198_WoA_Ethiopian Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_19_WoA_Hong Kong Express_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_201_WoA_Finnair_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_205_WoA_International Jet Management_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_206_WoA_Darwin Airline_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_208_WoA_Ultimate GA King Air F90_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_210_WoA_Kenya Airways_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_214_WoA_Pakistan International Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_214_WoA_Transasia Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_217_WoA_Hamburg International_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_218_WoA_Valuair_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_221_WoA_Transavia_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_224_WoA_Ultimate GA Learjet 40_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_225_WoA_Alaska Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_226_WoA_Sichuan Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_227_WoA_US Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_228_WoA_South African Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_229_WoA_South African Express Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_231_WoA_Georgian National Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_233_WoA_CSA Czech Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_237_WoA_Riau Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_240_WoA_Delta Connection Kenya_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_241_WoA_Intersky_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_243_WoA_China Southern Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_244_WoA_L'Avion_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_245_WoA_Eastern Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_249_WoA_Centralwings_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_24_WoA_Aer Arann_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_250_WoA_Aeromexico_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_252_WoA_Flyglobespan_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_253_WoA_TNT Airways_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_254_WoA_Ultimate GA Cessna 402_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_25_WoA_KLM Royal Dutch Airlines (Cargo)_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_26_WoA_American Airlines_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_27_WoA_Continental Air Lines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_28_WoA_Air Philippines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_28_WoA_Shenzhen Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_32_WoA_AirTran Airways_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_36_WoA_Adria Airways_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_39_WoA_Jet4You_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_40_WoA_TED by United_Su07_FSX.bgl
+./scenery/World/Scenery/traffic_42_woa_lufthansa_wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_43_WoA_Air India_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_52_WoA_Nippon Cargo Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_56_WoA_Jazeera Airways_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_58_WoA_British Airways_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_60_WoA_FedEx_Su05_FSX.bgl
+./scenery/World/Scenery/Traffic_61_WoA_USA 3000_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_63_WoA_Menajet_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_65_WoA_Alitalia_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_67_WoA_SunExpress_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_68_WoA_Spanair_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_70_WoA_KLM Royal Dutch Airlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_74_WoA_CEBU Pacific Air_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_75_WoA_Izair_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_79_WoA_Easyjet_su07_FSX.bgl
+./scenery/World/Scenery/Traffic_81_WoA_ScotAirways_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_85_WoA_Midwest Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_87_WoA_Monarch Airlines [United Kingdom]_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_88_WoA_Estonian Air_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_91_WoA_Jade Cargo_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_93_WoA_Jetstar Asia_Wi07_FSX.bgl
+./scenery/World/Scenery/Traffic_95_WoA_Miami Air International_Su06_FSX.bgl
+./scenery/World/Scenery/Traffic_97_WoA_Northwest Airlines_Wi06_FSX.bgl
+./scenery/World/Scenery/Traffic_a4_2.bgl
+./scenery/World/Scenery/Traffic_A4_75.bgl
+./scenery/World/Scenery/Traffic_Aeroland_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_ABX_Wi11-12.bgl
+./scenery/World/Scenery/Traffic_AIG_AirTransportInternational_Wi11-12.bgl
+./scenery/World/Scenery/Traffic_AIG_JejuAir_Wi11-12.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_AirCairo_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_AirCanada_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_AirMemphis_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_AurignyAirServices_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_BMIBritishMidland_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_Condor_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_CyprusAirways_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_EgyptAir_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_flybe_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_Jet2_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_JetLite_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_KingfisherAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_LotusAir_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_Manx2_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_PolynesianBlue_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su08_WestAirLuxembourg_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su09_TiaraAir.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_AirMacau.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_AsianaCargo_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_AtlasAir_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_BritishAirwaysWorldCargo_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_CapitalAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_ChinaPostalAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_HainanAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_JinAir.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_LuckyAir_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_MahanAir.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_SaudiArabianAirlinesCargo_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_ShanghaiAirlinesCargo_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Su10_SouthernAir_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_SurinamAirways_Su11.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi08-09_ArrowAirCargo.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi08-09_FedExExpress_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi08-09_ShanghaiAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi09-10_AirAsiaX_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi09-10_ChinaEasternAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi09-10_ChinaSouthernAirlinesCargo_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi09-10_DutchAntillesExpress.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi09-10_IndonesiaAirAsia_FSX.bgl
+./scenery/World/Scenery/Traffic_AIG_Wi09-10_ThaiAirAsia_FSX.bgl
+./scenery/World/Scenery/Traffic_Air New Zealand Cargo_FSX.bgl
+./scenery/World/Scenery/Traffic_AirBaltic_wi0910.bgl
+./scenery/World/Scenery/Traffic_AirSinai_FSX.bgl
+./scenery/World/Scenery/Traffic_air_mandalay_FSX.bgl
+./scenery/World/Scenery/Traffic_AI_Volotea_Su12.bgl
+./scenery/World/Scenery/Traffic_AlexandriaAirlines_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_Al_Sp12_FAT-Far Eastern Air Transport.bgl
+./scenery/World/Scenery/Traffic_AMC-Airlines_FSX.bgl
+./scenery/World/Scenery/Traffic_AMC_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_Ameriflight_Su12.bgl
+./scenery/World/Scenery/Traffic_ANADOLUJET_FSX.bgl
+./scenery/World/Scenery/Traffic_Aqaba_FSX.bgl
+./scenery/World/Scenery/Traffic_Armavia_FSX.bgl
+./scenery/World/Scenery/Traffic_Astar Air Cargo Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_AUA_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_AUI_Su07_FSX.bgl
+./scenery/World/Scenery/Traffic_Avalon.bgl
+./scenery/World/Scenery/Traffic_Balkan Holidays_FSX.bgl
+./scenery/World/Scenery/Traffic_berjaya_b_FSX.bgl
+./scenery/World/Scenery/Traffic_BizNZ-demo_FSX.bgl
+./scenery/World/Scenery/Traffic_BizNZ_FSX.bgl
+./scenery/World/Scenery/Traffic_Brisbane.bgl
+./scenery/World/Scenery/Traffic_BRQ_Su09.bgl
+./scenery/World/Scenery/Traffic_brw_1q06_syrianair_FSX.bgl
+./scenery/World/Scenery/Traffic_BRW_Su08_HorizonAir_FSX.bgl
+./scenery/World/Scenery/Traffic_CNA_Summer06_FSX.bgl
+./scenery/World/Scenery/Traffic_coeen_FSX.bgl
+./scenery/World/Scenery/Traffic_dniproavia_FSX.bgl
+./scenery/World/Scenery/Traffic_ECA_EurocypriaAirlines_fall06_FSX.bgl
+./scenery/World/Scenery/Traffic_El Al_Winter_2007_FSX.bgl
+./scenery/World/Scenery/Traffic_enterair_su11.bgl
+./scenery/World/Scenery/Traffic_EuroAir_FSX.bgl
+./scenery/World/Scenery/Traffic_Euromanx_summer07_FSX.bgl
+./scenery/World/Scenery/Traffic_EVAI_Su07_Astraeus_FSX.bgl
+./scenery/World/Scenery/Traffic_EVAI_Su07_Futura_FSX.bgl
+./scenery/World/Scenery/Traffic_EVAI_Su07_OnurAir_FSX.bgl
+./scenery/World/Scenery/Traffic_evai_su07_unitedexpress_FSX.bgl
+./scenery/World/Scenery/Traffic_EVAI_Wi07-08_AmericanEagle_FSX.bgl
+./scenery/World/Scenery/Traffic_EVAI_Wi07-08_USAirwaysExpress_FSX.bgl
+./scenery/World/Scenery/Traffic_FirstChoice_Su08_Week2_FSX.bgl
+./scenery/World/Scenery/Traffic_FLY AIR_FLM-summer06 FP_FSX.bgl
+./scenery/World/Scenery/Traffic_Flybaboo_FSX.bgl
+./scenery/World/Scenery/Traffic_FTX Aust-NZ Airlines.bgl
+./scenery/World/Scenery/Traffic_FTX GA Traffic.bgl
+./scenery/World/Scenery/Traffic_FTX International Airlines.bgl.OFF
+./scenery/World/Scenery/Traffic_georgian_FSX.bgl
+./scenery/World/Scenery/Traffic_HAAJordan_FSX.bgl
+./scenery/World/Scenery/Traffic_Hashemite_FSX.bgl
+./scenery/World/Scenery/Traffic_Hawaii_FSX.bgl
+./scenery/World/Scenery/Traffic_HTAI_NONZ_FSX.bgl
+./scenery/World/Scenery/Traffic_IansAirNZ_A320.bgl
+./scenery/World/Scenery/Traffic_IansAirNZ_AT7.bgl
+./scenery/World/Scenery/Traffic_IAS_FSX.bgl
+./scenery/World/Scenery/Traffic_Indian_Summer08_FSX.bgl
+./scenery/World/Scenery/Traffic_JAH_Wi07-08_SpiritAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_JordanAF_FSX.bgl
+./scenery/World/Scenery/Traffic_JordanAviation_FSX.bgl
+./scenery/World/Scenery/Traffic_Kai Tak PAX_FSX.bgl
+./scenery/World/Scenery/Traffic_Kalitta_FSX.bgl
+./scenery/World/Scenery/Traffic_KTHY-KYV-summer08 FP_FSX.bgl
+./scenery/World/Scenery/Traffic_lao_FSX.bgl
+./scenery/World/Scenery/Traffic_LDK_Su12_ShandongAirlines.bgl
+./scenery/World/Scenery/Traffic_LDK_Su12_UniAir.bgl
+./scenery/World/Scenery/Traffic_MAIW_Nellis_AFB_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_Nellis_Humvee_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_USAF_Thunderbirds_FSX.bgl
+./scenery/World/Scenery/Traffic_MASkargo_Wi10_FSX.bgl
+./scenery/World/Scenery/Traffic_Meelad_FSX.bgl
+./scenery/World/Scenery/Traffic_MRAI_Su06_AirSahara_FSX.bgl
+./scenery/World/Scenery/Traffic_MRAI_Su07_JapanAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_MRAI_Wi07-08_SamaAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_MYTRAVEL_DK_w5_6_FSX.bgl
+./scenery/World/Scenery/Traffic_NorwegianAirShuttle_Su12.bgl
+./scenery/World/Scenery/Traffic_OIF_FSX.bgl
+./scenery/World/Scenery/Traffic_OLTExpressPoland_Su12.bgl
+./scenery/World/Scenery/Traffic_PBNZ_Wi08_FSX.bgl
+./scenery/World/Scenery/Traffic_PB_Air_FSX.bgl
+./scenery/World/Scenery/Traffic_PEGASUS_PGT-SUMMER07_FSX.bgl
+./scenery/World/Scenery/Traffic_Raglan_FSX.bgl
+./scenery/World/Scenery/Traffic_RNZAF_B200_FSX.bgl
+./scenery/World/Scenery/Traffic_RNZAF_B757_FSX.bgl
+./scenery/World/Scenery/Traffic_RNZAF_C130_FSX.bgl
+./scenery/World/Scenery/Traffic_RNZAF_Iroqois_FSX.bgl
+./scenery/World/Scenery/Traffic_RNZAF_P3_FSX.bgl
+./scenery/World/Scenery/Traffic_RoyalTonga_FSX.bgl
+./scenery/World/Scenery/Traffic_S7_SiberiaAirlines_Su12.bgl
+./scenery/World/Scenery/Traffic_safe_FSX.bgl
+./scenery/World/Scenery/Traffic_Saudi Arabian Airlines_FSX.bgl
+./scenery/World/Scenery/Traffic_Sham Wings Airlines_SAW-summer08 FP_FSX.bgl
+./scenery/World/Scenery/Traffic_ships_sandiego_FSX.bgl
+./scenery/World/Scenery/Traffic_SHY_Su08_FSX.bgl
+./scenery/World/Scenery/Traffic_Skyexpress_GR_su07_FSX.bgl
+./scenery/World/Scenery/Traffic_SU08_Helvetic_Airways_FSX.bgl
+./scenery/World/Scenery/Traffic_su08_neos_FSX.bgl
+./scenery/World/Scenery/Traffic_Su08_OlympicAirlines_FSX.bgl
+./scenery/World/Scenery/Traffic_Su10_Korean_Air_Cargo_FSX.bgl
+./scenery/World/Scenery/Traffic_Su11_Air_Hong_Kong_FSX.bgl
+./scenery/World/Scenery/Traffic_Summer07_BMED_FSX.bgl
+./scenery/World/Scenery/Traffic_Tristar Air Cargo_FSX.bgl
+./scenery/World/Scenery/Traffic_United Nations Flightplans_FSX.bgl
+./scenery/World/Scenery/Traffic_Veravia_FSX.bgl
+./scenery/World/Scenery/Traffic_VladivostokAvia_VladivostokAir.bgl
+./scenery/World/Scenery/Traffic_VOZ_FSX.bgl
+./scenery/World/Scenery/Traffic_WIN08_AirMediterranee_FSX.bgl
+./scenery/World/Scenery/Traffic_XLA_Su08_FSX.bgl
+./scenery/World/Scenery/TTCP_ADE_RGM_ALT.BGL
+./scenery/World/Scenery/TTPP_ADE_RGM_ALT.BGL
+./scenery/World/Scenery/VaernesX ENVA.bgl
+./scenery/World/Scenery/YCCT_ADEX_aero_ALT.BGL
+./scenery/World/Scenery/ZBAA_ADE_CVX.bgl
+./scenery/World/Scenery/ZBAA_ADE_RS.BGL
+./scenery/World/Scenery/ZSSS_ADEX_MB.ad2
+./scenery/World/Scenery/_removed/ADE_FTX_NZNI_NZPM_elevation_adjustment.BGL
+./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZCH_elevation_adjustment.BGL
+./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZFJ_elevation_adjustment.BGL
+./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZWB_elevation_adjustment.BGL
+./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZWS_elevation_adjustment.BGL
+./scenery/World/Scenery/_removed/AF2_NZKK.bgl
+./scenery/World/Scenery/_removed/AF2_NZWB.bgl
+./scenery/World/Scenery/_removed/AIG_RPLL_ADE_MB_Default.BGL
+./scenery/World/Scenery/_removed/AIG_RPLL_ADE_MB_Default_CVX.bgl
+./scenery/World/Scenery/_removed/NZHK_ADEX_FSX.ad2.bak
+./scenery/World/Scenery/_removed/NZHK_ADEX_FSX.bgl
+./scenery/World/Scenery/_removed/NZHS_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/_removed/NZMF_ADEX_VLC_ALT.BGL
+./scenery/World/Scenery/_removed/trafficAircraft.bgl
+./scenery/World/Scenery/_removed/TrafficAirNZ_MountCook_ANZ.bgl
+./scenery/World/Scenery/_removed/Traffic_00_WoA_Singapore Airlines_Wi07_FSX.bgl
+./scenery/World/Scenery/_removed/Traffic_211_WoA_Norwegian Air Shuttle_Wi07_FSX.bgl
+./scenery/World/Scenery/_removed/Traffic_FTX Aust-NZ Airlines - ORIG.bgl
+./scenery/World/Scenery/_removed/Traffic_FTX Aust-NZ Airlines.bgl
+./scenery/World/Scenery/_removed/Traffic_FTX GA Traffic.bgl
+./scenery/World/Scenery/_removed/Traffic_FTX International Airlines.bgl.OFF
+./scenery/World/Scenery/_removed/Traffic_FTX_NZSI.bgl.OFF

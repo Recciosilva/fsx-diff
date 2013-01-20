@@ -1,0 +1,841 @@
+./Addon Scenery/
+./Addon Scenery/Africa
+./Addon Scenery/Africa/Scenery
+./Addon Scenery/Africa/Scenery/AeroworxLC
+./Addon Scenery/Africa/Scenery/AeroworxLC/Scenery
+./Addon Scenery/Africa/Scenery/SASceneryFSX
+./Addon Scenery/Africa/Scenery/SASceneryFSX/Scenery
+./Addon Scenery/AIRAC-updates
+./Addon Scenery/AIRAC-updates/scenery
+./Addon Scenery/Alhambra
+./Addon Scenery/Alhambra/scenery
+./Addon Scenery/Alhambra/texture
+./Addon Scenery/Asia
+./Addon Scenery/Asia/Asia_Misc
+./Addon Scenery/Asia/Asia_Misc/scenery
+./Addon Scenery/Asia/Asia_Misc/scenery/_REMOVED
+./Addon Scenery/Asia/Denpasar Bali
+./Addon Scenery/Asia/Denpasar Bali/scenery
+./Addon Scenery/Asia/Denpasar Bali/scenery/_DEL
+./Addon Scenery/Asia/Denpasar Bali/texture
+./Addon Scenery/Asia/Denpasar Bali/texture/_DEL
+./Addon Scenery/Asia/Hong Kong
+./Addon Scenery/Asia/Hong Kong/Kai Tak VHHX
+./Addon Scenery/Asia/Hong Kong/Kai Tak VHHX/scenery
+./Addon Scenery/Asia/Hong Kong/Kai Tak VHHX/texture
+./Addon Scenery/Asia/India
+./Addon Scenery/Asia/India/VABB Mumbai
+./Addon Scenery/Asia/India/VABB Mumbai/scenery
+./Addon Scenery/Asia/India/VABB Mumbai/texture
+./Addon Scenery/Asia/India/VAPO Pune
+./Addon Scenery/Asia/India/VAPO Pune/scenery
+./Addon Scenery/Asia/Korea
+./Addon Scenery/Asia/Korea/Cheongju
+./Addon Scenery/Asia/Korea/Cheongju/scenery
+./Addon Scenery/Asia/Korea/Cheongju/texture
+./Addon Scenery/Asia/Korea/Gimhae
+./Addon Scenery/Asia/Korea/Gimhae/scenery
+./Addon Scenery/Asia/Korea/Gimhae/texture
+./Addon Scenery/Asia/Korea/Gimpo - RKSS
+./Addon Scenery/Asia/Korea/Gimpo - RKSS/SCENERY
+./Addon Scenery/Asia/Korea/Gimpo - RKSS/TEXTURE
+./Addon Scenery/Asia/Korea/Gwangju
+./Addon Scenery/Asia/Korea/Gwangju/SCENERY
+./Addon Scenery/Asia/Korea/Gwangju/texture
+./Addon Scenery/Asia/Korea/Muan
+./Addon Scenery/Asia/Korea/Muan/scenery
+./Addon Scenery/Asia/Korea/Muan/texture
+./Addon Scenery/Asia/Korea/Muan/voice pack
+./Addon Scenery/Asia/Korea/Ulsan
+./Addon Scenery/Asia/Korea/Ulsan/scenery
+./Addon Scenery/Asia/Korea/Ulsan/texture
+./Addon Scenery/Asia/Phillipines
+./Addon Scenery/Asia/Phillipines/NINOY AQUINO INTERNATIONAL
+./Addon Scenery/Asia/Phillipines/NINOY AQUINO INTERNATIONAL/scenery
+./Addon Scenery/Asia/Phillipines/NINOY AQUINO INTERNATIONAL/texture
+./Addon Scenery/Asia/Phillipines/NINOY AQUINO INTERNATIONAL BUILDINGS
+./Addon Scenery/Asia/Phillipines/NINOY AQUINO INTERNATIONAL BUILDINGS/scenery
+./Addon Scenery/Asia/Phillipines/NINOY AQUINO INTERNATIONAL BUILDINGS/texture
+./Addon Scenery/Asia/RCTP_Taiwan-Taoyuan
+./Addon Scenery/Asia/RCTP_Taiwan-Taoyuan/scenery
+./Addon Scenery/Asia/RCTP_Taiwan-Taoyuan/texture
+./Addon Scenery/Asia/RCTP_Taiwan_Background
+./Addon Scenery/Asia/RCTP_Taiwan_Background/scenery
+./Addon Scenery/Asia/RCTP_Taiwan_Background/texture
+./Addon Scenery/Asia/Vietnam
+./Addon Scenery/Asia/Vietnam/Noi Bai International Airport FSX
+./Addon Scenery/Asia/Vietnam/Noi Bai International Airport FSX/Scenery
+./Addon Scenery/Asia/Vietnam/Noi Bai International Airport FSX/Texture
+./Addon Scenery/Asia/Vietnam/Tan Son Nhat_VVTS
+./Addon Scenery/Asia/Vietnam/Tan Son Nhat_VVTS/Optional
+./Addon Scenery/Asia/Vietnam/Tan Son Nhat_VVTS/Scenery
+./Addon Scenery/Asia/Vietnam/Tan Son Nhat_VVTS/Texture
+./Addon Scenery/Asia/Vietnam/TONG CHAO CAT BI 2011
+./Addon Scenery/Asia/Vietnam/TONG CHAO CAT BI 2011/scenery
+./Addon Scenery/Asia/Vietnam/TONG CHAO CAT BI 2011/texture
+./Addon Scenery/Asia/WMKK_KualaLumpur
+./Addon Scenery/Asia/WMKK_KualaLumpur/scenery
+./Addon Scenery/Asia/WMKPv2-Penang
+./Addon Scenery/Asia/WMKPv2-Penang/Scenery
+./Addon Scenery/Asia/WMKPv2-Penang/Texture
+./Addon Scenery/Asia/ZGGG_Guangzhou_Baiyun
+./Addon Scenery/Asia/ZGGG_Guangzhou_Baiyun/scenery
+./Addon Scenery/Asia/ZSPD Pudong
+./Addon Scenery/Asia/ZSPD Pudong/scenery
+./Addon Scenery/Asia/ZSSS-Shanghai-Hongqiao
+./Addon Scenery/Asia/ZSSS-Shanghai-Hongqiao/scenery
+./Addon Scenery/Asia/ZSSS-Shanghai-Hongqiao/texture
+./Addon Scenery/Asia/ZSSS-Shanghai-Hongqiao/_docs
+./Addon Scenery/Asia/_DELETED
+./Addon Scenery/Asia/_DELETED/Macau_VMMC
+./Addon Scenery/Asia/_DELETED/Macau_VMMC/scenery
+./Addon Scenery/Asia/_DELETED/WSSS_SingaporeChangi
+./Addon Scenery/Asia/_DELETED/WSSS_SingaporeChangi/scenery
+./Addon Scenery/Asia/_DELETED/WSSS_SingaporeChangi/texture
+./Addon Scenery/Australia
+./Addon Scenery/Australia/Adelaide
+./Addon Scenery/Australia/Adelaide/scenery
+./Addon Scenery/Australia/Ants Aussie Airports Ballina
+./Addon Scenery/Australia/Ants Aussie Airports Ballina/scenery
+./Addon Scenery/Australia/Ants Aussie Airports Ballina/texture
+./Addon Scenery/Australia/Ants Aussie Airports Brisbane YBBN
+./Addon Scenery/Australia/Ants Aussie Airports Brisbane YBBN/Scenery
+./Addon Scenery/Australia/Ants Aussie Airports Brisbane YBBN/Texture
+./Addon Scenery/Australia/Ants Aussie Airports Hamilton YHML
+./Addon Scenery/Australia/Ants Aussie Airports Hamilton YHML/scenery
+./Addon Scenery/Australia/Ants Aussie Airports Hamilton YHML/texture
+./Addon Scenery/Australia/Australia Misc
+./Addon Scenery/Australia/Australia Misc/scenery
+./Addon Scenery/Australia/Coffs Harbour V3
+./Addon Scenery/Australia/Coffs Harbour V3/scenery
+./Addon Scenery/Australia/Coffs Harbour V3/texture
+./Addon Scenery/Australia/Esperance YESP
+./Addon Scenery/Australia/Esperance YESP/scenery
+./Addon Scenery/Australia/Esperance YESP/texture
+./Addon Scenery/Baltics
+./Addon Scenery/Baltics/Riga Airport
+./Addon Scenery/Baltics/Riga Airport/Scenery
+./Addon Scenery/Baltics/Riga Airport/Texture
+./Addon Scenery/Billund Airport X
+./Addon Scenery/Billund Airport X/Scenery
+./Addon Scenery/Billund Airport X/Texture
+./Addon Scenery/Canada
+./Addon Scenery/Canada/Castlegar_CYCG
+./Addon Scenery/Canada/Castlegar_CYCG/Scenery
+./Addon Scenery/Canada/Castlegar_CYCG/Texture
+./Addon Scenery/Canada/TorontoPearson
+./Addon Scenery/Canada/TorontoPearson/Scenery
+./Addon Scenery/Canada/TorontoPearson/Texture
+./Addon Scenery/Canada/Vancouver_CYVR
+./Addon Scenery/Canada/Vancouver_CYVR/scenery
+./Addon Scenery/Canada/Vancouver_CYVR/texture
+./Addon Scenery/Canada/Yellowknife_CYZF_2010
+./Addon Scenery/Canada/Yellowknife_CYZF_2010/Scenery
+./Addon Scenery/Canada/Yellowknife_CYZF_2010/Texture
+./Addon Scenery/Caribbean
+./Addon Scenery/Caribbean/Antilles
+./Addon Scenery/Caribbean/Antilles/Flamingo Bonaire TNCB
+./Addon Scenery/Caribbean/Antilles/Flamingo Bonaire TNCB/scenery
+./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM
+./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM/scenery
+./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM/texture
+./Addon Scenery/Caribbean/Antilles/_DELETED_Willemstad TNCC
+./Addon Scenery/Caribbean/Antilles/_DELETED_Willemstad TNCC/scenery
+./Addon Scenery/Caribbean/Aruba
+./Addon Scenery/Caribbean/Bahamas
+./Addon Scenery/Caribbean/Bahamas/Bahamas Airports
+./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery
+./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/_DELETED
+./Addon Scenery/Caribbean/Bahamas/MY Eleutheria Island
+./Addon Scenery/Caribbean/Bahamas/MY Eleutheria Island/scenery
+./Addon Scenery/Caribbean/Bahamas/MYAO Mores Island
+./Addon Scenery/Caribbean/Bahamas/MYAO Mores Island/scenery
+./Addon Scenery/Caribbean/Bahamas/MYAO Mores Island/textures
+./Addon Scenery/Caribbean/Bahamas/MYEF Exuma
+./Addon Scenery/Caribbean/Bahamas/MYEF Exuma/scenery
+./Addon Scenery/Caribbean/Bahamas/MYEF Exuma/texture
+./Addon Scenery/Caribbean/Bahamas/MYEH N Eleutheria
+./Addon Scenery/Caribbean/Bahamas/MYEH N Eleutheria/scenery
+./Addon Scenery/Caribbean/Bahamas/MYEH N Eleutheria/texture
+./Addon Scenery/Caribbean/Bahamas/MYEM Governor Harbour
+./Addon Scenery/Caribbean/Bahamas/MYEM Governor Harbour/scenery
+./Addon Scenery/Caribbean/Bahamas/MYEM Governor Harbour/texture
+./Addon Scenery/Caribbean/Bahamas/MYER S Eleutheria
+./Addon Scenery/Caribbean/Bahamas/MYER S Eleutheria/scenery
+./Addon Scenery/Caribbean/Bahamas/MYER S Eleutheria/texture
+./Addon Scenery/Caribbean/Bahamas/MYES BlackPoint
+./Addon Scenery/Caribbean/Bahamas/MYES BlackPoint/scenery
+./Addon Scenery/Caribbean/Bahamas/MYES BlackPoint/texture
+./Addon Scenery/Caribbean/Bahamas/MYXE Lee Stocking
+./Addon Scenery/Caribbean/Bahamas/MYXE Lee Stocking/scenery
+./Addon Scenery/Caribbean/Bahamas/MYXG Norman Cay
+./Addon Scenery/Caribbean/Bahamas/MYXG Norman Cay/scenery
+./Addon Scenery/Caribbean/Bahamas/MYXG Norman Cay/texture
+./Addon Scenery/Caribbean/Bahamas/MYXH Sampson Cay
+./Addon Scenery/Caribbean/Bahamas/MYXH Sampson Cay/scenery
+./Addon Scenery/Caribbean/Bahamas/MYXH Sampson Cay/texture
+./Addon Scenery/Caribbean/Barbados
+./Addon Scenery/Caribbean/Barbados/Grantley Adams TBPB
+./Addon Scenery/Caribbean/Barbados/Grantley Adams TBPB/Charts
+./Addon Scenery/Caribbean/Barbados/Grantley Adams TBPB/scenery
+./Addon Scenery/Caribbean/Barbados/Grantley Adams TBPB/texture
+./Addon Scenery/Caribbean/Caribbean-misc
+./Addon Scenery/Caribbean/Caribbean-misc/scenery
+./Addon Scenery/Caribbean/Caribbean-misc/scenery/_REMOVED
+./Addon Scenery/Caribbean/Caribbean-misc/texture
+./Addon Scenery/Caribbean/Caribbean-misc/texture/_REMOVED
+./Addon Scenery/Caribbean/Cuba
+./Addon Scenery/Caribbean/Cuba/scenery
+./Addon Scenery/Caribbean/Cuba/texture
+./Addon Scenery/Caribbean/Jamaica
+./Addon Scenery/Caribbean/Jamaica/Montego Bay Airport MKJS
+./Addon Scenery/Caribbean/Jamaica/Montego Bay Airport MKJS/scenery
+./Addon Scenery/Caribbean/Jamaica/Montego Bay Airport MKJS/texture
+./Addon Scenery/Caribbean/MTPP Toussaint Louverture Haiti
+./Addon Scenery/Caribbean/MTPP Toussaint Louverture Haiti/scenery
+./Addon Scenery/Caribbean/Paramaribo SMJP
+./Addon Scenery/Caribbean/Paramaribo SMJP/scenery
+./Addon Scenery/Caribbean/Puerto Rico
+./Addon Scenery/Caribbean/Puerto Rico/PuertoRicoX
+./Addon Scenery/Caribbean/Puerto Rico/PuertoRicoX/scenery
+./Addon Scenery/Caribbean/Puerto Rico/PuertoRicoX/scenery/_DELETED
+./Addon Scenery/Caribbean/Puerto Rico/TJSJ BluePrint
+./Addon Scenery/Caribbean/Puerto Rico/TJSJ BluePrint/Docs
+./Addon Scenery/Caribbean/Puerto Rico/TJSJ BluePrint/Scenery
+./Addon Scenery/Caribbean/Puerto Rico/TJSJ BluePrint/Texture
+./Addon Scenery/Caribbean/St Kitts
+./Addon Scenery/Caribbean/St Kitts/Scenery
+./Addon Scenery/Caribbean/St Kitts/Texture
+./Addon Scenery/Caribbean/WestIndies-Mesh
+./Addon Scenery/Caribbean/WestIndies-Mesh/scenery
+./Addon Scenery/Caribbean/_REMOVED
+./Addon Scenery/Caribbean/_REMOVED/Trinidad
+./Addon Scenery/Caribbean/_REMOVED/Trinidad/scenery
+./Addon Scenery/Caribbean/_REMOVED/Trinidad/texture
+./Addon Scenery/CitationX_Anims
+./Addon Scenery/CitationX_Anims/Scenery
+./Addon Scenery/CitationX_Anims/Texture
+./Addon Scenery/Europe
+./Addon Scenery/Europe/AKESOFT VALENCIA-X FSX
+./Addon Scenery/Europe/AKESOFT VALENCIA-X FSX/scenery
+./Addon Scenery/Europe/AKESOFT VALENCIA-X FSX/texture
+./Addon Scenery/Europe/AthensEastAttiki2
+./Addon Scenery/Europe/AthensEastAttiki2/scenery
+./Addon Scenery/Europe/AthensEastAttiki2/texture
+./Addon Scenery/Europe/Austria
+./Addon Scenery/Europe/Austria/Austria_Misc
+./Addon Scenery/Europe/Austria/Austria_Misc/scenery
+./Addon Scenery/Europe/Austria/LOWG_Graz
+./Addon Scenery/Europe/Austria/LOWG_Graz/scenery
+./Addon Scenery/Europe/Austria/LOWG_Graz/texture
+./Addon Scenery/Europe/Austria/LOWK_2007_Klagenfurt
+./Addon Scenery/Europe/Austria/LOWK_2007_Klagenfurt/documents
+./Addon Scenery/Europe/Austria/LOWK_2007_Klagenfurt/documents/seasonal_change
+./Addon Scenery/Europe/Austria/LOWK_2007_Klagenfurt/documents/seasonal_change/bgl_with_ATP
+./Addon Scenery/Europe/Austria/LOWK_2007_Klagenfurt/documents/seasonal_change/bgl_with_others
+./Addon Scenery/Europe/Austria/LOWK_2007_Klagenfurt/scenery
+./Addon Scenery/Europe/Austria/LOWK_2007_Klagenfurt/texture
+./Addon Scenery/Europe/Austria/LOWS_2006
+./Addon Scenery/Europe/Austria/LOWS_2006/scenery
+./Addon Scenery/Europe/Austria/LOWS_2006/texture
+./Addon Scenery/Europe/Barcelona-EBLG
+./Addon Scenery/Europe/Barcelona-EBLG/scenery
+./Addon Scenery/Europe/Belgium
+./Addon Scenery/Europe/Belgium/EBLIG - Liege
+./Addon Scenery/Europe/Belgium/EBLIG - Liege/scenery
+./Addon Scenery/Europe/Catalonia
+./Addon Scenery/Europe/Catalonia/scenery
+./Addon Scenery/Europe/Denmark
+./Addon Scenery/Europe/Denmark/DenmarkSceneryGroup
+./Addon Scenery/Europe/Denmark/DenmarkSceneryGroup/Scenery
+./Addon Scenery/Europe/Denmark/DenmarkSceneryGroup/Texture
+./Addon Scenery/Europe/Denmark/DenmarkSceneryGroup/_docs
+./Addon Scenery/Europe/Eastern_Europe_Mesh
+./Addon Scenery/Europe/Eastern_Europe_Mesh/scenery
+./Addon Scenery/Europe/Germany
+./Addon Scenery/Europe/Germany/EDDB_BerlinSchoenefeld
+./Addon Scenery/Europe/Germany/EDDB_BerlinSchoenefeld/scenery
+./Addon Scenery/Europe/Germany/EDDB_BerlinSchoenefeld/texture
+./Addon Scenery/Europe/Germany/EDDL_Dusseldorf
+./Addon Scenery/Europe/Germany/EDDL_Dusseldorf/scenery
+./Addon Scenery/Europe/Germany/EDDL_Dusseldorf/texture
+./Addon Scenery/Europe/Germany/EDDT_BerlinTegal
+./Addon Scenery/Europe/Germany/EDDT_BerlinTegal/scenery
+./Addon Scenery/Europe/Germany/EDDT_BerlinTegal/texture
+./Addon Scenery/Europe/Italy
+./Addon Scenery/Europe/Italy/Palermo Punta Raisi LICJ 2011 V2
+./Addon Scenery/Europe/Italy/Palermo Punta Raisi LICJ 2011 V2/scenery
+./Addon Scenery/Europe/Italy/Palermo Punta Raisi LICJ 2011 V2/texture
+./Addon Scenery/Europe/Italy/Palermo Punta Raisi LICJ 2011 V2/_docs
+./Addon Scenery/Europe/Italy/Palermo_Mesh
+./Addon Scenery/Europe/Italy/Palermo_Mesh/scenery
+./Addon Scenery/Europe/Italy/Palermo_Mesh/texture
+./Addon Scenery/Europe/Luxembourg
+./Addon Scenery/Europe/Luxembourg/ELLX
+./Addon Scenery/Europe/Luxembourg/ELLX/scenery
+./Addon Scenery/Europe/Malta XGen v1.1
+./Addon Scenery/Europe/Malta XGen v1.1/Scenery
+./Addon Scenery/Europe/Norway
+./Addon Scenery/Europe/Norway/Airports of Norway
+./Addon Scenery/Europe/Norway/Airports of Norway/Scenery
+./Addon Scenery/Europe/Norway/Airports of Norway/Scenery/_DEL
+./Addon Scenery/Europe/Norway/Airports of Norway/Texture
+./Addon Scenery/Europe/Norway/Norway_mesh
+./Addon Scenery/Europe/Norway/Norway_mesh/Scenery
+./Addon Scenery/Europe/Norway/Norway_Scenic_X
+./Addon Scenery/Europe/Norway/Norway_Scenic_X/Norway_Scenic_X
+./Addon Scenery/Europe/Norway/Norway_Scenic_X/Norway_Scenic_X/Scenery
+./Addon Scenery/Europe/Norway/Norway_Scenic_X/Norway_Scenic_X_Exclude
+./Addon Scenery/Europe/Norway/Norway_Scenic_X/Norway_Scenic_X_Exclude/Scenery
+./Addon Scenery/Europe/Poland
+./Addon Scenery/Europe/Poland/EPKK Krakow Balice 2012 X
+./Addon Scenery/Europe/Poland/EPKK Krakow Balice 2012 X/Documents
+./Addon Scenery/Europe/Poland/EPKK Krakow Balice 2012 X/Scenery
+./Addon Scenery/Europe/Poland/EPKK Krakow Balice 2012 X/Texture
+./Addon Scenery/Europe/Poland/Polish Airports vol.1
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/Documents
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X/Scenery
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X/Seasons
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X/Seasons/Fall
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X/Seasons/HardWinter
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X/Seasons/Spring
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X/Seasons/Summer
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X/Seasons/Winter
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPGD_X/Texture
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X/Scenery
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X/Seasons
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X/Seasons/Fall
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X/Seasons/HardWinter
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X/Seasons/Spring
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X/Seasons/Summer
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X/Seasons/Winter
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPKT_X/Texture
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Scenery
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Seasons
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Seasons/Fall
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Seasons/HardWinter
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Seasons/Spring
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Seasons/Summer
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Seasons/Winter
+./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Texture
+./Addon Scenery/Europe/SAOxt_LGAV.V2
+./Addon Scenery/Europe/SAOxt_LGAV.V2/scenery
+./Addon Scenery/Europe/SAOxt_LGAV.V2/texture
+./Addon Scenery/Europe/SRTM_Mesh
+./Addon Scenery/Europe/SRTM_Mesh/scenery
+./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0
+./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0/scenery
+./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0/texture
+./Addon Scenery/Fly Wonderful Islands
+./Addon Scenery/Fly Wonderful Islands/FWI_EIDW
+./Addon Scenery/Fly Wonderful Islands/FWI_EIDW/Scenery
+./Addon Scenery/Fly Wonderful Islands/FWI_EIDW/TEXTURE
+./Addon Scenery/Fly Wonderful Islands/FWI_EIDW_LC
+./Addon Scenery/Fly Wonderful Islands/FWI_EIDW_LC/Scenery
+./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY
+./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY/scenery
+./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY/texture
+./Addon Scenery/Israel
+./Addon Scenery/Israel/ISP Haifa Airport
+./Addon Scenery/Israel/ISP Haifa Airport/Scenery
+./Addon Scenery/Israel/ISP Haifa Airport/Texture
+./Addon Scenery/Israel/ISP Rosh-Pina Airport
+./Addon Scenery/Israel/ISP Rosh-Pina Airport/Scenery
+./Addon Scenery/Israel/ISP Rosh-Pina Airport/Texture
+./Addon Scenery/Israel/IsraeliLandclassX
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Afcads
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Afcads/Scenery
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Landclass
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Landclass/Scenery
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Landclass/Scenery/_DEL
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Landclass/Texture
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Landclass_Exclude
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Landclass_Exclude/Scenery
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Landclass_Exclude/Scenery/_DEL
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Objects
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Objects/Scenery
+./Addon Scenery/Israel/IsraeliLandclassX/Israeli_Objects/Texture
+./Addon Scenery/Israel/_DEL
+./Addon Scenery/Israel/_DEL/LLBG - Ben Gurion
+./Addon Scenery/Israel/_DEL/LLBG - Ben Gurion/scenery
+./Addon Scenery/Israel/_DEL/LLBG 2
+./Addon Scenery/Israel/_DEL/LLBG 2/scenery
+./Addon Scenery/Israel/_DEL/LLBG 2/texture
+./Addon Scenery/LatinVFR
+./Addon Scenery/LatinVFR/Miami_KMIA
+./Addon Scenery/LatinVFR/Miami_KMIA/Docs
+./Addon Scenery/LatinVFR/Miami_KMIA/Scenery
+./Addon Scenery/LatinVFR/Miami_KMIA/Texture
+./Addon Scenery/LatinVFR/Piarco_TTPP
+./Addon Scenery/LatinVFR/Piarco_TTPP/Documentation
+./Addon Scenery/LatinVFR/Piarco_TTPP/Scenery
+./Addon Scenery/LatinVFR/Piarco_TTPP/Texture
+./Addon Scenery/LatinVFR/Tobago_TTCP
+./Addon Scenery/LatinVFR/Tobago_TTCP/Documentation
+./Addon Scenery/LatinVFR/Tobago_TTCP/Scenery
+./Addon Scenery/LatinVFR/Tobago_TTCP/Texture
+./Addon Scenery/MiddleEast
+./Addon Scenery/MiddleEast/Cairo_cityX
+./Addon Scenery/MiddleEast/Cairo_cityX/scenery
+./Addon Scenery/MiddleEast/Cairo_cityX/texture
+./Addon Scenery/MiddleEast/Damascus
+./Addon Scenery/MiddleEast/Damascus/Scenery
+./Addon Scenery/MiddleEast/Damascus/Texture
+./Addon Scenery/MiddleEast/Egypt
+./Addon Scenery/MiddleEast/Egypt/Cairo2011_High1.0
+./Addon Scenery/MiddleEast/Egypt/Cairo2011_High1.0/scenery
+./Addon Scenery/MiddleEast/Egypt/Cairo2011_High1.0/texture
+./Addon Scenery/MiddleEast/Iran
+./Addon Scenery/MiddleEast/Iran/OIII
+./Addon Scenery/MiddleEast/Iran/OIII/scenery
+./Addon Scenery/MiddleEast/Iraq
+./Addon Scenery/MiddleEast/Iraq/ORER - Erbil
+./Addon Scenery/MiddleEast/Iraq/ORER - Erbil/scenery
+./Addon Scenery/MiddleEast/Israel
+./Addon Scenery/MiddleEast/Israel/IsraelLandclassFix
+./Addon Scenery/MiddleEast/Israel/IsraelLandclassFix/Scenery
+./Addon Scenery/MiddleEast/Israel/IsraelLandclassFix/Texture
+./Addon Scenery/MiddleEast/Israel/SRTM_Israel10
+./Addon Scenery/MiddleEast/Israel/SRTM_Israel10/Scenery
+./Addon Scenery/MiddleEast/Jordan
+./Addon Scenery/MiddleEast/Jordan/VATJO-AFCADs-LC
+./Addon Scenery/MiddleEast/Jordan/VATJO-AFCADs-LC/Scenery
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAI
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAI/scenery
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAI-EXCLUSION
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAI-EXCLUSION/scenery
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAM
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAM/Scenery
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAM-EXCLUSION
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAM-EXCLUSION/SCENERY
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAQ
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAQ/Scenery
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAQ-EXCLUSION
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJAQ-EXCLUSION/Scenery
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJMF
+./Addon Scenery/MiddleEast/Jordan/VATJO-OJMF/Scenery
+./Addon Scenery/MiddleEast/Lebanon
+./Addon Scenery/MiddleEast/Lebanon/Leb_LC
+./Addon Scenery/MiddleEast/Lebanon/Leb_LC/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Leb_SRTM
+./Addon Scenery/MiddleEast/Lebanon/Leb_SRTM/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Leb_TempApts
+./Addon Scenery/MiddleEast/Lebanon/Leb_TempApts/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Leb_Transp
+./Addon Scenery/MiddleEast/Lebanon/Leb_Transp/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Leb_Water
+./Addon Scenery/MiddleEast/Lebanon/Leb_Water/Scenery
+./Addon Scenery/MiddleEast/PAPHOS FSXv2
+./Addon Scenery/MiddleEast/PAPHOS FSXv2/scenery
+./Addon Scenery/MiddleEast/PAPHOS FSXv2/texture
+./Addon Scenery/MiddleEast/Turkey
+./Addon Scenery/MiddleEast/Turkey/LBTA-Coast
+./Addon Scenery/MiddleEast/Turkey/LBTA-Coast/scenery
+./Addon Scenery/MiddleEast/Turkey/LBTA-VFR
+./Addon Scenery/MiddleEast/Turkey/LBTA-VFR/scenery
+./Addon Scenery/MiddleEast/Turkey/LBTA-VFR/texture
+./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009
+./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/documents
+./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/Effects
+./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/scenery
+./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/scenery/_BKUPS
+./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/texture
+./Addon Scenery/North Africa
+./Addon Scenery/North Africa/Algeria
+./Addon Scenery/North Africa/Algeria/scenery
+./Addon Scenery/North Africa/Algeria/texture
+./Addon Scenery/North Africa/Algiers-DAAGRealSceneryX
+./Addon Scenery/North Africa/Algiers-DAAGRealSceneryX/Scenery
+./Addon Scenery/North Africa/Algiers-DAAGRealSceneryX/Texture
+./Addon Scenery/North Africa/Libya
+./Addon Scenery/North Africa/Libya/Benina HLLB 2010 V.1
+./Addon Scenery/North Africa/Libya/Benina HLLB 2010 V.1/Scenery
+./Addon Scenery/North Africa/Libya/Benina HLLB 2010 V.1/texture
+./Addon Scenery/North Africa/Libya/Tripoli HLLT 2010 V1
+./Addon Scenery/North Africa/Libya/Tripoli HLLT 2010 V1/Scenery
+./Addon Scenery/North Africa/Libya/Tripoli HLLT 2010 V1/Texture
+./Addon Scenery/North Africa/Morocco
+./Addon Scenery/North Africa/Morocco/scenery
+./Addon Scenery/North Africa/Morocco/texture
+./Addon Scenery/NZ
+./Addon Scenery/NZ/Ardmore
+./Addon Scenery/NZ/Ardmore/Scenery
+./Addon Scenery/NZ/Ardmore/Texture
+./Addon Scenery/NZ/Ashburton
+./Addon Scenery/NZ/Ashburton/Scenery
+./Addon Scenery/NZ/Ashburton/Texture
+./Addon Scenery/NZ/Chateau
+./Addon Scenery/NZ/Chateau/scenery
+./Addon Scenery/NZ/Chateau/texture
+./Addon Scenery/NZ/Christchurch
+./Addon Scenery/NZ/Christchurch/scenery
+./Addon Scenery/NZ/Christchurch/texture
+./Addon Scenery/NZ/Christchurch-photoreal
+./Addon Scenery/NZ/Christchurch-photoreal/scenery
+./Addon Scenery/NZ/Christchurch-photoreal/scenery/New folder
+./Addon Scenery/NZ/Christchurch-photoreal/texture
+./Addon Scenery/NZ/Dunedin_NZDN
+./Addon Scenery/NZ/Dunedin_NZDN/scenery
+./Addon Scenery/NZ/FSX-Timaru
+./Addon Scenery/NZ/FSX-Timaru/scenery
+./Addon Scenery/NZ/GreatbarrierIslandX
+./Addon Scenery/NZ/GreatbarrierIslandX/scenery
+./Addon Scenery/NZ/GreatbarrierIslandX/texture
+./Addon Scenery/NZ/HamiltonX_Airport
+./Addon Scenery/NZ/HamiltonX_Airport/scenery
+./Addon Scenery/NZ/HamiltonX_Airport/scenery/_REMOVED
+./Addon Scenery/NZ/HamiltonX_Airport/texture
+./Addon Scenery/NZ/Kaitaia_NZKT
+./Addon Scenery/NZ/Kaitaia_NZKT/Scenery
+./Addon Scenery/NZ/Kaitaia_NZKT/Texture
+./Addon Scenery/NZ/Kerikeri Airport  NZKK
+./Addon Scenery/NZ/Kerikeri Airport  NZKK/Scenery
+./Addon Scenery/NZ/Kerikeri Airport  NZKK/Texture
+./Addon Scenery/NZ/Manapouri
+./Addon Scenery/NZ/Manapouri/scenery
+./Addon Scenery/NZ/Manapouri/texture
+./Addon Scenery/NZ/Mercer_Airfeild_NZME
+./Addon Scenery/NZ/Mercer_Airfeild_NZME/Scenery
+./Addon Scenery/NZ/Mercer_Airfeild_NZME/Texture
+./Addon Scenery/NZ/MilfordSoundX_2011
+./Addon Scenery/NZ/MilfordSoundX_2011/scenery
+./Addon Scenery/NZ/MilfordSoundX_2011/texture
+./Addon Scenery/NZ/MountCook
+./Addon Scenery/NZ/MountCook/scenery
+./Addon Scenery/NZ/MountCook/texture
+./Addon Scenery/NZ/Northland-fsx
+./Addon Scenery/NZ/Northland-fsx/scenery
+./Addon Scenery/NZ/Northland-fsx/texture
+./Addon Scenery/NZ/NZ22_Chateau-4X
+./Addon Scenery/NZ/NZ22_Chateau-4X/Scenery
+./Addon Scenery/NZ/NZ22_Chateau-4X/Texture
+./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA
+./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA/scenery
+./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA/texture
+./Addon Scenery/NZ/NZNP_New_Plymouth-4X
+./Addon Scenery/NZ/NZNP_New_Plymouth-4X/Scenery
+./Addon Scenery/NZ/NZNP_New_Plymouth-4X/Texture
+./Addon Scenery/NZ/NZNR_Napier-4X
+./Addon Scenery/NZ/NZNR_Napier-4X/scenery
+./Addon Scenery/NZ/NZNR_Napier-4X/texture
+./Addon Scenery/NZ/NZNS_Nelson-4X
+./Addon Scenery/NZ/NZNS_Nelson-4X/Scenery
+./Addon Scenery/NZ/NZNS_Nelson-4X/Texture
+./Addon Scenery/NZ/NZNV - invercargill
+./Addon Scenery/NZ/NZNV - invercargill/scenery
+./Addon Scenery/NZ/NZNV - invercargill/texture
+./Addon Scenery/NZ/NZOA_Omarama-4X
+./Addon Scenery/NZ/NZOA_Omarama-4X/Scenery
+./Addon Scenery/NZ/NZOA_Omarama-4X/Texture
+./Addon Scenery/NZ/NZOA_Omarama-4X/_docs
+./Addon Scenery/NZ/NZOA_Omarama-4X/_docs/Alternative AFX (No Grass)
+./Addon Scenery/NZ/NZTN_Turangi-4X
+./Addon Scenery/NZ/NZTN_Turangi-4X/Scenery
+./Addon Scenery/NZ/NZTN_Turangi-4X/Texture
+./Addon Scenery/NZ/NZWO_Wairoa-4X
+./Addon Scenery/NZ/NZWO_Wairoa-4X/Scenery
+./Addon Scenery/NZ/NZWO_Wairoa-4X/Texture
+./Addon Scenery/NZ/NZWR_Whangarei-VLC-4X
+./Addon Scenery/NZ/NZWR_Whangarei-VLC-4X/Scenery
+./Addon Scenery/NZ/NZWR_Whangarei-VLC-4X/Texture
+./Addon Scenery/NZ/Ohakea V2
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/Millitary Scenery Libraries
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/Millitary Scenery Libraries/scenery
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/Millitary Scenery Libraries/texture
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/NZ_Army_Objects
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/NZ_Army_Objects/scenery
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/NZ_Army_Objects/texture
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/Ohakea V2
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/Ohakea V2/scenery
+./Addon Scenery/NZ/Ohakea V2/Addon Scenery/Ohakea V2/Texture
+./Addon Scenery/NZ/RaglanX
+./Addon Scenery/NZ/RaglanX/scenery
+./Addon Scenery/NZ/RaglanX/texture
+./Addon Scenery/NZ/RealNZmarlborough
+./Addon Scenery/NZ/RealNZmarlborough/Scenery
+./Addon Scenery/NZ/RealNZmarlborough/Texture
+./Addon Scenery/NZ/RealNZNelson
+./Addon Scenery/NZ/RealNZNelson/Scenery
+./Addon Scenery/NZ/RealNZNelson/Texture
+./Addon Scenery/NZ/RealNZNelson_Aerial
+./Addon Scenery/NZ/RealNZNelson_Aerial/Scenery
+./Addon Scenery/NZ/RealNZNelson_Aerial/Texture
+./Addon Scenery/NZ/RealNZparaparaumu
+./Addon Scenery/NZ/RealNZparaparaumu/Scenery
+./Addon Scenery/NZ/RealNZparaparaumu/Scenery/_bkup
+./Addon Scenery/NZ/RealNZparaparaumu/Texture
+./Addon Scenery/NZ/RealNZrotorua
+./Addon Scenery/NZ/RealNZrotorua/scenery
+./Addon Scenery/NZ/RealNZrotorua/texture
+./Addon Scenery/NZ/RealNZtauranga
+./Addon Scenery/NZ/RealNZtauranga/scenery
+./Addon Scenery/NZ/RealNZtauranga/scenery/backup
+./Addon Scenery/NZ/RealNZtauranga/texture
+./Addon Scenery/NZ/RealNZtekapo
+./Addon Scenery/NZ/RealNZtekapo/scenery
+./Addon Scenery/NZ/RealNZtekapo/texture
+./Addon Scenery/NZ/RealNZwanaka
+./Addon Scenery/NZ/RealNZwanaka/Scenery
+./Addon Scenery/NZ/RealNZwanaka/texture
+./Addon Scenery/NZ/RealNZwgtn
+./Addon Scenery/NZ/RealNZwgtn/scenery
+./Addon Scenery/NZ/RealNZwgtn/texture
+./Addon Scenery/NZ/RENA
+./Addon Scenery/NZ/RENA/scenery
+./Addon Scenery/NZ/TaupoX
+./Addon Scenery/NZ/TaupoX/scenery
+./Addon Scenery/NZ/TaupoX/scenery/_REMOVED
+./Addon Scenery/NZ/TaupoX/texture
+./Addon Scenery/NZ/Te_Kuiti
+./Addon Scenery/NZ/Te_Kuiti/scenery
+./Addon Scenery/NZ/Te_Kuiti/texture
+./Addon Scenery/NZ/WaihekeX Island Airport
+./Addon Scenery/NZ/WaihekeX Island Airport/scenery
+./Addon Scenery/NZ/WaihekeX Island Airport/texture
+./Addon Scenery/NZ/WanganuiX
+./Addon Scenery/NZ/WanganuiX/scenery
+./Addon Scenery/NZ/WanganuiX/texture
+./Addon Scenery/NZ/Wanganui_(V2)_NZWU
+./Addon Scenery/NZ/Wanganui_(V2)_NZWU/Scenery
+./Addon Scenery/NZ/Wanganui_(V2)_NZWU/Texture
+./Addon Scenery/NZ/Whenuapai
+./Addon Scenery/NZ/Whenuapai/Scenery
+./Addon Scenery/NZ/Whenuapai/Texture
+./Addon Scenery/NZ/WigramAerodrome
+./Addon Scenery/NZ/WigramAerodrome/EddysNZAirports
+./Addon Scenery/NZ/WigramAerodrome/EddysNZAirports/WigramV1
+./Addon Scenery/NZ/WigramAerodrome/scenery
+./Addon Scenery/NZ/WigramAerodrome/texture
+./Addon Scenery/openVFR_Terrain
+./Addon Scenery/openVFR_Terrain/Scenery
+./Addon Scenery/openVFR_Terrain_Exclude
+./Addon Scenery/openVFR_Terrain_Exclude/Scenery
+./Addon Scenery/Overland
+./Addon Scenery/Overland/X_RKSI
+./Addon Scenery/Overland/X_RKSI/scenery
+./Addon Scenery/Overland/X_RKSI/texture
+./Addon Scenery/Overland/X_RKSI_Cars
+./Addon Scenery/Overland/X_RKSI_Cars/scenery
+./Addon Scenery/Overland/X_RKSI_Cars/texture
+./Addon Scenery/Pacific
+./Addon Scenery/Pacific/Caledonie
+./Addon Scenery/Pacific/Caledonie/Caledonie_base
+./Addon Scenery/Pacific/Caledonie/Caledonie_base/Scenery
+./Addon Scenery/Pacific/Caledonie/Caledonie_base/texture
+./Addon Scenery/Pacific/Cook_Islands_Northern
+./Addon Scenery/Pacific/Cook_Islands_Northern/backup
+./Addon Scenery/Pacific/Cook_Islands_Northern/scenery
+./Addon Scenery/Pacific/Cook_Islands_Northern/texture
+./Addon Scenery/Pacific/Cook_Islands_Southern
+./Addon Scenery/Pacific/Cook_Islands_Southern/backup
+./Addon Scenery/Pacific/Cook_Islands_Southern/scenery
+./Addon Scenery/Pacific/Cook_Islands_Southern/texture
+./Addon Scenery/Pacific/NCRG_Rarotonga-4X
+./Addon Scenery/Pacific/NCRG_Rarotonga-4X/Scenery
+./Addon Scenery/Pacific/NCRG_Rarotonga-4X/Texture
+./Addon Scenery/Pacific/NCRG_Rarotonga-LC
+./Addon Scenery/Pacific/NCRG_Rarotonga-LC/scenery
+./Addon Scenery/Pacific/NIUE_Hanan-Intl.-4X
+./Addon Scenery/Pacific/NIUE_Hanan-Intl.-4X/Scenery
+./Addon Scenery/Pacific/NIUE_Hanan-Intl.-4X/Texture
+./Addon Scenery/Pacific/Norfolk-island
+./Addon Scenery/Pacific/Norfolk-island/Scenery
+./Addon Scenery/Pacific/Norfolk-island/Texture
+./Addon Scenery/Pacific/NorfolkIslandFS9
+./Addon Scenery/Pacific/NorfolkIslandFS9/Scenery
+./Addon Scenery/Pacific/NorfolkIslandFS9/Texture
+./Addon Scenery/Pacific/NSFA Faleolo International Airport
+./Addon Scenery/Pacific/NSFA Faleolo International Airport/scenery
+./Addon Scenery/Pacific/NSFA Faleolo International Airport/Texture
+./Addon Scenery/Pacific/PNG Bush Flying
+./Addon Scenery/Pacific/PNG Bush Flying/PNG Bush Flying
+./Addon Scenery/Pacific/PNG Bush Flying/PNG Bush Flying/Scenery
+./Addon Scenery/Pacific/PNG Bush Flying/PNG Bush Flying/Texture
+./Addon Scenery/Pacific/PNG Bush Flying/PNG Mesh
+./Addon Scenery/Pacific/PNG Bush Flying/PNG Mesh/Scenery
+./Addon Scenery/PacSim
+./Addon Scenery/PacSim/Fua amotu International (v2)
+./Addon Scenery/PacSim/Fua amotu International (v2)/Docs
+./Addon Scenery/PacSim/Fua amotu International (v2)/Scenery
+./Addon Scenery/PacSim/Fua amotu International (v2)/Texture
+./Addon Scenery/Russia
+./Addon Scenery/Russia/Moscow Landclass
+./Addon Scenery/Russia/Moscow Landclass/scenery
+./Addon Scenery/Russia/Moscow UUEE
+./Addon Scenery/Russia/Moscow UUEE/scenery
+./Addon Scenery/Russia/Moscow UUEE/texture
+./Addon Scenery/Russia/Russia Mesh
+./Addon Scenery/Russia/Russia Mesh/Scenery
+./Addon Scenery/Rwy12
+./Addon Scenery/Rwy12/scenery
+./Addon Scenery/Rwy12/texture
+./Addon Scenery/scenery
+./Addon Scenery/scenery/_removed
+./Addon Scenery/Seychelles
+./Addon Scenery/Seychelles/docs
+./Addon Scenery/Seychelles/scenery
+./Addon Scenery/Seychelles/texture
+./Addon Scenery/SouthAmerica
+./Addon Scenery/SouthAmerica/Mexico
+./Addon Scenery/SouthAmerica/Mexico/Cancun-MMUN
+./Addon Scenery/SouthAmerica/Mexico/Cancun-MMUN/scenery
+./Addon Scenery/SouthAmerica/Mexico/Mexico_Mesh
+./Addon Scenery/SouthAmerica/Mexico/Mexico_Mesh/scenery
+./Addon Scenery/static-library-objects
+./Addon Scenery/static-library-objects/scenery
+./Addon Scenery/static-library-objects/scenery/sources
+./Addon Scenery/static-library-objects/texture
+./Addon Scenery/texture
+./Addon Scenery/Tonga Domestic
+./Addon Scenery/Tonga Domestic/Docs
+./Addon Scenery/Tonga Domestic/Scenery
+./Addon Scenery/Tonga Domestic/Texture
+./Addon Scenery/UK
+./Addon Scenery/UK/Cardiff_Landmarks
+./Addon Scenery/UK/Cardiff_Landmarks/scenery
+./Addon Scenery/UK/Cardiff_Landmarks/texture
+./Addon Scenery/UK/EastMidlands
+./Addon Scenery/UK/EastMidlands/scenery
+./Addon Scenery/UK/Jersey
+./Addon Scenery/UK/Jersey/Scenery
+./Addon Scenery/UK/Jersey/Texture
+./Addon Scenery/UK/Leeds_Bradford_EGNM
+./Addon Scenery/UK/Leeds_Bradford_EGNM/Scenery
+./Addon Scenery/UK/Leeds_Bradford_EGNM/Texture
+./Addon Scenery/UK/Shannon
+./Addon Scenery/UK/Shannon/scenery
+./Addon Scenery/UK/UK2000 Heathrow Xtreme
+./Addon Scenery/UK/UK2000 Heathrow Xtreme/effects
+./Addon Scenery/UK/UK2000 Heathrow Xtreme/effects/texture
+./Addon Scenery/UK/UK2000 Heathrow Xtreme/options
+./Addon Scenery/UK/UK2000 Heathrow Xtreme/Scenery
+./Addon Scenery/UK/UK2000 Heathrow Xtreme/texture
+./Addon Scenery/UK/_DEL_Belfast
+./Addon Scenery/UK/_DEL_Belfast/scenery
+./Addon Scenery/UK/_DEL_Cardiff_Airport
+./Addon Scenery/UK/_DEL_Cardiff_Airport/Scenery
+./Addon Scenery/UK/_DEL_Cardiff_Airport/Texture
+./Addon Scenery/UK/_DEL_Dublin
+./Addon Scenery/UK/_DEL_Dublin/docs
+./Addon Scenery/UK/_DEL_Dublin/docs/Addon AI
+./Addon Scenery/UK/_DEL_Dublin/docs/Default AI
+./Addon Scenery/UK/_DEL_Dublin/scenery
+./Addon Scenery/UK/_DEL_Leeds_Bradford_EGNM
+./Addon Scenery/UK/_DEL_Leeds_Bradford_EGNM/scenery
+./Addon Scenery/UK/_DEL_Liverpool John Lennon Airport FSX
+./Addon Scenery/UK/_DEL_Liverpool John Lennon Airport FSX/Scenery
+./Addon Scenery/UK/_DEL_Liverpool John Lennon Airport FSX/Texture
+./Addon Scenery/USA
+./Addon Scenery/USA/BlueSky-CaliforniaPhotoreal
+./Addon Scenery/USA/BlueSky-CaliforniaPhotoreal/Scenery
+./Addon Scenery/USA/BlueSky-CaliforniaPhotoreal/Texture
+./Addon Scenery/USA/BlueSky-DenverPhotoreal
+./Addon Scenery/USA/BlueSky-DenverPhotoreal/Scenery
+./Addon Scenery/USA/BlueSky-Nevada
+./Addon Scenery/USA/BlueSky-Nevada/Scenery
+./Addon Scenery/USA/BlueSky-Nevada/Texture
+./Addon Scenery/USA/BlueSky-PhoenixPhotoreal
+./Addon Scenery/USA/BlueSky-PhoenixPhotoreal/Scenery
+./Addon Scenery/USA/BlueSky-PhoenixPhotoreal/Texture
+./Addon Scenery/USA/FP_Groom_Lake_Nevada
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KINS
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KINS/scenery
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KLAS
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KLAS/scenery
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KLSV
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KLSV/scenery
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KXTA
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KXTA/scenery
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KXTA/Texture
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/KXTA Docs
+./Addon Scenery/USA/FP_Groom_Lake_Nevada/SRC
+./Addon Scenery/USA/KABE_LehighValley
+./Addon Scenery/USA/KABE_LehighValley/scenery
+./Addon Scenery/USA/KALB2010
+./Addon Scenery/USA/KALB2010/scenery
+./Addon Scenery/USA/KALB2010/texture
+./Addon Scenery/USA/KATL_Atlanta
+./Addon Scenery/USA/KATL_Atlanta/Scenery
+./Addon Scenery/USA/KATL_Atlanta/Texture
+./Addon Scenery/USA/KDFW_DallasFortWorth
+./Addon Scenery/USA/KDFW_DallasFortWorth/scenery
+./Addon Scenery/USA/KDFW_DallasFortWorth/texture
+./Addon Scenery/USA/KGSO_PiedmontTriad
+./Addon Scenery/USA/KGSO_PiedmontTriad/scenery
+./Addon Scenery/USA/KGSO_PiedmontTriad/texture
+./Addon Scenery/USA/KIND_Indianapolis
+./Addon Scenery/USA/KIND_Indianapolis/scenery
+./Addon Scenery/USA/KJAX Jacksonville
+./Addon Scenery/USA/KJAX Jacksonville/scenery
+./Addon Scenery/USA/KJAX Jacksonville/texture
+./Addon Scenery/USA/KLAS_Janet Terminal
+./Addon Scenery/USA/KLAS_Janet Terminal/scenery
+./Addon Scenery/USA/KLAS_Janet Terminal/texture
+./Addon Scenery/USA/KLAX_PHOTO_REAL
+./Addon Scenery/USA/KLAX_PHOTO_REAL/SCENERY
+./Addon Scenery/USA/KLAX_PHOTO_REAL/TEXTURE
+./Addon Scenery/USA/KLGA-2004_LaGuardia
+./Addon Scenery/USA/KLGA-2004_LaGuardia/scenery
+./Addon Scenery/USA/KLGA-2004_LaGuardia/scenery/_DEL
+./Addon Scenery/USA/KLGA-2004_LaGuardia/texture
+./Addon Scenery/USA/KMCO Orlando
+./Addon Scenery/USA/KMCO Orlando/scenery
+./Addon Scenery/USA/KMSY_Daytime
+./Addon Scenery/USA/KMSY_Daytime/scenery
+./Addon Scenery/USA/KMSY_Daytime/texture
+./Addon Scenery/USA/KOAK_PHOTO_REAL
+./Addon Scenery/USA/KOAK_PHOTO_REAL/Scenery
+./Addon Scenery/USA/KOAK_PHOTO_REAL/Texture
+./Addon Scenery/USA/KSBA_SantaBarbara
+./Addon Scenery/USA/KSBA_SantaBarbara/Scenery
+./Addon Scenery/USA/KSBA_SantaBarbara/Texture
+./Addon Scenery/USA/KSEA_Seattle
+./Addon Scenery/USA/KSEA_Seattle/scenery
+./Addon Scenery/USA/KSNA_SantaAnna_JohnWayne
+./Addon Scenery/USA/KSNA_SantaAnna_JohnWayne/scenery
+./Addon Scenery/USA/KSNA_SantaAnna_JohnWayne/texture
+./Addon Scenery/USA/KSNA_SantaAnna_JohnWayne/_docs
+./Addon Scenery/USA/KSNA_SantaAnna_JohnWayne/_docs/fsx_patch
+./Addon Scenery/USA/KTNX_Tonopah
+./Addon Scenery/USA/KTNX_Tonopah/scenery
+./Addon Scenery/USA/MAIW Land Class
+./Addon Scenery/USA/MAIW Land Class/Scenery
+./Addon Scenery/USA/MAIW Nellis AFB (KLSV)
+./Addon Scenery/USA/MAIW Nellis AFB (KLSV)/Alternate Ground files
+./Addon Scenery/USA/MAIW Nellis AFB (KLSV)/Scenery
+./Addon Scenery/USA/MAIW Nellis AFB (KLSV)/Texture
+./Addon Scenery/USA/MAIW Scenery Library Objects
+./Addon Scenery/USA/MAIW Scenery Library Objects/scenery
+./Addon Scenery/USA/MAIW Scenery Library Objects/texture
+./Addon Scenery/USA/ONT2012X
+./Addon Scenery/USA/ONT2012X/scenery
+./Addon Scenery/USA/ONT2012X/texture
+./Addon Scenery/USA/Oshkosh
+./Addon Scenery/USA/Oshkosh/KH_BLDGS_2_lib
+./Addon Scenery/USA/Oshkosh/KH_BLDGS_2_lib/SCENERY
+./Addon Scenery/USA/Oshkosh/kh_scenery_objectsv1_lib
+./Addon Scenery/USA/Oshkosh/kh_scenery_objectsv1_lib/scenery
+./Addon Scenery/USA/Oshkosh/kh_scenery_objectsv1_lib/texture
+./Addon Scenery/USA/Oshkosh/kosh_air_show
+./Addon Scenery/USA/Oshkosh/kosh_air_show/scenery
+./Addon Scenery/USA/Oshkosh/kosh_air_show/texture
+./Addon Scenery/USA/OZx_World
+./Addon Scenery/USA/OZx_World/Grand_Canyon_KGCN
+./Addon Scenery/USA/OZx_World/Grand_Canyon_KGCN/scenery
+./Addon Scenery/USA/OZx_World/Grand_Canyon_KGCN/texture
+./Addon Scenery/USA/OZx_World/Grand_Canyon_KGCN/User Documents
+./Addon Scenery/USA/PHNL2006_LR
+./Addon Scenery/USA/PHNL2006_LR/Scenery
+./Addon Scenery/USA/PHNL2006_LR/Texture
+./Addon Scenery/USA/Reno_AirRace
+./Addon Scenery/USA/Reno_AirRace/scenery
+./Addon Scenery/USA/_DELETED
+./Addon Scenery/USA/_DELETED/KFLL_FortLauderdale
+./Addon Scenery/USA/_DELETED/KFLL_FortLauderdale/Scenery
+./Addon Scenery/USA/_DELETED/WTS_KOAK
+./Addon Scenery/USA/_DELETED/WTS_KOAK/scenery
+./Addon Scenery/USA/_DELETED/WTS_KOAK/texture

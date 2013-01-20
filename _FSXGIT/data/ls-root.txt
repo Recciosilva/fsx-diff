@@ -1,0 +1,357 @@
+./
+./.git
+./441_conquest.bmp
+./441_conquest.dat
+./441_conquest.ini
+./441_conquest.lng
+./A2A
+./A300B4
+./A320PIC
+./ablscpt.dll
+./acckey.txt
+./Ace.exe
+./acontain.dll
+./activate.exe
+./Addon Modules
+./Addon Scenery
+./aerosoft
+./aircraft
+./Aircraft Factory
+./airlines.cfg
+./AirObjectVisuals.xml
+./Airplanes
+./AivlaSoft
+./ai_player.dll
+./api.dll
+./ascdebuglog.txt
+./atc.dll
+./ATR_72500.bmp
+./ATR_72500.dat
+./ATR_72500.ini
+./ATR_72500.lng
+./Autogen
+./aw109uninstall.exe
+./baseat.dll
+./bglmanx.dat
+./bglmanx.dll
+./bglmanx_aerosoft.dat
+./bglmanx_fbeam.dat
+./bglmanx_fsdt.dat
+./bglmanx_qwings.dat
+./bkg.bmp
+./BluePrint Simulations
+./cameras.cfg
+./Captain_Sim
+./Carenado
+./Categories
+./charts
+./Ckpsound.dll
+./Classics Hangar
+./CLS
+./CLS_A330_A340_FSX_remove
+./Config
+./controls.dll
+./credits.rtf
+./csB521_uninstall.exe
+./cse732_uninstall.exe
+./csP131_uninstall.exe
+./csP721_uninstall.exe
+./csP722_uninstall.exe
+./csP723_uninstall.exe
+./csu731_uninstall.exe
+./csu732_uninstall.exe
+./csu772_uninstall.exe
+./csYak-3_uninstall.exe
+./cv990data.ins
+./dc8data.ins
+./demo.dll
+./Dialogs
+./display.cfg
+./dlxkey.txt
+./DVDCheck.exe
+./Effects
+./Elumens.cfg
+./Engine Sound Creations
+./eula.dll
+./Eula.html
+./eula.rtf
+./f152diag.log
+./f4u.log
+./facilities.dll
+./fe.dll
+./FeelThere
+./Flight One Software
+./Flight Ontario
+./flight.dll
+./Flights
+./FlightSim Developers
+./fmodex.dll
+./FnpCommsSoap.dll
+./Fonts
+./fs-traffic.dll
+./FS2000.exe
+./FS2002.exe
+./FS9.exe
+./FSAddon
+./FSD Non Internet Installation Manual.pdf
+./FSD Online Installation Manual.pdf
+./fsdreamteam
+./FSSound.dll
+./fsui.dll
+./FSWeb
+./fsx.exe
+./FSXBA FA-18 Hornet Manual.pdf
+./FSXInstall.log
+./g2d.dll
+./g3d.dll
+./GameuxInstallHelper.dll
+./Gauges
+./GaugeSound.dll
+./GdiPlus.dll
+./Golden Age Simulations
+./gps.dll
+./GZkaikourauninst.exe
+./Hudson_Uninstall
+./Icon
+./Imagine Simulation
+./IRIMG1.JPG
+./IRIMG2.JPG
+./IRIMG3.JPG
+./IRIS AudioworX
+./IRIS Classics
+./IRIS Platinum Series
+./IRIS Premium Series
+./IRIS Pro Series
+./ISG
+./isg_test.log
+./jb777memfilemap.txt
+./Just Flight
+./JustFlight
+./Kiosk.exe
+./kiosk.rtf
+./KioskSettings.cfg
+./language.dll
+./LatinVFR Sao Paulo FSX patch unninstal.exe
+./LatinVFRPiarcoFSX.exe
+./Lessons
+./Level-D Simulations
+./Licenses
+./livingwater.dll
+./ls-effects.txt
+./lua5.1.dll
+./LWcfg.spb
+./main.dll
+./messages
+./Microsoft Online Privacy Notice Highlights.url
+./mingwm10.dll
+./Misc
+./Missions
+./mmun2010fsxunin.dat
+./mmun2010fsxunin.xml
+./ModernLeft.bmp
+./ModernTop.bmp
+./modules
+./mpc.ini
+./mspac.dll
+./mspacres.dll
+./msxml4.manifest
+./multiplayer.dll
+./Navigraph
+./ndas350fsxuninst.exe
+./Nemeth Designs
+./NemethDesigns
+./NZSIftxPatchUninst.exe
+./ORBX
+./OZx
+./P51-D Resources
+./PacSim
+./panels.dll
+./Phone Activation.xml
+./PMDG
+./privacy statement.rtf
+./product.url
+./Project Tupolev
+./propdefs
+./PS Panels
+./QtCore4.dll
+./QtGui4.dll
+./QtNetwork4.dll
+./QtOpenGL4.dll
+./QtSvg4.dll
+./QtXml4.dll
+./Qualitywings
+./RAZBAM
+./RCS_B-25J_RAF_MkII_for_FSX_Uninstal.exe
+./Readme.htm
+./readme.rtf
+./Real NZ Nelson FSX.url
+./Real NZ Tauranga.url
+./RealNZTGuninst.exe
+./RemoveP38.exe
+./RemoveYF23.exe
+./Rewards
+./sardlt.dll
+./SBD_Uninstal.exe
+./Scenery
+./scenery.cfg
+./scenery_FSAD_DR.bak
+./script
+./Setup
+./Shade
+./ShadersHLSL
+./sim1.dll
+./SimMarket
+./SimObjects
+./simprop.dll
+./simpropace.dll
+./simpropext.dll
+./simscheduler.dll
+./sldlext.dll
+./Sound
+./sound.dll
+./Standard.xml
+./stars.dat
+./Storch_uninstall.exe
+./Substitutions
+./suneffect.cfg
+./Support.url
+./symmap.dll
+./tapaxfsxunin.dat
+./tapaxfsxunin.xml
+./TCAS2v7.dll
+./TCAS2v7.ini
+./terrain.cfg
+./terrain.cfg.bak
+./terrain.dll
+./TextoMatic.bmp
+./TextoMatic.dat
+./TextoMatic.ini
+./TextoMatic.lng
+./Texture
+./ThermalDescriptions.xml
+./Thumbs.db
+./tistx201xunin.dat
+./tistx201xunin.xml
+./tlplxxunin.bmp
+./tlplxxunin.dat
+./tlplxxunin.ini
+./tlplxxunin.lng
+./tncaxfsxunin.dat
+./tncaxfsxunin.xml
+./tnccxxunin.bmp
+./tnccxxunin.dat
+./tnccxxunin.ini
+./tnccxxunin.lng
+./TrafficInfo.DLL
+./TropicalSim
+./tupjxfsxp1unin.dat
+./tupjxfsxp1unin.xml
+./tupjxfsxunin.dat
+./tupjxfsxunin.xml
+./ui.dll
+./Uires
+./UK2000 scenery
+./UNCARMOONEYFSX.exe
+./UniC152Ver10.bmp
+./UniC152Ver10.dat
+./UniC152Ver10.ini
+./UniC152Ver10.lng
+./unins000.dat
+./unins000.exe
+./unins001.dat
+./unins001.exe
+./unins002.dat
+./unins002.exe
+./unins003.dat
+./unins003.exe
+./unins004.dat
+./unins004.exe
+./unins005.dat
+./unins005.exe
+./unins006.dat
+./unins006.exe
+./uninst.exe
+./Uninstal McPhat_LDS_WA2.exe
+./Uninstal McPhat_LDS_WA3.exe
+./Uninstal P-51D Little Friends 1.exe
+./Uninstal P-51D Restored Part 2.exe
+./Uninstal WA1.exe
+./Uninstal-fterj2.exe
+./Uninstal-ftph100x.exe
+./Uninstal.exe
+./UninstalESCPC12.exe
+./Uninstalf50.exe
+./Uninstalf50f.exe
+./Uninstall Ants Sierra LSA.exe
+./Uninstall DH60GX.exe
+./Uninstall FSD Navajo FSX.exe
+./Uninstall Israeli Landclass X v106.exe
+./Uninstall Model 40 for FSX.exe
+./Uninstall PNG Bush Flying.exe
+./Uninstall Ryan PT 22.exe
+./uninstall.exe
+./UninstallFSDC337.exe
+./UninstallFSDO2A.exe
+./uninstallP46T.exe
+./Uninstall_B200.exe
+./Uninstall_Ben Gurion X
+./Uninstall_BN2_1-6.exe
+./Uninstall_Bob
+./uninstall_C114.exe
+./Uninstall_C188.exe
+./Uninstall_Grand_Canyon_KGCN.exe
+./Uninstall_PITTS.exe
+./Uninstall_SU26.exe
+./Uninstall_Waco.exe
+./Uninstal_737PICEVODLX_FSX.exe
+./Uninstal_737PICX.exe
+./Uninstal_Airbus1X_wilco.exe
+./Uninstal_Airbus1_evo_FSX_wilco.exe
+./Uninstal_ch_fw190a5_a9.exe
+./Uninstal_CitXX_wilco.exe
+./Uninstal_CRJ_FSX_wilco.exe
+./Uninstal_FR_109K.exe
+./Uninstal_LebanonTerrainXV1.exe
+./Uninstal_Sirocco_GTX2.exe
+./Uninstal_vcoljs31sfx.exe
+./Uninstal_vcoljs31x.exe
+./Uninstl-mjc8q3_2.exe
+./uninstRNZNelson.exe
+./uninst_bo105.exe
+./uninst_cvx11fsx.exe
+./uninst_vcvx11fsx.exe
+./uni_ec120fsx.exe
+./UnLvld767.exe
+./UNWISE.EXE
+./util.dll
+./VansRV8_Uninstall.exe
+./vasfmc
+./Vector Land Class.url
+./VectorLandClass
+./VectorLandClass_AIShipping
+./VectorLandClass_ChathamIsland
+./VectorLandClass_DTM
+./Virtavia
+./Virtualcol FS Software
+./VistaMare
+./visualfx.dll
+./VLCChathamIsland_uninst.exe
+./VLCGalatea
+./VLCGalatea_uninst.exe
+./VLCGodzoneKaikoura
+./VLClibrariesuninst.exe
+./VLCNthAirfields_uninst.exe
+./VLCuninst.exe
+./VLCWaihiBeach
+./VLCWaihiBeach_uninst.exe
+./VLC_Airfields
+./VLC_AIShipping_uninst.exe
+./VLC_Libraries
+./voronoi.dat
+./Warbirdsim
+./WaterConstants.Xml
+./Weather
+./weather.dll
+./window.dll
+./xuipc.dll
+./_FSXGIT

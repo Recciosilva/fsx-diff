@@ -1,0 +1,179 @@
+./SimObjects/Misc/AI A10/aircraft.cfg
+./SimObjects/Misc/AI AS350 Ecureuil/aircraft.cfg
+./SimObjects/Misc/AI PA-31_Navajo/aircraft.cfg
+./SimObjects/Misc/AI PAC Cresco/aircraft.cfg
+./SimObjects/Misc/AI PAC FU24/aircraft.cfg
+./SimObjects/Misc/AI RNZAF P-3 Orion/aircraft.cfg
+./SimObjects/Misc/AIA_747_400F/fs2002fde/aircraft.cfg
+./SimObjects/Misc/AIA_TU_214/FS2002_FDE/aircraft.cfg
+./SimObjects/Misc/AIM_B767_200/aircraft.cfg
+./SimObjects/Misc/AI_A380/aircraft.cfg
+./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/aircraft.cfg
+./SimObjects/Misc/AI_PA31_Navajo/aircraft.cfg
+./SimObjects/Misc/AI_Pawnee/aircraft.cfg
+./SimObjects/Misc/AI_SD360/aircraft.cfg
+./SimObjects/Misc/fsp_dc10/aircraft.cfg
+./SimObjects/Misc/fsp_md11/aircraft.cfg
+./SimObjects/Misc/FTX Aero Commander 500S/aircraft.cfg
+./SimObjects/Misc/FTX Aero Grand Commander 680FL/aircraft.cfg
+./SimObjects/Misc/FTX Airbus A330-200/aircraft.cfg
+./SimObjects/Misc/FTX Airbus A330-300/aircraft.cfg
+./SimObjects/Misc/FTX ATR 42_300/aircraft.cfg
+./SimObjects/Misc/FTX BAe 146-100/aircraft.cfg
+./SimObjects/Misc/FTX Beechcraft V35 Bonanza/aircraft.cfg
+./SimObjects/Misc/FTX Bell 407/aircraft.cfg
+./SimObjects/Misc/FTX Boeing B747-300/aircraft.cfg
+./SimObjects/Misc/FTX Boeing B777-200/aircraft.cfg
+./SimObjects/Misc/FTX Boeing B777-200LR/aircraft.cfg
+./SimObjects/Misc/FTX Boeing B777-300/aircraft.cfg
+./SimObjects/Misc/FTX Boeing B777-300ER/aircraft.cfg
+./SimObjects/Misc/FTX Douglas DC-3/aircraft.cfg
+./SimObjects/Misc/FTX McDonnell-Douglas MD-11/aircraft.cfg
+./SimObjects/Misc/FTX Piper Navajo/aircraft.cfg
+./SimObjects/Misc/FTX Piper Seneca/aircraft.cfg
+./SimObjects/Misc/MAIW_RWAI_A-10C Nellis AFB/aircraft.cfg
+./SimObjects/Misc/Mitsubishi_PAJERO/aircraft.cfg
+./SimObjects/Misc/OSP_atr_42_300/aircraft.cfg
+./SimObjects/Misc/Project IAS A306/aircraft.cfg
+./SimObjects/Misc/Project IAS A30B/aircraft.cfg
+./SimObjects/Misc/Project IAS A312-A313/aircraft.cfg
+./SimObjects/Misc/Project IAS A320/aircraft.cfg
+./SimObjects/Misc/Project IAS AT72/aircraft.cfg
+./SimObjects/Misc/Project IAS B722/aircraft.cfg
+./SimObjects/Misc/Project IAS B742/aircraft.cfg
+./SimObjects/Misc/Project IAS B74L/aircraft.cfg
+./SimObjects/Misc/Project IAS BAe146/aircraft.cfg
+./SimObjects/Misc/Project IAS F100/aircraft.cfg
+./SimObjects/Misc/Project IAS F50/aircraft.cfg
+./SimObjects/Misc/RZ_AIM_7/back2/aircraft.cfg
+./SimObjects/Misc/Spaceshuttle/aircraft.cfg
+./SimObjects/Misc/TBM_Avenger_Ghost/aircraft.cfg
+./SimObjects/Misc/TFS_B777-300ER/aircraft.cfg
+./SimObjects/Misc/VOZ Douglas DC3 at YLRE/aircraft.cfg
+./SimObjects/Misc/VOZ2 Beech Baron 58/aircraft.cfg
+./SimObjects/Misc/VOZ2 DeHavilland C7 Caribou/aircraft.cfg
+./SimObjects/Misc/VOZ2 Douglas_DC3/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP A320-200/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP A330-200/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP A330-300/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP A340-200/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP A340-300/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP A340-500/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP A340-600/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP B744/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP B773v3/aircraft.cfg
+./SimObjects/Misc/VOZ2 FSP MD11/aircraft.cfg
+./SimObjects/Misc/VOZ2 Lockheed P3-C Orion/aircraft.cfg
+./SimObjects/Misc/VOZ2 PA31_Navajo/aircraft.cfg
+./SimObjects/Misc/VOZ2 YAK 42/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B717/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B721/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B722/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B732/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B733/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B735v2_LogoLight/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B736/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B737/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B737_W/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B738/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B738_W/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B739/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B739_ER/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B742F_GE/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B742_GE/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B742_PW/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B742_RR/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B743_CF6_50/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B743_CF6_80/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B743_PW/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B743_RR/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B744F_GE/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B744F_PW/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B744F_RR/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B744_D/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B744_GE/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B744_PW/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B744_RR/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B752_PW/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B752_RR/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B753_PW/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B762_GE/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B762_PW/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B763_GE/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B763_PW/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B763_RR/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B764_GE/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_DC9-10/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_DC9-30/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_DC9-50/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_EMB_120/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_EMB_170/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_EMB_175/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_EMB_190/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_MD-90/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_MD_87/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_MD_8X_Cone/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_TU_204/aircraft.cfg
+./SimObjects/Misc/WoA_CDAI_CRJ200/aircraft.cfg
+./SimObjects/Misc/WoA_DJC_A318-100_CFM/aircraft.cfg
+./SimObjects/Misc/WoA_DJC_A320-200_CFM/aircraft.cfg
+./SimObjects/Misc/WoA_DJC_JS41/aircraft.cfg
+./SimObjects/Misc/WoA_DW_DHC7/aircraft.cfg
+./SimObjects/Misc/WoA_DW_F-27A/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A300B2-B4/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A318-100_CFM/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A318-100_PW/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A319_IAE/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A320-100/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A320-200_CFM/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A320-200_IAE/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A321_CFM/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_A321_IAE/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_DC-10-10/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_DC-10-30B/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_DC-10-30C/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_ERJ-145/aircraft.cfg
+./SimObjects/Misc/WoA_EVAI_ERJ-145XR/aircraft.cfg
+./SimObjects/Misc/WoA_FM_Bae146-100/aircraft.cfg
+./SimObjects/Misc/WoA_FM_Bae146-200/aircraft.cfg
+./SimObjects/Misc/WoA_FM_Bae146-300/aircraft.cfg
+./SimObjects/Misc/WoA_FM_F100/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_A306_GE/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_A306_PW/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_A310_GE/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_A310_PW/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_A332_GE/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_A333_PW/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_A333_RR/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_A343/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_B772v3_GE/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_B772v3_RR/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_B773v3_PW/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_MD11/aircraft.cfg
+./SimObjects/Misc/WoA_FSP_Saab340/aircraft.cfg
+./SimObjects/Misc/WoA_HTAI_B1900D/aircraft.cfg
+./SimObjects/Misc/WoA_HTAI_B200/aircraft.cfg
+./SimObjects/Misc/WoA_HTAI_DHC6/aircraft.cfg
+./SimObjects/Misc/WoA_MR_A380/aircraft.cfg
+./SimObjects/Misc/WoA_OSP_ATR42_300/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_ATR42/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_ATR72/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_CRJ900/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_DH8B/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_DH8C/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_DH8D/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_ERJ-135/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_F50/aircraft.cfg
+./SimObjects/Misc/WoA_PAI_SB2000/aircraft.cfg
+./SimObjects/Misc/WoA_SKJ_AN12/aircraft.cfg
+./SimObjects/Misc/WoA_SKJ_IL96/aircraft.cfg
+./SimObjects/Misc/WoA_SKJ_TU154v3/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_A340-200/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_A340-300/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_B777-200GE/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_B777-200LR/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_B777-200PW/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_B777-200RR/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_B777-300ER/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_B777-300PW/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_B777-300RR/aircraft.cfg

@@ -1,0 +1,61 @@
+./modules/
+./modules/4X_DA20-100.mcro
+./modules/A2A_Feel.dll
+./modules/AccuFeelMenu.dll
+./modules/cfo_tfxinfo.dll
+./modules/FSCopilot.dll
+./modules/FSUIPC Documents
+./modules/FSUIPC Documents/Example LUA plugins.zip
+./modules/FSUIPC Documents/FSUIPC for Advanced Users.pdf
+./modules/FSUIPC Documents/FSUIPC History.pdf
+./modules/FSUIPC Documents/FSUIPC Lua Library.pdf
+./modules/FSUIPC Documents/FSUIPC Lua Plug-Ins.pdf
+./modules/FSUIPC Documents/FSUIPC User Guide.pdf
+./modules/FSUIPC Documents/FSUIPC4 for Advanced Users.pdf
+./modules/FSUIPC Documents/FSUIPC4 History.pdf
+./modules/FSUIPC Documents/FSUIPC4 User Guide.pdf
+./modules/FSUIPC Documents/List of FS2004 controls.pdf
+./modules/FSUIPC Documents/List of FSX controls.pdf
+./modules/FSUIPC Documents/Lua License.pdf
+./modules/FSUIPC Documents/Lua Plugins for VRInsight Devices.pdf
+./modules/FSUIPC Documents/LuaFileSystem.pdf
+./modules/FSUIPC Documents/SIMSAMURAI+FSUIPC+TUTORIAL.pdf
+./modules/FSUIPC4 Install.log
+./modules/FSUIPC4.1.log
+./modules/FSUIPC4.DLL
+./modules/FSUIPC4.ini
+./modules/FSUIPC4.ini.bak
+./modules/FSUIPC4.key
+./modules/FSUIPC4.log
+./modules/jb777loader.dll
+./modules/jb777_fmc.dll
+./modules/LVLD.dll
+./modules/LVLD.DLL_for_ SimConnect_1.zip
+./modules/Meggitt2100.MCRO
+./modules/TrafficInfo.DLL
+./modules/uipchist.bin
+./modules/vasfmc.mcro
+./modules/WideServer.log
+./modules/WideServer0.log
+./modules/_old_2
+./modules/_old_2/FSUIPC4 Install.log
+./modules/_old_2/FSUIPC4.DLL
+./modules/_old_2/FSUIPC4.ini
+./modules/_old_2/FSUIPC4.log
+./modules/_old_mods
+./modules/_old_mods/FSUIPC.dll
+./modules/_old_mods/FSUIPC4 Install.log
+./modules/_old_mods/FSUIPC4.DLL
+./modules/_old_mods/FSUIPC4.ini
+./modules/_old_mods/FSUIPC4.log
+./modules/_old_mods/state_busted_201111
+./modules/_old_mods/state_busted_201111/FSUIPC Install.log
+./modules/_old_mods/state_busted_201111/FSUIPC.DLL
+./modules/_working-FSUIPC-20111204
+./modules/_working-FSUIPC-20111204/FSCopilot.dll
+./modules/_working-FSUIPC-20111204/FSUIPC4 Install.log
+./modules/_working-FSUIPC-20111204/FSUIPC4.1.log
+./modules/_working-FSUIPC-20111204/FSUIPC4.DLL
+./modules/_working-FSUIPC-20111204/FSUIPC4.ini
+./modules/_working-FSUIPC-20111204/FSUIPC4.ini.bak
+./modules/_working-FSUIPC-20111204/FSUIPC4.log
