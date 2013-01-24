@@ -926,6 +926,14 @@
 ./Effects/fx_rtr_cmnt.fx
 ./Effects/fx_rtr_lnd.fx
 ./Effects/fx_rtr_wtr.fx
+./Effects/fx_Saab_contrail.fx
+./Effects/fx_Saab_red.fx
+./Effects/fx_Saab_Spot.fx
+./Effects/fx_Saab_Spot2.fx
+./Effects/fx_Saab_tchdwn.fx
+./Effects/fx_Saab_torche.fx
+./Effects/fx_Saab_VC.fx
+./Effects/fx_Saab_white.fx
 ./Effects/fx_SBD_EngStart.fx
 ./Effects/fx_sheep.fx
 ./Effects/fx_shootstar1.fx

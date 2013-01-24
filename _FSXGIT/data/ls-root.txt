@@ -1,5 +1,6 @@
 ./
 ./.git
+./.gitignore
 ./441_conquest.bmp
 ./441_conquest.dat
 ./441_conquest.ini
@@ -187,6 +188,7 @@
 ./Real NZ Nelson FSX.url
 ./Real NZ Tauranga.url
 ./RealNZTGuninst.exe
+./Remove SAAB105 for FSX.exe
 ./RemoveP38.exe
 ./RemoveYF23.exe
 ./Rewards
