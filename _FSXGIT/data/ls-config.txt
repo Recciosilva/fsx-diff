@@ -36,7 +36,6 @@
 ./Captain_Sim/777/ace/cfg/texture_300.cfg
 ./Captain_Sim/777/ace/cfg/texture_fre.cfg
 ./Captain_Sim/777/ace/cfg/texture_lr.cfg
-./Captain_Sim/navigation/x777.cfg
 ./CLS/A330_A340/CLS_livery_manager/temp/A332ChinaEastern/texture.ces/texture.cfg
 ./CLS/A330_A340/CLS_livery_manager/temp/A332JetstarSilver/Texture.jsts/texture.cfg
 ./CLS/A330_A340/EASY flight dynamics/EZ flight dynamics/CLS_A330_200/Aircraft.cfg.cfg
@@ -1267,41 +1266,6 @@
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.mtj/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.N.A.J/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.OZJETVH-OBN/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft - Copy.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/model.200ER_GE/model.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/panel/panel.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/sound/sound.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.aa/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.af/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.ANZ/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.asiana/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.ba/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.CHINASOUTHERN/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.jal/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.klm/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.sing/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.THAI/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.united/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_GE/texture.UNITEDGRAY/texture.cfg
-./SimObjects/Airplanes/CS_B777-200ER_PW/aircraft.cfg
-./SimObjects/Airplanes/CS_B777-200ER_PW/model.200ER_PW/model.cfg
-./SimObjects/Airplanes/CS_B777-200ER_PW/panel/panel.cfg
-./SimObjects/Airplanes/CS_B777-200ER_PW/sound/sound.cfg
-./SimObjects/Airplanes/CS_B777-200ER_PW/texture.korea/texture.cfg
-./SimObjects/Airplanes/CS_B777-200LR/aircraft - Copy.cfg
-./SimObjects/Airplanes/CS_B777-200LR/aircraft.cfg
-./SimObjects/Airplanes/CS_B777-200LR/model.200LR_GE/model.cfg
-./SimObjects/Airplanes/CS_B777-200LR/panel/panel.cfg
-./SimObjects/Airplanes/CS_B777-200LR/sound/sound.cfg
-./SimObjects/Airplanes/CS_B777-200LR/texture.aircan/texture.cfg
-./SimObjects/Airplanes/CS_B777-200LR/texture.delta/texture.cfg
-./SimObjects/Airplanes/CS_B777-200LR/texture.emirates/texture.cfg
-./SimObjects/Airplanes/CS_B777_PAX/aircraft.cfg
-./SimObjects/Airplanes/CS_B777_PAX/model.PAX/model.cfg
-./SimObjects/Airplanes/CS_B777_PAX/panel/panel.cfg
-./SimObjects/Airplanes/CS_B777_PAX/sound/sound.cfg
-./SimObjects/Airplanes/CS_B777_PAX/texture.klm/texture.cfg
 ./SimObjects/Airplanes/CS_C130/aircraft.cfg
 ./SimObjects/Airplanes/CS_C130/orig-aircraft.cfg
 ./SimObjects/Airplanes/CS_C130/sound/sound.cfg

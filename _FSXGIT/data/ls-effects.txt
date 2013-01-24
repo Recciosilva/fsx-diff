@@ -168,10 +168,6 @@
 ./Effects/cs737_smoke.fx
 ./Effects/cs737_vclightwhi.fx
 ./Effects/cs737_ww.fx
-./Effects/cs777_engstart.fx
-./Effects/cs777_sf.fx
-./Effects/cs777_smoke_dark.fx
-./Effects/cs777_vclightwhi.fx
 ./Effects/DC-6_HP_L_Flame.fx
 ./Effects/DC-6_HP_R_Flame.fx
 ./Effects/DC-6_IP_L_Flame.fx
