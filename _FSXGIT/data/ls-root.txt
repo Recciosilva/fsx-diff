@@ -61,6 +61,7 @@
 ./csP723_uninstall.exe
 ./csu731_uninstall.exe
 ./csu732_uninstall.exe
+./csu772_uninstall.exe
 ./csYak-3_uninstall.exe
 ./cv990data.ins
 ./dc8data.ins
