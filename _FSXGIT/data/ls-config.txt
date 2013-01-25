@@ -1274,6 +1274,7 @@
 ./SimObjects/Airplanes/CS_B777-200ER_GE/sound/sound.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.aa/texture.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.af/texture.cfg
+./SimObjects/Airplanes/CS_B777-200ER_GE/texture.ANZ/texture.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.ba/texture.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.jal/texture.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.klm/texture.cfg

@@ -251,6 +251,7 @@
 ./tupjxfsxunin.dat
 ./tupjxfsxunin.xml
 ./ui.dll
+./UIAutomationCore.dll
 ./Uires
 ./UK2000 scenery
 ./UNCARMOONEYFSX.exe
