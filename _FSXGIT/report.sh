@@ -1,9 +1,18 @@
+#!/bin/bash
+echo
+echo FSX config monitor
+echo -------------------------------------------------------------------
+
 DATADIR="_FSXGIT/data"
 
-echo FSX config monitor
-echo -------------------------------------------
+if [ ! -f "fsx.exe" ]
+then
+	echo "fsx.exe not found. you must run this in the main FSX folder!"
+	exit
+fi
+
 echo copying main FSX config/scenery files...
-cp /c/ProgramData/Microsoft/FSX/Scenery.cfg "$DATADIR/programdata/"
+cp /cygdrive/c/ProgramData/Microsoft/FSX/Scenery.cfg "$DATADIR/programdata/"
 cp "$APPDATA/microsoft/FSX/dll.xml" "$DATADIR/appdata/"
 cp "$APPDATA/microsoft/FSX/fsx.cfg" "$DATADIR/appdata/"
 
@@ -29,5 +38,6 @@ DISPLAYDATE=`date +%Y-%m-%d`
 tar -czf "_FSXGIT/bkups/backup-$DISPLAYDATE.tar.gz" _FSXGIT/data/
 
 echo
-echo -------------------------------------------
+echo -------------------------------------------------------------------
+
 echo done
