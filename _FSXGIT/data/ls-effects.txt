@@ -240,6 +240,15 @@
 ./Effects/fx_af_f4u_red.fx
 ./Effects/fx_af_f4u_vc.fx
 ./Effects/fx_af_f4u_whi.fx
+./Effects/fx_AHint_eject_sound.fx
+./Effects/fx_AH_aburn.fx
+./Effects/fx_AH_contrail_lowalpha.fx
+./Effects/fx_AH_dumpnburn.fx
+./Effects/fx_AH_dumpnburnsmaller.fx
+./Effects/fx_AH_dumpnburn_bigger.fx
+./Effects/fx_AH_dumpnburn_huge.fx
+./Effects/fx_AH_eject_sound.fx
+./Effects/fx_AH_jet_ring.fx
 ./Effects/fx_ai_fighter_contrail.fx
 ./Effects/fx_ALPHA_B1B_AB.fx
 ./Effects/fx_ALPHA_B1B_AB_light.fx
@@ -1785,6 +1794,7 @@
 ./Effects/texture/fx_ac111.bmp
 ./Effects/texture/fx_ac112.bmp
 ./Effects/texture/fx_af_f4u_circle.bmp
+./Effects/texture/fx_AH_flame_alphad.bmp
 ./Effects/texture/fx_Alabeo.bmp
 ./Effects/texture/fx_aniburner1b.bmp
 ./Effects/texture/fx_aurora.bmp
