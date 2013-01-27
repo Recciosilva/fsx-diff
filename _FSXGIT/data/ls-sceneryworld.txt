@@ -436,6 +436,7 @@
 ./scenery/World/Scenery/Traffic_97_WoA_Northwest Airlines_Wi06_FSX.bgl
 ./scenery/World/Scenery/Traffic_a4_2.bgl
 ./scenery/World/Scenery/Traffic_A4_75.bgl
+./scenery/World/Scenery/Traffic_ACG_Bentwaters_Woodbridge_1989_FSX.bgl
 ./scenery/World/Scenery/Traffic_Aeroland_FSX.bgl
 ./scenery/World/Scenery/Traffic_AIG_ABX_Wi11-12.bgl
 ./scenery/World/Scenery/Traffic_AIG_AirTransportInternational_Wi11-12.bgl
@@ -508,6 +509,7 @@
 ./scenery/World/Scenery/Traffic_CNA_Summer06_FSX.bgl
 ./scenery/World/Scenery/Traffic_coeen_FSX.bgl
 ./scenery/World/Scenery/Traffic_dniproavia_FSX.bgl
+./scenery/World/Scenery/Traffic_Duxford1_FSX.bgl
 ./scenery/World/Scenery/Traffic_ECA_EurocypriaAirlines_fall06_FSX.bgl
 ./scenery/World/Scenery/Traffic_El Al_Winter_2007_FSX.bgl
 ./scenery/World/Scenery/Traffic_enterair_su11.bgl
@@ -543,8 +545,18 @@
 ./scenery/World/Scenery/Traffic_lao_FSX.bgl
 ./scenery/World/Scenery/Traffic_LDK_Su12_ShandongAirlines.bgl
 ./scenery/World/Scenery/Traffic_LDK_Su12_UniAir.bgl
+./scenery/World/Scenery/Traffic_MAIW_12sqn_RAF_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_13sqn_RAF_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_14sqn_RAF_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_15sqn_RAF_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_2sqn_RAF_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_31sqn_RAF_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_617sqn_RAF_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_9sqn_RAF_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_BAe Warton_Tornado_GR4_FSX.bgl
 ./scenery/World/Scenery/Traffic_MAIW_Nellis_AFB_FSX.bgl
 ./scenery/World/Scenery/Traffic_MAIW_Nellis_Humvee_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_QinetiQ Boscome_Tornado_GR4_FSX.bgl
 ./scenery/World/Scenery/Traffic_MAIW_USAF_Thunderbirds_FSX.bgl
 ./scenery/World/Scenery/Traffic_MASkargo_Wi10_FSX.bgl
 ./scenery/World/Scenery/Traffic_Meelad_FSX.bgl

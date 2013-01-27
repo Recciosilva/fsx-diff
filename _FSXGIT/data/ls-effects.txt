@@ -221,6 +221,37 @@
 ./Effects/fx_A4strobe.fx
 ./Effects/fx_A4vclight1.fx
 ./Effects/fx_A4vclight2.fx
+./Effects/fx_ACGDXPeeps01.fx
+./Effects/fx_ACGDXPeeps02.fx
+./Effects/fx_ACGDXPeeps03.fx
+./Effects/fx_ACGDXPeeps04.fx
+./Effects/fx_ACGDXPeeps05.fx
+./Effects/fx_ACGDXPeeps06.fx
+./Effects/fx_ACGDXPeeps07.fx
+./Effects/fx_ACGDXPeeps08.fx
+./Effects/fx_ACGDXPeeps09.fx
+./Effects/fx_ACGDXPeeps10.fx
+./Effects/fx_ACGDXPeeps11.fx
+./Effects/fx_ACGDXPeeps12.fx
+./Effects/fx_ACGDXPeeps13.fx
+./Effects/fx_ACGDXPeeps14.fx
+./Effects/fx_ACGDXPeeps15.fx
+./Effects/fx_ACGDXPeeps16.fx
+./Effects/fx_ACGDXPeeps17.fx
+./Effects/fx_ACGDXPeeps18.fx
+./Effects/fx_ACGDXPeeps19.fx
+./Effects/fx_ACGDXPeeps20.fx
+./Effects/fx_ACGDXPeeps21.fx
+./Effects/fx_ACGDXPeeps22.fx
+./Effects/fx_ACGDXPeeps23.fx
+./Effects/fx_ACGDXPeeps24.fx
+./Effects/fx_ACGDXPeeps25.fx
+./Effects/fx_ACGDXPeeps26.fx
+./Effects/fx_ACGDXPeeps27.fx
+./Effects/fx_ACGDXPeeps28.fx
+./Effects/fx_ACGDXPeeps29.fx
+./Effects/fx_ACGDXPeeps30.fx
+./Effects/fx_ACGDXPeeps31.fx
 ./Effects/fx_Aerosoft_Bronco_engfire.fx
 ./Effects/fx_Aerosoft_Bronco_engsmoke.fx
 ./Effects/fx_Aerosoft_PBY_engfire.fx
@@ -473,6 +504,7 @@
 ./Effects/fx_f14_afterburner_6.fx
 ./Effects/fx_F14_vclight.fx
 ./Effects/fx_f16_ab.fx
+./Effects/fx_f16_becongrem.fx
 ./Effects/fx_f16_beconredm.fx
 ./Effects/fx_f16_navgrem.fx
 ./Effects/fx_f16_navredm.fx
@@ -574,6 +606,14 @@
 ./Effects/fx_GodzoneLight10.fx
 ./Effects/fx_goose_spray.fx
 ./Effects/fx_GreenDot.fx
+./Effects/fx_GroundCrew01.fx
+./Effects/fx_GroundCrew02.fx
+./Effects/fx_GroundCrew03.fx
+./Effects/fx_GroundCrew04.fx
+./Effects/fx_GroundCrew05.fx
+./Effects/fx_GroundCrew06.fx
+./Effects/fx_GroundCrew07.fx
+./Effects/fx_GroundCrew08.fx
 ./Effects/fx_gulls.fx
 ./Effects/fx_gunpack.fx
 ./Effects/fx_HAMILTON_DRUMFIRE.fx
@@ -716,6 +756,9 @@
 ./Effects/FX_JF_L749_HP_Flame.fx
 ./Effects/fx_JF_Lancstart.fx
 ./Effects/fx_JF_smoikeprop.fx
+./Effects/fx_JY_apronlight.fx
+./Effects/fx_JY_HasLight1.fx
+./Effects/fx_JY_securitylight.fx
 ./Effects/fx_kilauea1.fx
 ./Effects/fx_kilsteam.fx
 ./Effects/Fx_KORD_Deice.fx
@@ -1223,6 +1266,9 @@
 ./Effects/hosplandinglightObsorangeFlash60Hi.fx
 ./Effects/hosplandinglightsblueFlash60Med.fx
 ./Effects/Ilyushin_smoke.fx
+./Effects/JY_apronlight.fx
+./Effects/JY_Haslight1.fx
+./Effects/JY_securitylight.fx
 ./Effects/Kosrae International
 ./Effects/Kosrae International/Kosrae International.doc
 ./Effects/Kosrae International/scenery
@@ -1727,6 +1773,8 @@
 ./Effects/su_combustion_start.fx
 ./Effects/texture
 ./Effects/texture/a10_tracer.bmp
+./Effects/texture/ACG_JY_Pilots_Photographers.bmp
+./Effects/texture/ACG_SL_People.bmp
 ./Effects/texture/Aerosoft_EGLC_grlight_taxi_sm.bmp
 ./Effects/texture/Aerosoft_LCLK_Spots_1.bmp
 ./Effects/texture/Apron_Flood_11.bmp
@@ -1844,6 +1892,9 @@
 ./Effects/texture/fx_iris_light.bmp
 ./Effects/texture/fx_iris_rays.bmp
 ./Effects/texture/fx_iris_vortex.bmp
+./Effects/texture/fx_JY_apronlight.bmp
+./Effects/texture/fx_JY_HASlight.bmp
+./Effects/texture/fx_JY_securitylight.bmp
 ./Effects/texture/fx_lightning1.bmp
 ./Effects/texture/fx_MF_marine_light.bmp
 ./Effects/texture/fx_mul_1.bmp
@@ -1899,6 +1950,7 @@
 ./Effects/texture/fx_wt5.bmp
 ./Effects/texture/fx_YMML2_orbx.bmp
 ./Effects/texture/fx_YMML_orbx.bmp
+./Effects/texture/GroundCrew.bmp
 ./Effects/texture/gunpack.bmp
 ./Effects/texture/iris_fx_2.bmp
 ./Effects/texture/lampadairejlv.bmp

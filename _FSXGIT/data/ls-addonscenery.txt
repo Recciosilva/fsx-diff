@@ -695,6 +695,27 @@
 ./Addon Scenery/Tonga Domestic/Scenery
 ./Addon Scenery/Tonga Domestic/Texture
 ./Addon Scenery/UK
+./Addon Scenery/UK/ACG IWM Duxford Airshow Addon
+./Addon Scenery/UK/ACG IWM Duxford Airshow Addon/scenery
+./Addon Scenery/UK/ACG IWM Duxford Airshow Addon/texture
+./Addon Scenery/UK/ACG IWM Duxford FSX
+./Addon Scenery/UK/ACG IWM Duxford FSX/Manuals
+./Addon Scenery/UK/ACG IWM Duxford FSX/scenery
+./Addon Scenery/UK/ACG IWM Duxford FSX/scenery/Static Catalina
+./Addon Scenery/UK/ACG IWM Duxford FSX/texture
+./Addon Scenery/UK/ACG IWM Duxford FSX/Traffic files
+./Addon Scenery/UK/ACG Landclass
+./Addon Scenery/UK/ACG Landclass/Scenery
+./Addon Scenery/UK/ACG RAF Marham
+./Addon Scenery/UK/ACG RAF Marham/Fence
+./Addon Scenery/UK/ACG RAF Marham/Manual
+./Addon Scenery/UK/ACG RAF Marham/Scenery
+./Addon Scenery/UK/ACG RAF Marham/Texture
+./Addon Scenery/UK/ACG RAF Marham Landclass
+./Addon Scenery/UK/ACG RAF Marham Landclass/Scenery
+./Addon Scenery/UK/ACG Twin Bases
+./Addon Scenery/UK/ACG Twin Bases/Scenery
+./Addon Scenery/UK/ACG Twin Bases/Texture
 ./Addon Scenery/UK/Cardiff_Landmarks
 ./Addon Scenery/UK/Cardiff_Landmarks/scenery
 ./Addon Scenery/UK/Cardiff_Landmarks/texture
@@ -729,6 +750,16 @@
 ./Addon Scenery/UK/_DEL_Liverpool John Lennon Airport FSX
 ./Addon Scenery/UK/_DEL_Liverpool John Lennon Airport FSX/Scenery
 ./Addon Scenery/UK/_DEL_Liverpool John Lennon Airport FSX/Texture
+./Addon Scenery/United Kingdom
+./Addon Scenery/United Kingdom/RAF Waddington
+./Addon Scenery/United Kingdom/RAF Waddington/Scenery
+./Addon Scenery/United Kingdom/RAF Waddington/Scenery/Traffic
+./Addon Scenery/United Kingdom/RAF Waddington/Texture
+./Addon Scenery/United Kingdom/RAF Waddington V-Force
+./Addon Scenery/United Kingdom/RAF Waddington V-Force/Fence
+./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery
+./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery/traffic
+./Addon Scenery/United Kingdom/RAF Waddington V-Force/Texture
 ./Addon Scenery/USA
 ./Addon Scenery/USA/BlueSky-CaliforniaPhotoreal
 ./Addon Scenery/USA/BlueSky-CaliforniaPhotoreal/Scenery

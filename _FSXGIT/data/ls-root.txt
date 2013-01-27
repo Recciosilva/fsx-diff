@@ -11,6 +11,8 @@
 ./ablscpt.dll
 ./acckey.txt
 ./Ace.exe
+./ACG
+./ACG_Uninstal.exe
 ./acontain.dll
 ./activate.exe
 ./Addon Modules
@@ -142,6 +144,7 @@
 ./lua5.1.dll
 ./LWcfg.spb
 ./main.dll
+./Marham FSX Uninstall.exe
 ./messages
 ./Microsoft Online Privacy Notice Highlights.url
 ./mingwm10.dll
@@ -296,6 +299,8 @@
 ./UninstallFSDC337.exe
 ./UninstallFSDO2A.exe
 ./uninstallP46T.exe
+./Uninstall_ACG_IWM_DUXFORD_AI_FSX.exe
+./Uninstall_ACG_IWM_DUXFORD_FSX.exe
 ./Uninstall_B200.exe
 ./Uninstall_Ben Gurion X
 ./Uninstall_BN2_1-6.exe

@@ -1139,7 +1139,7 @@
 ./Texture/runway_detail.bmp
 ./Texture/runway_detail02.bmp
 ./Texture/runway_marks.dds
-./Texture/RWAI_A10_L.bmp
+./Texture/rwai_a10_l.bmp
 ./Texture/sco_noaa_antenna2.bmp
 ./Texture/sco_noaa_antenna_grey.bmp
 ./Texture/sco_noaa_cooltower1.bmp

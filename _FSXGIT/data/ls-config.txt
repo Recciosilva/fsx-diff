@@ -4661,6 +4661,51 @@
 ./SimObjects/Misc/A10-MK82-SE/model/model.cfg
 ./SimObjects/Misc/A10-MK82-SE/sim.cfg
 ./SimObjects/Misc/A10-MK82-SE/texture/texture.cfg
+./SimObjects/Misc/ACG B17G AI/aircraft.cfg
+./SimObjects/Misc/ACG B17G AI/model/Model.cfg
+./SimObjects/Misc/ACG Catalina AI/aircraft.cfg
+./SimObjects/Misc/ACG Catalina AI/model/Model.cfg
+./SimObjects/Misc/ACG DC3 AI/aircraft.cfg
+./SimObjects/Misc/ACG DC3 AI/model.3X/Model.cfg
+./SimObjects/Misc/ACG DC3 AI/model.BBMF/Model.cfg
+./SimObjects/Misc/ACG DC3 AI/model.Norway/Model.cfg
+./SimObjects/Misc/ACG F86 Sabre  AI/aircraft.cfg
+./SimObjects/Misc/ACG F86 Sabre  AI/Model/Model.cfg
+./SimObjects/Misc/ACG Harvard AI/aircraft.cfg
+./SimObjects/Misc/ACG Harvard AI/model.classic/Model.cfg
+./SimObjects/Misc/ACG Harvard AI/model.TAZ/Model.cfg
+./SimObjects/Misc/ACG Hurricane BBMF AI/aircraft.cfg
+./SimObjects/Misc/ACG Hurricane BBMF AI/Model/Model.cfg
+./SimObjects/Misc/ACG Hurricane BBMF AI/Model.HAC/Model.cfg
+./SimObjects/Misc/ACG Mustang AI/aircraft.cfg
+./SimObjects/Misc/ACG Mustang AI/model/Model.cfg
+./SimObjects/Misc/ACG Rapide AI/aircraft.cfg
+./SimObjects/Misc/ACG Rapide AI/model/Model.cfg
+./SimObjects/Misc/ACG Rapide AI/model.silver/Model.cfg
+./SimObjects/Misc/ACG Spitfires AI/aircraft.cfg
+./SimObjects/Misc/ACG Spitfires AI/model.1a/Model.cfg
+./SimObjects/Misc/ACG Spitfires AI/model.T2/Model.cfg
+./SimObjects/Misc/ACG Spitfires AI/model.Vb/Model.cfg
+./SimObjects/Misc/ACG Spitfires AI/model.XIX/Model.cfg
+./SimObjects/Misc/ACG Thunderbolt AI/aircraft.cfg
+./SimObjects/Misc/ACG Thunderbolt AI/model/Model.cfg
+./SimObjects/Misc/ACG Tiger Moth AI/aircraft.cfg
+./SimObjects/Misc/ACG Tiger Moth AI/model.DF112/Model.cfg
+./SimObjects/Misc/ACG Tiger Moth AI/model.R4922/Model.cfg
+./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/aircraft.cfg
+./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/model.air/Model.cfg
+./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/model.clean/Model.cfg
+./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/aircraft.cfg
+./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/model.no_wing_tanks/Model.cfg
+./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/model.wing_tanks/Model.cfg
+./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/Aircraft.cfg
+./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/model.centre_tank/Model.cfg
+./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/model.clean/Model.cfg
+./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/Aircraft.cfg
+./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/model.clean/model.cfg
+./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/model.long/model.cfg
+./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/model.training/model.cfg
+./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/model.war/model.cfg
 ./SimObjects/Misc/AC_Unit_sm/model/model.cfg
 ./SimObjects/Misc/AC_Unit_sm/sim.cfg
 ./SimObjects/Misc/AC_Unit_sm/texture/texture.cfg
@@ -4791,6 +4836,16 @@
 ./SimObjects/Misc/AI RNZAF P-3 Orion/model/model.cfg
 ./SimObjects/Misc/AI Shorts SD3-60/Aircraft.cfg
 ./SimObjects/Misc/AI Shorts SD3-60/model/Model.cfg
+./SimObjects/Misc/AI UKMIL Astor_EGXW/Aircraft.cfg
+./SimObjects/Misc/AI UKMIL Astor_EGXW/model/model.cfg
+./SimObjects/Misc/AI UKMIL Nimrod R1_EGXW/Aircraft.cfg
+./SimObjects/Misc/AI UKMIL Nimrod R1_EGXW/model/Model.cfg
+./SimObjects/Misc/AI UKMIL Vulcan EGXW/Aircraft.cfg
+./SimObjects/Misc/AI UKMIL Vulcan EGXW/model/Model.cfg
+./SimObjects/Misc/AI UKMIL_E3D_EGXW/Aircraft.cfg
+./SimObjects/Misc/AI UKMIL_E3D_EGXW/model/model.cfg
+./SimObjects/Misc/AI UKMIL_MD902_EGXW/aircraft.cfg
+./SimObjects/Misc/AI UKMIL_MD902_EGXW/model/model.cfg
 ./SimObjects/Misc/AI Yak42/model/model.cfg
 ./SimObjects/Misc/AI Yak42/panel/panel.cfg
 ./SimObjects/Misc/AI Yak42/sound/sound.cfg

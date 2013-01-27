@@ -1,9 +1,23 @@
+./SimObjects/Misc/ACG B17G AI/aircraft.cfg
+./SimObjects/Misc/ACG Catalina AI/aircraft.cfg
+./SimObjects/Misc/ACG DC3 AI/aircraft.cfg
+./SimObjects/Misc/ACG F86 Sabre  AI/aircraft.cfg
+./SimObjects/Misc/ACG Harvard AI/aircraft.cfg
+./SimObjects/Misc/ACG Hurricane BBMF AI/aircraft.cfg
+./SimObjects/Misc/ACG Mustang AI/aircraft.cfg
+./SimObjects/Misc/ACG Rapide AI/aircraft.cfg
+./SimObjects/Misc/ACG Spitfires AI/aircraft.cfg
+./SimObjects/Misc/ACG Thunderbolt AI/aircraft.cfg
+./SimObjects/Misc/ACG Tiger Moth AI/aircraft.cfg
+./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/aircraft.cfg
+./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/aircraft.cfg
 ./SimObjects/Misc/AI A10/aircraft.cfg
 ./SimObjects/Misc/AI AS350 Ecureuil/aircraft.cfg
 ./SimObjects/Misc/AI PA-31_Navajo/aircraft.cfg
 ./SimObjects/Misc/AI PAC Cresco/aircraft.cfg
 ./SimObjects/Misc/AI PAC FU24/aircraft.cfg
 ./SimObjects/Misc/AI RNZAF P-3 Orion/aircraft.cfg
+./SimObjects/Misc/AI UKMIL_MD902_EGXW/aircraft.cfg
 ./SimObjects/Misc/AIA_747_400F/fs2002fde/aircraft.cfg
 ./SimObjects/Misc/AIA_TU_214/FS2002_FDE/aircraft.cfg
 ./SimObjects/Misc/AIM_B767_200/aircraft.cfg
