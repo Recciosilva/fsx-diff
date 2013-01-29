@@ -57,6 +57,7 @@
 ./credits.rtf
 ./csB521_uninstall.exe
 ./cse732_uninstall.exe
+./cse733_uninstall.exe
 ./csP131_uninstall.exe
 ./csP721_uninstall.exe
 ./csP722_uninstall.exe

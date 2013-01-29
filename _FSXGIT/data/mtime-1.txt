@@ -1,284 +1,33 @@
 ./
-./ACG
-./ACG/Fence Texture
-./ACG/Manual
-./ACG/Traffic text Files
-./ACG_Uninstal.exe
-./Addon Scenery
-./Addon Scenery/scenery
-./Addon Scenery/UK
-./Addon Scenery/UK/ACG IWM Duxford Airshow Addon
-./Addon Scenery/UK/ACG IWM Duxford Airshow Addon/scenery
-./Addon Scenery/UK/ACG IWM Duxford Airshow Addon/texture
-./Addon Scenery/UK/ACG IWM Duxford FSX
-./Addon Scenery/UK/ACG IWM Duxford FSX/Manuals
-./Addon Scenery/UK/ACG IWM Duxford FSX/scenery
-./Addon Scenery/UK/ACG IWM Duxford FSX/scenery/Static Catalina
-./Addon Scenery/UK/ACG IWM Duxford FSX/texture
-./Addon Scenery/UK/ACG IWM Duxford FSX/Traffic files
-./Addon Scenery/UK/ACG Landclass
-./Addon Scenery/UK/ACG Landclass/Scenery
-./Addon Scenery/UK/ACG RAF Marham
-./Addon Scenery/UK/ACG RAF Marham/Fence
-./Addon Scenery/UK/ACG RAF Marham/Manual
-./Addon Scenery/UK/ACG RAF Marham/Scenery
-./Addon Scenery/UK/ACG RAF Marham/Texture
-./Addon Scenery/UK/ACG RAF Marham Landclass
-./Addon Scenery/UK/ACG RAF Marham Landclass/Scenery
-./Addon Scenery/UK/ACG Twin Bases
-./Addon Scenery/UK/ACG Twin Bases/Scenery
-./Addon Scenery/UK/ACG Twin Bases/Texture
-./Addon Scenery/United Kingdom
-./Addon Scenery/United Kingdom/RAF Waddington
-./Addon Scenery/United Kingdom/RAF Waddington/Scenery
-./Addon Scenery/United Kingdom/RAF Waddington/Scenery/Traffic
-./Addon Scenery/United Kingdom/RAF Waddington/Texture
-./Addon Scenery/United Kingdom/RAF Waddington V-Force
-./Addon Scenery/United Kingdom/RAF Waddington V-Force/Fence
-./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery
-./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery/traffic
-./Addon Scenery/United Kingdom/RAF Waddington V-Force/Texture
-./Effects
-./Effects/texture
+./cse733_uninstall.exe
 ./jb777memfilemap.txt
-./JustFlight
-./JustFlight/RAF Coningsby
-./JustFlight/RAF Coningsby/AirportFiles
-./JustFlight/RAF Coningsby/AirportFiles/SCENERY
-./JustFlight/RAF Coningsby/AirportFiles/TEXTURE
-./JustFlight/RAF Coningsby/AirportFiles/TEXTURE/Default
-./JustFlight/RAF Coningsby/AirportFiles/TEXTURE/VFRRS1
-./JustFlight/RAF Coningsby/Bak
-./JustFlight/RAF Coningsby/Cars
-./JustFlight/RAF Coningsby/Fence texture mesh
-./JustFlight/RAF Coningsby/Fence texture semiopaque
-./JustFlight/RAF Coningsby/Full
-./JustFlight/RAF Coningsby/Lite
-./JustFlight/RAF Coningsby/smooth
-./JustFlight/RAF Coningsby/Traffic file
 ./Level-D Simulations/B767-300/B767-300.ini
-./Marham FSX Uninstall.exe
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./Scenery/World/Scenery
 ./SimObjects/Airplanes
+./SimObjects/Airplanes/CS_B737-200C
+./SimObjects/Airplanes/CS_B737-200C/model
+./SimObjects/Airplanes/CS_B737-200C/model.c
+./SimObjects/Airplanes/CS_B737-200C/panel
+./SimObjects/Airplanes/CS_B737-200C/sound
+./SimObjects/Airplanes/CS_B737-200C/texture
+./SimObjects/Airplanes/CS_B737-200C/texture.fin
+./SimObjects/Airplanes/CS_B737-200F
+./SimObjects/Airplanes/CS_B737-200F/model
+./SimObjects/Airplanes/CS_B737-200F/model.f
+./SimObjects/Airplanes/CS_B737-200F/panel
+./SimObjects/Airplanes/CS_B737-200F/sound
+./SimObjects/Airplanes/CS_B737-200F/texture
+./SimObjects/Airplanes/CS_B737-200F/texture.dhl
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Misc
-./SimObjects/Misc/ACG B17G AI
-./SimObjects/Misc/ACG B17G AI/aircraft.cfg
-./SimObjects/Misc/ACG B17G AI/model
-./SimObjects/Misc/ACG B17G AI/texture
-./SimObjects/Misc/ACG Catalina AI
-./SimObjects/Misc/ACG Catalina AI/aircraft.cfg
-./SimObjects/Misc/ACG Catalina AI/model
-./SimObjects/Misc/ACG Catalina AI/texture
-./SimObjects/Misc/ACG DC3 AI
-./SimObjects/Misc/ACG DC3 AI/aircraft.cfg
-./SimObjects/Misc/ACG DC3 AI/model.3X
-./SimObjects/Misc/ACG DC3 AI/model.BBMF
-./SimObjects/Misc/ACG DC3 AI/model.Norway
-./SimObjects/Misc/ACG DC3 AI/texture.3X
-./SimObjects/Misc/ACG DC3 AI/texture.BBMF
-./SimObjects/Misc/ACG DC3 AI/texture.Norway
-./SimObjects/Misc/ACG F86 Sabre  AI
-./SimObjects/Misc/ACG F86 Sabre  AI/Model
-./SimObjects/Misc/ACG F86 Sabre  AI/texture
-./SimObjects/Misc/ACG Harvard AI
-./SimObjects/Misc/ACG Harvard AI/model.classic
-./SimObjects/Misc/ACG Harvard AI/model.TAZ
-./SimObjects/Misc/ACG Harvard AI/texture.classic
-./SimObjects/Misc/ACG Harvard AI/texture.TAZ
-./SimObjects/Misc/ACG Hurricane BBMF AI
-./SimObjects/Misc/ACG Hurricane BBMF AI/Model
-./SimObjects/Misc/ACG Hurricane BBMF AI/Model.HAC
-./SimObjects/Misc/ACG Hurricane BBMF AI/texture
-./SimObjects/Misc/ACG Hurricane BBMF AI/texture.HAC
-./SimObjects/Misc/ACG Mustang AI
-./SimObjects/Misc/ACG Mustang AI/model
-./SimObjects/Misc/ACG Mustang AI/texture.frankie
-./SimObjects/Misc/ACG Mustang AI/texture.velma
-./SimObjects/Misc/ACG Rapide AI
-./SimObjects/Misc/ACG Rapide AI/model
-./SimObjects/Misc/ACG Rapide AI/model.silver
-./SimObjects/Misc/ACG Rapide AI/texture
-./SimObjects/Misc/ACG Rapide AI/texture.silver
-./SimObjects/Misc/ACG Spitfires AI
-./SimObjects/Misc/ACG Spitfires AI/model.1a
-./SimObjects/Misc/ACG Spitfires AI/model.T2
-./SimObjects/Misc/ACG Spitfires AI/model.Vb
-./SimObjects/Misc/ACG Spitfires AI/model.XIX
-./SimObjects/Misc/ACG Spitfires AI/texture.1a
-./SimObjects/Misc/ACG Spitfires AI/texture.T2
-./SimObjects/Misc/ACG Spitfires AI/texture.Vb
-./SimObjects/Misc/ACG Spitfires AI/texture.XIX
-./SimObjects/Misc/ACG Thunderbolt AI
-./SimObjects/Misc/ACG Thunderbolt AI/model
-./SimObjects/Misc/ACG Thunderbolt AI/texture
-./SimObjects/Misc/ACG Tiger Moth AI
-./SimObjects/Misc/ACG Tiger Moth AI/model.DF112
-./SimObjects/Misc/ACG Tiger Moth AI/model.R4922
-./SimObjects/Misc/ACG Tiger Moth AI/texture.DF112
-./SimObjects/Misc/ACG Tiger Moth AI/texture.R4922
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/model.air
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/model.clean
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.85-1453 WR-02
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.85-1479 WR-01
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0209 WR-03
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0216 WR-12
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0219 WR-06
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0224 WR-15
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0227 WR-14
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0229 WR-04
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0231 WR-13
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0237 WR-16
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0249 WR-05
-./SimObjects/Misc/ACG_HTAI_ F-16C RAF Bentwaters/texture.86-0254 WR-11
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/aircraft.cfg
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/model.no_wing_tanks
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/model.wing_tanks
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/texture.66-0220 HC-130P 67SOS
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/texture.66-0223 HC-130P 67SOS
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/texture.69-5820 HC-130N 67SOS
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/texture.69-5823 HC-130N 67SOS
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/texture.69-5826 HC-130N 67SOS
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/texture.69-5827 HC-130N 67SOS
-./SimObjects/Misc/ACG_HTAI_ HC-130 RAF Woodbridge/texture.69-5831 HC-130N 67SOS
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/Aircraft.cfg
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/model.centre_tank
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/model.clean
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/texture.F-15C 53FS 80-0012 BT
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/texture.F-15C 53FS 84-0001 BT (53FS)
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/texture.F-15C 53FS 84-0002 BT
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/texture.F-15C 53FS 84-0003 BT
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/texture.F-15C 53FS 84-0004 BT
-./SimObjects/Misc/ACG_NBAI_Boeing  F15C Bitburg AB/texture.F-15C 53FS 84-0005 BT
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/model.clean
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/model.long
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/model.training
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/model.war
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.79-0217 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.79-0218 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.79-0221 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.79-0225 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0145 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0147 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0155 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0158 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0159 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0160 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0167 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0169 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0171 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0179 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0180 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0181 92TFS WR 81TFW
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0183 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0192 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0195 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0203 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0204 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0205 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0206 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0207 92TFSWR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0215 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0216 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0220 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0228 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0232 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0233 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0234 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0235 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0236 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0270 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0271 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0272 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0274 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0276 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0278 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0279 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0280 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-0281 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-1043 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.80-1068 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0941 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0942 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0943 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0944 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0950 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0951 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0952 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0956 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0960 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0961 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0962 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0963 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0965 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0966 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0976 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0977 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0978 78TFS WR 78AMU
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0980 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0982 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0983 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0984 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0985 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0988 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0991 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.81-0992 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.82-0646 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.82-0649 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.82-0650 510TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.82-0654 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.82-0655 91TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.82-0656 92TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.82-0658 78TFS WR
-./SimObjects/Misc/ACG_RWAI_ A-10 Twin Bases/texture.82-0954 92TFS WR
-./SimObjects/Misc/AI UKMIL Astor_EGXW
-./SimObjects/Misc/AI UKMIL Astor_EGXW/model
-./SimObjects/Misc/AI UKMIL Astor_EGXW/texture
-./SimObjects/Misc/AI UKMIL Nimrod R1_EGXW
-./SimObjects/Misc/AI UKMIL Nimrod R1_EGXW/model
-./SimObjects/Misc/AI UKMIL Nimrod R1_EGXW/texture
-./SimObjects/Misc/AI UKMIL Vulcan EGXW
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/model
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.101_XJ824
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.101_XM571
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.101_XM597
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.101_XM657
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.44_XL319
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.44_XL386
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.44_XL398
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.44_XM598
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.44_XM605
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.44_XM607
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.44_XM609
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.44_XM655
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.50_XL387
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.50_XL426
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.50_XM594
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.50_XM654
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.9_XH562
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.9_XL361
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.9_XM612
-./SimObjects/Misc/AI UKMIL Vulcan EGXW/texture.9_XM646
-./SimObjects/Misc/AI UKMIL_E3D_EGXW
-./SimObjects/Misc/AI UKMIL_E3D_EGXW/model
-./SimObjects/Misc/AI UKMIL_E3D_EGXW/texture.zh101
-./SimObjects/Misc/AI UKMIL_MD902_EGXW
-./SimObjects/Misc/AI UKMIL_MD902_EGXW/model
-./SimObjects/Misc/AI UKMIL_MD902_EGXW/texture
-./Texture
-./Uninstall_ACG_IWM_DUXFORD_AI_FSX.exe
-./Uninstall_ACG_IWM_DUXFORD_FSX.exe
+./SimObjects/Airplanes/Emb 110P/Aircraft.cfg
+./SimObjects/Airplanes/EMB110-Banderainte/aircraft.cfg
+./SimObjects/Airplanes/PMDG EXPRESS B1900D/Aircraft.cfg
 ./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-01-27.tar.gz
+./_FSXGIT/bkups/backup-2013-01-29.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/ls-addonscenery.txt
