@@ -1,10 +1,49 @@
 ./
+./Addon Scenery/scenery
+./Addon Scenery/SouthAmerica
+./Addon Scenery/SouthAmerica/Argentina
+./Addon Scenery/SouthAmerica/Argentina/Argentina-misc
+./Addon Scenery/SouthAmerica/Argentina/Argentina-misc/scenery
+./Addon Scenery/SouthAmerica/Argentina/Argentine-Airports
+./Addon Scenery/SouthAmerica/Argentina/Argentine-Airports/Documentación
+./Addon Scenery/SouthAmerica/Argentina/Argentine-Airports/scenery
+./Addon Scenery/SouthAmerica/Argentina/Argentine-Airports/Textures
+./Addon Scenery/SouthAmerica/Argentina/BuenosAiresX
+./Addon Scenery/SouthAmerica/Argentina/BuenosAiresX/Docs
+./Addon Scenery/SouthAmerica/Argentina/BuenosAiresX/Scenery
+./Addon Scenery/SouthAmerica/Argentina/BuenosAiresX/Texture
+./Addon Scenery/SouthAmerica/Argentina/Falklands_2007
+./Addon Scenery/SouthAmerica/Argentina/Falklands_2007/scenery
+./Addon Scenery/SouthAmerica/Argentina/Falklands_2007/scenery/Unused eyecandy files
+./Addon Scenery/SouthAmerica/Argentina/Falklands_2007/texture
+./Addon Scenery/SouthAmerica/Argentina/Malvinas_2007_V1
+./Addon Scenery/SouthAmerica/Argentina/Malvinas_2007_V1/Docs
+./Addon Scenery/SouthAmerica/Argentina/Malvinas_2007_V1/Scenery
+./Addon Scenery/SouthAmerica/Argentina/Malvinas_2007_V1/Texture
+./Addon Scenery/SouthAmerica/Argentina/RAF Mount Pleasant
+./Addon Scenery/SouthAmerica/Argentina/RAF Mount Pleasant/Scenery
+./Addon Scenery/SouthAmerica/Argentina/RAF Mount Pleasant/texture
+./Addon Scenery/SouthAmerica/Argentina/SAAP FSX
+./Addon Scenery/SouthAmerica/Argentina/SAAP FSX/img
+./Addon Scenery/SouthAmerica/Argentina/SAAP FSX/scenery
+./Addon Scenery/SouthAmerica/Argentina/SAAP FSX/texture
+./Addon Scenery/SouthAmerica/Argentina/SARC_Corrientes
+./Addon Scenery/SouthAmerica/Argentina/SARC_Corrientes/Docs
+./Addon Scenery/SouthAmerica/Argentina/SARC_Corrientes/scenery
+./Addon Scenery/SouthAmerica/Argentina/SARC_Corrientes/texture
+./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata
+./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata/Scenery
+./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata/Texture
+./Addon Scenery/static-library-objects/scenery
+./Addon Scenery/static-library-objects/texture
+./Addon Scenery/texture
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
+./modules/WideServer0.log
 ./SimObjects/Airplanes
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
 ./SimObjects/Airplanes/IA-58 Pucara
@@ -19,7 +58,21 @@
 ./SimObjects/Airplanes/IA-58 Pucara/texture.515
 ./SimObjects/Airplanes/IA-58 Pucara/texture.568
 ./SimObjects/Airplanes/IA-58 Pucara/texture.raf
+./_FSXGIT/bkups
+./_FSXGIT/bkups/backup-2013-01-30.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
+./_FSXGIT/data/ls-addonscenery.txt
+./_FSXGIT/data/ls-aircraft-cfg.txt
+./_FSXGIT/data/ls-config.txt
+./_FSXGIT/data/ls-effects.txt
+./_FSXGIT/data/ls-gauges.txt
+./_FSXGIT/data/ls-misc-cfg.txt
+./_FSXGIT/data/ls-modules.txt
+./_FSXGIT/data/ls-root.txt
+./_FSXGIT/data/ls-rotorcraft-cfg.txt
+./_FSXGIT/data/ls-sceneryworld.txt
+./_FSXGIT/data/ls-sound.txt
+./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG
