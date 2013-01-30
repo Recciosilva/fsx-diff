@@ -1,46 +1,25 @@
 ./
-./cse733_uninstall.exe
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
-./modules/WideServer0.log
 ./SimObjects/Airplanes
-./SimObjects/Airplanes/CS_B737-200C
-./SimObjects/Airplanes/CS_B737-200C/model
-./SimObjects/Airplanes/CS_B737-200C/model.c
-./SimObjects/Airplanes/CS_B737-200C/panel
-./SimObjects/Airplanes/CS_B737-200C/sound
-./SimObjects/Airplanes/CS_B737-200C/texture
-./SimObjects/Airplanes/CS_B737-200C/texture.fin
-./SimObjects/Airplanes/CS_B737-200F
-./SimObjects/Airplanes/CS_B737-200F/model
-./SimObjects/Airplanes/CS_B737-200F/model.f
-./SimObjects/Airplanes/CS_B737-200F/panel
-./SimObjects/Airplanes/CS_B737-200F/sound
-./SimObjects/Airplanes/CS_B737-200F/texture
-./SimObjects/Airplanes/CS_B737-200F/texture.dhl
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/Emb 110P/Aircraft.cfg
-./SimObjects/Airplanes/EMB110-Banderainte/aircraft.cfg
-./SimObjects/Airplanes/PMDG EXPRESS B1900D/Aircraft.cfg
-./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-01-29.tar.gz
+./SimObjects/Airplanes/IA-58 Pucara
+./SimObjects/Airplanes/IA-58 Pucara/Aircraft.cfg
+./SimObjects/Airplanes/IA-58 Pucara/model.CLN
+./SimObjects/Airplanes/IA-58 Pucara/model.TNK
+./SimObjects/Airplanes/IA-58 Pucara/model.WPN
+./SimObjects/Airplanes/IA-58 Pucara/panel
+./SimObjects/Airplanes/IA-58 Pucara/sound
+./SimObjects/Airplanes/IA-58 Pucara/sound/Sound.cfg
+./SimObjects/Airplanes/IA-58 Pucara/texture
+./SimObjects/Airplanes/IA-58 Pucara/texture.515
+./SimObjects/Airplanes/IA-58 Pucara/texture.568
+./SimObjects/Airplanes/IA-58 Pucara/texture.raf
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
-./_FSXGIT/data/ls-addonscenery.txt
-./_FSXGIT/data/ls-aircraft-cfg.txt
-./_FSXGIT/data/ls-config.txt
-./_FSXGIT/data/ls-effects.txt
-./_FSXGIT/data/ls-gauges.txt
-./_FSXGIT/data/ls-misc-cfg.txt
-./_FSXGIT/data/ls-modules.txt
-./_FSXGIT/data/ls-root.txt
-./_FSXGIT/data/ls-rotorcraft-cfg.txt
-./_FSXGIT/data/ls-sceneryworld.txt
-./_FSXGIT/data/ls-sound.txt
-./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

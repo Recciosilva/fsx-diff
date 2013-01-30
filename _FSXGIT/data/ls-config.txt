@@ -2311,6 +2311,11 @@
 ./SimObjects/Airplanes/Hunter T/texture.XL584/texture.cfg
 ./SimObjects/Airplanes/Hunter T/texture.XL600/texture.cfg
 ./SimObjects/Airplanes/Hunter T/texture.XL611/texture.cfg
+./SimObjects/Airplanes/IA-58 Pucara/Aircraft.cfg
+./SimObjects/Airplanes/IA-58 Pucara/model.CLN/Model.cfg
+./SimObjects/Airplanes/IA-58 Pucara/model.TNK/Model.cfg
+./SimObjects/Airplanes/IA-58 Pucara/model.WPN/Model.cfg
+./SimObjects/Airplanes/IA-58 Pucara/sound/Sound.cfg
 ./SimObjects/Airplanes/IL-18/Aircraft.cfg
 ./SimObjects/Airplanes/IL-18/model/Model.cfg
 ./SimObjects/Airplanes/IL-18/panel/Panel.cfg
@@ -3013,6 +3018,7 @@
 ./SimObjects/Airplanes/Metro23 Blue Crown/Panel/no_sideview_panel.cfg
 ./SimObjects/Airplanes/Metro23 Blue Crown/Panel/panel.cfg
 ./SimObjects/Airplanes/Metro23 Blue Crown/Sound/sound.cfg
+./SimObjects/Airplanes/Metro23 Blue Crown/sound.js31/Sound.cfg
 ./SimObjects/Airplanes/Metroliner III/Aircraft.cfg
 ./SimObjects/Airplanes/Metroliner III/model/model.cfg
 ./SimObjects/Airplanes/Metroliner III/Panel.orig/panel.cfg
