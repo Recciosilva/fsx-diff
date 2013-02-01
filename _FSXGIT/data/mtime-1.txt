@@ -17,7 +17,12 @@
 ./Addon Scenery/Asia/Vietnam/VnW Documentation
 ./Addon Scenery/Asia/Vietnam/VnW Documentation/Flight Plans
 ./Addon Scenery/Asia/Vietnam/VnW Documentation/TAD
+./Gauges
 ./jb777memfilemap.txt
+./JustFlight
+./JustFlight/Flying Club S300CBi
+./JustFlight/Flying Club S300CBi/templates
+./JustFlight/FlyingClub
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
@@ -25,9 +30,45 @@
 ./modules/WideServer.log
 ./modules/WideServer0.log
 ./Scenery/World/Texture
+./SimObjects
+./SimObjects/Airplanes
 ./SimObjects/Airplanes/BOB/Aircraft.cfg
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/jf_C152_INSIDER
+./SimObjects/Airplanes/jf_C152
+./SimObjects/Airplanes/jf_C152/model
+./SimObjects/Airplanes/jf_C152/panel
+./SimObjects/Airplanes/jf_C152/sound
+./SimObjects/Airplanes/jf_C152/template
+./SimObjects/Airplanes/jf_C152/Texture.Blue
+./SimObjects/Airplanes/jf_C152/Texture.FR1
+./SimObjects/Airplanes/jf_C152/Texture.FR2
+./SimObjects/Airplanes/jf_C152/Texture.FR3
+./SimObjects/Airplanes/jf_C152/Texture.FR4
+./SimObjects/Airplanes/jf_C152/Texture.FR_Olive
+./SimObjects/Airplanes/jf_C152/Texture.FR_Red
+./SimObjects/Airplanes/jf_C152/Texture.GE1
+./SimObjects/Airplanes/jf_C152/Texture.GE2
+./SimObjects/Airplanes/jf_C152/Texture.GE3
+./SimObjects/Airplanes/jf_C152/Texture.GE4
+./SimObjects/Airplanes/jf_C152/Texture.GE_Olive
+./SimObjects/Airplanes/jf_C152/Texture.GE_Red
+./SimObjects/Airplanes/jf_C152/Texture.Green
+./SimObjects/Airplanes/jf_C152/texture.n003jf
+./SimObjects/Airplanes/jf_C152/Texture.Orange
+./SimObjects/Airplanes/jf_C152/Texture.Pink
+./SimObjects/Airplanes/jf_C152/Texture.std
+./SimObjects/Airplanes/jf_C152/Texture.UK2
+./SimObjects/Airplanes/jf_C152/Texture.UK3
+./SimObjects/Airplanes/jf_C152/Texture.UK4
+./SimObjects/Airplanes/jf_C152/Texture.UK_Olive
+./SimObjects/Airplanes/jf_C152/Texture.UK_Red
+./SimObjects/Airplanes/jf_C152/texture.US2
+./SimObjects/Airplanes/jf_C152/texture.US3
+./SimObjects/Airplanes/jf_C152/texture.US4
+./SimObjects/Airplanes/jf_C152/Texture.US_Olive
+./SimObjects/Airplanes/jf_C152/Texture.US_Red
+./SimObjects/Airplanes/jf_C152/Texture.Yellow
+./SimObjects/Airplanes/jf_C152/Texture_All
 ./SimObjects/Misc
 ./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
 ./SimObjects/Misc/AI VnW A-1J
@@ -157,6 +198,41 @@
 ./SimObjects/Misc/AI VnW U10/model
 ./SimObjects/Misc/AI VnW U10/texture
 ./SimObjects/Misc/VOZ2 FSP B744/aircraft.cfg
+./SimObjects/Rotorcraft
+./SimObjects/Rotorcraft/jf_schweizer_300cbi
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/aircraft.cfg
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/model
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/model.1
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/model.2
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/model.3
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/panel
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/panel.1
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/sound
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.bourn
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.CH_Black
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.CH_Blue
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.CH_Red
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.CH_std
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.FR_Black
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.FR_Blue
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.FR_Red
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.FR_std
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.GE_Black
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.GE_Blue
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.GE_Red
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.GE_std
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.NL_Black
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.NL_Blue
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.NL_Red
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.NL_std
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.UK_Black
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.UK_Blue
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.UK_Red
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.UK_std
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.USA_Black
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.USA_Blue
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.USA_Red
+./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.USA_std
 ./_FSXGIT/bkups
 ./_FSXGIT/bkups/backup-2013-02-01.tar.gz
 ./_FSXGIT/bkups/backup-2013-02-02.tar.gz
