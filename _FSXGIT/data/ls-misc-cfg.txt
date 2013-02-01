@@ -18,6 +18,16 @@
 ./SimObjects/Misc/AI PAC FU24/aircraft.cfg
 ./SimObjects/Misc/AI RNZAF P-3 Orion/aircraft.cfg
 ./SimObjects/Misc/AI UKMIL_MD902_EGXW/aircraft.cfg
+./SimObjects/Misc/AI VnW A-1J/aircraft.cfg
+./SimObjects/Misc/AI VnW B52/aircraft.cfg
+./SimObjects/Misc/AI VnW C124/aircraft.cfg
+./SimObjects/Misc/AI VnW C47/aircraft.cfg
+./SimObjects/Misc/AI VnW EC121D/aircraft.cfg
+./SimObjects/Misc/AI VnW EC121R/aircraft.cfg
+./SimObjects/Misc/AI VnW HU16/aircraft.cfg
+./SimObjects/Misc/AI VnW L19/aircraft.cfg
+./SimObjects/Misc/AI VnW OV10/aircraft.cfg
+./SimObjects/Misc/AI VnW Shak/aircraft.cfg
 ./SimObjects/Misc/AIA_747_400F/fs2002fde/aircraft.cfg
 ./SimObjects/Misc/AIA_TU_214/FS2002_FDE/aircraft.cfg
 ./SimObjects/Misc/AIM_B767_200/aircraft.cfg

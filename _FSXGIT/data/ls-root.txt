@@ -356,6 +356,7 @@
 ./VLC_Airfields
 ./VLC_AIShipping_uninst.exe
 ./VLC_Libraries
+./VnW Documentation
 ./voronoi.dat
 ./Warbirdsim
 ./WaterConstants.Xml

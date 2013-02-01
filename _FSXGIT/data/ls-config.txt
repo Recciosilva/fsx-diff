@@ -4864,6 +4864,75 @@
 ./SimObjects/Misc/AI UKMIL_E3D_EGXW/model/model.cfg
 ./SimObjects/Misc/AI UKMIL_MD902_EGXW/aircraft.cfg
 ./SimObjects/Misc/AI UKMIL_MD902_EGXW/model/model.cfg
+./SimObjects/Misc/AI VnW A-1J/aircraft.cfg
+./SimObjects/Misc/AI VnW A-1J/model/Model.cfg
+./SimObjects/Misc/AI VnW A-3 Skywarrior/Aircraft.cfg
+./SimObjects/Misc/AI VnW A-3 Skywarrior/model/Model.cfg
+./SimObjects/Misc/AI VnW AC 130/Aircraft.cfg
+./SimObjects/Misc/AI VnW AC 130/model.AC/Model.cfg
+./SimObjects/Misc/AI VnW B52/aircraft.cfg
+./SimObjects/Misc/AI VnW B52/model.3/model.cfg
+./SimObjects/Misc/AI VnW B57/Aircraft.cfg
+./SimObjects/Misc/AI VnW B57/model.loaded/Model.cfg
+./SimObjects/Misc/AI VnW Beech D18 AA/Aircraft.cfg
+./SimObjects/Misc/AI VnW Beech D18 AA/model.novc/model.cfg
+./SimObjects/Misc/AI VnW C118/Aircraft.cfg
+./SimObjects/Misc/AI VnW C118/model/model.cfg
+./SimObjects/Misc/AI VnW C123/Aircraft.cfg
+./SimObjects/Misc/AI VnW C123/model/model.cfg
+./SimObjects/Misc/AI VnW C123 AA/Aircraft.cfg
+./SimObjects/Misc/AI VnW C123 AA/model/model.cfg
+./SimObjects/Misc/AI VnW C123 SEA/Aircraft.cfg
+./SimObjects/Misc/AI VnW C123 SEA/model/model.cfg
+./SimObjects/Misc/AI VnW C123 SEA/Save/Aircraft.cfg
+./SimObjects/Misc/AI VnW C123 SEA/Save/model.us/model.cfg
+./SimObjects/Misc/AI VnW C124/aircraft.cfg
+./SimObjects/Misc/AI VnW C124/model/Model.cfg
+./SimObjects/Misc/AI VnW C141/Aircraft.cfg
+./SimObjects/Misc/AI VnW C141/model/Model.cfg
+./SimObjects/Misc/AI VnW C47/aircraft.cfg
+./SimObjects/Misc/AI VnW C47/model/model.cfg
+./SimObjects/Misc/AI VnW CH53/Aircraft.cfg
+./SimObjects/Misc/AI VnW CH53/model/Model.cfg
+./SimObjects/Misc/AI VnW EC121D/aircraft.cfg
+./SimObjects/Misc/AI VnW EC121D/model.1049vc_rtdvf/model.cfg
+./SimObjects/Misc/AI VnW EC121R/aircraft.cfg
+./SimObjects/Misc/AI VnW EC121R/model/model.cfg
+./SimObjects/Misc/AI VnW F-105/Aircraft.cfg
+./SimObjects/Misc/AI VnW F-105/model.D/Model.cfg
+./SimObjects/Misc/AI VnW F-105/model.D_Clean/Model.cfg
+./SimObjects/Misc/AI VnW F-105/model.D_Tank/Model.cfg
+./SimObjects/Misc/AI VnW F-105/model.F/Model.cfg
+./SimObjects/Misc/AI VnW F100/Aircraft.cfg
+./SimObjects/Misc/AI VnW F100/model/Model.cfg
+./SimObjects/Misc/AI VnW Helio AA/Aircraft.cfg
+./SimObjects/Misc/AI VnW Helio AA/model/Model.cfg
+./SimObjects/Misc/AI VnW HU16/aircraft.cfg
+./SimObjects/Misc/AI VnW HU16/model/model.cfg
+./SimObjects/Misc/AI VnW L19/aircraft.cfg
+./SimObjects/Misc/AI VnW L19/model/Model.cfg
+./SimObjects/Misc/AI VnW L19 A/Aircraft.cfg
+./SimObjects/Misc/AI VnW L19 A/model.MIL/Model.cfg
+./SimObjects/Misc/AI VnW OV1/Aircraft.cfg
+./SimObjects/Misc/AI VnW OV1/model/model.cfg
+./SimObjects/Misc/AI VnW OV10/aircraft.cfg
+./SimObjects/Misc/AI VnW OV10/model/model.cfg
+./SimObjects/Misc/AI VnW P3/Aircraft.cfg
+./SimObjects/Misc/AI VnW P3/model/model.cfg
+./SimObjects/Misc/AI VnW Porter AA/Aircraft.cfg
+./SimObjects/Misc/AI VnW Porter AA/model/Model.cfg
+./SimObjects/Misc/AI VnW SH-3 Seaking/Aircraft.cfg
+./SimObjects/Misc/AI VnW SH-3 Seaking/model.SH3D/model.cfg
+./SimObjects/Misc/AI VnW Shak/aircraft.cfg
+./SimObjects/Misc/AI VnW Shak/model/Model.cfg
+./SimObjects/Misc/AI VnW T-28/Aircraft.cfg
+./SimObjects/Misc/AI VnW T-28/model/Model.cfg
+./SimObjects/Misc/AI VnW T28D/Aircraft.cfg
+./SimObjects/Misc/AI VnW T28D/model/Model.cfg
+./SimObjects/Misc/AI VnW T28_V/Aircraft.cfg
+./SimObjects/Misc/AI VnW T28_V/model/Model.cfg
+./SimObjects/Misc/AI VnW U10/Aircraft.cfg
+./SimObjects/Misc/AI VnW U10/model/Model.cfg
 ./SimObjects/Misc/AI Yak42/model/model.cfg
 ./SimObjects/Misc/AI Yak42/panel/panel.cfg
 ./SimObjects/Misc/AI Yak42/sound/sound.cfg

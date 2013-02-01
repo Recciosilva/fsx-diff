@@ -1,42 +1,15 @@
 ./
-./Addon Scenery/scenery
-./Addon Scenery/SouthAmerica
-./Addon Scenery/SouthAmerica/Argentina
-./Addon Scenery/SouthAmerica/Argentina/Argentina-misc
-./Addon Scenery/SouthAmerica/Argentina/Argentina-misc/scenery
-./Addon Scenery/SouthAmerica/Argentina/Argentine-Airports
-./Addon Scenery/SouthAmerica/Argentina/Argentine-Airports/Documentación
-./Addon Scenery/SouthAmerica/Argentina/Argentine-Airports/scenery
-./Addon Scenery/SouthAmerica/Argentina/Argentine-Airports/Textures
-./Addon Scenery/SouthAmerica/Argentina/BuenosAiresX
-./Addon Scenery/SouthAmerica/Argentina/BuenosAiresX/Docs
-./Addon Scenery/SouthAmerica/Argentina/BuenosAiresX/Scenery
-./Addon Scenery/SouthAmerica/Argentina/BuenosAiresX/Texture
-./Addon Scenery/SouthAmerica/Argentina/Falklands_2007
-./Addon Scenery/SouthAmerica/Argentina/Falklands_2007/scenery
-./Addon Scenery/SouthAmerica/Argentina/Falklands_2007/scenery/Unused eyecandy files
-./Addon Scenery/SouthAmerica/Argentina/Falklands_2007/texture
-./Addon Scenery/SouthAmerica/Argentina/Malvinas_2007_V1
-./Addon Scenery/SouthAmerica/Argentina/Malvinas_2007_V1/Docs
-./Addon Scenery/SouthAmerica/Argentina/Malvinas_2007_V1/Scenery
-./Addon Scenery/SouthAmerica/Argentina/Malvinas_2007_V1/Texture
-./Addon Scenery/SouthAmerica/Argentina/RAF Mount Pleasant
-./Addon Scenery/SouthAmerica/Argentina/RAF Mount Pleasant/Scenery
-./Addon Scenery/SouthAmerica/Argentina/RAF Mount Pleasant/texture
-./Addon Scenery/SouthAmerica/Argentina/SAAP FSX
-./Addon Scenery/SouthAmerica/Argentina/SAAP FSX/img
-./Addon Scenery/SouthAmerica/Argentina/SAAP FSX/scenery
-./Addon Scenery/SouthAmerica/Argentina/SAAP FSX/texture
-./Addon Scenery/SouthAmerica/Argentina/SARC_Corrientes
-./Addon Scenery/SouthAmerica/Argentina/SARC_Corrientes/Docs
-./Addon Scenery/SouthAmerica/Argentina/SARC_Corrientes/scenery
-./Addon Scenery/SouthAmerica/Argentina/SARC_Corrientes/texture
-./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata
-./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata/Scenery
-./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata/Texture
-./Addon Scenery/static-library-objects/scenery
-./Addon Scenery/static-library-objects/texture
-./Addon Scenery/texture
+./Addon Scenery/Asia/Vietnam
+./Addon Scenery/Asia/Vietnam/Vietnam War Project
+./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery
+./Addon Scenery/Asia/Vietnam/Vietnam War Project/texture
+./Addon Scenery/Asia/Vietnam/Vietnam War Project/texture/Save
+./Addon Scenery/Asia/Vietnam/Vietnam War Project Fictive LZ
+./Addon Scenery/Asia/Vietnam/Vietnam War Project Fictive LZ/scenery
+./Addon Scenery/Asia/Vietnam/Vietnam War Project Fictive LZ/texture
+./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire
+./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire/scenery
+./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire/texture
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -44,35 +17,133 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./SimObjects/Airplanes
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/IA-58 Pucara
-./SimObjects/Airplanes/IA-58 Pucara/Aircraft.cfg
-./SimObjects/Airplanes/IA-58 Pucara/model.CLN
-./SimObjects/Airplanes/IA-58 Pucara/model.TNK
-./SimObjects/Airplanes/IA-58 Pucara/model.WPN
-./SimObjects/Airplanes/IA-58 Pucara/panel
-./SimObjects/Airplanes/IA-58 Pucara/sound
-./SimObjects/Airplanes/IA-58 Pucara/sound/Sound.cfg
-./SimObjects/Airplanes/IA-58 Pucara/texture
-./SimObjects/Airplanes/IA-58 Pucara/texture.515
-./SimObjects/Airplanes/IA-58 Pucara/texture.568
-./SimObjects/Airplanes/IA-58 Pucara/texture.raf
-./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-01-30.tar.gz
+./SimObjects/Misc
+./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
+./SimObjects/Misc/AI VnW A-1J
+./SimObjects/Misc/AI VnW A-1J/model
+./SimObjects/Misc/AI VnW A-1J/texture
+./SimObjects/Misc/AI VnW A-1J/texture.014
+./SimObjects/Misc/AI VnW A-1J/texture.703
+./SimObjects/Misc/AI VnW A-3 Skywarrior
+./SimObjects/Misc/AI VnW A-3 Skywarrior/model
+./SimObjects/Misc/AI VnW A-3 Skywarrior/texture
+./SimObjects/Misc/AI VnW AC 130
+./SimObjects/Misc/AI VnW AC 130/model.AC
+./SimObjects/Misc/AI VnW AC 130/texture.AC
+./SimObjects/Misc/AI VnW B52
+./SimObjects/Misc/AI VnW B52/model.3
+./SimObjects/Misc/AI VnW B52/texture.3
+./SimObjects/Misc/AI VnW B57
+./SimObjects/Misc/AI VnW B57/model.loaded
+./SimObjects/Misc/AI VnW B57/texture.4
+./SimObjects/Misc/AI VnW Beech D18 AA
+./SimObjects/Misc/AI VnW Beech D18 AA/model.novc
+./SimObjects/Misc/AI VnW Beech D18 AA/texture.airamerica
+./SimObjects/Misc/AI VnW C118
+./SimObjects/Misc/AI VnW C118/model
+./SimObjects/Misc/AI VnW C118/save
+./SimObjects/Misc/AI VnW C118/save/texture
+./SimObjects/Misc/AI VnW C118/texture
+./SimObjects/Misc/AI VnW C118/texture/save
+./SimObjects/Misc/AI VnW C123
+./SimObjects/Misc/AI VnW C123/avant_modif
+./SimObjects/Misc/AI VnW C123/model
+./SimObjects/Misc/AI VnW C123/save
+./SimObjects/Misc/AI VnW C123/save/texture
+./SimObjects/Misc/AI VnW C123/texture
+./SimObjects/Misc/AI VnW C123 AA
+./SimObjects/Misc/AI VnW C123 AA/model
+./SimObjects/Misc/AI VnW C123 AA/save
+./SimObjects/Misc/AI VnW C123 AA/save/texture
+./SimObjects/Misc/AI VnW C123 AA/texture
+./SimObjects/Misc/AI VnW C123 SEA
+./SimObjects/Misc/AI VnW C123 SEA/model
+./SimObjects/Misc/AI VnW C123 SEA/Save
+./SimObjects/Misc/AI VnW C123 SEA/Save/model.us
+./SimObjects/Misc/AI VnW C123 SEA/texture.caf
+./SimObjects/Misc/AI VnW C123 SEA/texture.caf/save
+./SimObjects/Misc/AI VnW C123 SEA/texture.rlaf
+./SimObjects/Misc/AI VnW C123 SEA/texture.rlaf/save
+./SimObjects/Misc/AI VnW C123 SEA/texture.rtaf1
+./SimObjects/Misc/AI VnW C123 SEA/texture.usafwm698
+./SimObjects/Misc/AI VnW C123 SEA/texture.vnaf5
+./SimObjects/Misc/AI VnW C123 SEA/texture.vnaf5/save
+./SimObjects/Misc/AI VnW C124
+./SimObjects/Misc/AI VnW C124/model
+./SimObjects/Misc/AI VnW C124/texture.m50
+./SimObjects/Misc/AI VnW C141
+./SimObjects/Misc/AI VnW C141/model
+./SimObjects/Misc/AI VnW C141/texture
+./SimObjects/Misc/AI VnW C47
+./SimObjects/Misc/AI VnW C47/model
+./SimObjects/Misc/AI VnW C47/texture.ec47
+./SimObjects/Misc/AI VnW CH53
+./SimObjects/Misc/AI VnW CH53/model
+./SimObjects/Misc/AI VnW CH53/texture.1
+./SimObjects/Misc/AI VnW EC121D
+./SimObjects/Misc/AI VnW EC121D/model.1049vc_rtdvf
+./SimObjects/Misc/AI VnW EC121D/texture.USAF-33401
+./SimObjects/Misc/AI VnW EC121R
+./SimObjects/Misc/AI VnW EC121R/model
+./SimObjects/Misc/AI VnW EC121R/texture
+./SimObjects/Misc/AI VnW F-105
+./SimObjects/Misc/AI VnW F-105/model.D
+./SimObjects/Misc/AI VnW F-105/model.D_Clean
+./SimObjects/Misc/AI VnW F-105/model.D_Tank
+./SimObjects/Misc/AI VnW F-105/model.F
+./SimObjects/Misc/AI VnW F-105/texture.D
+./SimObjects/Misc/AI VnW F-105/texture.F
+./SimObjects/Misc/AI VnW F100
+./SimObjects/Misc/AI VnW F100/model
+./SimObjects/Misc/AI VnW F100/texture
+./SimObjects/Misc/AI VnW Helio AA
+./SimObjects/Misc/AI VnW Helio AA/model
+./SimObjects/Misc/AI VnW Helio AA/texture
+./SimObjects/Misc/AI VnW HU16
+./SimObjects/Misc/AI VnW HU16/model
+./SimObjects/Misc/AI VnW HU16/texture.usaf
+./SimObjects/Misc/AI VnW L19
+./SimObjects/Misc/AI VnW L19/model
+./SimObjects/Misc/AI VnW L19/Texture
+./SimObjects/Misc/AI VnW L19 A
+./SimObjects/Misc/AI VnW L19 A/model.MIL
+./SimObjects/Misc/AI VnW L19 A/texture.USARMY
+./SimObjects/Misc/AI VnW OV1
+./SimObjects/Misc/AI VnW OV1/model
+./SimObjects/Misc/AI VnW OV1/texture
+./SimObjects/Misc/AI VnW OV10
+./SimObjects/Misc/AI VnW OV10/model
+./SimObjects/Misc/AI VnW OV10/Texture
+./SimObjects/Misc/AI VnW P3
+./SimObjects/Misc/AI VnW P3/model
+./SimObjects/Misc/AI VnW P3/texture.US NAVY VP-47
+./SimObjects/Misc/AI VnW Porter AA
+./SimObjects/Misc/AI VnW Porter AA/model
+./SimObjects/Misc/AI VnW Porter AA/texture
+./SimObjects/Misc/AI VnW SH-3 Seaking
+./SimObjects/Misc/AI VnW SH-3 Seaking/model.SH3D
+./SimObjects/Misc/AI VnW SH-3 Seaking/Texture.navy_6483
+./SimObjects/Misc/AI VnW Shak
+./SimObjects/Misc/AI VnW Shak/model
+./SimObjects/Misc/AI VnW Shak/texture
+./SimObjects/Misc/AI VnW T-28
+./SimObjects/Misc/AI VnW T-28/model
+./SimObjects/Misc/AI VnW T-28/texture
+./SimObjects/Misc/AI VnW T28D
+./SimObjects/Misc/AI VnW T28D/model
+./SimObjects/Misc/AI VnW T28D/texture.sea
+./SimObjects/Misc/AI VnW T28_V
+./SimObjects/Misc/AI VnW T28_V/model
+./SimObjects/Misc/AI VnW T28_V/texture
+./SimObjects/Misc/AI VnW T28_V/texture.vnaf
+./SimObjects/Misc/AI VnW U10
+./SimObjects/Misc/AI VnW U10/model
+./SimObjects/Misc/AI VnW U10/texture
+./VnW Documentation
+./VnW Documentation/Flight Plans
+./VnW Documentation/TAD
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
-./_FSXGIT/data/ls-addonscenery.txt
-./_FSXGIT/data/ls-aircraft-cfg.txt
-./_FSXGIT/data/ls-config.txt
-./_FSXGIT/data/ls-effects.txt
-./_FSXGIT/data/ls-gauges.txt
-./_FSXGIT/data/ls-misc-cfg.txt
-./_FSXGIT/data/ls-modules.txt
-./_FSXGIT/data/ls-root.txt
-./_FSXGIT/data/ls-rotorcraft-cfg.txt
-./_FSXGIT/data/ls-sceneryworld.txt
-./_FSXGIT/data/ls-sound.txt
-./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG
