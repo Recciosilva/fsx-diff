@@ -1,6 +1,8 @@
 ./
 ./Addon Scenery
 ./Addon Scenery/Asia
+./Addon Scenery/Asia/Asia Mesh
+./Addon Scenery/Asia/Asia Mesh/scenery
 ./Addon Scenery/Asia/Vietnam
 ./Addon Scenery/Asia/Vietnam/Vietnam War Project
 ./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery
@@ -25,6 +27,7 @@
 ./Scenery/World/Texture
 ./SimObjects/Airplanes/BOB/Aircraft.cfg
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
+./SimObjects/Airplanes/jf_C152_INSIDER
 ./SimObjects/Misc
 ./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
 ./SimObjects/Misc/AI VnW A-1J
@@ -156,6 +159,7 @@
 ./SimObjects/Misc/VOZ2 FSP B744/aircraft.cfg
 ./_FSXGIT/bkups
 ./_FSXGIT/bkups/backup-2013-02-01.tar.gz
+./_FSXGIT/bkups/backup-2013-02-02.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/ls-addonscenery.txt

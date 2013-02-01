@@ -2704,10 +2704,6 @@
 ./SimObjects/Airplanes/JELAIR-Boeing 737-2L9 Maersk Air OY-MBZ/panel.JELAIR_2D/Panel.cfg
 ./SimObjects/Airplanes/JELAIR-Boeing 737-2L9 Maersk Air OY-MBZ/sound.737-200__p&w_jt8d_the_real_deal-JELAIRmodded/Sound.cfg
 ./SimObjects/Airplanes/JF Sounds/Merlin/sound.cfg
-./SimObjects/Airplanes/jf_C152_INSIDER/aircraft.cfg
-./SimObjects/Airplanes/jf_C152_INSIDER/model/model.cfg
-./SimObjects/Airplanes/jf_C152_INSIDER/panel/Panel.cfg
-./SimObjects/Airplanes/jf_C152_INSIDER/sound/sound.cfg
 ./SimObjects/Airplanes/JF_C69/aircraft.cfg
 ./SimObjects/Airplanes/JF_C69/aircraft_.cfg
 ./SimObjects/Airplanes/JF_C69/Model.C69/model.cfg

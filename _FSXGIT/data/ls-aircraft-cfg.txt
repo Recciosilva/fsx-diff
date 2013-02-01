@@ -161,7 +161,6 @@
 ./SimObjects/Airplanes/IRIS P-40 Kittyhawk/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/aircraft.cfg
-./SimObjects/Airplanes/jf_C152_INSIDER/aircraft.cfg
 ./SimObjects/Airplanes/JF_C69/aircraft.cfg
 ./SimObjects/Airplanes/JF_Douglas_AC47/aircraft.cfg
 ./SimObjects/Airplanes/JF_Douglas_C47/aircraft.cfg

@@ -11,6 +11,8 @@
 ./Addon Scenery/Alhambra/scenery
 ./Addon Scenery/Alhambra/texture
 ./Addon Scenery/Asia
+./Addon Scenery/Asia/Asia Mesh
+./Addon Scenery/Asia/Asia Mesh/scenery
 ./Addon Scenery/Asia/Asia_Misc
 ./Addon Scenery/Asia/Asia_Misc/scenery
 ./Addon Scenery/Asia/Asia_Misc/scenery/_REMOVED
