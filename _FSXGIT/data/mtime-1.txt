@@ -1,4 +1,6 @@
 ./
+./Addon Scenery
+./Addon Scenery/Asia
 ./Addon Scenery/Asia/Vietnam
 ./Addon Scenery/Asia/Vietnam/Vietnam War Project
 ./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery
@@ -10,6 +12,9 @@
 ./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire
 ./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire/scenery
 ./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire/texture
+./Addon Scenery/Asia/Vietnam/VnW Documentation
+./Addon Scenery/Asia/Vietnam/VnW Documentation/Flight Plans
+./Addon Scenery/Asia/Vietnam/VnW Documentation/TAD
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -17,10 +22,13 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
+./Scenery/World/Texture
+./SimObjects/Airplanes/BOB/Aircraft.cfg
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
 ./SimObjects/Misc
 ./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
 ./SimObjects/Misc/AI VnW A-1J
+./SimObjects/Misc/AI VnW A-1J/aircraft.cfg
 ./SimObjects/Misc/AI VnW A-1J/model
 ./SimObjects/Misc/AI VnW A-1J/texture
 ./SimObjects/Misc/AI VnW A-1J/texture.014
@@ -41,6 +49,7 @@
 ./SimObjects/Misc/AI VnW Beech D18 AA/model.novc
 ./SimObjects/Misc/AI VnW Beech D18 AA/texture.airamerica
 ./SimObjects/Misc/AI VnW C118
+./SimObjects/Misc/AI VnW C118/Aircraft.cfg
 ./SimObjects/Misc/AI VnW C118/model
 ./SimObjects/Misc/AI VnW C118/save
 ./SimObjects/Misc/AI VnW C118/save/texture
@@ -101,6 +110,7 @@
 ./SimObjects/Misc/AI VnW Helio AA/model
 ./SimObjects/Misc/AI VnW Helio AA/texture
 ./SimObjects/Misc/AI VnW HU16
+./SimObjects/Misc/AI VnW HU16/aircraft.cfg
 ./SimObjects/Misc/AI VnW HU16/model
 ./SimObjects/Misc/AI VnW HU16/texture.usaf
 ./SimObjects/Misc/AI VnW L19
@@ -110,12 +120,15 @@
 ./SimObjects/Misc/AI VnW L19 A/model.MIL
 ./SimObjects/Misc/AI VnW L19 A/texture.USARMY
 ./SimObjects/Misc/AI VnW OV1
+./SimObjects/Misc/AI VnW OV1/Aircraft.cfg
 ./SimObjects/Misc/AI VnW OV1/model
 ./SimObjects/Misc/AI VnW OV1/texture
 ./SimObjects/Misc/AI VnW OV10
+./SimObjects/Misc/AI VnW OV10/aircraft.cfg
 ./SimObjects/Misc/AI VnW OV10/model
 ./SimObjects/Misc/AI VnW OV10/Texture
 ./SimObjects/Misc/AI VnW P3
+./SimObjects/Misc/AI VnW P3/Aircraft.cfg
 ./SimObjects/Misc/AI VnW P3/model
 ./SimObjects/Misc/AI VnW P3/texture.US NAVY VP-47
 ./SimObjects/Misc/AI VnW Porter AA
@@ -140,10 +153,22 @@
 ./SimObjects/Misc/AI VnW U10
 ./SimObjects/Misc/AI VnW U10/model
 ./SimObjects/Misc/AI VnW U10/texture
-./VnW Documentation
-./VnW Documentation/Flight Plans
-./VnW Documentation/TAD
+./SimObjects/Misc/VOZ2 FSP B744/aircraft.cfg
+./_FSXGIT/bkups
+./_FSXGIT/bkups/backup-2013-02-01.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
+./_FSXGIT/data/ls-addonscenery.txt
+./_FSXGIT/data/ls-aircraft-cfg.txt
+./_FSXGIT/data/ls-config.txt
+./_FSXGIT/data/ls-effects.txt
+./_FSXGIT/data/ls-gauges.txt
+./_FSXGIT/data/ls-misc-cfg.txt
+./_FSXGIT/data/ls-modules.txt
+./_FSXGIT/data/ls-root.txt
+./_FSXGIT/data/ls-rotorcraft-cfg.txt
+./_FSXGIT/data/ls-sceneryworld.txt
+./_FSXGIT/data/ls-sound.txt
+./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

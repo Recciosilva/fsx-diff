@@ -83,6 +83,9 @@
 ./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire
 ./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire/scenery
 ./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire/texture
+./Addon Scenery/Asia/Vietnam/VnW Documentation
+./Addon Scenery/Asia/Vietnam/VnW Documentation/Flight Plans
+./Addon Scenery/Asia/Vietnam/VnW Documentation/TAD
 ./Addon Scenery/Asia/WMKK_KualaLumpur
 ./Addon Scenery/Asia/WMKK_KualaLumpur/scenery
 ./Addon Scenery/Asia/WMKPv2-Penang
