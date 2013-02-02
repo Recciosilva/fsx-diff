@@ -774,6 +774,11 @@
 ./SimObjects/Airplanes/BSMP_ATPpax/model/model.cfg
 ./SimObjects/Airplanes/BSMP_ATPpax/panel.orig/panel.cfg
 ./SimObjects/Airplanes/BSMP_ATPpax/sound/sound.cfg
+./SimObjects/Airplanes/C123/Aircraft.cfg
+./SimObjects/Airplanes/C123/model/model.cfg
+./SimObjects/Airplanes/C123/model.us/model.cfg
+./SimObjects/Airplanes/C123/panel/Panel.cfg
+./SimObjects/Airplanes/C123/sound/sound.cfg
 ./SimObjects/Airplanes/C172/aircraft.cfg
 ./SimObjects/Airplanes/C172/model/model.cfg
 ./SimObjects/Airplanes/C172/model.g1000/model.cfg
@@ -2226,6 +2231,10 @@
 ./SimObjects/Airplanes/Gruman S2F-3/Panel/panel.cfg
 ./SimObjects/Airplanes/Gruman S2F-3/Panel.E1B/panel.cfg
 ./SimObjects/Airplanes/Gruman S2F-3/sound/Sound.cfg
+./SimObjects/Airplanes/Grumman_Albatross/aircraft.cfg
+./SimObjects/Airplanes/Grumman_Albatross/model/model.cfg
+./SimObjects/Airplanes/Grumman_Albatross/panel/panel.cfg
+./SimObjects/Airplanes/Grumman_Albatross/Sound/Sound.cfg
 ./SimObjects/Airplanes/Grumman_F14D/aircraft.cfg
 ./SimObjects/Airplanes/Grumman_F14D/Model/model.cfg
 ./SimObjects/Airplanes/Grumman_F14D/sound/sound.cfg

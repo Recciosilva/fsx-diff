@@ -1,254 +1,41 @@
-./
-./Addon Scenery
-./Addon Scenery/Asia
-./Addon Scenery/Asia/Asia Mesh
-./Addon Scenery/Asia/Asia Mesh/scenery
-./Addon Scenery/Asia/Vietnam
-./Addon Scenery/Asia/Vietnam/Vietnam War Project
-./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery
-./Addon Scenery/Asia/Vietnam/Vietnam War Project/texture
-./Addon Scenery/Asia/Vietnam/Vietnam War Project/texture/Save
-./Addon Scenery/Asia/Vietnam/Vietnam War Project Fictive LZ
-./Addon Scenery/Asia/Vietnam/Vietnam War Project Fictive LZ/scenery
-./Addon Scenery/Asia/Vietnam/Vietnam War Project Fictive LZ/texture
-./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire
-./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire/scenery
-./Addon Scenery/Asia/Vietnam/Vietnam War project Under Fire/texture
-./Addon Scenery/Asia/Vietnam/VnW Documentation
-./Addon Scenery/Asia/Vietnam/VnW Documentation/Flight Plans
-./Addon Scenery/Asia/Vietnam/VnW Documentation/TAD
-./Gauges
+./Effects
 ./jb777memfilemap.txt
-./JustFlight
-./JustFlight/Flying Club S300CBi
-./JustFlight/Flying Club S300CBi/templates
-./JustFlight/FlyingClub
 ./Level-D Simulations/B767-300/B767-300.ini
-./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
-./modules/WideServer0.log
-./Scenery/World/Texture
-./SimObjects
 ./SimObjects/Airplanes
-./SimObjects/Airplanes/BOB/Aircraft.cfg
+./SimObjects/Airplanes/C123
+./SimObjects/Airplanes/C123/Aircraft.cfg
+./SimObjects/Airplanes/C123/texture.USAF_MATS
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/jf_C152
-./SimObjects/Airplanes/jf_C152/model
-./SimObjects/Airplanes/jf_C152/panel
-./SimObjects/Airplanes/jf_C152/sound
-./SimObjects/Airplanes/jf_C152/template
-./SimObjects/Airplanes/jf_C152/Texture.Blue
-./SimObjects/Airplanes/jf_C152/Texture.FR1
-./SimObjects/Airplanes/jf_C152/Texture.FR2
-./SimObjects/Airplanes/jf_C152/Texture.FR3
-./SimObjects/Airplanes/jf_C152/Texture.FR4
-./SimObjects/Airplanes/jf_C152/Texture.FR_Olive
-./SimObjects/Airplanes/jf_C152/Texture.FR_Red
-./SimObjects/Airplanes/jf_C152/Texture.GE1
-./SimObjects/Airplanes/jf_C152/Texture.GE2
-./SimObjects/Airplanes/jf_C152/Texture.GE3
-./SimObjects/Airplanes/jf_C152/Texture.GE4
-./SimObjects/Airplanes/jf_C152/Texture.GE_Olive
-./SimObjects/Airplanes/jf_C152/Texture.GE_Red
-./SimObjects/Airplanes/jf_C152/Texture.Green
-./SimObjects/Airplanes/jf_C152/texture.n003jf
-./SimObjects/Airplanes/jf_C152/Texture.Orange
-./SimObjects/Airplanes/jf_C152/Texture.Pink
-./SimObjects/Airplanes/jf_C152/Texture.std
-./SimObjects/Airplanes/jf_C152/Texture.UK2
-./SimObjects/Airplanes/jf_C152/Texture.UK3
-./SimObjects/Airplanes/jf_C152/Texture.UK4
-./SimObjects/Airplanes/jf_C152/Texture.UK_Olive
-./SimObjects/Airplanes/jf_C152/Texture.UK_Red
-./SimObjects/Airplanes/jf_C152/texture.US2
-./SimObjects/Airplanes/jf_C152/texture.US3
-./SimObjects/Airplanes/jf_C152/texture.US4
-./SimObjects/Airplanes/jf_C152/Texture.US_Olive
-./SimObjects/Airplanes/jf_C152/Texture.US_Red
-./SimObjects/Airplanes/jf_C152/Texture.Yellow
-./SimObjects/Airplanes/jf_C152/Texture_All
-./SimObjects/Misc
-./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
-./SimObjects/Misc/AI VnW A-1J
+./SimObjects/Airplanes/Grumman_Albatross
+./SimObjects/Airplanes/Grumman_Albatross/aircraft.cfg
+./SimObjects/Airplanes/Grumman_Albatross/model
+./SimObjects/Airplanes/Grumman_Albatross/panel
+./SimObjects/Airplanes/Grumman_Albatross/panel/ICANDYgauges
+./SimObjects/Airplanes/Grumman_Albatross/Sound
+./SimObjects/Airplanes/Grumman_Albatross/texture.EXPENDABLES
+./SimObjects/Airplanes/Grumman_Albatross/texture.IMSE
+./SimObjects/Airplanes/Grumman_Albatross/texture.IMSE/xtras
+./SimObjects/Airplanes/Grumman_Albatross/texture.usaf354
+./SimObjects/Airplanes/Grumman_Albatross/texture.uscg
+./SimObjects/Airplanes/Grumman_Albatross/texture.usn
+./SimObjects/Airplanes/Grumman_Albatross/texture.usn2
+./SimObjects/Airplanes/Grumman_Albatross/texture.usn3
+./SimObjects/Airplanes/Grumman_Albatross/texture.usn4
+./SimObjects/Airplanes/Grumman_Albatross/texture.usn5
+./SimObjects/Airplanes/Grumman_Albatross/texture.Woodshole
+./SimObjects/Airplanes/Grumman_Albatross/texture.Woodshole/XTRAS
 ./SimObjects/Misc/AI VnW A-1J/aircraft.cfg
-./SimObjects/Misc/AI VnW A-1J/model
-./SimObjects/Misc/AI VnW A-1J/texture
-./SimObjects/Misc/AI VnW A-1J/texture.014
-./SimObjects/Misc/AI VnW A-1J/texture.703
-./SimObjects/Misc/AI VnW A-3 Skywarrior
-./SimObjects/Misc/AI VnW A-3 Skywarrior/model
-./SimObjects/Misc/AI VnW A-3 Skywarrior/texture
-./SimObjects/Misc/AI VnW AC 130
-./SimObjects/Misc/AI VnW AC 130/model.AC
-./SimObjects/Misc/AI VnW AC 130/texture.AC
-./SimObjects/Misc/AI VnW B52
-./SimObjects/Misc/AI VnW B52/model.3
-./SimObjects/Misc/AI VnW B52/texture.3
-./SimObjects/Misc/AI VnW B57
-./SimObjects/Misc/AI VnW B57/model.loaded
-./SimObjects/Misc/AI VnW B57/texture.4
-./SimObjects/Misc/AI VnW Beech D18 AA
-./SimObjects/Misc/AI VnW Beech D18 AA/model.novc
-./SimObjects/Misc/AI VnW Beech D18 AA/texture.airamerica
-./SimObjects/Misc/AI VnW C118
 ./SimObjects/Misc/AI VnW C118/Aircraft.cfg
-./SimObjects/Misc/AI VnW C118/model
-./SimObjects/Misc/AI VnW C118/save
-./SimObjects/Misc/AI VnW C118/save/texture
-./SimObjects/Misc/AI VnW C118/texture
-./SimObjects/Misc/AI VnW C118/texture/save
-./SimObjects/Misc/AI VnW C123
-./SimObjects/Misc/AI VnW C123/avant_modif
-./SimObjects/Misc/AI VnW C123/model
-./SimObjects/Misc/AI VnW C123/save
-./SimObjects/Misc/AI VnW C123/save/texture
-./SimObjects/Misc/AI VnW C123/texture
-./SimObjects/Misc/AI VnW C123 AA
-./SimObjects/Misc/AI VnW C123 AA/model
-./SimObjects/Misc/AI VnW C123 AA/save
-./SimObjects/Misc/AI VnW C123 AA/save/texture
-./SimObjects/Misc/AI VnW C123 AA/texture
-./SimObjects/Misc/AI VnW C123 SEA
-./SimObjects/Misc/AI VnW C123 SEA/model
-./SimObjects/Misc/AI VnW C123 SEA/Save
-./SimObjects/Misc/AI VnW C123 SEA/Save/model.us
-./SimObjects/Misc/AI VnW C123 SEA/texture.caf
-./SimObjects/Misc/AI VnW C123 SEA/texture.caf/save
-./SimObjects/Misc/AI VnW C123 SEA/texture.rlaf
-./SimObjects/Misc/AI VnW C123 SEA/texture.rlaf/save
-./SimObjects/Misc/AI VnW C123 SEA/texture.rtaf1
-./SimObjects/Misc/AI VnW C123 SEA/texture.usafwm698
-./SimObjects/Misc/AI VnW C123 SEA/texture.vnaf5
-./SimObjects/Misc/AI VnW C123 SEA/texture.vnaf5/save
-./SimObjects/Misc/AI VnW C124
-./SimObjects/Misc/AI VnW C124/model
-./SimObjects/Misc/AI VnW C124/texture.m50
-./SimObjects/Misc/AI VnW C141
-./SimObjects/Misc/AI VnW C141/model
-./SimObjects/Misc/AI VnW C141/texture
-./SimObjects/Misc/AI VnW C47
-./SimObjects/Misc/AI VnW C47/model
-./SimObjects/Misc/AI VnW C47/texture.ec47
-./SimObjects/Misc/AI VnW CH53
-./SimObjects/Misc/AI VnW CH53/model
-./SimObjects/Misc/AI VnW CH53/texture.1
-./SimObjects/Misc/AI VnW EC121D
-./SimObjects/Misc/AI VnW EC121D/model.1049vc_rtdvf
-./SimObjects/Misc/AI VnW EC121D/texture.USAF-33401
-./SimObjects/Misc/AI VnW EC121R
-./SimObjects/Misc/AI VnW EC121R/model
-./SimObjects/Misc/AI VnW EC121R/texture
-./SimObjects/Misc/AI VnW F-105
-./SimObjects/Misc/AI VnW F-105/model.D
-./SimObjects/Misc/AI VnW F-105/model.D_Clean
-./SimObjects/Misc/AI VnW F-105/model.D_Tank
-./SimObjects/Misc/AI VnW F-105/model.F
-./SimObjects/Misc/AI VnW F-105/texture.D
-./SimObjects/Misc/AI VnW F-105/texture.F
-./SimObjects/Misc/AI VnW F100
-./SimObjects/Misc/AI VnW F100/model
-./SimObjects/Misc/AI VnW F100/texture
-./SimObjects/Misc/AI VnW Helio AA
-./SimObjects/Misc/AI VnW Helio AA/model
-./SimObjects/Misc/AI VnW Helio AA/texture
-./SimObjects/Misc/AI VnW HU16
 ./SimObjects/Misc/AI VnW HU16/aircraft.cfg
-./SimObjects/Misc/AI VnW HU16/model
-./SimObjects/Misc/AI VnW HU16/texture.usaf
-./SimObjects/Misc/AI VnW L19
-./SimObjects/Misc/AI VnW L19/model
-./SimObjects/Misc/AI VnW L19/Texture
-./SimObjects/Misc/AI VnW L19 A
-./SimObjects/Misc/AI VnW L19 A/model.MIL
-./SimObjects/Misc/AI VnW L19 A/texture.USARMY
-./SimObjects/Misc/AI VnW OV1
 ./SimObjects/Misc/AI VnW OV1/Aircraft.cfg
-./SimObjects/Misc/AI VnW OV1/model
-./SimObjects/Misc/AI VnW OV1/texture
-./SimObjects/Misc/AI VnW OV10
 ./SimObjects/Misc/AI VnW OV10/aircraft.cfg
-./SimObjects/Misc/AI VnW OV10/model
-./SimObjects/Misc/AI VnW OV10/Texture
-./SimObjects/Misc/AI VnW P3
 ./SimObjects/Misc/AI VnW P3/Aircraft.cfg
-./SimObjects/Misc/AI VnW P3/model
-./SimObjects/Misc/AI VnW P3/texture.US NAVY VP-47
-./SimObjects/Misc/AI VnW Porter AA
-./SimObjects/Misc/AI VnW Porter AA/model
-./SimObjects/Misc/AI VnW Porter AA/texture
-./SimObjects/Misc/AI VnW SH-3 Seaking
-./SimObjects/Misc/AI VnW SH-3 Seaking/model.SH3D
-./SimObjects/Misc/AI VnW SH-3 Seaking/Texture.navy_6483
-./SimObjects/Misc/AI VnW Shak
-./SimObjects/Misc/AI VnW Shak/model
-./SimObjects/Misc/AI VnW Shak/texture
-./SimObjects/Misc/AI VnW T-28
-./SimObjects/Misc/AI VnW T-28/model
-./SimObjects/Misc/AI VnW T-28/texture
-./SimObjects/Misc/AI VnW T28D
-./SimObjects/Misc/AI VnW T28D/model
-./SimObjects/Misc/AI VnW T28D/texture.sea
-./SimObjects/Misc/AI VnW T28_V
-./SimObjects/Misc/AI VnW T28_V/model
-./SimObjects/Misc/AI VnW T28_V/texture
-./SimObjects/Misc/AI VnW T28_V/texture.vnaf
-./SimObjects/Misc/AI VnW U10
-./SimObjects/Misc/AI VnW U10/model
-./SimObjects/Misc/AI VnW U10/texture
-./SimObjects/Misc/VOZ2 FSP B744/aircraft.cfg
-./SimObjects/Rotorcraft
-./SimObjects/Rotorcraft/jf_schweizer_300cbi
 ./SimObjects/Rotorcraft/jf_schweizer_300cbi/aircraft.cfg
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/model
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/model.1
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/model.2
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/model.3
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/panel
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/panel.1
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/sound
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.bourn
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.CH_Black
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.CH_Blue
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.CH_Red
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.CH_std
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.FR_Black
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.FR_Blue
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.FR_Red
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.FR_std
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.GE_Black
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.GE_Blue
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.GE_Red
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.GE_std
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.NL_Black
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.NL_Blue
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.NL_Red
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.NL_std
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.UK_Black
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.UK_Blue
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.UK_Red
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.UK_std
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.USA_Black
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.USA_Blue
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.USA_Red
-./SimObjects/Rotorcraft/jf_schweizer_300cbi/Texture.USA_std
-./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-02-01.tar.gz
-./_FSXGIT/bkups/backup-2013-02-02.tar.gz
+./SimObjects/Rotorcraft/ND_uh1c/panel/panel.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
-./_FSXGIT/data/ls-addonscenery.txt
-./_FSXGIT/data/ls-aircraft-cfg.txt
-./_FSXGIT/data/ls-config.txt
-./_FSXGIT/data/ls-effects.txt
-./_FSXGIT/data/ls-gauges.txt
-./_FSXGIT/data/ls-misc-cfg.txt
-./_FSXGIT/data/ls-modules.txt
-./_FSXGIT/data/ls-root.txt
-./_FSXGIT/data/ls-rotorcraft-cfg.txt
-./_FSXGIT/data/ls-sceneryworld.txt
-./_FSXGIT/data/ls-sound.txt
-./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

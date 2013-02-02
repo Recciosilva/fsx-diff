@@ -368,6 +368,9 @@
 ./Effects/fx_bt67_skisparks.fx
 ./Effects/fx_bt67_strobes.fx
 ./Effects/fx_bt67_vclight.fx
+./Effects/fx_C123box.fx
+./Effects/fx_C123dust.fx
+./Effects/fx_C123pig.fx
 ./Effects/fx_c47reco_blue.fx
 ./Effects/fx_c47reco_green.fx
 ./Effects/fx_c47reco_red.fx
@@ -619,6 +622,7 @@
 ./Effects/fx_HAMILTON_DRUMFIRE.fx
 ./Effects/fx_hawk.fx
 ./Effects/fx_hawk_vclight_orange.fx
+./Effects/FX_HB_EXHAUSTSMOKE.FX
 ./Effects/FX_HB_F1_MUSTANG 2_BLUE_EXHAUST.FX
 ./Effects/fx_heat_haze.fx
 ./Effects/fx_heliFire.fx
@@ -671,6 +675,12 @@
 ./Effects/fx_hudson_land_bomb.fx
 ./Effects/fx_Hvr1.fx
 ./Effects/fx_icelight_pa34.fx
+./Effects/fx_ICFX_F4F4_Startup.fx
+./Effects/fx_ICFX_F4U_exh55.fx
+./Effects/fx_ICFX_F4U_flaptip.fx
+./Effects/fx_ICFX_RadialXtra.fx
+./Effects/fx_ICFX_vc_red.fx
+./Effects/fx_ICFX_wingtip.fx
 ./Effects/fx_IndustrialStm_med.fx
 ./Effects/fx_IndustrialStm_Sml.fx
 ./Effects/fx_iris_146_flashred.fx
@@ -1052,6 +1062,7 @@
 ./Effects/fx_strobe_E1X5.fx
 ./Effects/fx_strobe_F1ATR.fx
 ./Effects/fx_strobe_FSD.fx
+./Effects/fx_st_c123.fx
 ./Effects/fx_summer.fx
 ./Effects/fx_T332beacon.fx
 ./Effects/fx_T332eng.fx
@@ -1733,6 +1744,7 @@
 ./Effects/QW_vclight.fx
 ./Effects/QW_vclight_big.fx
 ./Effects/rcs_smoke_gry.fx
+./Effects/reheat_light.fx
 ./Effects/RFBMG.fx
 ./Effects/RFCASINGS.fx
 ./Effects/RFCASINGS2.fx
@@ -1859,6 +1871,10 @@
 ./Effects/texture/fx_burner1.bmp
 ./Effects/texture/fx_burner2.bmp
 ./Effects/texture/fx_burner3.bmp
+./Effects/texture/FX_c123box.bmp
+./Effects/texture/fx_c123para.bmp
+./Effects/texture/fx_C123pig.bmp
+./Effects/texture/fx_C123pig1.bmp
 ./Effects/texture/fx_carcn.bmp
 ./Effects/texture/fx_carcod.bmp
 ./Effects/texture/fx_coflight.bmp

@@ -147,6 +147,7 @@
 ./SimObjects/Airplanes/FSD Piper Navajo/aircraft.cfg
 ./SimObjects/Airplanes/FSD Piper Panther/aircraft.cfg
 ./SimObjects/Airplanes/GAF Nomad/aircraft.cfg
+./SimObjects/Airplanes/Grumman_Albatross/aircraft.cfg
 ./SimObjects/Airplanes/Grumman_F14D/aircraft.cfg
 ./SimObjects/Airplanes/Grumman_Goose_G21A/aircraft.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/aircraft.cfg
