@@ -9,6 +9,7 @@
 ./aerosoft/Mega Airport Oslo X/Product.cfg
 ./aerosoft/PBY_Catalina/Product.cfg
 ./aerosoft/Tahiti X/Product.cfg
+./aerosoft/TwinOtter/Product.cfg
 ./aerosoft/Vaernes X/Product.cfg
 ./aircraft/Flight 1 ATR-72-500/Aircraft.cfg
 ./aircraft/Flight One ATR 72-500/Aircraft.cfg
@@ -289,11 +290,57 @@
 ./SimObjects/Airplanes/Aerosoft OV-10B/Panel/panel_16_9.cfg
 ./SimObjects/Airplanes/Aerosoft OV-10B/Panel/panel_4_3.cfg
 ./SimObjects/Airplanes/Aerosoft OV-10B/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/model.float/model.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/panel/Panel.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/texture.CAF/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/texture.wca/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/model.fski/model.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/panel/Panel.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/texture.kba/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/model.100/model.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/panel/Panel.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/texture.ca/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/texture.RNoAF_057/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/texture.RNoAF_XJ-K/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/model.300/model.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/model.300nh/model.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/model.para/model.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/panel.org/Panel.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/sound/Sound.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.aia/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.ba/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.fae/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.faf/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.loganair/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.per/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.VH-RPU/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/model.gps/model.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.am/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.bagps/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/Texture.ios1/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/Texture.ios2/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.wa/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.ya/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/model.ski/model.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/panel/Panel.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/texture.ai/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/texture.bas/texture.cfg
 ./SimObjects/Airplanes/Aerosoft TwinOtter-backups/300/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft TwinOtter-backups/300/texture.aia/texture.cfg
@@ -8443,6 +8490,7 @@
 ./SimObjects/Rotorcraft/ND_AS350B1_hoist/Texture/texture.cfg
 ./SimObjects/Rotorcraft/ND_AS350B1_hoist/Texture.1/texture.cfg
 ./SimObjects/Rotorcraft/ND_AS350B1_hoist/Texture.2/texture.cfg
+./SimObjects/Rotorcraft/ND_AS350B1_hoist/texture.VH-SES/texture.cfg
 ./SimObjects/Rotorcraft/ND_AS350B1_trans/aircraft.cfg
 ./SimObjects/Rotorcraft/ND_AS350B1_trans/Model.1/model.cfg
 ./SimObjects/Rotorcraft/ND_AS350B1_trans/Model.2/model.cfg

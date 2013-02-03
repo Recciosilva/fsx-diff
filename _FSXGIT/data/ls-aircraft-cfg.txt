@@ -4,6 +4,12 @@
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/aircraft.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-500/aircraft.cfg
 ./SimObjects/Airplanes/A-29B-SuperTucano/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft TwinOtter-backups/300/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft TwinOtter-backups/300-modern/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft TwinOtter-backups/300-ski/aircraft.cfg

@@ -10,6 +10,9 @@
 ./Addon Scenery/Alhambra
 ./Addon Scenery/Alhambra/scenery
 ./Addon Scenery/Alhambra/texture
+./Addon Scenery/Antarctica
+./Addon Scenery/Antarctica/McMurdu Station - NZIR
+./Addon Scenery/Antarctica/McMurdu Station - NZIR/scenery
 ./Addon Scenery/Asia
 ./Addon Scenery/Asia/Asia Mesh
 ./Addon Scenery/Asia/Asia Mesh/scenery

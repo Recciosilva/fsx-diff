@@ -24,6 +24,9 @@
 ./Effects/Aerosoft_EGLC_Tower_Light.fx
 ./Effects/Aerosoft_EGLC_white.fx
 ./Effects/Aerosoft_LCLK_Spot_1.fx
+./Effects/Aerosoft_Twotter_Smoke.fx
+./Effects/Aerosoft_Twotter_Start.fx
+./Effects/Aerosoft_Twotter_VC_Cabin.fx
 ./Effects/ALPHA_Bou_vclight.fx
 ./Effects/AntsAussieAirports_YBNAlighthouse.fx
 ./Effects/Ants_Maritime_CardEast.fx
