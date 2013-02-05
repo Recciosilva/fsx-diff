@@ -436,12 +436,14 @@
 ./Addon Scenery/MiddleEast/Jordan/VATJO-OJMF
 ./Addon Scenery/MiddleEast/Jordan/VATJO-OJMF/Scenery
 ./Addon Scenery/MiddleEast/Lebanon
+./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0
+./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0/Texture
 ./Addon Scenery/MiddleEast/Lebanon/Leb_LC
 ./Addon Scenery/MiddleEast/Lebanon/Leb_LC/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Leb_LC/Texture
 ./Addon Scenery/MiddleEast/Lebanon/Leb_SRTM
 ./Addon Scenery/MiddleEast/Lebanon/Leb_SRTM/Scenery
-./Addon Scenery/MiddleEast/Lebanon/Leb_TempApts
-./Addon Scenery/MiddleEast/Lebanon/Leb_TempApts/Scenery
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Transp
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Transp/Scenery
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Water

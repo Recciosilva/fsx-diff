@@ -127,6 +127,7 @@
 ./scenery/World/Scenery/OLRA_ADEX_LEBOR_ALT.BGL
 ./scenery/World/Scenery/Ouloup NWWV_ARP.bgl
 ./scenery/World/Scenery/Pyrzowice EPKT_ARP.bgl
+./scenery/World/Scenery/Rafic Hariri International OLBA_ARP.bgl
 ./scenery/World/Scenery/RPLL_ADE_ORI_ALT.BGL
 ./scenery/World/Scenery/Rzeszow EPRJ_ARP.BGL
 ./scenery/World/Scenery/TahitiX_AirTraffic.bgl

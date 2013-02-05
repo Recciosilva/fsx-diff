@@ -293,7 +293,9 @@
 ./Uninstall DH60GX.exe
 ./Uninstall FSD Navajo FSX.exe
 ./Uninstall Israeli Landclass X v106.exe
+./UNINSTALL LEBOR Lebanon TerrainX V1.5.exe
 ./Uninstall Model 40 for FSX.exe
+./UNINSTALL OLBAX V1.0.exe
 ./Uninstall PNG Bush Flying.exe
 ./Uninstall Ryan PT 22.exe
 ./uninstall.exe

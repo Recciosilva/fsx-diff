@@ -1,11 +1,18 @@
 ./
 ./Addon Scenery
-./Addon Scenery/Antarctica
-./Addon Scenery/Antarctica/McMurdu Station - NZIR
-./Addon Scenery/Antarctica/McMurdu Station - NZIR/scenery
-./aerosoft
-./aerosoft/TwinOtter
-./Effects
+./Addon Scenery/MiddleEast/Lebanon
+./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0
+./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0/Texture
+./Addon Scenery/MiddleEast/Lebanon/Leb_LC
+./Addon Scenery/MiddleEast/Lebanon/Leb_LC/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Leb_LC/Texture
+./Addon Scenery/MiddleEast/Lebanon/Leb_SRTM
+./Addon Scenery/MiddleEast/Lebanon/Leb_SRTM/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Leb_Transp
+./Addon Scenery/MiddleEast/Lebanon/Leb_Transp/Scenery
+./Addon Scenery/MiddleEast/Lebanon/Leb_Water
+./Addon Scenery/MiddleEast/Lebanon/Leb_Water/Scenery
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -13,77 +20,11 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./SimObjects/Airplanes
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/model.float
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/panel
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/sound
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/texture.CAF
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/texture.wca
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/model.fski
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/panel
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/sound
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/texture.kba
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/model.100
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/panel
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/sound
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/texture.ca
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/texture.RNoAF_057
-./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/texture.RNoAF_XJ-K
-./SimObjects/Airplanes/Aerosoft Twin Otter 300
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/fallback
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/model.300
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/model.300nh
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/model.para
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/panel
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/panel.gps
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/panel.org
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/sound
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/sound/Aerosoft_Sound_System_TW
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.ba
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.fae
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.faf
-./SimObjects/Airplanes/Aerosoft Twin Otter 300/texture.per
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/model.gps
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/panel
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/sound
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.am
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.bagps
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.wa
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.ya
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/model.ski
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/panel
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/sound
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 Wheel Ski/texture.ai
+./Scenery/World/Scenery
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/de Havilland Canada DHC-7/Aircraft.cfg
-./SimObjects/Airplanes/Grumman_Albatross/aircraft.cfg
-./SimObjects/Misc/AI VnW A-1J/aircraft.cfg
-./SimObjects/Misc/AI VnW OV1/Aircraft.cfg
-./SimObjects/Misc/AI VnW OV10/aircraft.cfg
-./SimObjects/Rotorcraft/ND_AS350B1_hoist
-./SimObjects/Rotorcraft/ND_AS350B1_hoist/aircraft.cfg
-./SimObjects/Rotorcraft/ND_AS350B1_hoist/texture.VH-SES
-./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-02-03.tar.gz
-./_FSXGIT/bkups/backup-2013-02-04.tar.gz
+./UNINSTALL LEBOR Lebanon TerrainX V1.5.exe
+./UNINSTALL OLBAX V1.0.exe
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
-./_FSXGIT/data/ls-addonscenery.txt
-./_FSXGIT/data/ls-aircraft-cfg.txt
-./_FSXGIT/data/ls-config.txt
-./_FSXGIT/data/ls-effects.txt
-./_FSXGIT/data/ls-gauges.txt
-./_FSXGIT/data/ls-misc-cfg.txt
-./_FSXGIT/data/ls-modules.txt
-./_FSXGIT/data/ls-root.txt
-./_FSXGIT/data/ls-rotorcraft-cfg.txt
-./_FSXGIT/data/ls-sceneryworld.txt
-./_FSXGIT/data/ls-sound.txt
-./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG
