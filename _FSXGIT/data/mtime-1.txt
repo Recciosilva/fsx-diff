@@ -13,6 +13,11 @@
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Transp/Scenery
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Water
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Water/Scenery
+./FeelThere/b737 v2/737.ini
+./FeelThere/b737 v2/737c2.log
+./FeelThere/Nd
+./Gauges
+./Gauges/a333cls_config.ini
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -21,10 +26,74 @@
 ./modules/WideServer.log
 ./modules/WideServer0.log
 ./Scenery/World/Scenery
+./SimObjects
+./SimObjects/Airplanes
+./SimObjects/Airplanes/CLS_A330_200_RR/Aircraft.cfg
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
+./SimObjects/Airplanes/PMDG EXPRESS B1900D
+./SimObjects/Airplanes/PMDG EXPRESS B1900D/Aircraft.cfg
+./SimObjects/Airplanes/PMDG EXPRESS B1900D/Texture.GGN_C-GZGA
+./SimObjects/Airplanes/PMDG EXPRESS B1900D/Texture.GGN_C-GZGA/thumbnail.jpg
+./SimObjects/Airplanes/Tom_A330-200F
+./SimObjects/Airplanes/Tom_A330-200F/aircraft.cfg
+./SimObjects/Airplanes/Tom_A330-200F/manual
+./SimObjects/Airplanes/Tom_A330-200F/model.PW
+./SimObjects/Airplanes/Tom_A330-200F/model.PW/multiplayer
+./SimObjects/Airplanes/Tom_A330-200F/model.RR
+./SimObjects/Airplanes/Tom_A330-200F/panel.330
+./SimObjects/Airplanes/Tom_A330-200F/sound
+./SimObjects/Airplanes/Tom_A330-200F/sound/sound.cfg
+./SimObjects/Airplanes/Tom_A330-200F/sound.ai
+./SimObjects/Airplanes/Tom_A330-200F/sound.ai/sound.cfg
+./SimObjects/Airplanes/Tom_A330-200F/texture.AB
+./SimObjects/Airplanes/Tom_A330-200F/texture.repaint
+./SimObjects/Airplanes/Tom_A330-200F/texture.TKY
+./SimObjects/Airplanes/VL_Boeing_727-200
+./SimObjects/Airplanes/VL_Boeing_727-200/Aircraft.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/model
+./SimObjects/Airplanes/VL_Boeing_727-200/model.bak
+./SimObjects/Airplanes/VL_Boeing_727-200/panel
+./SimObjects/Airplanes/VL_Boeing_727-200/panel/pr_727
+./SimObjects/Airplanes/VL_Boeing_727-200/panel.orig
+./SimObjects/Airplanes/VL_Boeing_727-200/panel.orig/panel.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/sound
+./SimObjects/Airplanes/VL_Boeing_727-200/sound.orig
+./SimObjects/Airplanes/VL_Boeing_727-200/sound.orig/sound.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/texture
+./SimObjects/Airplanes/VL_Boeing_727-200/texture.asia pacific
+./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
+./SimObjects/Rotorcraft
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/Aircraft.cfg
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/model.MedVac
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/model.Tanks
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/model.Troop seats
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/panel
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/sound
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/texture
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/texture.rnzaf
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/texture.un
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/texture.un_med
+./SimObjects/Sounds
+./SimObjects/Sounds/727_JT8D-15A
+./SimObjects/Sounds/727_JT8D-7B
 ./UNINSTALL LEBOR Lebanon TerrainX V1.5.exe
 ./UNINSTALL OLBAX V1.0.exe
+./_FSXGIT/bkups
+./_FSXGIT/bkups/backup-2013-02-05.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
+./_FSXGIT/data/ls-addonscenery.txt
+./_FSXGIT/data/ls-aircraft-cfg.txt
+./_FSXGIT/data/ls-config.txt
+./_FSXGIT/data/ls-effects.txt
+./_FSXGIT/data/ls-gauges.txt
+./_FSXGIT/data/ls-misc-cfg.txt
+./_FSXGIT/data/ls-modules.txt
+./_FSXGIT/data/ls-root.txt
+./_FSXGIT/data/ls-rotorcraft-cfg.txt
+./_FSXGIT/data/ls-sceneryworld.txt
+./_FSXGIT/data/ls-sound.txt
+./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

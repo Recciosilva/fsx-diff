@@ -224,6 +224,7 @@
 ./SimObjects/Airplanes/SE5/aircraft.cfg
 ./SimObjects/Airplanes/SimCheck A300B4-200/aircraft.cfg
 ./SimObjects/Airplanes/T-38A_MilViz/aircraft.cfg
+./SimObjects/Airplanes/Tom_A330-200F/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A340-300/aircraft.cfg
 ./SimObjects/Airplanes/Virtavia Heinkel He111H/aircraft.cfg

@@ -3781,6 +3781,14 @@
 ./SimObjects/Airplanes/T-38A_MilViz/texture.TB6/texture.cfg
 ./SimObjects/Airplanes/T-38A_MilViz/texture.TBann/texture.cfg
 ./SimObjects/Airplanes/T-38A_MilViz/texture.USAF/texture.cfg
+./SimObjects/Airplanes/Tom_A330-200F/aircraft.cfg
+./SimObjects/Airplanes/Tom_A330-200F/model.PW/model.cfg
+./SimObjects/Airplanes/Tom_A330-200F/model.RR/model.cfg
+./SimObjects/Airplanes/Tom_A330-200F/panel.330/panel.cfg
+./SimObjects/Airplanes/Tom_A330-200F/sound/sound.cfg
+./SimObjects/Airplanes/Tom_A330-200F/sound.ai/sound.cfg
+./SimObjects/Airplanes/Tom_A330-200F/texture.AB/texture.cfg
+./SimObjects/Airplanes/Tom_A330-200F/texture.TKY/texture.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/model.MRTT/model.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/panel.330/panel.cfg
@@ -4006,6 +4014,13 @@
 ./SimObjects/Airplanes/VL_737-300_BasePack/panel.marco/Panel.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/panel.Targan/Panel.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/sound/Sound.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/Aircraft.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/model/model.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/model.bak/model.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/panel/panel.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/panel.orig/panel.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/sound/sound.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/sound.orig/sound.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/aircraft.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/model/model.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/panel.marco/Panel.cfg
@@ -8379,6 +8394,12 @@
 ./SimObjects/Misc/WoA_UTT_MD11/Aircraft.cfg
 ./SimObjects/Misc/WoA_UTT_MD11/model.GE/model.cfg
 ./SimObjects/Misc/WoA_UTT_MD11/model.PW/model.cfg
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/Aircraft.cfg
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/model.MedVac/Model.cfg
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/model.Tanks/Model.cfg
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/model.Troop seats/Model.cfg
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/panel/Panel.cfg
+./SimObjects/Rotorcraft/ABSimulations NH-90 TTH Dutch Navy/sound/Sound.cfg
 ./SimObjects/Rotorcraft/ALPHA AH-1W Super Cobra/Aircraft.cfg
 ./SimObjects/Rotorcraft/ALPHA AH-1W Super Cobra/model/model.cfg
 ./SimObjects/Rotorcraft/ALPHA AH-1W Super Cobra/panel/panel.cfg

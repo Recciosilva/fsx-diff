@@ -9,6 +9,7 @@
 ./Gauges/BC_A300.gau
 ./Gauges/bell_206b.gau
 ./Gauges/Bendix_King_Radio.gau
+./Gauges/Boeing747-400.gau
 ./Gauges/c130_itt4.gau
 ./Gauges/c130_oil4.gau
 ./Gauges/c130_rpm4.gau
@@ -56,6 +57,7 @@
 ./Gauges/dsd_xml_sound3.gau
 ./Gauges/dsd_xml_sound_relay.gau
 ./Gauges/E120c.gau
+./Gauges/EHSI.gau
 ./Gauges/f1152ec.gau
 ./Gauges/F16.gau
 ./Gauges/f18e_aoaind.gau
@@ -140,6 +142,8 @@
 ./Gauges/h295_adf_slaved.gau
 ./Gauges/h295_altimeter.gau
 ./Gauges/h295_vor_01.gau
+./Gauges/HGHB_CRS.gau
+./Gauges/HGHB_HDG.gau
 ./Gauges/il76.apu.gau
 ./Gauges/IL76.electro.gau
 ./Gauges/IL76.GAU1.gau
@@ -175,6 +179,8 @@
 ./Gauges/Money20FM.gau
 ./Gauges/Money20FVFR.gau
 ./Gauges/Mooney_Bravo.gau
+./Gauges/NH-90.main-set.1.gau
+./Gauges/NH-90.oil.1.gau
 ./Gauges/p38f_lightning.gau
 ./Gauges/P46T_Cabin_alt.gau
 ./Gauges/p51d.gau
@@ -193,6 +199,7 @@
 ./Gauges/PA34S2.gau
 ./Gauges/PA34S3.gau
 ./Gauges/PA34S4.gau
+./Gauges/PFD.gau
 ./Gauges/PMDG_B1900_AP_FACE.gau
 ./Gauges/PMDG_B1900_BEACON_LITE.gau
 ./Gauges/PMDG_B1900_FLAP_GAUGE.gau
