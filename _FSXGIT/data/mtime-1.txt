@@ -1,21 +1,25 @@
 ./
-./Addon Scenery
-./Addon Scenery/MiddleEast/Lebanon
-./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0
-./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0/Scenery
-./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0/Texture
-./Addon Scenery/MiddleEast/Lebanon/Leb_LC
-./Addon Scenery/MiddleEast/Lebanon/Leb_LC/Scenery
-./Addon Scenery/MiddleEast/Lebanon/Leb_LC/Texture
-./Addon Scenery/MiddleEast/Lebanon/Leb_SRTM
-./Addon Scenery/MiddleEast/Lebanon/Leb_SRTM/Scenery
-./Addon Scenery/MiddleEast/Lebanon/Leb_Transp
-./Addon Scenery/MiddleEast/Lebanon/Leb_Transp/Scenery
-./Addon Scenery/MiddleEast/Lebanon/Leb_Water
-./Addon Scenery/MiddleEast/Lebanon/Leb_Water/Scenery
 ./FeelThere/b737 v2/737.ini
 ./FeelThere/b737 v2/737c2.log
 ./FeelThere/Nd
+./Flight One Software
+./Flight One Software/UtTacFsx
+./Flight One Software/UtTacFsx/IMAGES
+./Flight One Software/UtTacFsx/LCImages
+./Flight One Software/UtTacFsx/Product.ini
+./Flight One Software/UtTacFsx/TEXTURE
+./Flight One Software/UtTacFsx/TEXTURE/Bridge
+./Flight One Software/UtTacFsx/TEXTURE/Bridge/Asphalt
+./Flight One Software/UtTacFsx/TEXTURE/Bridge/Concrete
+./Flight One Software/UtTacFsx/TEXTURE/HIGH
+./Flight One Software/UtTacFsx/TEXTURE/LOW
+./Flight One Software/UtTacFsx/TEXTURE/MED
+./Flight One Software/UtUsaFsx
+./Flight One Software/UtUsaFsx/BGL
+./Flight One Software/UtUsaFsx/BGL/BGL1
+./Flight One Software/UtUsaFsx/BGL/BGL2
+./Flight One Software/UtUsaFsx/BGL/BGL3
+./Flight One Software/UtUsaFsx/BGL/BGL4
 ./Gauges
 ./Gauges/a333cls_config.ini
 ./jb777memfilemap.txt
@@ -25,7 +29,36 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
+./Scenery
+./Scenery/UtLcCity
+./Scenery/UtLcCity/Scenery
+./Scenery/UtLcVeg
+./Scenery/UtLcVeg/Scenery
+./Scenery/UtObjRepo
+./Scenery/UtObjRepo/Scenery
+./Scenery/UtTacAirports
+./Scenery/UtTacAirports/Scenery
+./Scenery/UtTacDetail
+./Scenery/UtTacDetail/Scenery
+./Scenery/UtTacDetail/Texture
+./Scenery/UtTacExcl
+./Scenery/UtTacExcl/Scenery
+./Scenery/UtTacGp
+./Scenery/UtTacGp/Scenery
+./Scenery/UtTacLight
+./Scenery/UtTacLight/Scenery
+./Scenery/UtTacRail
+./Scenery/UtTacRail/Scenery
+./Scenery/UtTacRoad
+./Scenery/UtTacRoad/Scenery
+./Scenery/UtTacStream
+./Scenery/UtTacStream/Scenery
+./Scenery/UtTacWater
+./Scenery/UtTacWater/Scenery
+./Scenery/UtWc
+./Scenery/UtWc/Scenery
 ./Scenery/World/Scenery
+./Scenery/World/Texture
 ./SimObjects
 ./SimObjects/Airplanes
 ./SimObjects/Airplanes/CLS_A330_200_RR/Aircraft.cfg
@@ -77,10 +110,11 @@
 ./SimObjects/Sounds
 ./SimObjects/Sounds/727_JT8D-15A
 ./SimObjects/Sounds/727_JT8D-7B
-./UNINSTALL LEBOR Lebanon TerrainX V1.5.exe
-./UNINSTALL OLBAX V1.0.exe
+./terrain.cfg
+./UtTacUninst.exe
 ./_FSXGIT/bkups
 ./_FSXGIT/bkups/backup-2013-02-05.tar.gz
+./_FSXGIT/bkups/backup-2013-02-06.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/ls-addonscenery.txt

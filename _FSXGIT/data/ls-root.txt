@@ -335,6 +335,7 @@
 ./UnLvld767.exe
 ./UNWISE.EXE
 ./util.dll
+./UtTacUninst.exe
 ./VansRV8_Uninstall.exe
 ./vasfmc
 ./Vector Land Class.url
