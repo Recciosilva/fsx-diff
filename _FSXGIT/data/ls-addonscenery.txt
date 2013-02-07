@@ -197,6 +197,8 @@
 ./Addon Scenery/Caribbean/Barbados/Grantley Adams TBPB/Charts
 ./Addon Scenery/Caribbean/Barbados/Grantley Adams TBPB/scenery
 ./Addon Scenery/Caribbean/Barbados/Grantley Adams TBPB/texture
+./Addon Scenery/Caribbean/Caribbean-Millitary
+./Addon Scenery/Caribbean/Caribbean-Millitary/scenery
 ./Addon Scenery/Caribbean/Caribbean-misc
 ./Addon Scenery/Caribbean/Caribbean-misc/scenery
 ./Addon Scenery/Caribbean/Caribbean-misc/scenery/_REMOVED

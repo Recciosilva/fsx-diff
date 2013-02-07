@@ -7354,6 +7354,8 @@
 ./SimObjects/Misc/Generator_sm/model/model.cfg
 ./SimObjects/Misc/Generator_sm/sim.cfg
 ./SimObjects/Misc/Generator_sm/texture/texture.cfg
+./SimObjects/Misc/HTAI Beechcraft 1900D/Aircraft.cfg
+./SimObjects/Misc/HTAI Beechcraft 1900D/model/Model.cfg
 ./SimObjects/Misc/HTAI Cessna 120/Aircraft.cfg
 ./SimObjects/Misc/HTAI Cessna 120/model/Model.cfg
 ./SimObjects/Misc/HTAI Cessna 120/model.wheel_pants/Model.cfg
@@ -7482,6 +7484,26 @@
 ./SimObjects/Misc/Kayaker_sm/texture/texture.cfg
 ./SimObjects/Misc/LH Hudson_ROCKET/model/Model.cfg
 ./SimObjects/Misc/LH Hudson_ROCKET/sim.cfg
+./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/aircraft.cfg
+./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/model.4blade/model.cfg
+./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/aircraft.cfg
+./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/model.4blade/model.cfg
+./SimObjects/Misc/MAIW_DWAI_C310 T&T/Aircraft.cfg
+./SimObjects/Misc/MAIW_DWAI_C310 T&T/model/Model.cfg
+./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/Aircraft.cfg
+./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/model/Model.cfg
+./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/sound/Sound.cfg
+./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/Aircraft.cfg
+./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/model/Model.cfg
+./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/sound/Sound.cfg
+./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/aircraft.cfg
+./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/Model.Civy/model.cfg
+./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF/Aircraft.cfg
+./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF/model.4Blades-Strakes/Model.cfg
+./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T/Aircraft.cfg
+./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T/model/Model.cfg
+./SimObjects/Misc/MAIW_HTAI_Cessna 404 RBDF/Aircraft.cfg
+./SimObjects/Misc/MAIW_HTAI_Cessna 404 RBDF/model/Model.cfg
 ./SimObjects/Misc/MAIW_HTAI_F-16C Nellis AFB/Aircraft.cfg
 ./SimObjects/Misc/MAIW_HTAI_F-16C Nellis AFB/model.agm65/Model.cfg
 ./SimObjects/Misc/MAIW_HTAI_F-16C Nellis AFB/model.air/Model.cfg
@@ -8277,6 +8299,8 @@
 ./SimObjects/Misc/WoA_HTAI_B200/model.4Blades-Strakes/Model.cfg
 ./SimObjects/Misc/WoA_HTAI_BAe_HS-125-800/Aircraft.cfg
 ./SimObjects/Misc/WoA_HTAI_BAe_HS-125-800/model/Model.cfg
+./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/Aircraft.cfg
+./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/model.shortnose/Model.cfg
 ./SimObjects/Misc/WoA_HTAI_DHC6/aircraft.cfg
 ./SimObjects/Misc/WoA_HTAI_DHC6/model/Model.cfg
 ./SimObjects/Misc/WoA_JBAI_Do328-100/Aircraft.cfg
