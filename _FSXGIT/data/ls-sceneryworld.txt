@@ -635,7 +635,7 @@
 ./scenery/World/Scenery/UTX_MHTE_TAC.BGL
 ./scenery/World/Scenery/UTX_MHTG_TAC.BGL
 ./scenery/World/Scenery/UTX_MKBS_TAC.BGL
-./scenery/World/Scenery/UTX_MKJP_TAC.BGL
+./scenery/World/Scenery/UTX_MKJP_TAC.XXX
 ./scenery/World/Scenery/UTX_MKKJ_TAC.BGL
 ./scenery/World/Scenery/UTX_MKNG_TAC.BGL
 ./scenery/World/Scenery/UTX_MKTP_TAC.BGL
@@ -696,7 +696,7 @@
 ./scenery/World/Scenery/UTX_MTCH_TAC.BGL
 ./scenery/World/Scenery/UTX_MTJA_TAC.BGL
 ./scenery/World/Scenery/UTX_MTJE_TAC.BGL
-./scenery/World/Scenery/UTX_MTPP_TAC.BGL
+./scenery/World/Scenery/UTX_MTPP_TAC.XXX
 ./scenery/World/Scenery/UTX_MTPX_TAC.BGL
 ./scenery/World/Scenery/UTX_MUBA_TAC.BGL
 ./scenery/World/Scenery/UTX_MUBY_TAC.BGL
@@ -720,7 +720,7 @@
 ./scenery/World/Scenery/UTX_MXA3_TAC.BGL
 ./scenery/World/Scenery/UTX_MXA4_TAC.BGL
 ./scenery/World/Scenery/UTX_MYAM_TAC.BGL
-./scenery/World/Scenery/UTX_MYAO_TAC.BGL
+./scenery/World/Scenery/UTX_MYAO_TAC.XXX
 ./scenery/World/Scenery/UTX_MYAP_TAC.BGL
 ./scenery/World/Scenery/UTX_MYAS_TAC.BGL
 ./scenery/World/Scenery/UTX_MYAW_TAC.BGL
@@ -733,10 +733,10 @@
 ./scenery/World/Scenery/UTX_MYE2_TAC.BGL
 ./scenery/World/Scenery/UTX_MYE3_TAC.BGL
 ./scenery/World/Scenery/UTX_MYE5_TAC.BGL
-./scenery/World/Scenery/UTX_MYEF_TAC.BGL
+./scenery/World/Scenery/UTX_MYEF_TAC.XXX
 ./scenery/World/Scenery/UTX_MYEH_TAC.BGL
-./scenery/World/Scenery/UTX_MYEM_TAC.BGL
-./scenery/World/Scenery/UTX_MYES_TAC.BGL
+./scenery/World/Scenery/UTX_MYEM_TAC.XXX
+./scenery/World/Scenery/UTX_MYES_TAC.XXX
 ./scenery/World/Scenery/UTX_MYGW_TAC.BGL
 ./scenery/World/Scenery/UTX_MYIG_TAC.BGL
 ./scenery/World/Scenery/UTX_MYLM_TAC.BGL
@@ -752,7 +752,7 @@
 ./scenery/World/Scenery/UTX_MYXA_TAC.BGL
 ./scenery/World/Scenery/UTX_MYXC_TAC.BGL
 ./scenery/World/Scenery/UTX_MYXD_TAC.BGL
-./scenery/World/Scenery/UTX_MYXE_TAC.BGL
+./scenery/World/Scenery/UTX_MYXE_TAC.XXX
 ./scenery/World/Scenery/UTX_MYXF_TAC.BGL
 ./scenery/World/Scenery/UTX_MYXG_TAC.BGL
 ./scenery/World/Scenery/UTX_MYXH_TAC.BGL
@@ -769,7 +769,7 @@
 ./scenery/World/Scenery/UTX_PR25_TAC.BGL
 ./scenery/World/Scenery/UTX_PR27_TAC.BGL
 ./scenery/World/Scenery/UTX_SABA_TAC.BGL
-./scenery/World/Scenery/UTX_TAPA_TAC.BGL
+./scenery/World/Scenery/UTX_TAPA_TAC.XXX
 ./scenery/World/Scenery/UTX_TAPH_TAC.BGL
 ./scenery/World/Scenery/UTX_TDCF_TAC.BGL
 ./scenery/World/Scenery/UTX_TDPD_TAC.BGL
@@ -779,15 +779,15 @@
 ./scenery/World/Scenery/UTX_TFFG_TAC.BGL
 ./scenery/World/Scenery/UTX_TFFJ_TAC.BGL
 ./scenery/World/Scenery/UTX_TFFS_TAC.BGL
-./scenery/World/Scenery/UTX_TIST_TAC.BGL
+./scenery/World/Scenery/UTX_TIST_TAC.XXX
 ./scenery/World/Scenery/UTX_TJFA_TAC.BGL
 ./scenery/World/Scenery/UTX_TJIG_TAC.BGL
 ./scenery/World/Scenery/UTX_TJMZ_TAC.BGL
 ./scenery/World/Scenery/UTX_TJPS_TAC.BGL
 ./scenery/World/Scenery/UTX_TJVQ_TAC.BGL
-./scenery/World/Scenery/UTX_TKPN_TAC.BGL
+./scenery/World/Scenery/UTX_TKPN_TAC.XXX
 ./scenery/World/Scenery/UTX_TLPC_TAC.BGL
-./scenery/World/Scenery/UTX_TLPL_TAC.BGL
+./scenery/World/Scenery/UTX_TLPL_TAC.XXX
 ./scenery/World/Scenery/UTX_TNCE_TAC.BGL
 ./scenery/World/Scenery/UTX_TQPF_TAC.BGL
 ./scenery/World/Scenery/UTX_TUPG_TAC.BGL

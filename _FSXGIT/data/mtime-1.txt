@@ -1,7 +1,4 @@
 ./
-./Addon Scenery/Caribbean
-./Addon Scenery/Caribbean/Caribbean-Millitary
-./Addon Scenery/Caribbean/Caribbean-Millitary/scenery
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -18,10 +15,12 @@
 ./Scenery/World/Scenery/Traffic_JamaicaAirShuttle.bgl
 ./Scenery/World/Scenery/Traffic_MAIW_Carrib DF_FSX.bgl
 ./Scenery/World/Scenery/Traffic_PBNZ_Wi08.bgl
-./Scenery/World/Scenery/Traffic_Spr09_Cargo_B_Airlines.bgl
 ./Scenery/World/Scenery/Traffic_Su05_BXL_BonairExpress.bgl
 ./Scenery/World/Scenery/Traffic_Winair_SU2011.bgl
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
+./SimObjects/Airplanes/QualityWings 752 Passenger
+./SimObjects/Airplanes/QualityWings 752 Passenger/Aircraft.cfg
+./SimObjects/Airplanes/QualityWings 752 Passenger/texture.UN
 ./SimObjects/Misc
 ./SimObjects/Misc/AI Beech C99
 ./SimObjects/Misc/AI Beech C99/Aircraft.cfg
@@ -29,9 +28,7 @@
 ./SimObjects/Misc/AI Beech C99/texture.ARW/6Y-JSA
 ./SimObjects/Misc/AI Beech C99/texture.ARW/6Y-JSI
 ./SimObjects/Misc/AI Beech C99/Texture.Prams Air N7994R
-./SimObjects/Misc/CDAI ERJ145
 ./SimObjects/Misc/CDAI ERJ145/Aircraft.cfg
-./SimObjects/Misc/CDAI ERJ145/Texture.AXL_Bonair
 ./SimObjects/Misc/DJC AI Metroliner III
 ./SimObjects/Misc/DJC AI Metroliner III/Aircraft.cfg
 ./SimObjects/Misc/DJC AI Metroliner III/texture.westernair
@@ -39,50 +36,15 @@
 ./SimObjects/Misc/HTAI Cessna 208B Grand Caravan
 ./SimObjects/Misc/HTAI Cessna 208B Grand Caravan/Aircraft.cfg
 ./SimObjects/Misc/HTAI Cessna 208B Grand Caravan/texture.Prams
-./SimObjects/Misc/MAIW_DJC_Metroliner III RSS
 ./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/aircraft.cfg
-./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/model.4blade
-./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/texture.RSSB_RSS-A1
-./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/texture.RSSB_RSS-A2
-./SimObjects/Misc/MAIW_DJC_Metroliner III T&T
 ./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/aircraft.cfg
-./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/model.4blade
-./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/texture.TTAG_215
-./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/texture.TTAG_216
-./SimObjects/Misc/MAIW_DWAI_C310 T&T
 ./SimObjects/Misc/MAIW_DWAI_C310 T&T/Aircraft.cfg
-./SimObjects/Misc/MAIW_DWAI_C310 T&T/model
-./SimObjects/Misc/MAIW_DWAI_C310 T&T/texture.TTAG_202
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF
 ./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/Aircraft.cfg
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/model
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/sound
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/texture.RBDF_RBPF-1
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/texture.RBDF_RBPF-2
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T
 ./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/Aircraft.cfg
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/model
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/sound
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/texture.TTAG_203
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/texture.TTAG_204
-./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T
 ./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/aircraft.cfg
-./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/Model.Civy
-./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/Texture
-./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/texture.TTAG_9Y-TJW
-./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/texture.TTAG_SAUTT-001
-./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF
 ./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF/Aircraft.cfg
-./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF/model.4Blades-Strakes
-./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF/texture.RBDF_DF-103
-./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T
 ./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T/Aircraft.cfg
-./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T/model
-./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T/texture.TTAG_201
-./SimObjects/Misc/MAIW_HTAI_Cessna 404 RBDF
 ./SimObjects/Misc/MAIW_HTAI_Cessna 404 RBDF/Aircraft.cfg
-./SimObjects/Misc/MAIW_HTAI_Cessna 404 RBDF/model
-./SimObjects/Misc/MAIW_HTAI_Cessna 404 RBDF/texture.RBDF_DF-1002
 ./SimObjects/Misc/TFS_Saab_340
 ./SimObjects/Misc/TFS_Saab_340/Aircraft.cfg
 ./SimObjects/Misc/TFS_Saab_340/texture.Sky_Bahamas
@@ -100,7 +62,9 @@
 ./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/texture.EZR-EZair/aibn2.bmp
 ./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/texture.EZR-EZair/aibn2_l.bmp
 ./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/texture.EZR-EZair/prop-hs.bmp
+./_FSXGIT/bkups
 ./_FSXGIT/bkups/backup-2013-02-06.tar.gz
+./_FSXGIT/bkups/backup-2013-02-07.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/ls-addonscenery.txt
