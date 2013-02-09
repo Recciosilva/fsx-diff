@@ -163,6 +163,7 @@
 ./Addon Scenery/Caribbean/Bahamas
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery
+./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery/_old
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/_DELETED
 ./Addon Scenery/Caribbean/Bahamas/MY Eleutheria Island
 ./Addon Scenery/Caribbean/Bahamas/MY Eleutheria Island/scenery
@@ -876,6 +877,9 @@
 ./Addon Scenery/USA/KOAK_PHOTO_REAL
 ./Addon Scenery/USA/KOAK_PHOTO_REAL/Scenery
 ./Addon Scenery/USA/KOAK_PHOTO_REAL/Texture
+./Addon Scenery/USA/KPNS_Pensacola Regional Airport
+./Addon Scenery/USA/KPNS_Pensacola Regional Airport/Scenery
+./Addon Scenery/USA/KPNS_Pensacola Regional Airport/Texture
 ./Addon Scenery/USA/KSBA_SantaBarbara
 ./Addon Scenery/USA/KSBA_SantaBarbara/Scenery
 ./Addon Scenery/USA/KSBA_SantaBarbara/Texture
@@ -888,6 +892,9 @@
 ./Addon Scenery/USA/KSNA_SantaAnna_JohnWayne/_docs/fsx_patch
 ./Addon Scenery/USA/KTNX_Tonopah
 ./Addon Scenery/USA/KTNX_Tonopah/scenery
+./Addon Scenery/USA/KTPA_Tampa
+./Addon Scenery/USA/KTPA_Tampa/Scenery
+./Addon Scenery/USA/KTPA_Tampa/Texture
 ./Addon Scenery/USA/MAIW Land Class
 ./Addon Scenery/USA/MAIW Land Class/Scenery
 ./Addon Scenery/USA/MAIW Nellis AFB (KLSV)
@@ -919,6 +926,8 @@
 ./Addon Scenery/USA/PHNL2006_LR/Texture
 ./Addon Scenery/USA/Reno_AirRace
 ./Addon Scenery/USA/Reno_AirRace/scenery
+./Addon Scenery/USA/USA_MiscAirports
+./Addon Scenery/USA/USA_MiscAirports/scenery
 ./Addon Scenery/USA/_DELETED
 ./Addon Scenery/USA/_DELETED/KFLL_FortLauderdale
 ./Addon Scenery/USA/_DELETED/KFLL_FortLauderdale/Scenery

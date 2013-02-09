@@ -1,4 +1,16 @@
 ./
+./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery
+./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery/_old
+./Addon Scenery/static-library-objects/scenery
+./Addon Scenery/USA
+./Addon Scenery/USA/KPNS_Pensacola Regional Airport
+./Addon Scenery/USA/KPNS_Pensacola Regional Airport/Scenery
+./Addon Scenery/USA/KPNS_Pensacola Regional Airport/Texture
+./Addon Scenery/USA/KTPA_Tampa
+./Addon Scenery/USA/KTPA_Tampa/Scenery
+./Addon Scenery/USA/KTPA_Tampa/Texture
+./Addon Scenery/USA/USA_MiscAirports
+./Addon Scenery/USA/USA_MiscAirports/scenery
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -6,78 +18,14 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./Scenery
 ./Scenery/UtTacAirports/Scenery
-./Scenery/UtTacAirports/Scenery/_DEL
 ./Scenery/World/Scenery
-./Scenery/World/Scenery/Traffic_000_WoA_EZair_Wi08_FSX.bgl
-./Scenery/World/Scenery/Traffic_AIG_Wi09-10_SkyBahamas.bgl
-./Scenery/World/Scenery/Traffic_JamaicaAirShuttle.bgl
-./Scenery/World/Scenery/Traffic_MAIW_Carrib DF_FSX.bgl
-./Scenery/World/Scenery/Traffic_PBNZ_Wi08.bgl
-./Scenery/World/Scenery/Traffic_Su05_BXL_BonairExpress.bgl
-./Scenery/World/Scenery/Traffic_Winair_SU2011.bgl
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/QualityWings 752 Passenger
-./SimObjects/Airplanes/QualityWings 752 Passenger/Aircraft.cfg
-./SimObjects/Airplanes/QualityWings 752 Passenger/texture.UN
-./SimObjects/Misc
-./SimObjects/Misc/AI Beech C99
-./SimObjects/Misc/AI Beech C99/Aircraft.cfg
-./SimObjects/Misc/AI Beech C99/texture.ARW
-./SimObjects/Misc/AI Beech C99/texture.ARW/6Y-JSA
-./SimObjects/Misc/AI Beech C99/texture.ARW/6Y-JSI
-./SimObjects/Misc/AI Beech C99/Texture.Prams Air N7994R
-./SimObjects/Misc/CDAI ERJ145/Aircraft.cfg
-./SimObjects/Misc/DJC AI Metroliner III
-./SimObjects/Misc/DJC AI Metroliner III/Aircraft.cfg
-./SimObjects/Misc/DJC AI Metroliner III/texture.westernair
-./SimObjects/Misc/HTAI Beechcraft 1900D/Aircraft.cfg
-./SimObjects/Misc/HTAI Cessna 208B Grand Caravan
-./SimObjects/Misc/HTAI Cessna 208B Grand Caravan/Aircraft.cfg
-./SimObjects/Misc/HTAI Cessna 208B Grand Caravan/texture.Prams
-./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/aircraft.cfg
-./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/aircraft.cfg
-./SimObjects/Misc/MAIW_DWAI_C310 T&T/Aircraft.cfg
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo RBPF/Aircraft.cfg
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/Aircraft.cfg
-./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/aircraft.cfg
-./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF/Aircraft.cfg
-./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T/Aircraft.cfg
-./SimObjects/Misc/MAIW_HTAI_Cessna 404 RBDF/Aircraft.cfg
-./SimObjects/Misc/TFS_Saab_340
-./SimObjects/Misc/TFS_Saab_340/Aircraft.cfg
-./SimObjects/Misc/TFS_Saab_340/texture.Sky_Bahamas
-./SimObjects/Misc/TFS_Saab_340/texture.Western Air
-./SimObjects/Misc/VOZ2 PAI DHC6V2
-./SimObjects/Misc/VOZ2 PAI DHC6V2/Aircraft.cfg
-./SimObjects/Misc/VOZ2 PAI DHC6V2/texture.winair_PJ-WIN
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/Aircraft.cfg
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/Britten-Norman BN-2.air
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/model.shortnose
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/model.shortnose/Britten-Norman BN-2 SN.mdl
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/model.shortnose/Model.cfg
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/texture.EZR-EZair
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/texture.EZR-EZair/aibn2.bmp
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/texture.EZR-EZair/aibn2_l.bmp
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/texture.EZR-EZair/prop-hs.bmp
-./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-02-06.tar.gz
-./_FSXGIT/bkups/backup-2013-02-07.tar.gz
+./SimObjects/Airplanes/PMDG EXPRESS B1900D
+./SimObjects/Airplanes/PMDG EXPRESS B1900D/Aircraft.cfg
+./SimObjects/Airplanes/PMDG EXPRESS B1900D/texture.GFT_N218YV
+./Texture
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
-./_FSXGIT/data/ls-addonscenery.txt
-./_FSXGIT/data/ls-aircraft-cfg.txt
-./_FSXGIT/data/ls-config.txt
-./_FSXGIT/data/ls-effects.txt
-./_FSXGIT/data/ls-gauges.txt
-./_FSXGIT/data/ls-misc-cfg.txt
-./_FSXGIT/data/ls-modules.txt
-./_FSXGIT/data/ls-root.txt
-./_FSXGIT/data/ls-rotorcraft-cfg.txt
-./_FSXGIT/data/ls-sceneryworld.txt
-./_FSXGIT/data/ls-sound.txt
-./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

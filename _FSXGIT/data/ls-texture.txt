@@ -978,6 +978,7 @@
 ./Texture/o_recif_ls.bmp
 ./Texture/park.r8
 ./Texture/parkf.r8
+./Texture/parking.dds
 ./Texture/ParkingGarage.dds
 ./Texture/ParkingGarage_bump.dds
 ./Texture/ParkingGarage_lm.dds
