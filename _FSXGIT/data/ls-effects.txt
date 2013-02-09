@@ -351,6 +351,9 @@
 ./Effects/fx_beacon_F1ATR.fx
 ./Effects/fx_beacon_FSD.fx
 ./Effects/fx_beacon_sml.fx
+./Effects/fx_BEAMLLET.fx
+./Effects/fx_BEAMLLET1.fx
+./Effects/fx_BEAMLLET2.fx
 ./Effects/fx_BelgFount1.fx
 ./Effects/fx_BelgFount2.fx
 ./Effects/fx_BellyFire.fx
@@ -557,6 +560,12 @@
 ./Effects/fx_flareEffect.fx
 ./Effects/fx_flareRoad.fx
 ./Effects/fx_flashBulb.fx
+./Effects/fx_floodorng.fx
+./Effects/fx_floodorng2.fx
+./Effects/fx_floodwhite.fx
+./Effects/fx_floodwhite1.fx
+./Effects/fx_floodwhite2.fx
+./Effects/fx_floodwhite_soft.fx
 ./Effects/fx_FlourBombLand.fx
 ./Effects/fx_FlourBombWater.fx
 ./Effects/fx_forest.fx
@@ -612,6 +621,7 @@
 ./Effects/fx_GodzoneLight10.fx
 ./Effects/fx_goose_spray.fx
 ./Effects/fx_GreenDot.fx
+./Effects/fx_Grnd1.fx
 ./Effects/fx_GroundCrew01.fx
 ./Effects/fx_GroundCrew02.fx
 ./Effects/fx_GroundCrew03.fx
@@ -809,6 +819,11 @@
 ./Effects/fx_lightObsWhiteFlash40Med.fx
 ./Effects/fx_lightObsWhiteFlash60Hi.fx
 ./Effects/fx_lightObsWhiteFlash60Med.fx
+./Effects/fx_lletw_1.fx
+./Effects/fx_lletw_2.fx
+./Effects/fx_llet_1.fx
+./Effects/fx_llet_2.fx
+./Effects/fx_llet_3.fx
 ./Effects/fx_luxbeam1.fx
 ./Effects/fx_luxbeam2.fx
 ./Effects/fx_Lvfr_twn.fx
@@ -869,6 +884,7 @@
 ./Effects/fx_Ngastatic_sml.fx
 ./Effects/fx_nicks_tchdwn_s.fx
 ./Effects/fx_nosewhi_DG.fx
+./Effects/fx_nurlightw.fx
 ./Effects/fx_object_test.fx
 ./Effects/fx_obslight.fx
 ./Effects/fx_obslight2.fx
@@ -1051,6 +1067,7 @@
 ./Effects/fx_Steam_Med.fx
 ./Effects/fx_Steam_Sml.fx
 ./Effects/fx_Strahler.fx
+./Effects/fx_StreetLight_Blue_White.fx
 ./Effects/fx_strobe.fx
 ./Effects/fx_strobe2_FSD.fx
 ./Effects/fx_strobeAlaWaco.fx
@@ -1077,6 +1094,7 @@
 ./Effects/fx_TaxiwayBlue.fx
 ./Effects/FX_taxi_FSD.fx
 ./Effects/fx_taxi_glx.fx
+./Effects/fx_taxi_light_blue.fx
 ./Effects/fx_tchdrt.fx
 ./Effects/fx_tchdrt_DG.fx
 ./Effects/fx_tchdwn.fx
@@ -1268,6 +1286,8 @@
 ./Effects/g_cntrl_txlights.fx
 ./Effects/g_cntrl_warnlight.fx
 ./Effects/g_firelight_blue.fx
+./Effects/g_floodlight.fx
+./Effects/g_floodlight_1.fx
 ./Effects/g_floodred.fx
 ./Effects/g_floodred_MOD.fx
 ./Effects/g_floodred_puls.fx
@@ -1642,10 +1662,15 @@
 ./Effects/Kosrae International/texture/warn.dds
 ./Effects/Kosrae International/texture/winch.dds
 ./Effects/lakewavecontroller.fx
+./Effects/lightcone.fx
 ./Effects/lightglobe.fx
 ./Effects/lightpour10m.fx
 ./Effects/lightpour10m1spot.fx
 ./Effects/lightpour20m.fx
+./Effects/llettaxi_blue.fx
+./Effects/LLET_GRNDLIGHT.fx
+./Effects/LLET_GRNDLIGHT1.fx
+./Effects/LLET_GRNDLIGHT2.fx
 ./Effects/lmml_fldlight_orange.fx
 ./Effects/lmml_fldlight_orange2.fx
 ./Effects/lmml_fldlight_orange3.fx
@@ -1707,6 +1732,8 @@
 ./Effects/MilViz_T38_BurnerStage2.fx
 ./Effects/MilViz_T38_BurnerStage3.fx
 ./Effects/MilViz_T38_BurnerStage4.fx
+./Effects/NURI_apron_1.fx
+./Effects/NURI_TAXIBLUE_1.fx
 ./Effects/Opensky_747_vclight.fx
 ./Effects/Opensky_beacon.fx
 ./Effects/Opensky_Boeing_vclight.fx
@@ -1755,6 +1782,7 @@
 ./Effects/RFSND.fx
 ./Effects/RFTRC.fx
 ./Effects/RFTRC1.fx
+./Effects/rwy_ends.fx
 ./Effects/sfx_CatalinaDlg03.fx
 ./Effects/sfx_CatalinaDlg04.fx
 ./Effects/sfx_CatalinaDlg05.fx
@@ -1820,6 +1848,7 @@
 ./Effects/texture/cs133.bmp
 ./Effects/texture/cs134.bmp
 ./Effects/texture/cs_land_y3.bmp
+./Effects/texture/DLight.bmp
 ./Effects/texture/DR2.bmp
 ./Effects/texture/ENGM_rwy.bmp
 ./Effects/texture/envaX_Floodlight.bmp
@@ -1842,9 +1871,15 @@
 ./Effects/texture/fx_2.bmp
 ./Effects/texture/fx_208car.bmp
 ./Effects/texture/fx_208car2.bmp
+./Effects/texture/fx_22.bmp
+./Effects/texture/fx_223.bmp
+./Effects/texture/fx_23.bmp
 ./Effects/texture/fx_285.bmp
 ./Effects/texture/fx_2c185.bmp
 ./Effects/texture/fx_2car.bmp
+./Effects/texture/fx_2carsarat.bmp
+./Effects/texture/fx_2o.bmp
+./Effects/texture/fx_2sarat.bmp
 ./Effects/texture/fx_2_EZ.bmp
 ./Effects/texture/fx_2_orbx.bmp
 ./Effects/texture/fx_2_orbx_obs.bmp
@@ -1917,6 +1952,7 @@
 ./Effects/texture/fx_lightning1.bmp
 ./Effects/texture/fx_MF_marine_light.bmp
 ./Effects/texture/fx_mul_1.bmp
+./Effects/texture/fx_NURI.bmp
 ./Effects/texture/fx_shockwave_circle.bmp
 ./Effects/texture/fx_shockwave_light.bmp
 ./Effects/texture/fx_shtstar.bmp
@@ -1971,8 +2007,10 @@
 ./Effects/texture/fx_YMML_orbx.bmp
 ./Effects/texture/GroundCrew.bmp
 ./Effects/texture/gunpack.bmp
+./Effects/texture/halo.bmp
 ./Effects/texture/iris_fx_2.bmp
 ./Effects/texture/lampadairejlv.bmp
+./Effects/texture/llet_grndlight.bmp
 ./Effects/texture/lmml.bmp
 ./Effects/texture/lmml.zip
 ./Effects/texture/Lvfr_twn.bmp
@@ -2035,6 +2073,13 @@
 ./Effects/TW_NavRed.fx
 ./Effects/TW_NavWhite.fx
 ./Effects/TW_Strobe.fx
+./Effects/TX_LLETB.fx
+./Effects/TX_LLETB2.fx
+./Effects/TX_LLETG.fx
+./Effects/TX_LLETR.fx
+./Effects/TX_LLETW.fx
+./Effects/TX_LLETW2.fx
+./Effects/TX_LLETW3.fx
 ./Effects/Vcolejets_gnav.fx
 ./Effects/Vcolejets_inspect.fx
 ./Effects/Vcolejets_logo.fx

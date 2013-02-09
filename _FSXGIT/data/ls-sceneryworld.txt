@@ -85,6 +85,7 @@
 ./scenery/World/Scenery/AF2_NZOM.bgl
 ./scenery/World/Scenery/AF2_NZPN.bgl
 ./scenery/World/Scenery/AF2_NZRO.bgl
+./scenery/World/Scenery/AFX_LLET_ALT.bgl
 ./scenery/World/Scenery/AFX_LXGB_ALT.bgl
 ./scenery/World/Scenery/AFX_NCRG_ALT.bgl
 ./scenery/World/Scenery/AFX_NZNP.bgl
@@ -112,6 +113,8 @@
 ./scenery/World/Scenery/KMCO_ADE_OBJ.BGL
 ./scenery/World/Scenery/Kone NWWD_ARP.bgl
 ./scenery/World/Scenery/lak.bgl
+./scenery/World/Scenery/LL1A_ADE_ISP_ALT.BGL
+./scenery/World/Scenery/LL62_ADE_ISP_ALT.BGL
 ./scenery/World/Scenery/NZDA_ADEX_VLC_ALT.BGL
 ./scenery/World/Scenery/NZFI_ADEX_VLC_ALT.BGL
 ./scenery/World/Scenery/NZGA_ADEX_VLC_ALT.BGL

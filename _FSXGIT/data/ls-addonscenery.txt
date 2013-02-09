@@ -360,9 +360,14 @@
 ./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY/scenery
 ./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY/texture
 ./Addon Scenery/Israel
+./Addon Scenery/Israel/ISP Eilat Airport
+./Addon Scenery/Israel/ISP Eilat Airport/Scenery
+./Addon Scenery/Israel/ISP Eilat Airport/Texture
 ./Addon Scenery/Israel/ISP Haifa Airport
 ./Addon Scenery/Israel/ISP Haifa Airport/Scenery
 ./Addon Scenery/Israel/ISP Haifa Airport/Texture
+./Addon Scenery/Israel/ISP Hatzerim AB
+./Addon Scenery/Israel/ISP Hatzerim AB/Scenery
 ./Addon Scenery/Israel/ISP Rosh-Pina Airport
 ./Addon Scenery/Israel/ISP Rosh-Pina Airport/Scenery
 ./Addon Scenery/Israel/ISP Rosh-Pina Airport/Texture

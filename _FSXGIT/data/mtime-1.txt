@@ -1,6 +1,12 @@
 ./
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery/_old
+./Addon Scenery/Israel
+./Addon Scenery/Israel/ISP Eilat Airport
+./Addon Scenery/Israel/ISP Eilat Airport/Scenery
+./Addon Scenery/Israel/ISP Eilat Airport/Texture
+./Addon Scenery/Israel/ISP Hatzerim AB
+./Addon Scenery/Israel/ISP Hatzerim AB/Scenery
 ./Addon Scenery/static-library-objects/scenery
 ./Addon Scenery/USA
 ./Addon Scenery/USA/KPNS_Pensacola Regional Airport
@@ -11,6 +17,17 @@
 ./Addon Scenery/USA/KTPA_Tampa/Texture
 ./Addon Scenery/USA/USA_MiscAirports
 ./Addon Scenery/USA/USA_MiscAirports/scenery
+./airlines.cfg
+./Effects
+./Effects/texture
+./ISP
+./ISP/Eilat Airport
+./ISP/Eilat Airport/IRIMG1.JPG
+./ISP/Eilat Airport/IRIMG2.JPG
+./ISP/Eilat Airport/IRIMG3.JPG
+./ISP/Eilat Airport/uninstall.dat
+./ISP/Eilat Airport/uninstall.exe
+./ISP/Eilat Airport/uninstall.xml
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -21,11 +38,26 @@
 ./Scenery/UtTacAirports/Scenery
 ./Scenery/World/Scenery
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
+./SimObjects/Airplanes/IRIS F-15E Mudhen Driver/Panel/panel.cfg
 ./SimObjects/Airplanes/PMDG EXPRESS B1900D
 ./SimObjects/Airplanes/PMDG EXPRESS B1900D/Aircraft.cfg
 ./SimObjects/Airplanes/PMDG EXPRESS B1900D/texture.GFT_N218YV
 ./Texture
+./_FSXGIT/bkups
+./_FSXGIT/bkups/backup-2013-02-09.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
+./_FSXGIT/data/ls-addonscenery.txt
+./_FSXGIT/data/ls-aircraft-cfg.txt
+./_FSXGIT/data/ls-config.txt
+./_FSXGIT/data/ls-effects.txt
+./_FSXGIT/data/ls-gauges.txt
+./_FSXGIT/data/ls-misc-cfg.txt
+./_FSXGIT/data/ls-modules.txt
+./_FSXGIT/data/ls-root.txt
+./_FSXGIT/data/ls-rotorcraft-cfg.txt
+./_FSXGIT/data/ls-sceneryworld.txt
+./_FSXGIT/data/ls-sound.txt
+./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

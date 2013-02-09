@@ -128,6 +128,7 @@
 ./IRIS Pro Series
 ./ISG
 ./isg_test.log
+./ISP
 ./jb777memfilemap.txt
 ./Just Flight
 ./JustFlight
