@@ -58,6 +58,11 @@
 ./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/aircraft.cfg
 ./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/aircraft.cfg
 ./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15D Tyndall AFB/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F22 Tyndall AFB/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/aircraft.cfg
+./SimObjects/Misc/MAIW_PAI_DH8A Tyndall AFB/aircraft.cfg
 ./SimObjects/Misc/MAIW_RWAI_A-10C Nellis AFB/aircraft.cfg
 ./SimObjects/Misc/Mitsubishi_PAJERO/aircraft.cfg
 ./SimObjects/Misc/OSP_atr_42_300/aircraft.cfg

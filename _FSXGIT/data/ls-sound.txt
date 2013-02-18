@@ -67,6 +67,7 @@
 ./Sound/ai_twinturbo02.wav
 ./Sound/altitude_alert_warning1000.wav
 ./Sound/altitude_alert_warning250.wav
+./Sound/aptsrrnd.wav
 ./Sound/ATC
 ./Sound/ATC/ASOS
 ./Sound/ATC/ASOS/USEnglishASOS.gvp
@@ -340,6 +341,7 @@
 ./Sound/door_small.wav
 ./Sound/dsd_xml_94.wav
 ./Sound/dss_sirocco2_click.wav
+./Sound/dwtwn.wav
 ./Sound/E120
 ./Sound/E120/120_alert_chime.wav
 ./Sound/E120/120_autopilot.wav
@@ -2498,6 +2500,7 @@
 ./Sound/precip/xprecg2.wav
 ./Sound/precip/xprecg3.wav
 ./Sound/precip/xprecg4.wav
+./Sound/prknlt.wav
 ./Sound/prop.wav
 ./Sound/prop_damage.wav
 ./Sound/PSPanels

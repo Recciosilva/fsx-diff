@@ -87,6 +87,7 @@
 ./Effects/Cntrl_KORD_deice.fx
 ./Effects/Cntrl_LCPH_TaxiGreen.fx
 ./Effects/Cntrl_LightningFire.fx
+./Effects/Cntrl_lvfr_Snd.fx
 ./Effects/Cntrl_LV_fnt.fx
 ./Effects/Cntrl_LV_vol.fx
 ./Effects/Cntrl_OldFaithfull.fx
@@ -323,6 +324,7 @@
 ./Effects/fx_AOA_amber.fx
 ./Effects/fx_AOA_green.fx
 ./Effects/fx_AOA_red.fx
+./Effects/fx_aptsrrnd.fx
 ./Effects/fx_Aurora1.fx
 ./Effects/fx_Aurora2.fx
 ./Effects/fx_Aurora3.fx
@@ -448,6 +450,7 @@
 ./Effects/fx_dustcloud_l.fx
 ./Effects/fx_dustcloud_m.fx
 ./Effects/fx_dustcloud_s.fx
+./Effects/fx_dwtwn.fx
 ./Effects/fx_EmergencyLights.fx
 ./Effects/fx_EmergencyLightsPolice.fx
 ./Effects/fx_engFire.fx
@@ -513,6 +516,7 @@
 ./Effects/fx_f14_afterburner_6.fx
 ./Effects/fx_F14_vclight.fx
 ./Effects/fx_f16_ab.fx
+./Effects/fx_f16_ab_f4.fx
 ./Effects/fx_f16_becongrem.fx
 ./Effects/fx_f16_beconredm.fx
 ./Effects/fx_f16_navgrem.fx
@@ -882,6 +886,7 @@
 ./Effects/fx_Ngafalls_sml.fx
 ./Effects/fx_Ngastatic_lrg.fx
 ./Effects/fx_Ngastatic_sml.fx
+./Effects/fx_nicksmokeAI_sm_lear.fx
 ./Effects/fx_nicks_tchdwn_s.fx
 ./Effects/fx_nosewhi_DG.fx
 ./Effects/fx_nurlightw.fx
@@ -980,6 +985,7 @@
 ./Effects/fx_PMDG_NGX_vclight.fx
 ./Effects/fx_poacherMuzzleFlash.fx
 ./Effects/fx_preoiler.fx
+./Effects/fx_prknlt.fx
 ./Effects/fx_PT17_exhaust.fx
 ./Effects/fx_rainClose.fx
 ./Effects/fx_rainDown.fx
@@ -1864,6 +1870,7 @@
 ./Effects/texture/flood_terminal.bmp
 ./Effects/texture/FR109_fx_1.bmp
 ./Effects/texture/FR109_fx_2.bmp
+./Effects/texture/fsblight.bmp
 ./Effects/texture/ft_E1X5_1.bmp
 ./Effects/texture/ft_E1X5_2.bmp
 ./Effects/texture/FWI_halo.bmp
@@ -2066,6 +2073,7 @@
 ./Effects/texture/Zh_An12para.bmp
 ./Effects/texture/ZH_cabin.bmp
 ./Effects/texture/ZH_ikpp.bmp
+./Effects/tsimtncb.fx
 ./Effects/TW_Beacon.fx
 ./Effects/TW_LL.fx
 ./Effects/TW_LL_Splash.fx

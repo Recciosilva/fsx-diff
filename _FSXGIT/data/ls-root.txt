@@ -43,6 +43,10 @@
 ./bglmanx_qwings.dat
 ./bkg.bmp
 ./BluePrint Simulations
+./bonxunin.bmp
+./bonxunin.dat
+./bonxunin.ini
+./bonxunin.lng
 ./cameras.cfg
 ./Captain_Sim
 ./Carenado
@@ -147,6 +151,12 @@
 ./LWcfg.spb
 ./main.dll
 ./Marham FSX Uninstall.exe
+./mbpvxxunin.bmp
+./mbpvxxunin.dat
+./mbpvxxunin.ini
+./mbpvxxunin.lng
+./mdstxfsxunin.dat
+./mdstxfsxunin.xml
 ./messages
 ./Microsoft Online Privacy Notice Highlights.url
 ./mingwm10.dll
@@ -245,6 +255,10 @@
 ./tlplxxunin.lng
 ./tncaxfsxunin.dat
 ./tncaxfsxunin.xml
+./tncbx9unin.bmp
+./tncbx9unin.dat
+./tncbx9unin.ini
+./tncbx9unin.lng
 ./tnccxxunin.bmp
 ./tnccxxunin.dat
 ./tnccxxunin.ini

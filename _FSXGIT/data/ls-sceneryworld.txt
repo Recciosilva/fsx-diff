@@ -110,6 +110,7 @@
 ./scenery/World/Scenery/kess_traffic_motor.bgl
 ./scenery/World/Scenery/kess_traffic_sail.bgl
 ./scenery/World/Scenery/kess_ymaa_ai.bgl
+./scenery/World/Scenery/KEYW_ADE_RGM_ALT.BGL
 ./scenery/World/Scenery/KMCO_ADE_OBJ.BGL
 ./scenery/World/Scenery/Kone NWWD_ARP.bgl
 ./scenery/World/Scenery/lak.bgl
@@ -135,7 +136,10 @@
 ./scenery/World/Scenery/Rzeszow EPRJ_ARP.BGL
 ./scenery/World/Scenery/TahitiX_AirTraffic.bgl
 ./scenery/World/Scenery/TahitiX_BoatTraffic.bgl
+./scenery/World/Scenery/Traffic CSQ W09-10.bgl
 ./scenery/World/Scenery/Traffic GNZLAP54_FSX.bgl
+./scenery/World/Scenery/Traffic SGB Su10.bgl
+./scenery/World/Scenery/Traffic SKZ Su10.bgl
 ./scenery/World/Scenery/Traffic-Raro_FSX.bgl
 ./scenery/World/Scenery/TrafficAlhambra_FSX.bgl
 ./scenery/World/Scenery/trafficBoats.bgl
@@ -445,6 +449,7 @@
 ./scenery/World/Scenery/Traffic_Aeroland_FSX.bgl
 ./scenery/World/Scenery/Traffic_AIG_ABX_Wi11-12.bgl
 ./scenery/World/Scenery/Traffic_AIG_AirTransportInternational_Wi11-12.bgl
+./scenery/World/Scenery/Traffic_AIG_Florida_West_Wi12-13.bgl
 ./scenery/World/Scenery/Traffic_AIG_JejuAir_Wi11-12.bgl
 ./scenery/World/Scenery/Traffic_AIG_Su08_AirCairo_FSX.bgl
 ./scenery/World/Scenery/Traffic_AIG_Su08_AirCanada_FSX.bgl
@@ -566,6 +571,7 @@
 ./scenery/World/Scenery/Traffic_MAIW_Nellis_AFB_FSX.bgl
 ./scenery/World/Scenery/Traffic_MAIW_Nellis_Humvee_FSX.bgl
 ./scenery/World/Scenery/Traffic_MAIW_QinetiQ Boscome_Tornado_GR4_FSX.bgl
+./scenery/World/Scenery/Traffic_MAIW_Tyndall AFB_FSX.bgl
 ./scenery/World/Scenery/Traffic_MAIW_USAF_Thunderbirds_FSX.bgl
 ./scenery/World/Scenery/Traffic_MASkargo_Wi10_FSX.bgl
 ./scenery/World/Scenery/Traffic_Meelad_FSX.bgl
@@ -576,6 +582,7 @@
 ./scenery/World/Scenery/Traffic_NorwegianAirShuttle_Su12.bgl
 ./scenery/World/Scenery/Traffic_OIF_FSX.bgl
 ./scenery/World/Scenery/Traffic_OLTExpressPoland_Su12.bgl
+./scenery/World/Scenery/Traffic_PAI_Wi05-06_Ram Air Freight.bgl
 ./scenery/World/Scenery/Traffic_PBNZ_Wi08.bgl
 ./scenery/World/Scenery/Traffic_PBNZ_Wi08_FSX.bgl
 ./scenery/World/Scenery/Traffic_PB_Air_FSX.bgl
@@ -602,6 +609,8 @@
 ./scenery/World/Scenery/Traffic_Su10_Korean_Air_Cargo_FSX.bgl
 ./scenery/World/Scenery/Traffic_Su11_Air_Hong_Kong_FSX.bgl
 ./scenery/World/Scenery/Traffic_Summer07_BMED_FSX.bgl
+./scenery/World/Scenery/Traffic_Sunwing_Wi10.bgl
+./scenery/World/Scenery/Traffic_Tampa Cargo.bgl
 ./scenery/World/Scenery/Traffic_Tristar Air Cargo_FSX.bgl
 ./scenery/World/Scenery/Traffic_United Nations Flightplans_FSX.bgl
 ./scenery/World/Scenery/Traffic_Veravia_FSX.bgl

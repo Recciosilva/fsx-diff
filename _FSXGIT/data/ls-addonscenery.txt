@@ -152,13 +152,9 @@
 ./Addon Scenery/Canada/Yellowknife_CYZF_2010/Texture
 ./Addon Scenery/Caribbean
 ./Addon Scenery/Caribbean/Antilles
-./Addon Scenery/Caribbean/Antilles/Flamingo Bonaire TNCB
-./Addon Scenery/Caribbean/Antilles/Flamingo Bonaire TNCB/scenery
 ./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM
 ./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM/scenery
 ./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM/texture
-./Addon Scenery/Caribbean/Antilles/_DELETED_Willemstad TNCC
-./Addon Scenery/Caribbean/Antilles/_DELETED_Willemstad TNCC/scenery
 ./Addon Scenery/Caribbean/Aruba
 ./Addon Scenery/Caribbean/Bahamas
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports
@@ -391,6 +387,10 @@
 ./Addon Scenery/Israel/_DEL/LLBG 2/scenery
 ./Addon Scenery/Israel/_DEL/LLBG 2/texture
 ./Addon Scenery/LatinVFR
+./Addon Scenery/LatinVFR/Key West_KEYW
+./Addon Scenery/LatinVFR/Key West_KEYW/Docs
+./Addon Scenery/LatinVFR/Key West_KEYW/Scenery
+./Addon Scenery/LatinVFR/Key West_KEYW/Texture
 ./Addon Scenery/LatinVFR/Miami_KMIA
 ./Addon Scenery/LatinVFR/Miami_KMIA/Docs
 ./Addon Scenery/LatinVFR/Miami_KMIA/Scenery

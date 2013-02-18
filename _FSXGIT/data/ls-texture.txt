@@ -683,6 +683,8 @@
 ./Texture/earth1.bmp
 ./Texture/earth2.bmp
 ./Texture/envmap.bmp
+./Texture/eywautogen.bmp
+./Texture/eywautogenlm.bmp
 ./Texture/f16c_l.bmp
 ./Texture/f16d_l.bmp
 ./Texture/f17a_lm.bmp
@@ -949,6 +951,7 @@
 ./Texture/moonglow_left.bmp
 ./Texture/moonglow_right.bmp
 ./Texture/mpilot64.bmp
+./Texture/NBAI_Brake_Chute.bmp
 ./Texture/NBAI_F15E_StrikeEagle_L.bmp
 ./Texture/NBAI_F15_Eagle_L.bmp
 ./Texture/NBAI_F22_Raptor_l.bmp
@@ -961,6 +964,8 @@
 ./Texture/needle.r8
 ./Texture/needle_m.r8
 ./Texture/NewRunwayLayout.DDS
+./Texture/nova064.bmp
+./Texture/nova075_sp.bmp
 ./Texture/OceanHeight20FieldHigh.dds
 ./Texture/OceanHeight20FieldLayer.dds
 ./Texture/OceanHeight20FieldLayer1.dds
@@ -976,6 +981,7 @@
 ./Texture/o_medium_white_sand.bmp
 ./Texture/o_recif_ls-dxt3.bmp
 ./Texture/o_recif_ls.bmp
+./Texture/palmeira.bmp
 ./Texture/park.r8
 ./Texture/parkf.r8
 ./Texture/parking.dds
@@ -1542,6 +1548,7 @@
 ./Texture/smoke_bk.r8
 ./Texture/smoke_sheet.bmp
 ./Texture/smoke_wt.r8
+./Texture/SNAG_PALM.bmp
 ./Texture/SnowA.bmp
 ./Texture/SnowB.bmp
 ./Texture/SnowC.bmp
@@ -1780,6 +1787,8 @@
 ./Texture/treesSP.bmp
 ./Texture/treesSU.bmp
 ./Texture/treeswi.bmp
+./Texture/tree_irreg_fa.bmp
+./Texture/tree_round_fa.bmp
 ./Texture/trop.r8
 ./Texture/trop_m.r8
 ./Texture/tundra.r8

@@ -1,50 +1,49 @@
 ./
-./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery
-./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery/_old
-./Addon Scenery/Israel
-./Addon Scenery/Israel/ISP Eilat Airport
-./Addon Scenery/Israel/ISP Eilat Airport/Scenery
-./Addon Scenery/Israel/ISP Eilat Airport/Texture
-./Addon Scenery/Israel/ISP Hatzerim AB
-./Addon Scenery/Israel/ISP Hatzerim AB/Scenery
-./Addon Scenery/static-library-objects/scenery
-./Addon Scenery/USA
-./Addon Scenery/USA/KPNS_Pensacola Regional Airport
-./Addon Scenery/USA/KPNS_Pensacola Regional Airport/Scenery
-./Addon Scenery/USA/KPNS_Pensacola Regional Airport/Texture
-./Addon Scenery/USA/KTPA_Tampa
-./Addon Scenery/USA/KTPA_Tampa/Scenery
-./Addon Scenery/USA/KTPA_Tampa/Texture
-./Addon Scenery/USA/USA_MiscAirports
-./Addon Scenery/USA/USA_MiscAirports/scenery
-./airlines.cfg
+./Addon Scenery/Caribbean/Antilles
+./bonxunin.bmp
+./bonxunin.dat
+./bonxunin.ini
+./bonxunin.lng
 ./Effects
 ./Effects/texture
-./ISP
-./ISP/Eilat Airport
-./ISP/Eilat Airport/IRIMG1.JPG
-./ISP/Eilat Airport/IRIMG2.JPG
-./ISP/Eilat Airport/IRIMG3.JPG
-./ISP/Eilat Airport/uninstall.dat
-./ISP/Eilat Airport/uninstall.exe
-./ISP/Eilat Airport/uninstall.xml
+./IRIMG1.JPG
+./IRIMG2.JPG
+./IRIMG3.JPG
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
+./mbpvxxunin.bmp
+./mbpvxxunin.dat
+./mbpvxxunin.ini
+./mbpvxxunin.lng
+./mdstxfsxunin.dat
+./mdstxfsxunin.xml
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./Scenery/UtTacAirports/Scenery
-./Scenery/World/Scenery
+./Scenery/Global/scenery
+./Scenery/Global/Texture
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/IRIS F-15E Mudhen Driver/Panel/panel.cfg
-./SimObjects/Airplanes/PMDG EXPRESS B1900D
-./SimObjects/Airplanes/PMDG EXPRESS B1900D/Aircraft.cfg
-./SimObjects/Airplanes/PMDG EXPRESS B1900D/texture.GFT_N218YV
+./SimObjects/Airplanes/Saab340_PAD/aircraft.cfg
+./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/Aircraft.cfg
 ./Texture
+./tncbx9unin.bmp
+./tncbx9unin.dat
+./tncbx9unin.ini
+./tncbx9unin.lng
+./TropicalSim
+./TropicalSim/MBPVx
+./TropicalSim/MBPVx/scenery
+./TropicalSim/MBPVx/texture
+./TropicalSim/MDSTx
+./TropicalSim/MDSTx/Scenery
+./TropicalSim/MDSTx/Texture
+./TropicalSim/TNCBx
+./TropicalSim/TNCBx/scenery
+./TropicalSim/TNCBx/texture
 ./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-02-09.tar.gz
+./_FSXGIT/bkups/backup-2013-02-18.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/ls-addonscenery.txt

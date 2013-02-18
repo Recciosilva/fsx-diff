@@ -895,6 +895,8 @@
 ./SimObjects/Airplanes/Carenado C185F/model.2/model.cfg
 ./SimObjects/Airplanes/Carenado C185F/model.3/model.cfg
 ./SimObjects/Airplanes/Carenado C185F/panel/panel.cfg
+./SimObjects/Airplanes/Carenado C185F/panel.A/panel.cfg
+./SimObjects/Airplanes/Carenado C185F/Panel.T/panel.cfg
 ./SimObjects/Airplanes/Carenado C185F/sound/sound.cfg
 ./SimObjects/Airplanes/Carenado C185F/texture.ZK-BSP/texture.cfg
 ./SimObjects/Airplanes/Carenado C185F Amphibian/aircraft.cfg
@@ -3047,6 +3049,7 @@
 ./SimObjects/Airplanes/LVLD_B763_Winglet/Texture.ANA_JA619A/texture.cfg
 ./SimObjects/Airplanes/LVLD_B763_Winglet/Texture.BA_BNWM/texture.cfg
 ./SimObjects/Airplanes/LVLD_B763_Winglet/Texture.Condor/texture.cfg
+./SimObjects/Airplanes/LVLD_B763_Winglet/Texture.FWL_N422LA/texture.cfg
 ./SimObjects/Airplanes/LVLD_B763_Winglet/texture.mcp_DHL/texture.cfg
 ./SimObjects/Airplanes/LVLD_B763_Winglet/Texture.NZ-GE-W/texture.cfg
 ./SimObjects/Airplanes/LVLD_B763_Winglet/Texture.Xhouse/texture.cfg
@@ -4940,6 +4943,8 @@
 ./SimObjects/Misc/AI RNZAF Lockheed C-130E/model/Model.cfg
 ./SimObjects/Misc/AI RNZAF P-3 Orion/aircraft.cfg
 ./SimObjects/Misc/AI RNZAF P-3 Orion/model/model.cfg
+./SimObjects/Misc/AI Shorts SD3-30/Aircraft.cfg
+./SimObjects/Misc/AI Shorts SD3-30/model/Model.cfg
 ./SimObjects/Misc/AI Shorts SD3-60/Aircraft.cfg
 ./SimObjects/Misc/AI Shorts SD3-60/model/Model.cfg
 ./SimObjects/Misc/AI UKMIL Astor_EGXW/Aircraft.cfg
@@ -7524,12 +7529,27 @@
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15C  Nellis AFB/model.combat2/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15C  Nellis AFB/model.drill/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15C  Nellis AFB/model.maint/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/model.centre_tank/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/model.combat1/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/model.combat2/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/model.drill/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/model.maint/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15C Tyndall AFB/model.transit_tanks/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15D  Nellis AFB/Aircraft.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15D  Nellis AFB/model.centre_tank/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15D  Nellis AFB/model.clean/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15D  Nellis AFB/model.combat1/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15D  Nellis AFB/model.drill/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15D  Nellis AFB/model.solo/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15D Tyndall AFB/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15D Tyndall AFB/model.centre_tank/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15D Tyndall AFB/model.combat1/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15D Tyndall AFB/model.drill/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15D Tyndall AFB/model.maint/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15D Tyndall AFB/model.solo/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F15D Tyndall AFB/model.transit_tanks/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15E Nellis AFB/Aircraft.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15E Nellis AFB/model.drill/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15E Nellis AFB/model.loadout1/Model.cfg
@@ -7542,6 +7562,16 @@
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15E Nellis AFB/model.maint/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F22 Nellis AFB/Aircraft.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F22 Nellis AFB/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F22 Tyndall AFB/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F22 Tyndall AFB/model.2tanks/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F22 Tyndall AFB/model.armed/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Boeing F22 Tyndall AFB/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/model.QF4E_NULLO/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/model.QF4E_NULLO_Tanks/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/model.QF4E_single_seat/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/model.QF4E_single_seat_tanks/Model.cfg
+./SimObjects/Misc/MAIW_PAI_DH8A Tyndall AFB/aircraft.cfg
 ./SimObjects/Misc/MAIW_RWAI_A-10C Nellis AFB/aircraft.cfg
 ./SimObjects/Misc/MAIW_RWAI_A-10C Nellis AFB/model.training/model.cfg
 ./SimObjects/Misc/MAIW_RWAI_A-10C Nellis AFB/model.war/model.cfg
@@ -7553,6 +7583,9 @@
 ./SimObjects/Misc/Mitsubishi_PAJERO/panel/panel.cfg
 ./SimObjects/Misc/Mitsubishi_PAJERO/sound/sound.cfg
 ./SimObjects/Misc/Mitsubishi_PAJERO/sound/ƒRƒs[ ` sound.cfg
+./SimObjects/Misc/MS_Merlin3/Aircraft.cfg
+./SimObjects/Misc/MS_Merlin3/model/model.cfg
+./SimObjects/Misc/MS_Merlin3/panel/panel.cfg
 ./SimObjects/Misc/NBAI A-4G Skyhawk/Aircraft.cfg
 ./SimObjects/Misc/NBAI A-4G Skyhawk/model.clean/Model.cfg
 ./SimObjects/Misc/NBAI A-4K_Kiwi_2sqn/Aircraft.cfg
