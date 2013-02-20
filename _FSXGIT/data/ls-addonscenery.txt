@@ -280,6 +280,9 @@
 ./Addon Scenery/Europe/Germany/EDDT_BerlinTegal/scenery
 ./Addon Scenery/Europe/Germany/EDDT_BerlinTegal/texture
 ./Addon Scenery/Europe/Italy
+./Addon Scenery/Europe/Italy/LIBR X 2012 Brindisi
+./Addon Scenery/Europe/Italy/LIBR X 2012 Brindisi/Scenery
+./Addon Scenery/Europe/Italy/LIBR X 2012 Brindisi/Texture
 ./Addon Scenery/Europe/Italy/Palermo Punta Raisi LICJ 2011 V2
 ./Addon Scenery/Europe/Italy/Palermo Punta Raisi LICJ 2011 V2/scenery
 ./Addon Scenery/Europe/Italy/Palermo Punta Raisi LICJ 2011 V2/texture
@@ -662,6 +665,17 @@
 ./Addon Scenery/Pacific/Cook_Islands_Southern/backup
 ./Addon Scenery/Pacific/Cook_Islands_Southern/scenery
 ./Addon Scenery/Pacific/Cook_Islands_Southern/texture
+./Addon Scenery/Pacific/Guam X v2
+./Addon Scenery/Pacific/Guam X v2/Airport diagram
+./Addon Scenery/Pacific/Guam X v2/Effects
+./Addon Scenery/Pacific/Guam X v2/Effects/Texture
+./Addon Scenery/Pacific/Guam X v2/Guam Airport
+./Addon Scenery/Pacific/Guam X v2/Guam Airport/Scenery
+./Addon Scenery/Pacific/Guam X v2/Guam Airport/Texture
+./Addon Scenery/Pacific/Guam X v2/guam landscape
+./Addon Scenery/Pacific/Guam X v2/guam landscape/Scenery
+./Addon Scenery/Pacific/Guam X v2/guam landscape/Texture
+./Addon Scenery/Pacific/Guam X v2/screenshots
 ./Addon Scenery/Pacific/NCRG_Rarotonga-4X
 ./Addon Scenery/Pacific/NCRG_Rarotonga-4X/Scenery
 ./Addon Scenery/Pacific/NCRG_Rarotonga-4X/Texture

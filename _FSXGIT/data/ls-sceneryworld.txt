@@ -114,6 +114,7 @@
 ./scenery/World/Scenery/KMCO_ADE_OBJ.BGL
 ./scenery/World/Scenery/Kone NWWD_ARP.bgl
 ./scenery/World/Scenery/lak.bgl
+./scenery/World/Scenery/LIBR_elev_correction.BGL
 ./scenery/World/Scenery/LL1A_ADE_ISP_ALT.BGL
 ./scenery/World/Scenery/LL62_ADE_ISP_ALT.BGL
 ./scenery/World/Scenery/NZDA_ADEX_VLC_ALT.BGL
@@ -610,6 +611,7 @@
 ./scenery/World/Scenery/Traffic_Su11_Air_Hong_Kong_FSX.bgl
 ./scenery/World/Scenery/Traffic_Summer07_BMED_FSX.bgl
 ./scenery/World/Scenery/Traffic_Sunwing_Wi10.bgl
+./scenery/World/Scenery/Traffic_SVGAir.bgl
 ./scenery/World/Scenery/Traffic_Tampa Cargo.bgl
 ./scenery/World/Scenery/Traffic_Tristar Air Cargo_FSX.bgl
 ./scenery/World/Scenery/Traffic_United Nations Flightplans_FSX.bgl

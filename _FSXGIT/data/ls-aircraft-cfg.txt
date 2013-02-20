@@ -2,6 +2,7 @@
 ./SimObjects/Airplanes/50N Boeing 737-400/aircraft.cfg
 ./SimObjects/Airplanes/50N Boeing 737-500/aircraft.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/aircraft.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/aircraft.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-500/aircraft.cfg
 ./SimObjects/Airplanes/A-29B-SuperTucano/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/aircraft.cfg
@@ -125,6 +126,7 @@
 ./SimObjects/Airplanes/Diamond DA20-100 'Katana'/aircraft.cfg
 ./SimObjects/Airplanes/Douglas_C-47/aircraft.cfg
 ./SimObjects/Airplanes/Douglas_DC3/aircraft.cfg
+./SimObjects/Airplanes/Dr1/aircraft.cfg
 ./SimObjects/Airplanes/ELEC_CARGO/aircraft.cfg
 ./SimObjects/Airplanes/ELEC_PASS/aircraft.cfg
 ./SimObjects/Airplanes/EMB110-Banderainte/aircraft.cfg
@@ -211,6 +213,7 @@
 ./SimObjects/Airplanes/Project Airbus A321-211/aircraft.cfg
 ./SimObjects/Airplanes/Project Airbus A321-231/aircraft.cfg
 ./SimObjects/Airplanes/Project Airbus A380-800/aircraft.cfg
+./SimObjects/Airplanes/Projet Noratlas/aircraft.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/aircraft.cfg
 ./SimObjects/Airplanes/Riva Aquarama/aircraft.cfg
 ./SimObjects/Airplanes/RNZAF CT4Ev2/aircraft.cfg
@@ -223,6 +226,7 @@
 ./SimObjects/Airplanes/Saab340_PAD/aircraft.cfg
 ./SimObjects/Airplanes/SE5/aircraft.cfg
 ./SimObjects/Airplanes/SimCheck A300B4-200/aircraft.cfg
+./SimObjects/Airplanes/Sopwith_Camel/aircraft.cfg
 ./SimObjects/Airplanes/T-38A_MilViz/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-200F/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/aircraft.cfg

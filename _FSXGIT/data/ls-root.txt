@@ -73,6 +73,8 @@
 ./cv990data.ins
 ./dc8data.ins
 ./demo.dll
+./Desinstaller Upgrade1 ProjetNoratlas.exe
+./Desinstaller_ProjetNoratlas.exe
 ./Dialogs
 ./display.cfg
 ./dlxkey.txt

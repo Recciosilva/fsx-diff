@@ -1,4 +1,7 @@
 ./Effects/
+./Effects/00-JFM_Feux_de_Plans.fx
+./Effects/00-JFM_Feux_Formation.fx
+./Effects/00-JFM_Feux_Taxi.fx
 ./Effects/20can.wav
 ./Effects/38SND.fx
 ./Effects/39SND.fx
@@ -43,6 +46,10 @@
 ./Effects/Ants_P2002_Strobe2.fx
 ./Effects/ants_P2002_tchdrt.fx
 ./Effects/Ants_P2002_vclight2.fx
+./Effects/apron ground - kopie.fx
+./Effects/apron ground general guam.fx
+./Effects/apron ground guam.fx
+./Effects/apron ground.fx
 ./Effects/Apron_Flood_11.fx
 ./Effects/Avalon_fx_Apron_light.fx
 ./Effects/Avalon_fx_Apron_lightY.fx
@@ -346,6 +353,7 @@
 ./Effects/fx_beaconpa34.fx
 ./Effects/fx_beaconsm_F1ATR.fx
 ./Effects/fx_beaconwhi.fx
+./Effects/fx_beacony pgum.fx
 ./Effects/fx_beacony.fx
 ./Effects/fx_beacon_500.fx
 ./Effects/fx_beacon_AS.fx
@@ -418,6 +426,8 @@
 ./Effects/fx_crow.fx
 ./Effects/Fx_D7cbn2.FX
 ./Effects/Fx_D7cbn3.FX
+./Effects/fx_DC3_MaxStartup.fx
+./Effects/fx_DC3_MinStartup.fx
 ./Effects/fx_DDfire.fx
 ./Effects/fx_deicing.fx
 ./Effects/fx_deptchargeexplosion.fx
@@ -771,6 +781,8 @@
 ./Effects/fx_iris_vortices.fx
 ./Effects/fx_jfgunDC1.fx
 ./Effects/fx_jfgunDCs.fx
+./Effects/fx_JFM_Para_D.fx
+./Effects/fx_JFM_Para_G.fx
 ./Effects/fx_JF_1049_HP_Exhaust.fx
 ./Effects/fx_JF_1049_LP_Exhaust.fx
 ./Effects/fx_JF_C-47_EngStart.fx
@@ -783,6 +795,7 @@
 ./Effects/FX_JF_L749_HP_Flame.fx
 ./Effects/fx_JF_Lancstart.fx
 ./Effects/fx_JF_smoikeprop.fx
+./Effects/fx_jimapron.fx
 ./Effects/fx_JY_apronlight.fx
 ./Effects/fx_JY_HasLight1.fx
 ./Effects/fx_JY_securitylight.fx
@@ -823,6 +836,8 @@
 ./Effects/fx_lightObsWhiteFlash40Med.fx
 ./Effects/fx_lightObsWhiteFlash60Hi.fx
 ./Effects/fx_lightObsWhiteFlash60Med.fx
+./Effects/fx_lightpole guam.fx
+./Effects/fx_light_gt.fx
 ./Effects/fx_lletw_1.fx
 ./Effects/fx_lletw_2.fx
 ./Effects/fx_llet_1.fx
@@ -880,6 +895,7 @@
 ./Effects/fx_navwhi_F1ATR.fx
 ./Effects/fx_navwhi_FSD.fx
 ./Effects/fx_navwhi_sirgtx2.fx
+./Effects/fx_navyel.fx
 ./Effects/fx_nbai_F15_ab.fx
 ./Effects/fx_nbai_F15_ab_extended.fx
 ./Effects/fx_Ngafalls_lrg.fx
@@ -888,6 +904,8 @@
 ./Effects/fx_Ngastatic_sml.fx
 ./Effects/fx_nicksmokeAI_sm_lear.fx
 ./Effects/fx_nicks_tchdwn_s.fx
+./Effects/fx_Nord_Beacon_01.fx
+./Effects/fx_Nord_Beacon_02.fx
 ./Effects/fx_nosewhi_DG.fx
 ./Effects/fx_nurlightw.fx
 ./Effects/fx_object_test.fx
@@ -1247,6 +1265,7 @@
 ./Effects/fx_WheelSnowSpray.fx
 ./Effects/fx_WheelWetSpray.fx
 ./Effects/fx_WhiteDot.fx
+./Effects/fx_wigwag LIGHT.fx
 ./Effects/fx_WingtipVortex.fx
 ./Effects/fx_wingtipvortice_l.fx
 ./Effects/fx_wingtipvortice_r.fx
@@ -1936,6 +1955,7 @@
 ./Effects/texture/fx_F1ATR.bmp
 ./Effects/texture/fx_F1ATR_nav.bmp
 ./Effects/texture/fx_falls.bmp
+./Effects/texture/fx_feux_atterrissage.bmp
 ./Effects/texture/fx_fire.bmp
 ./Effects/texture/fx_fireAdd.bmp
 ./Effects/texture/fx_Firesheet01.bmp
@@ -1953,10 +1973,13 @@
 ./Effects/texture/fx_iris_light.bmp
 ./Effects/texture/fx_iris_rays.bmp
 ./Effects/texture/fx_iris_vortex.bmp
+./Effects/texture/fx_JFM_Para_1.bmp
+./Effects/texture/fx_JFM_Para_2.bmp
 ./Effects/texture/fx_JY_apronlight.bmp
 ./Effects/texture/fx_JY_HASlight.bmp
 ./Effects/texture/fx_JY_securitylight.bmp
 ./Effects/texture/fx_lightning1.bmp
+./Effects/texture/fx_light_gt.bmp
 ./Effects/texture/fx_MF_marine_light.bmp
 ./Effects/texture/fx_mul_1.bmp
 ./Effects/texture/fx_NURI.bmp
@@ -2012,11 +2035,17 @@
 ./Effects/texture/fx_wt5.bmp
 ./Effects/texture/fx_YMML2_orbx.bmp
 ./Effects/texture/fx_YMML_orbx.bmp
+./Effects/texture/glow lightpole.bmp
+./Effects/texture/glow.bmp
 ./Effects/texture/GroundCrew.bmp
 ./Effects/texture/gunpack.bmp
 ./Effects/texture/halo.bmp
+./Effects/texture/halomap.bmp
 ./Effects/texture/iris_fx_2.bmp
+./Effects/texture/lamp.bmp
 ./Effects/texture/lampadairejlv.bmp
+./Effects/texture/light shining general apron.bmp
+./Effects/texture/light shining.bmp
 ./Effects/texture/llet_grndlight.bmp
 ./Effects/texture/lmml.bmp
 ./Effects/texture/lmml.zip
@@ -2053,6 +2082,7 @@
 ./Effects/texture/rocket.bmp
 ./Effects/texture/rospot.bmp
 ./Effects/texture/sparks.bmp
+./Effects/texture/spotlight.bmp
 ./Effects/texture/sr_burn.bmp
 ./Effects/texture/sr_flame.bmp
 ./Effects/texture/su_tracer.bmp

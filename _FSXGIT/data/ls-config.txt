@@ -203,6 +203,11 @@
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/model.UAVC/model.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/model.VC/model.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/sound/Sound.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/aircraft.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/model/model.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/model.VC/model.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/panel/panel.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/sound/Sound.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-500/aircraft.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-500/model/model.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-500/sound/Sound.cfg
@@ -1607,6 +1612,13 @@
 ./SimObjects/Airplanes/Douglas_DC3/texture.PIWAKAWAKA/texture.cfg
 ./SimObjects/Airplanes/Douglas_DC3/texture.SPANZ/texture.cfg
 ./SimObjects/Airplanes/Douglas_DC3/texture.ZK-DAK/texture.cfg
+./SimObjects/Airplanes/Dr1/aircraft.cfg
+./SimObjects/Airplanes/Dr1/model/model.cfg
+./SimObjects/Airplanes/Dr1/sound/sound.cfg
+./SimObjects/Airplanes/Dr1/soundai/soundai.cfg
+./SimObjects/Airplanes/Dr1/texture/texture.cfg
+./SimObjects/Airplanes/Dr1/texture.1/texture.cfg
+./SimObjects/Airplanes/Dr1/texture.2/texture.cfg
 ./SimObjects/Airplanes/Dreamwings Dash 8 Q100/Aircraft.cfg
 ./SimObjects/Airplanes/Dreamwings Dash 8 Q100/model/Model.cfg
 ./SimObjects/Airplanes/Dreamwings Dash 8 Q100/model.CAF/Model.cfg
@@ -2021,6 +2033,26 @@
 ./SimObjects/Airplanes/Flight One ATR 72-500/panel.w/panel.cfg
 ./SimObjects/Airplanes/Flight One ATR 72-500/sound/Sound.cfg
 ./SimObjects/Airplanes/Flight One ATR 72-500/update.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/Aircraft.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/model.PN/model.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/model.SN/model.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/panel/panel.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/sound/sound.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.AirHamburg/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.BA/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.Barrier/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.BAtartan/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.FLN/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.FXE/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.GBXpress/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.GBXpressKotare/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.LFH/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.Milford/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.Natureair/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.OLT/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.Shetland/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.svgair/texture.cfg
+./SimObjects/Airplanes/Flight One BN-2 Islander/texture.Winair/texture.cfg
 ./SimObjects/Airplanes/FlightSim Developers P38J/aircraft.cfg
 ./SimObjects/Airplanes/FlightSim Developers P38J/Data/Loadout.cfg
 ./SimObjects/Airplanes/FlightSim Developers P38J/model.p38m/model.cfg
@@ -2058,25 +2090,6 @@
 ./SimObjects/Airplanes/FlightSim Developers P38L/texture.pudgy/texture.cfg
 ./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/aircraft.cfg
 ./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Data/Loadout.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/Aircraft.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/model.PN/model.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/model.SN/model.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/panel/panel.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/sound/sound.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.AirHamburg/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.BA/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.Barrier/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.BAtartan/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.FLN/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.FXE/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.GBXpress/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.GBXpressKotare/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.LFH/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.Milford/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.Natureair/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.OLT/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.Shetland/texture.cfg
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/Flight One BN-2 Islander/texture.Winair/texture.cfg
 ./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/model.f23/model.cfg
 ./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/model.f23_b/model.cfg
 ./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/panel/panel.cfg
@@ -3450,6 +3463,15 @@
 ./SimObjects/Airplanes/Project C-152 Aerobat/panel/Panel.cfg
 ./SimObjects/Airplanes/Project C-152 Aerobat/panel - orig/Panel.cfg
 ./SimObjects/Airplanes/Project C-152 Aerobat/sound/sound.cfg
+./SimObjects/Airplanes/Projet Noratlas/aircraft.cfg
+./SimObjects/Airplanes/Projet Noratlas/model/model.cfg
+./SimObjects/Airplanes/Projet Noratlas/model.105/model.cfg
+./SimObjects/Airplanes/Projet Noratlas/model.18/model.cfg
+./SimObjects/Airplanes/Projet Noratlas/panel/Panel.cfg
+./SimObjects/Airplanes/Projet Noratlas/Sound/sound.cfg
+./SimObjects/Airplanes/Projet Noratlas/Texture.105/texture.cfg
+./SimObjects/Airplanes/Projet Noratlas/Texture.18/texture.cfg
+./SimObjects/Airplanes/Projet Noratlas/Texture.27/texture.cfg
 ./SimObjects/Airplanes/PSPanels_737_Classic_Panel/Panel/Panel.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/Aircraft.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/intelliscene.cfg
@@ -3751,6 +3773,27 @@
 ./SimObjects/Airplanes/SopwithTriple/model/Model.cfg
 ./SimObjects/Airplanes/SopwithTriple/panel/panel.cfg
 ./SimObjects/Airplanes/SopwithTriple/sound/Sound.cfg
+./SimObjects/Airplanes/Sopwith_Camel/aircraft.cfg
+./SimObjects/Airplanes/Sopwith_Camel/model/model.cfg
+./SimObjects/Airplanes/Sopwith_Camel/panel/panel.cfg
+./SimObjects/Airplanes/Sopwith_Camel/sound/sound.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.112Squadron/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.11Escadrille/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.A5658/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B2458/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B3834/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B3858/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B5423/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B6299/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B6401/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B7234/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B7270/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.B7380/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.F1923/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.F5234/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.German/texture.cfg
+./SimObjects/Airplanes/Sopwith_Camel/texture.N6377/texture.cfg
 ./SimObjects/Airplanes/SpecOps/Aircraft.cfg
 ./SimObjects/Airplanes/SpecOps/Model/Model.cfg
 ./SimObjects/Airplanes/SpecOps/panel/panel.cfg
