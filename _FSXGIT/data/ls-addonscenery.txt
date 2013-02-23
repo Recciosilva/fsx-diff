@@ -1,5 +1,7 @@
 ./Addon Scenery/
 ./Addon Scenery/Africa
+./Addon Scenery/Africa/KenyaAddonScenery
+./Addon Scenery/Africa/KenyaAddonScenery/scenery
 ./Addon Scenery/Africa/Scenery
 ./Addon Scenery/Africa/Scenery/AeroworxLC
 ./Addon Scenery/Africa/Scenery/AeroworxLC/Scenery
@@ -34,6 +36,23 @@
 ./Addon Scenery/Asia/India/VABB Mumbai/texture
 ./Addon Scenery/Asia/India/VAPO Pune
 ./Addon Scenery/Asia/India/VAPO Pune/scenery
+./Addon Scenery/Asia/Japan
+./Addon Scenery/Asia/Japan/Japan Airports misc
+./Addon Scenery/Asia/Japan/Japan Airports misc/scenery
+./Addon Scenery/Asia/Japan/Japan_landclass
+./Addon Scenery/Asia/Japan/Japan_landclass/scenery
+./Addon Scenery/Asia/Japan/Osaka_PK
+./Addon Scenery/Asia/Japan/Osaka_PK/scenery
+./Addon Scenery/Asia/Japan/Osaka_PK/texture
+./Addon Scenery/Asia/Japan/Osaka_X
+./Addon Scenery/Asia/Japan/Osaka_X/scenery
+./Addon Scenery/Asia/Japan/Osaka_X/texture
+./Addon Scenery/Asia/Japan/Tokyo_PK
+./Addon Scenery/Asia/Japan/Tokyo_PK/scenery
+./Addon Scenery/Asia/Japan/Tokyo_PK/texture
+./Addon Scenery/Asia/Japan/Tokyo_X
+./Addon Scenery/Asia/Japan/Tokyo_X/scenery
+./Addon Scenery/Asia/Japan/Tokyo_X/texture
 ./Addon Scenery/Asia/Korea
 ./Addon Scenery/Asia/Korea/Cheongju
 ./Addon Scenery/Asia/Korea/Cheongju/scenery

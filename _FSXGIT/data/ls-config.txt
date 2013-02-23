@@ -1488,6 +1488,7 @@
 ./SimObjects/Airplanes/de Havilland Canada DHC-7/Texture.273ma_a_dh7_C-FJHQ_x/texture.cfg
 ./SimObjects/Airplanes/de Havilland Canada DHC-7/Texture.276ma_a_dh7_C-GNBX_x/texture.cfg
 ./SimObjects/Airplanes/de Havilland Canada DHC-7/Texture.278ma_a_dh7_OY-CTC_x/texture.cfg
+./SimObjects/Airplanes/de Havilland Canada DHC-7/Texture.279ma_a_dh7_5Y-BMP_x/texture.cfg
 ./SimObjects/Airplanes/de Havilland Canada DHC-7/Texture.279ma_a_dh7_C-CLOL_x/texture.cfg
 ./SimObjects/Airplanes/de Havilland Canada DHC-7/texture.newmans/texture.cfg
 ./SimObjects/Airplanes/De Havilland DH-83 Fox Moth/aircraft.cfg

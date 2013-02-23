@@ -1,26 +1,27 @@
 ./
-./Addon Scenery
-./Addon Scenery/Europe/Italy
-./Addon Scenery/Europe/Italy/LIBR X 2012 Brindisi
-./Addon Scenery/Europe/Italy/LIBR X 2012 Brindisi/Scenery
-./Addon Scenery/Europe/Italy/LIBR X 2012 Brindisi/Texture
-./Addon Scenery/Pacific
-./Addon Scenery/Pacific/Guam X v2
-./Addon Scenery/Pacific/Guam X v2/Airport diagram
-./Addon Scenery/Pacific/Guam X v2/Effects
-./Addon Scenery/Pacific/Guam X v2/Effects/Texture
-./Addon Scenery/Pacific/Guam X v2/Guam Airport
-./Addon Scenery/Pacific/Guam X v2/Guam Airport/Scenery
-./Addon Scenery/Pacific/Guam X v2/Guam Airport/Texture
-./Addon Scenery/Pacific/Guam X v2/guam landscape
-./Addon Scenery/Pacific/Guam X v2/guam landscape/Scenery
-./Addon Scenery/Pacific/Guam X v2/guam landscape/Texture
-./Addon Scenery/Pacific/Guam X v2/screenshots
-./Addon Scenery/Pacific/Guam X v2/Uninstal.exe
-./Desinstaller Upgrade1 ProjetNoratlas.exe
-./Desinstaller_ProjetNoratlas.exe
-./Effects
-./Effects/texture
+./Addon Scenery/Asia
+./Addon Scenery/Asia/Japan
+./Addon Scenery/Asia/Japan/Japan Airports misc
+./Addon Scenery/Asia/Japan/Japan Airports misc/scenery
+./Addon Scenery/Asia/Japan/Japan_landclass
+./Addon Scenery/Asia/Japan/Japan_landclass/scenery
+./Addon Scenery/Asia/Japan/Osaka_PK
+./Addon Scenery/Asia/Japan/Osaka_PK/scenery
+./Addon Scenery/Asia/Japan/Osaka_PK/texture
+./Addon Scenery/Asia/Japan/Osaka_X
+./Addon Scenery/Asia/Japan/Osaka_X/scenery
+./Addon Scenery/Asia/Japan/Osaka_X/texture
+./Addon Scenery/Asia/Japan/Tokyo_PK
+./Addon Scenery/Asia/Japan/Tokyo_PK/scenery
+./Addon Scenery/Asia/Japan/Tokyo_PK/texture
+./Addon Scenery/Asia/Japan/Tokyo_X
+./Addon Scenery/Asia/Japan/Tokyo_X/scenery
+./Addon Scenery/Asia/Japan/Tokyo_X/texture
+./Addon Scenery/scenery
+./Captain_Sim/navigation
+./Captain_Sim/navigation/routes
+./Captain_Sim/navigation/routes/RJAARJBB.rt
+./Flight One Software/Flight One ATR 72-500/ATR.cfg
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -28,97 +29,14 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./Scenery/World/Scenery
-./Scenery/World/Scenery/Traffic_SVGAir.bgl
-./SimObjects/Airplanes
-./SimObjects/Airplanes/50N Boeing 737-400/aircraft.cfg
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/50N_Docs
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/aircraft.50N
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/aircraft.cfg
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/aircraft.Wilco
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/model
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/model.VC
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/panel
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/sound
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/texture.ram
+./Scenery/Global/scenery
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/Dr1
-./SimObjects/Airplanes/Dr1/model
-./SimObjects/Airplanes/Dr1/Panel
-./SimObjects/Airplanes/Dr1/sound
-./SimObjects/Airplanes/Dr1/soundai
-./SimObjects/Airplanes/Dr1/texture
-./SimObjects/Airplanes/Dr1/texture.1
-./SimObjects/Airplanes/Dr1/texture.2
-./SimObjects/Airplanes/Flight One BN-2 Islander
-./SimObjects/Airplanes/Flight One BN-2 Islander/Aircraft.cfg
-./SimObjects/Airplanes/Flight One BN-2 Islander/texture.svgair
-./SimObjects/Airplanes/FlightSim Developers-Milviz YF23
-./SimObjects/Airplanes/Projet Noratlas
-./SimObjects/Airplanes/Projet Noratlas/Documentation
-./SimObjects/Airplanes/Projet Noratlas/model
-./SimObjects/Airplanes/Projet Noratlas/model.105
-./SimObjects/Airplanes/Projet Noratlas/model.18
-./SimObjects/Airplanes/Projet Noratlas/Nord_checklist_fichiers
-./SimObjects/Airplanes/Projet Noratlas/Nord_references_fichiers
-./SimObjects/Airplanes/Projet Noratlas/panel
-./SimObjects/Airplanes/Projet Noratlas/panel/panel_sound
-./SimObjects/Airplanes/Projet Noratlas/Sound
-./SimObjects/Airplanes/Projet Noratlas/Texture
-./SimObjects/Airplanes/Projet Noratlas/Texture.105
-./SimObjects/Airplanes/Projet Noratlas/Texture.18
-./SimObjects/Airplanes/Projet Noratlas/Texture.27
-./SimObjects/Airplanes/Sopwith_Camel
-./SimObjects/Airplanes/Sopwith_Camel/Main FS Folder
-./SimObjects/Airplanes/Sopwith_Camel/Main FS Folder/effects
-./SimObjects/Airplanes/Sopwith_Camel/Main FS Folder/sound
-./SimObjects/Airplanes/Sopwith_Camel/model
-./SimObjects/Airplanes/Sopwith_Camel/panel
-./SimObjects/Airplanes/Sopwith_Camel/panel/EGDIR
-./SimObjects/Airplanes/Sopwith_Camel/panel/EGDIR/fs9gps
-./SimObjects/Airplanes/Sopwith_Camel/panel/EGDIR/SimIcons
-./SimObjects/Airplanes/Sopwith_Camel/panel/EGDIR/SimIcons/1024
-./SimObjects/Airplanes/Sopwith_Camel/panel/EGDIR/SimIcons/640
-./SimObjects/Airplanes/Sopwith_Camel/panel/sopwithfx
-./SimObjects/Airplanes/Sopwith_Camel/sound
-./SimObjects/Airplanes/Sopwith_Camel/texture
-./SimObjects/Airplanes/Sopwith_Camel/texture.112Squadron
-./SimObjects/Airplanes/Sopwith_Camel/texture.11Escadrille
-./SimObjects/Airplanes/Sopwith_Camel/texture.A5658
-./SimObjects/Airplanes/Sopwith_Camel/texture.B2458
-./SimObjects/Airplanes/Sopwith_Camel/texture.B3834
-./SimObjects/Airplanes/Sopwith_Camel/texture.B3858
-./SimObjects/Airplanes/Sopwith_Camel/texture.B5423
-./SimObjects/Airplanes/Sopwith_Camel/texture.B6299
-./SimObjects/Airplanes/Sopwith_Camel/texture.B6401
-./SimObjects/Airplanes/Sopwith_Camel/texture.B7234
-./SimObjects/Airplanes/Sopwith_Camel/texture.B7270
-./SimObjects/Airplanes/Sopwith_Camel/texture.B7380
-./SimObjects/Airplanes/Sopwith_Camel/texture.F1923
-./SimObjects/Airplanes/Sopwith_Camel/texture.F5234
-./SimObjects/Airplanes/Sopwith_Camel/texture.German
-./SimObjects/Airplanes/Sopwith_Camel/texture.N6377
-./SimObjects/Airplanes/Sopwith_Camel/texture.shared
-./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/Aircraft.cfg
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/Aircraft.cfg
-./SimObjects/Misc/WoA_HTAI_Britten Norman BN2/texture.SVGAir
-./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-02-20.tar.gz
+./SimObjects/Airplanes/IRIS PC-9/panel.1/panel.cfg
+./SimObjects/Airplanes/IRIS PC-9/panel.combat/panel.cfg
+./SimObjects/Airplanes/IRIS PC-9A/panel.1/panel.cfg
+./SimObjects/Airplanes/IRIS PC-9A/panel.combat/panel.cfg
+./TCAS2v7.ini
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
-./_FSXGIT/data/ls-addonscenery.txt
-./_FSXGIT/data/ls-aircraft-cfg.txt
-./_FSXGIT/data/ls-config.txt
-./_FSXGIT/data/ls-effects.txt
-./_FSXGIT/data/ls-gauges.txt
-./_FSXGIT/data/ls-misc-cfg.txt
-./_FSXGIT/data/ls-modules.txt
-./_FSXGIT/data/ls-root.txt
-./_FSXGIT/data/ls-rotorcraft-cfg.txt
-./_FSXGIT/data/ls-sceneryworld.txt
-./_FSXGIT/data/ls-sound.txt
-./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG
