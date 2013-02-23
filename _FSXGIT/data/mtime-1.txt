@@ -22,6 +22,7 @@
 ./Captain_Sim/navigation/routes
 ./Captain_Sim/navigation/routes/RJAARJBB.rt
 ./Flight One Software/Flight One ATR 72-500/ATR.cfg
+./Gauges
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -30,13 +31,57 @@
 ./modules/WideServer.log
 ./modules/WideServer0.log
 ./Scenery/Global/scenery
+./SimObjects/Airplanes
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
 ./SimObjects/Airplanes/IRIS PC-9/panel.1/panel.cfg
 ./SimObjects/Airplanes/IRIS PC-9/panel.combat/panel.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/panel.1/panel.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/panel.combat/panel.cfg
+./SimObjects/Airplanes/Vcol_fokker50x
+./SimObjects/Airplanes/Vcol_fokker50x/Checklist
+./SimObjects/Airplanes/Vcol_fokker50x/Manual
+./SimObjects/Airplanes/Vcol_fokker50x/Manual/images
+./SimObjects/Airplanes/Vcol_fokker50x/Model
+./SimObjects/Airplanes/Vcol_fokker50x/Panel.vc
+./SimObjects/Airplanes/Vcol_fokker50x/Sound
+./SimObjects/Airplanes/Vcol_fokker50x/Texture
+./SimObjects/Airplanes/Vcol_fokker50x/texture.acondor
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.albanian
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.alliance
+./SimObjects/Airplanes/Vcol_fokker50x/texture.amapola
+./SimObjects/Airplanes/Vcol_fokker50x/texture.ariaair
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.ava
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.baltic
+./SimObjects/Airplanes/Vcol_fokker50x/texture.ctyjet
+./SimObjects/Airplanes/Vcol_fokker50x/texture.fireflyz
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.fokker
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.ice
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.kishair
+./SimObjects/Airplanes/Vcol_fokker50x/texture.klm
+./SimObjects/Airplanes/Vcol_fokker50x/texture.sas
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.skyways
+./SimObjects/Airplanes/Vcol_fokker50x/texture.skywest
+./SimObjects/Airplanes/Vcol_fokker50x/Texture.vlm
+./SimObjects/Airplanes/Vcol_fokker50x/texture.vlmblanco
+./SimObjects/Airplanes/Vcol_fokker50x/texture.white
+./Sound
+./Sound/Emb170
 ./TCAS2v7.ini
+./_FSXGIT/bkups
+./_FSXGIT/bkups/backup-2013-02-24.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
+./_FSXGIT/data/ls-addonscenery.txt
+./_FSXGIT/data/ls-aircraft-cfg.txt
+./_FSXGIT/data/ls-config.txt
+./_FSXGIT/data/ls-effects.txt
+./_FSXGIT/data/ls-gauges.txt
+./_FSXGIT/data/ls-misc-cfg.txt
+./_FSXGIT/data/ls-modules.txt
+./_FSXGIT/data/ls-root.txt
+./_FSXGIT/data/ls-rotorcraft-cfg.txt
+./_FSXGIT/data/ls-sceneryworld.txt
+./_FSXGIT/data/ls-sound.txt
+./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

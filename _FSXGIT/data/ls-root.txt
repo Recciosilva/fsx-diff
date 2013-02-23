@@ -148,6 +148,7 @@
 ./Level-D Simulations
 ./Licenses
 ./livingwater.dll
+./logof50x.ico
 ./ls-effects.txt
 ./lua5.1.dll
 ./LWcfg.spb
