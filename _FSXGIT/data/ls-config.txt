@@ -83,6 +83,7 @@
 ./ORBX/FTX_NZ/FTX_NZNI_05_SCENERY/scenery/ModuleInstaller.cfg
 ./ORBX/Scripts/FTXCentral/InstallBackup/terrain.cfg
 ./ORBX/Scripts/FTXCentral/Regions/terrain_AU.cfg
+./ORBX/Scripts/FTXCentral/Regions/terrain_NA.cfg
 ./ORBX/Scripts/FTXCentral/Work/FTXConfigurator.cfg
 ./ORBX/Scripts/FTXCentral/Work/terrain.cfg
 ./ORBX/Scripts/FTXConfigurator.cfg
@@ -96,6 +97,7 @@
 ./ORBX/Scripts/scenerylib_AU_YMML.cfg
 ./ORBX/Scripts/scenerylib_AU_YSCB.cfg
 ./ORBX/Scripts/scenerylib_FTXAA_ORBXLIBS.cfg
+./ORBX/Scripts/scenerylib_NA_PNW.cfg
 ./ORBX/Scripts/scenerylib_NZNI.cfg
 ./ORBX/Scripts/scenerylib_NZSI.cfg
 ./PacSim/Tonga Domestic/oldscenery.cfg
@@ -3663,6 +3665,10 @@
 ./SimObjects/Airplanes/Robin_3x_EW/aircraft.cfg
 ./SimObjects/Airplanes/Robin_3x_EW/Model/Model.cfg
 ./SimObjects/Airplanes/Robin_3x_EW/Panel.EW/Panel.cfg
+./SimObjects/Airplanes/rutan-wk/Aircraft.cfg
+./SimObjects/Airplanes/rutan-wk/model/Model.cfg
+./SimObjects/Airplanes/rutan-wk/panel/panel.cfg
+./SimObjects/Airplanes/rutan-wk/sound/Sound.cfg
 ./SimObjects/Airplanes/Ryan PT-22/Aircraft.cfg
 ./SimObjects/Airplanes/Ryan PT-22/model/Model.cfg
 ./SimObjects/Airplanes/Ryan PT-22/panel/panel.cfg

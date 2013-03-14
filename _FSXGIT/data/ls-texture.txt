@@ -276,6 +276,8 @@
 ./Texture/BLDY3.BMP
 ./Texture/BLDY3LM.BMP
 ./Texture/BLDZ2.dds
+./Texture/BLDZ2GZ.dds
+./Texture/BLDZ2GZLM.dds
 ./Texture/BLDZ2LM.dds
 ./Texture/BLDZ3.BMP
 ./Texture/BLDZ3LM.BMP

@@ -9,6 +9,7 @@
 ./Addon Scenery/Africa/Scenery/SASceneryFSX/Scenery
 ./Addon Scenery/AIRAC-updates
 ./Addon Scenery/AIRAC-updates/scenery
+./Addon Scenery/Alaska
 ./Addon Scenery/Alhambra
 ./Addon Scenery/Alhambra/scenery
 ./Addon Scenery/Alhambra/texture
@@ -907,6 +908,9 @@
 ./Addon Scenery/USA/KLGA-2004_LaGuardia/scenery
 ./Addon Scenery/USA/KLGA-2004_LaGuardia/scenery/_DEL
 ./Addon Scenery/USA/KLGA-2004_LaGuardia/texture
+./Addon Scenery/USA/KLGA_PHOTO_REAL
+./Addon Scenery/USA/KLGA_PHOTO_REAL/Scenery
+./Addon Scenery/USA/KLGA_PHOTO_REAL/Texture
 ./Addon Scenery/USA/KMCO Orlando
 ./Addon Scenery/USA/KMCO Orlando/scenery
 ./Addon Scenery/USA/KMSY_Daytime

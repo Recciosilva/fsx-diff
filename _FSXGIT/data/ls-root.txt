@@ -368,6 +368,7 @@
 ./VLCChathamIsland_uninst.exe
 ./VLCGalatea
 ./VLCGalatea_uninst.exe
+./VLCGodzoneHokitika
 ./VLCGodzoneKaikoura
 ./VLClibrariesuninst.exe
 ./VLCNthAirfields_uninst.exe
