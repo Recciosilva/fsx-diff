@@ -10,6 +10,20 @@
 ./Addon Scenery/AIRAC-updates
 ./Addon Scenery/AIRAC-updates/scenery
 ./Addon Scenery/Alaska
+./Addon Scenery/Alaska/Alaska Airfields Kodiak
+./Addon Scenery/Alaska/Alaska Airfields Kodiak/Scenery
+./Addon Scenery/Alaska/Alaska Airfields Kodiak/Texture
+./Addon Scenery/Alaska/Alaska-misc
+./Addon Scenery/Alaska/Alaska-misc/scenery
+./Addon Scenery/Alaska/Bethel-city-airport
+./Addon Scenery/Alaska/Bethel-city-airport/scenery
+./Addon Scenery/Alaska/Bethel-city-airport/texture
+./Addon Scenery/Alaska/Goodnews GNU
+./Addon Scenery/Alaska/Goodnews GNU/Scenery
+./Addon Scenery/Alaska/Goodnews GNU/Texture
+./Addon Scenery/Alaska/Unalakleet Airport - PAUN
+./Addon Scenery/Alaska/Unalakleet Airport - PAUN/scenery
+./Addon Scenery/Alaska/Unalakleet Airport - PAUN/texture
 ./Addon Scenery/Alhambra
 ./Addon Scenery/Alhambra/scenery
 ./Addon Scenery/Alhambra/texture

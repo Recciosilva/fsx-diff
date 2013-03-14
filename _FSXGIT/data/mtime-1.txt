@@ -1,6 +1,20 @@
 ./
 ./Addon Scenery
 ./Addon Scenery/Alaska
+./Addon Scenery/Alaska/Alaska Airfields Kodiak
+./Addon Scenery/Alaska/Alaska Airfields Kodiak/Scenery
+./Addon Scenery/Alaska/Alaska Airfields Kodiak/Texture
+./Addon Scenery/Alaska/Alaska-misc
+./Addon Scenery/Alaska/Alaska-misc/scenery
+./Addon Scenery/Alaska/Bethel-city-airport
+./Addon Scenery/Alaska/Bethel-city-airport/scenery
+./Addon Scenery/Alaska/Goodnews GNU
+./Addon Scenery/Alaska/Goodnews GNU/Scenery
+./Addon Scenery/Alaska/Goodnews GNU/Texture
+./Addon Scenery/Alaska/Unalakleet Airport - PAUN
+./Addon Scenery/Alaska/Unalakleet Airport - PAUN/scenery
+./Addon Scenery/Alaska/Unalakleet Airport - PAUN/texture
+./Addon Scenery/scenery
 ./Effects/texture
 ./FeelThere/b737 v2/737c2.log
 ./jb777memfilemap.txt
@@ -9,6 +23,7 @@
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
+./modules/WideServer0.log
 ./ORBX/FTX_AU/FTXAA_ORBXLIBS/Scenery
 ./ORBX/FTX_AU/FTXAA_ORBXLIBS/Texture
 ./ORBX/FTX_NA
@@ -236,10 +251,30 @@
 ./Scenery/World/Texture/008y2spd.bmp
 ./Scenery/World/Texture/008y2spe.bmp
 ./Scenery/World/Texture/008y2spf.bmp
+./SimObjects/Airplanes/CS_B737-200F
+./SimObjects/Airplanes/CS_B737-200F/aircraft.cfg
+./SimObjects/Airplanes/CS_B737-200F/texture.NAC
 ./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
+./SimObjects/Airplanes/PMDG EXPRESS B1900D
+./SimObjects/Airplanes/PMDG EXPRESS B1900D/Aircraft.cfg
+./SimObjects/Airplanes/PMDG EXPRESS B1900D/Texture.Era
 ./terrain.cfg
 ./Weather/themes
+./_FSXGIT/bkups
+./_FSXGIT/bkups/backup-2013-03-14.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
+./_FSXGIT/data/ls-addonscenery.txt
+./_FSXGIT/data/ls-aircraft-cfg.txt
+./_FSXGIT/data/ls-config.txt
+./_FSXGIT/data/ls-effects.txt
+./_FSXGIT/data/ls-gauges.txt
+./_FSXGIT/data/ls-misc-cfg.txt
+./_FSXGIT/data/ls-modules.txt
+./_FSXGIT/data/ls-root.txt
+./_FSXGIT/data/ls-rotorcraft-cfg.txt
+./_FSXGIT/data/ls-sceneryworld.txt
+./_FSXGIT/data/ls-sound.txt
+./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

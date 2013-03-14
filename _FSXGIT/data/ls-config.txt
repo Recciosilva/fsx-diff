@@ -1341,6 +1341,7 @@
 ./SimObjects/Airplanes/CS_B737-200F/panel/panel.cfg
 ./SimObjects/Airplanes/CS_B737-200F/sound/sound.cfg
 ./SimObjects/Airplanes/CS_B737-200F/texture.dhl/texture.cfg
+./SimObjects/Airplanes/CS_B737-200F/texture.NAC/texture.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/model.200ER_GE/model.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/panel/panel.cfg

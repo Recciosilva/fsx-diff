@@ -1,3 +1,4 @@
+./scenery/World/Scenery/4K5_ADEX_TK_ALT.BGL
 ./scenery/World/Scenery/ADE_FTX_NZNI_NZAG_elevation_adjustment.OFF
 ./scenery/World/Scenery/ADE_FTX_NZNI_NZAP_elevation_adjustment.OFF
 ./scenery/World/Scenery/ADE_FTX_NZNI_NZCX_elevation_adjustment.OFF
@@ -187,6 +188,7 @@
 ./scenery/World/Scenery/AFX_NZNP.bgl
 ./scenery/World/Scenery/AFX_NZNR.bgl
 ./scenery/World/Scenery/AFX_NZNS.bgl
+./scenery/World/Scenery/AFX_PAUN_ALT.bgl
 ./scenery/World/Scenery/BNXWorld0.bgl
 ./scenery/World/Scenery/BNXWorld1.bgl
 ./scenery/World/Scenery/BNXWorld2.bgl
@@ -226,6 +228,7 @@
 ./scenery/World/Scenery/NZWP_ADEX_VLC_ALT.BGL
 ./scenery/World/Scenery/NZWV_ADEX_VLC_ALT.BGL
 ./scenery/World/Scenery/OLRA_ADEX_LEBOR_ALT.BGL
+./scenery/World/Scenery/ORI_ADEX_TK_ALT.BGL
 ./scenery/World/Scenery/Ouloup NWWV_ARP.bgl
 ./scenery/World/Scenery/Pyrzowice EPKT_ARP.bgl
 ./scenery/World/Scenery/Rafic Hariri International OLBA_ARP.bgl
