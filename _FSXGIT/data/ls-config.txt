@@ -58,6 +58,8 @@
 ./Flight One Software/Text-o-Matic/Data.F1152/aircraft.cfg
 ./Flight One Software/Text-o-Matic/Data.F1441/aircraft.cfg
 ./Flight One Software/Text-o-Matic/Data.F1ATR/Aircraft.cfg
+./FSAddon/VictoriaPlus/Cache/oldscenery.cfg
+./FSAddon/VictoriaPlus/Cache/terrain.cfg
 ./Gauges/An24_CFG/stt_navgau.cfg
 ./Gauges/FRANCONFIGTG.cfg
 ./Gauges/MiniPanel.cfg
@@ -1008,6 +1010,11 @@
 ./SimObjects/Airplanes/Chall600MX/model.604/model.cfg
 ./SimObjects/Airplanes/Chall600MX/sim.cfg
 ./SimObjects/Airplanes/Chall600MX/soundai/soundai.cfg
+./SimObjects/Airplanes/Chipmunk V3.0/aircraft.cfg
+./SimObjects/Airplanes/Chipmunk V3.0/model.T10/Model.cfg
+./SimObjects/Airplanes/Chipmunk V3.0/Panel/panel.cfg
+./SimObjects/Airplanes/Chipmunk V3.0/sound/Sound.cfg
+./SimObjects/Airplanes/Chipmunk V3.0/soundai/soundai.cfg
 ./SimObjects/Airplanes/Classics_Hangar_Fw190A-5/aircraft.cfg
 ./SimObjects/Airplanes/Classics_Hangar_Fw190A-5/model.1/model.cfg
 ./SimObjects/Airplanes/Classics_Hangar_Fw190A-5/PANEL/panel.cfg
@@ -1342,6 +1349,7 @@
 ./SimObjects/Airplanes/CS_B737-200F/sound/sound.cfg
 ./SimObjects/Airplanes/CS_B737-200F/texture.dhl/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200F/texture.NAC/texture.cfg
+./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft - Copy.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/model.200ER_GE/model.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/panel/panel.cfg
@@ -1354,11 +1362,14 @@
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.klm/texture.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.sing/texture.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.united/texture.cfg
+./SimObjects/Airplanes/CS_B777-200ER_PW/aircraft - Copy.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_PW/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_PW/model.200ER_PW/model.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_PW/panel/panel.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_PW/sound/sound.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_PW/texture.korea/texture.cfg
+./SimObjects/Airplanes/CS_B777-200ER_PW/texture.uae/texture.cfg
+./SimObjects/Airplanes/CS_B777-200LR/aircraft - Copy.cfg
 ./SimObjects/Airplanes/CS_B777-200LR/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777-200LR/model.200LR_GE/model.cfg
 ./SimObjects/Airplanes/CS_B777-200LR/panel/panel.cfg
@@ -2304,7 +2315,14 @@
 ./SimObjects/Airplanes/Grumman_F14D/aircraft.cfg
 ./SimObjects/Airplanes/Grumman_F14D/Model/model.cfg
 ./SimObjects/Airplanes/Grumman_F14D/sound/sound.cfg
-./SimObjects/Airplanes/Grumman_F14D/Texture/texture.cfg
+./SimObjects/Airplanes/Grumman_F14D/Texture.163894/texture.cfg
+./SimObjects/Airplanes/Grumman_F14D/Texture.163900/texture.cfg
+./SimObjects/Airplanes/Grumman_F14D/Texture.163904/texture.cfg
+./SimObjects/Airplanes/Grumman_F14D/Texture.164342/texture.cfg
+./SimObjects/Airplanes/Grumman_F14D/Texture.164350/texture.cfg
+./SimObjects/Airplanes/Grumman_F14D/Texture.164601/texture.cfg
+./SimObjects/Airplanes/Grumman_F14D/texture.164602/texture.cfg
+./SimObjects/Airplanes/Grumman_F14D/Texture.164603/texture.cfg
 ./SimObjects/Airplanes/Grumman_Goose_G21A/aircraft.cfg
 ./SimObjects/Airplanes/Grumman_Goose_G21A/model/model.cfg
 ./SimObjects/Airplanes/Grumman_Goose_G21A/Texture/texture.cfg
@@ -3670,6 +3688,12 @@
 ./SimObjects/Airplanes/rutan-wk/model/Model.cfg
 ./SimObjects/Airplanes/rutan-wk/panel/panel.cfg
 ./SimObjects/Airplanes/rutan-wk/sound/Sound.cfg
+./SimObjects/Airplanes/Rutan_Boomerang/aircraft.cfg
+./SimObjects/Airplanes/Rutan_Boomerang/model/model.cfg
+./SimObjects/Airplanes/Rutan_Boomerang/model.1/model.cfg
+./SimObjects/Airplanes/Rutan_Boomerang/panel/Panel.cfg
+./SimObjects/Airplanes/Rutan_Boomerang/panel_sounds.cfg
+./SimObjects/Airplanes/Rutan_Boomerang/sound/sound.cfg
 ./SimObjects/Airplanes/Ryan PT-22/Aircraft.cfg
 ./SimObjects/Airplanes/Ryan PT-22/model/Model.cfg
 ./SimObjects/Airplanes/Ryan PT-22/panel/panel.cfg
@@ -4145,6 +4169,20 @@
 ./SimObjects/Animals/OrcaWhale/model/model.cfg
 ./SimObjects/Animals/OrcaWhale/sim.cfg
 ./SimObjects/Animals/OrcaWhale/texture/texture.cfg
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/Aircraft.cfg
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/model/Model.cfg
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/soundai/soundai.cfg
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/Aircraft.cfg
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/model/Model.cfg
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/soundai/soundai.cfg
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/Aircraft.cfg
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/model/Model.cfg
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/soundai/soundai.cfg
+./SimObjects/Boats/AI_Vessel_Asuka_FSX/aircraft.cfg
+./SimObjects/Boats/AI_Vessel_Asuka_FSX/model.asuka/model.cfg
+./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/Aircraft.cfg
+./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/model/Model.cfg
+./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/soundai/soundai.cfg
 ./SimObjects/Boats/CargoA/model/model.cfg
 ./SimObjects/Boats/CargoA/sim.cfg
 ./SimObjects/Boats/CargoA/Texture/texture.cfg
@@ -5205,6 +5243,19 @@
 ./SimObjects/Misc/CableCar_Wheel_sm/model/model.cfg
 ./SimObjects/Misc/CableCar_Wheel_sm/sim.cfg
 ./SimObjects/Misc/CableCar_Wheel_sm/texture/texture.cfg
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/Aircraft.cfg
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/model/model.cfg
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/sound/sound.cfg
+./SimObjects/Misc/CAF-AI_C-130 Hercules/Aircraft.cfg
+./SimObjects/Misc/CAF-AI_C-130 Hercules/model.no_tanks/Model.cfg
+./SimObjects/Misc/CAF-AI_CC-115 Buffalo/aircraft.cfg
+./SimObjects/Misc/CAF-AI_CC-115 Buffalo/model.DHC5/model.cfg
+./SimObjects/Misc/CAF-AI_CF-18 Hornet/Aircraft.cfg
+./SimObjects/Misc/CAF-AI_CF-18 Hornet/model/Model.cfg
+./SimObjects/Misc/CAF-AI_CP-140 Aurora/aircraft.cfg
+./SimObjects/Misc/CAF-AI_CP-140 Aurora/model/model.cfg
+./SimObjects/Misc/CAF-AI_CP-150 Polaris/aircraft.cfg
+./SimObjects/Misc/CAF-AI_CP-150 Polaris/model.ge/model.cfg
 ./SimObjects/Misc/Cargo_pod/model/model.cfg
 ./SimObjects/Misc/Cargo_pod/sim.cfg
 ./SimObjects/Misc/Cargo_pod/texture/texture.cfg
@@ -5230,6 +5281,21 @@
 ./SimObjects/Misc/ControlTower/panel/panel.cfg
 ./SimObjects/Misc/ControlTower/sim.cfg
 ./SimObjects/Misc/ControlTower/sound/sound.cfg
+./SimObjects/Misc/CYYJ-AI_Boeing 727-200/Aircraft.cfg
+./SimObjects/Misc/CYYJ-AI_Boeing 727-200/model.nw/model.cfg
+./SimObjects/Misc/CYYJ-AI_Boeing 727-200/model.w/model.cfg
+./SimObjects/Misc/CYYJ-AI_Boeing 737-500/Aircraft.cfg
+./SimObjects/Misc/CYYJ-AI_Boeing 737-500/model.no_refl/model.cfg
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/Aircraft.cfg
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/Model/model.cfg
+./SimObjects/Misc/CYYJ-AI_Cessna 208B/Aircraft.cfg
+./SimObjects/Misc/CYYJ-AI_Cessna 208B/model.cp/Model.cfg
+./SimObjects/Misc/CYYJ-AI_Cessna Citation II/Aircraft.cfg
+./SimObjects/Misc/CYYJ-AI_Cessna Citation II/model/Model.cfg
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/Aircraft.cfg
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/model/Model.cfg
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IV/Aircraft.cfg
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IV/model/Model.cfg
 ./SimObjects/Misc/DJC AI Metroliner III/Aircraft.cfg
 ./SimObjects/Misc/DJC AI Metroliner III/model.3blade/model.cfg
 ./SimObjects/Misc/DJC AI Metroliner III/model.4blade/model.cfg

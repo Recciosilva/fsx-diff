@@ -332,6 +332,7 @@
 ./Uninstall_PITTS.exe
 ./Uninstall_SU26.exe
 ./Uninstall_Waco.exe
+./UninstalYCG.exe
 ./Uninstal_737PICEVODLX_FSX.exe
 ./Uninstal_737PICX.exe
 ./Uninstal_Airbus1X_wilco.exe

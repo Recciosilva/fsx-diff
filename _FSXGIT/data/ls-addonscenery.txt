@@ -172,9 +172,58 @@
 ./Addon Scenery/Billund Airport X/Scenery
 ./Addon Scenery/Billund Airport X/Texture
 ./Addon Scenery/Canada
-./Addon Scenery/Canada/Castlegar_CYCG
-./Addon Scenery/Canada/Castlegar_CYCG/Scenery
-./Addon Scenery/Canada/Castlegar_CYCG/Texture
+./Addon Scenery/Canada/CYYJ (2011)
+./Addon Scenery/Canada/CYYJ (2011)/AI
+./Addon Scenery/Canada/CYYJ (2011)/AI/Traffic Files
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for Default_FSX
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for Default_FSX/scenery
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for ORBX_FTX_PNW
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for ORBX_FTX_PNW/scenery
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for UTX_Canada
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for UTX_Canada/scenery
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for VicPlus_FSX_wo_CYYJ
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for VicPlus_FSX_wo_CYYJ/scenery
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/scenery
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/AS 350_VIH
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Beech Baron 58 - CompassWest
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Bell 205_VIH
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Boeing 727-200 Purolator-1
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Boeing 737-500 (C-FPHS)
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-403
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-421
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-435
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-146 Griffon-428
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-146 Griffon-438
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CT-133 Silver Target
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Douglas A-26B Conair FBMS
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Douglas Super DC-3
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Sikorsky S55 RCN
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/TCA Viscount 700
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-1
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-2
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-3
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-4
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-1
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-2
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-3
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-4
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-5
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Yak52_blue
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Yak52_red
+./Addon Scenery/Canada/CYYJ (2011)/Mipmap Manager
+./Addon Scenery/Canada/CYYJ (2011)/Update Checker
+./Addon Scenery/Canada/Kelowna-CYLW
+./Addon Scenery/Canada/Kelowna-CYLW/scenery
+./Addon Scenery/Canada/Kelowna-CYLW/texture
+./Addon Scenery/Canada/Okanagan_LandClass
+./Addon Scenery/Canada/Okanagan_LandClass/scenery
+./Addon Scenery/Canada/Penticton (CYYF)
+./Addon Scenery/Canada/Penticton (CYYF)/effects
+./Addon Scenery/Canada/Penticton (CYYF)/scenery
+./Addon Scenery/Canada/Penticton (CYYF)/texture
 ./Addon Scenery/Canada/TorontoPearson
 ./Addon Scenery/Canada/TorontoPearson/Scenery
 ./Addon Scenery/Canada/TorontoPearson/Texture
@@ -263,6 +312,9 @@
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad/scenery
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad/texture
+./Addon Scenery/CastlegarX
+./Addon Scenery/CastlegarX/scenery
+./Addon Scenery/CastlegarX/texture
 ./Addon Scenery/CitationX_Anims
 ./Addon Scenery/CitationX_Anims/Scenery
 ./Addon Scenery/CitationX_Anims/Texture
@@ -380,6 +432,7 @@
 ./Addon Scenery/Europe/SAOxt_LGAV.V2/texture
 ./Addon Scenery/Europe/SRTM_Mesh
 ./Addon Scenery/Europe/SRTM_Mesh/scenery
+./Addon Scenery/Europe/Sweden
 ./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0
 ./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0/scenery
 ./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0/texture

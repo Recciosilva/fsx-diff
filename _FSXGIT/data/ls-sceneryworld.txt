@@ -182,6 +182,10 @@
 ./scenery/World/Scenery/AF2_NZOM.bgl
 ./scenery/World/Scenery/AF2_NZPN.bgl
 ./scenery/World/Scenery/AF2_NZRO.bgl
+./scenery/World/Scenery/AFX_2WA3_elevation_adjustment_VicPlus.BGL
+./scenery/World/Scenery/AFX_4WA4_elevation_adjustment_VicPlus.BGL
+./scenery/World/Scenery/AFX_7WA5_elevation_adjustment_VicPlus.BGL
+./scenery/World/Scenery/AFX_CAM3_elevation_adjustment_VicPlus.BGL
 ./scenery/World/Scenery/AFX_LLET_ALT.bgl
 ./scenery/World/Scenery/AFX_LXGB_ALT.bgl
 ./scenery/World/Scenery/AFX_NCRG_ALT.bgl
@@ -189,6 +193,10 @@
 ./scenery/World/Scenery/AFX_NZNR.bgl
 ./scenery/World/Scenery/AFX_NZNS.bgl
 ./scenery/World/Scenery/AFX_PAUN_ALT.bgl
+./scenery/World/Scenery/AFX_S31_elevation_adjustment_VicPlus.BGL
+./scenery/World/Scenery/AFX_WA09_elevation_adjustment_VicPlus.BGL
+./scenery/World/Scenery/AFX_WA35_elevation_adjustment_VicPlus.BGL
+./scenery/World/Scenery/AFX_WN07_elevation_adjustment_VicPlus.BGL
 ./scenery/World/Scenery/BNXWorld0.bgl
 ./scenery/World/Scenery/BNXWorld1.bgl
 ./scenery/World/Scenery/BNXWorld2.bgl
@@ -196,6 +204,7 @@
 ./scenery/World/Scenery/BNXWorld4.bgl
 ./scenery/World/Scenery/BNXWorld5.bgl
 ./scenery/World/Scenery/bvcf.bgl
+./scenery/World/Scenery/CYCG_ADEX_ADE_ALT.BGL
 ./scenery/World/Scenery/Gdansk Rebiechowo EPGD_ARP.BGL
 ./scenery/World/Scenery/image_globe_00.bgl
 ./scenery/World/Scenery/image_globe_01.bgl

@@ -1,22 +1,87 @@
 ./
 ./Addon Scenery
-./Addon Scenery/Alaska
-./Addon Scenery/Alaska/Alaska Airfields Kodiak
-./Addon Scenery/Alaska/Alaska Airfields Kodiak/Scenery
-./Addon Scenery/Alaska/Alaska Airfields Kodiak/Texture
-./Addon Scenery/Alaska/Alaska-misc
-./Addon Scenery/Alaska/Alaska-misc/scenery
-./Addon Scenery/Alaska/Bethel-city-airport
-./Addon Scenery/Alaska/Bethel-city-airport/scenery
-./Addon Scenery/Alaska/Goodnews GNU
-./Addon Scenery/Alaska/Goodnews GNU/Scenery
-./Addon Scenery/Alaska/Goodnews GNU/Texture
-./Addon Scenery/Alaska/Unalakleet Airport - PAUN
-./Addon Scenery/Alaska/Unalakleet Airport - PAUN/scenery
-./Addon Scenery/Alaska/Unalakleet Airport - PAUN/texture
-./Addon Scenery/scenery
+./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery
+./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery/Traffic PAED2_FSX.bgl
+./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery/Traffic PAED4_FSX.bgl
+./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery/Traffic PAED5_FSX.bgl
+./Addon Scenery/Canada
+./Addon Scenery/Canada/CYYJ (2011)
+./Addon Scenery/Canada/CYYJ (2011)/AI
+./Addon Scenery/Canada/CYYJ (2011)/AI/Traffic Files
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for Default_FSX
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for Default_FSX/scenery
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for ORBX_FTX_PNW
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for ORBX_FTX_PNW/scenery
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for UTX_Canada
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for UTX_Canada/scenery
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for VicPlus_FSX_wo_CYYJ
+./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for VicPlus_FSX_wo_CYYJ/scenery
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/scenery
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/AS 350_VIH
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Beech Baron 58 - CompassWest
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Bell 205_VIH
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Boeing 727-200 Purolator-1
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Boeing 737-500 (C-FPHS)
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-403
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-421
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-435
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-146 Griffon-428
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-146 Griffon-438
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CT-133 Silver Target
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Douglas A-26B Conair FBMS
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Douglas Super DC-3
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Sikorsky S55 RCN
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/TCA Viscount 700
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-1
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-2
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-3
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-4
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-1
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-2
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-3
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-4
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-5
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Yak52_blue
+./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Yak52_red
+./Addon Scenery/Canada/CYYJ (2011)/Mipmap Manager
+./Addon Scenery/Canada/CYYJ (2011)/Update Checker
+./Addon Scenery/Canada/Kelowna-CYLW
+./Addon Scenery/Canada/Kelowna-CYLW/scenery
+./Addon Scenery/Canada/Kelowna-CYLW/texture
+./Addon Scenery/Canada/Okanagan_LandClass
+./Addon Scenery/Canada/Okanagan_LandClass/scenery
+./Addon Scenery/Canada/Penticton (CYYF)
+./Addon Scenery/Canada/Penticton (CYYF)/effects
+./Addon Scenery/Canada/Penticton (CYYF)/scenery
+./Addon Scenery/Canada/Penticton (CYYF)/scenery/Traffic_Penticton Commercial_FSX.bgl
+./Addon Scenery/Canada/Penticton (CYYF)/scenery/Traffic_Penticton_FSX.bgl
+./Addon Scenery/Canada/Penticton (CYYF)/texture
+./Addon Scenery/Canada/Yellowknife_CYZF_2010/Scenery
+./Addon Scenery/Canada/Yellowknife_CYZF_2010/Scenery/Yellowknife_CYZF_Static_Traffic_FSX.bgl
+./Addon Scenery/CastlegarX
+./Addon Scenery/CastlegarX/scenery
+./Addon Scenery/CastlegarX/texture
+./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery
+./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery/traffic
+./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery/traffic_FSX.bgl
+./Effects
 ./Effects/texture
-./FeelThere/b737 v2/737c2.log
+./FSAddon
+./FSAddon/VictoriaPlus
+./FSAddon/VictoriaPlus/Cache
+./FSAddon/VictoriaPlus/Cache/Flights
+./FSAddon/VictoriaPlus/Cache/oldscenery.cfg
+./FSAddon/VictoriaPlus/Cache/terrain.cfg
+./FSAddon/VictoriaPlus/Docs
+./FSAddon/VictoriaPlus/unins000.dat
+./FSAddon/VictoriaPlus/VicPlus Higher Priority
+./FSAddon/VictoriaPlus/VicPlus Higher Priority/Scenery
+./FSAddon/VictoriaPlus/VicPlus Higher Priority/Texture
+./FSAddon/VictoriaPlus/VicPlus Lower Priority
+./FSAddon/VictoriaPlus/VicPlus Lower Priority/Scenery
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -24,257 +89,135 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./ORBX/FTX_AU/FTXAA_ORBXLIBS/Scenery
-./ORBX/FTX_AU/FTXAA_ORBXLIBS/Texture
-./ORBX/FTX_NA
-./ORBX/FTX_NA/FTX_NA_PNW05_SCENERY
-./ORBX/FTX_NA/FTX_NA_PNW05_SCENERY/scenery
-./ORBX/FTX_NA/FTX_NA_PNW05_SCENERY/texture
-./ORBX/FTX_NA/FTX_NA_PNW06_CVX
-./ORBX/FTX_NA/FTX_NA_PNW06_CVX/scenery
-./ORBX/FTX_NA/FTX_NA_PNW06_CVX/texture
-./ORBX/FTX_NA/FTX_NA_PNW07_MESH
-./ORBX/FTX_NA/FTX_NA_PNW07_MESH/scenery
-./ORBX/FTX_NA/FTX_NA_PNW08_CUSTOM
-./ORBX/FTX_NA/FTX_NA_PNW08_CUSTOM/scenery
-./ORBX/FTX_NA/FTX_NA_PNW08_CUSTOM/texture
-./ORBX/Scripts
 ./ORBX/Scripts/Backup
 ./ORBX/Scripts/Backup/restore.bat
-./ORBX/Scripts/Custom.na
-./ORBX/Scripts/Custom.na/OFF
-./ORBX/Scripts/FTXCentral
-./ORBX/Scripts/FTXCentral/InstallBackup
-./ORBX/Scripts/FTXCentral/Regions
 ./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
 ./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
-./ORBX/Scripts/FTXCentral/Work/Images
-./ORBX/User Documents
-./ORBX/User Documents/Versions
-./Scenery/Global/scenery
-./Scenery/Global/Texture
 ./Scenery/World/Scenery
+./Scenery/World/Scenery/Flights
+./Scenery/World/Scenery/_removed
 ./Scenery/World/Texture
-./Scenery/World/Texture/006b2m11.bmp
-./Scenery/World/Texture/006b2m12.bmp
-./Scenery/World/Texture/006b2m13.bmp
-./Scenery/World/Texture/006b2m14.bmp
-./Scenery/World/Texture/006b2m15.bmp
-./Scenery/World/Texture/006b2m16.bmp
-./Scenery/World/Texture/006b2m17.bmp
-./Scenery/World/Texture/019b2m11.bmp
-./Scenery/World/Texture/019b2m12.bmp
-./Scenery/World/Texture/019b2m13.bmp
-./Scenery/World/Texture/019b2m14.bmp
-./Scenery/World/Texture/019b2m15.bmp
-./Scenery/World/Texture/019b2m16.bmp
-./Scenery/World/Texture/019b2m17.bmp
-./Scenery/World/Texture/030b2m10.bmp
-./Scenery/World/Texture/030b2m18.bmp
-./Scenery/World/Texture/030b2m19.bmp
-./Scenery/World/Texture/030b2m1a.bmp
-./Scenery/World/Texture/030b2m1b.bmp
-./Scenery/World/Texture/030b2m1c.bmp
-./Scenery/World/Texture/030b2m1d.bmp
-./Scenery/World/Texture/030b2m1e.bmp
-./Scenery/World/Texture/045b2m10.bmp
-./Scenery/World/Texture/045b2m18.bmp
-./Scenery/World/Texture/045b2m19.bmp
-./Scenery/World/Texture/045b2m1a.bmp
-./Scenery/World/Texture/045b2m1b.bmp
-./Scenery/World/Texture/045b2m1c.bmp
-./Scenery/World/Texture/045b2m1d.bmp
-./Scenery/World/Texture/045b2m1e.bmp
-./Scenery/World/Texture/058b2m10.bmp
-./Scenery/World/Texture/058b2m11.bmp
-./Scenery/World/Texture/058b2m12.bmp
-./Scenery/World/Texture/058b2m13.bmp
-./Scenery/World/Texture/058b2m14.bmp
-./Scenery/World/Texture/058b2m15.bmp
-./Scenery/World/Texture/058b2m16.bmp
-./Scenery/World/Texture/058b2m17.bmp
-./Scenery/World/Texture/058b2m18.bmp
-./Scenery/World/Texture/058b2m19.bmp
-./Scenery/World/Texture/058b2m1a.bmp
-./Scenery/World/Texture/058b2m1b.bmp
-./Scenery/World/Texture/058b2m1c.bmp
-./Scenery/World/Texture/058b2m1d.bmp
-./Scenery/World/Texture/058b2m1e.bmp
-./Scenery/World/Texture/059b2m11.bmp
-./Scenery/World/Texture/059b2m12.bmp
-./Scenery/World/Texture/059b2m13.bmp
-./Scenery/World/Texture/059b2m14.bmp
-./Scenery/World/Texture/059b2m15.bmp
-./Scenery/World/Texture/059b2m16.bmp
-./Scenery/World/Texture/059b2m17.bmp
-./Scenery/World/Texture/078b2m10.bmp
-./Scenery/World/Texture/078b2m11.bmp
-./Scenery/World/Texture/078b2m12.bmp
-./Scenery/World/Texture/078b2m13.bmp
-./Scenery/World/Texture/078b2m14.bmp
-./Scenery/World/Texture/078b2m15.bmp
-./Scenery/World/Texture/078b2m16.bmp
-./Scenery/World/Texture/078b2m17.bmp
-./Scenery/World/Texture/078b2m18.bmp
-./Scenery/World/Texture/078b2m19.bmp
-./Scenery/World/Texture/078b2m1a.bmp
-./Scenery/World/Texture/078b2m1b.bmp
-./Scenery/World/Texture/078b2m1c.bmp
-./Scenery/World/Texture/078b2m1d.bmp
-./Scenery/World/Texture/078b2m1e.bmp
-./Scenery/World/Texture/078b2m1f.bmp
-./Scenery/World/Texture/127b2fa1.bmp
-./Scenery/World/Texture/127b2fa2.bmp
-./Scenery/World/Texture/127b2fa3.bmp
-./Scenery/World/Texture/127b2fa4.bmp
-./Scenery/World/Texture/127b2fa5.bmp
-./Scenery/World/Texture/127b2hw1.bmp
-./Scenery/World/Texture/127b2hw2.bmp
-./Scenery/World/Texture/127b2hw3.bmp
-./Scenery/World/Texture/127b2hw4.bmp
-./Scenery/World/Texture/127b2hw5.bmp
-./Scenery/World/Texture/127b2sp1.bmp
-./Scenery/World/Texture/127b2sp2.bmp
-./Scenery/World/Texture/127b2sp3.bmp
-./Scenery/World/Texture/127b2sp4.bmp
-./Scenery/World/Texture/127b2sp5.bmp
-./Scenery/World/Texture/127b2wi1.bmp
-./Scenery/World/Texture/127b2wi2.bmp
-./Scenery/World/Texture/127b2wi3.bmp
-./Scenery/World/Texture/127b2wi4.bmp
-./Scenery/World/Texture/127b2wi5.bmp
-./Scenery/World/Texture/132b2hw1.bmp
-./Scenery/World/Texture/137b2hw1.bmp
-./Scenery/World/Texture/045G2fa1.bmp
-./Scenery/World/Texture/134G2sp1.bmp
-./Scenery/World/Texture/008g2wi0.bmp
-./Scenery/World/Texture/008y2fa0.bmp
-./Scenery/World/Texture/019b2sp1.bmp
-./Scenery/World/Texture/019b2wi1.bmp
-./Scenery/World/Texture/008g2wi1.bmp
-./Scenery/World/Texture/008g2wi2.bmp
-./Scenery/World/Texture/008g2wi3.bmp
-./Scenery/World/Texture/008g2wi4.bmp
-./Scenery/World/Texture/008g2wi5.bmp
-./Scenery/World/Texture/008g2wi6.bmp
-./Scenery/World/Texture/008g2wi7.bmp
-./Scenery/World/Texture/008g2wi8.bmp
-./Scenery/World/Texture/008g2wi9.bmp
-./Scenery/World/Texture/008g2wia.bmp
-./Scenery/World/Texture/008g2wib.bmp
-./Scenery/World/Texture/008g2wic.bmp
-./Scenery/World/Texture/008g2wid.bmp
-./Scenery/World/Texture/008g2wie.bmp
-./Scenery/World/Texture/008g2wif.bmp
-./Scenery/World/Texture/019b2sp2.bmp
-./Scenery/World/Texture/019b2sp3.bmp
-./Scenery/World/Texture/019b2sp4.bmp
-./Scenery/World/Texture/019b2sp5.bmp
-./Scenery/World/Texture/019b2sp6.bmp
-./Scenery/World/Texture/019b2sp7.bmp
-./Scenery/World/Texture/019b2wi2.bmp
-./Scenery/World/Texture/019b2wi3.bmp
-./Scenery/World/Texture/019b2wi4.bmp
-./Scenery/World/Texture/019b2wi5.bmp
-./Scenery/World/Texture/019b2wi6.bmp
-./Scenery/World/Texture/019b2wi7.bmp
-./Scenery/World/Texture/045G2fa2.bmp
-./Scenery/World/Texture/045G2fa3.bmp
-./Scenery/World/Texture/045G2fa4.bmp
-./Scenery/World/Texture/045G2fa5.bmp
-./Scenery/World/Texture/045G2fa6.bmp
-./Scenery/World/Texture/045G2fa7.bmp
-./Scenery/World/Texture/134G2sp2.bmp
-./Scenery/World/Texture/134G2sp3.bmp
-./Scenery/World/Texture/134G2sp4.bmp
-./Scenery/World/Texture/134G2sp5.bmp
-./Scenery/World/Texture/008y2fa1.bmp
-./Scenery/World/Texture/008y2fa2.bmp
-./Scenery/World/Texture/008y2fa3.bmp
-./Scenery/World/Texture/008y2fa4.bmp
-./Scenery/World/Texture/008y2fa5.bmp
-./Scenery/World/Texture/008y2fa6.bmp
-./Scenery/World/Texture/008y2fa7.bmp
-./Scenery/World/Texture/008y2fa8.bmp
-./Scenery/World/Texture/008y2fa9.bmp
-./Scenery/World/Texture/008y2faa.bmp
-./Scenery/World/Texture/008y2fab.bmp
-./Scenery/World/Texture/008y2fac.bmp
-./Scenery/World/Texture/008y2fad.bmp
-./Scenery/World/Texture/008y2fae.bmp
-./Scenery/World/Texture/008y2faf.bmp
-./Scenery/World/Texture/008y2hw0.bmp
-./Scenery/World/Texture/008y2hw1.bmp
-./Scenery/World/Texture/008y2hw2.bmp
-./Scenery/World/Texture/008y2hw3.bmp
-./Scenery/World/Texture/008y2hw4.bmp
-./Scenery/World/Texture/008y2hw5.bmp
-./Scenery/World/Texture/008y2hw6.bmp
-./Scenery/World/Texture/008y2hw7.bmp
-./Scenery/World/Texture/008y2hw8.bmp
-./Scenery/World/Texture/008y2hw9.bmp
-./Scenery/World/Texture/008y2hwa.bmp
-./Scenery/World/Texture/008y2hwb.bmp
-./Scenery/World/Texture/008y2hwc.bmp
-./Scenery/World/Texture/008y2hwd.bmp
-./Scenery/World/Texture/008y2hwe.bmp
-./Scenery/World/Texture/008y2hwf.bmp
-./Scenery/World/Texture/008y2lm0.bmp
-./Scenery/World/Texture/008y2LM1.bmp
-./Scenery/World/Texture/008y2LM2.bmp
-./Scenery/World/Texture/008y2lm3.bmp
-./Scenery/World/Texture/008y2LM4.bmp
-./Scenery/World/Texture/008y2LM5.bmp
-./Scenery/World/Texture/008y2LM6.bmp
-./Scenery/World/Texture/008y2LM7.bmp
-./Scenery/World/Texture/008y2lm8.bmp
-./Scenery/World/Texture/008y2lm9.bmp
-./Scenery/World/Texture/008y2lma.bmp
-./Scenery/World/Texture/008y2lmb.bmp
-./Scenery/World/Texture/008y2lmc.bmp
-./Scenery/World/Texture/008y2lmd.bmp
-./Scenery/World/Texture/008y2lme.bmp
-./Scenery/World/Texture/008y2lmf.bmp
-./Scenery/World/Texture/008y2sp0.bmp
-./Scenery/World/Texture/008y2Sp1.bmp
-./Scenery/World/Texture/008y2Sp2.bmp
-./Scenery/World/Texture/008y2Sp3.bmp
-./Scenery/World/Texture/008y2Sp4.bmp
-./Scenery/World/Texture/008y2Sp5.bmp
-./Scenery/World/Texture/008y2Sp6.bmp
-./Scenery/World/Texture/008y2Sp7.bmp
-./Scenery/World/Texture/008y2sp8.bmp
-./Scenery/World/Texture/008y2sp9.bmp
-./Scenery/World/Texture/008y2spa.bmp
-./Scenery/World/Texture/008y2spb.bmp
-./Scenery/World/Texture/008y2spc.bmp
-./Scenery/World/Texture/008y2spd.bmp
-./Scenery/World/Texture/008y2spe.bmp
-./Scenery/World/Texture/008y2spf.bmp
-./SimObjects/Airplanes/CS_B737-200F
-./SimObjects/Airplanes/CS_B737-200F/aircraft.cfg
-./SimObjects/Airplanes/CS_B737-200F/texture.NAC
-./SimObjects/Airplanes/CS_C130/texture.rnzaf_camo/C130_11.bmp
-./SimObjects/Airplanes/PMDG EXPRESS B1900D
-./SimObjects/Airplanes/PMDG EXPRESS B1900D/Aircraft.cfg
-./SimObjects/Airplanes/PMDG EXPRESS B1900D/Texture.Era
+./SimObjects/Airplanes
+./SimObjects/Airplanes/Chipmunk V3.0
+./SimObjects/Airplanes/Chipmunk V3.0/Effects
+./SimObjects/Airplanes/Chipmunk V3.0/model.T10
+./SimObjects/Airplanes/Chipmunk V3.0/Panel
+./SimObjects/Airplanes/Chipmunk V3.0/Panel manual
+./SimObjects/Airplanes/Chipmunk V3.0/sound
+./SimObjects/Airplanes/Chipmunk V3.0/soundai
+./SimObjects/Airplanes/Chipmunk V3.0/texture.1377
+./SimObjects/Airplanes/Chipmunk V3.0/texture.BBMF
+./SimObjects/Airplanes/Chipmunk V3.0/texture.GAORW
+./SimObjects/Airplanes/Chipmunk V3.0/texture.GAPSB
+./SimObjects/Airplanes/Chipmunk V3.0/texture.GBARS
+./SimObjects/Airplanes/Chipmunk V3.0/texture.P146
+./SimObjects/Airplanes/Chipmunk V3.0/texture.RCAF
+./SimObjects/Airplanes/Chipmunk V3.0/texture.WB671
+./SimObjects/Airplanes/Chipmunk V3.0/texture.WB733
+./SimObjects/Airplanes/Chipmunk V3.0/texture.WD305
+./SimObjects/Airplanes/Chipmunk V3.0/texture.WD379
+./SimObjects/Airplanes/Chipmunk V3.0/texture.WD390
+./SimObjects/Airplanes/Chipmunk V3.0/texture.WP800
+./SimObjects/Airplanes/Chipmunk V3.0/texture.WP924
+./SimObjects/Airplanes/Chipmunk V3.0/texture.WP962
+./SimObjects/Airplanes/mjc8q3_2/Aircraft.cfg
+./SimObjects/Airplanes/Rutan_Boomerang
+./SimObjects/Airplanes/Rutan_Boomerang/aircraft.cfg
+./SimObjects/Airplanes/Rutan_Boomerang/Docs
+./SimObjects/Airplanes/Rutan_Boomerang/Effects
+./SimObjects/Airplanes/Rutan_Boomerang/model
+./SimObjects/Airplanes/Rutan_Boomerang/model.1
+./SimObjects/Airplanes/Rutan_Boomerang/modules
+./SimObjects/Airplanes/Rutan_Boomerang/panel
+./SimObjects/Airplanes/Rutan_Boomerang/sound
+./SimObjects/Airplanes/Rutan_Boomerang/texture
+./SimObjects/Airplanes/Rutan_Boomerang/texture.1
+./SimObjects/Boats
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/model
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/soundai
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/texture
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/texture.1
+./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/texture.2
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/model
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/soundai
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/texture
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/texture.1
+./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/texture.2
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/model
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/soundai
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/texture
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/texture.1
+./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/texture.2
+./SimObjects/Boats/AI_Vessel_Asuka_FSX
+./SimObjects/Boats/AI_Vessel_Asuka_FSX/model.asuka
+./SimObjects/Boats/AI_Vessel_Asuka_FSX/texture
+./SimObjects/Boats/AI_Vessel_Asuka_FSX/texture.amsterdam
+./SimObjects/Boats/AI_Vessel_Asuka_FSX/texture.summit
+./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX
+./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/model
+./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/soundai
+./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/texture
+./SimObjects/Misc
+./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/aircraft.cfg
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/base textures
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/model
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/sound
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/texture
+./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/texture.1701
+./SimObjects/Misc/CAF-AI_C-130 Hercules
+./SimObjects/Misc/CAF-AI_C-130 Hercules/model.no_tanks
+./SimObjects/Misc/CAF-AI_C-130 Hercules/texture.CFC
+./SimObjects/Misc/CAF-AI_CC-115 Buffalo
+./SimObjects/Misc/CAF-AI_CC-115 Buffalo/model.DHC5
+./SimObjects/Misc/CAF-AI_CC-115 Buffalo/texture.DHC5
+./SimObjects/Misc/CAF-AI_CF-18 Hornet
+./SimObjects/Misc/CAF-AI_CF-18 Hornet/model
+./SimObjects/Misc/CAF-AI_CF-18 Hornet/texture.CAF
+./SimObjects/Misc/CAF-AI_CP-140 Aurora
+./SimObjects/Misc/CAF-AI_CP-140 Aurora/model
+./SimObjects/Misc/CAF-AI_CP-140 Aurora/texture.caf_nc
+./SimObjects/Misc/CAF-AI_CP-150 Polaris
+./SimObjects/Misc/CAF-AI_CP-150 Polaris/model.ge
+./SimObjects/Misc/CAF-AI_CP-150 Polaris/texture.CAF_15004
+./SimObjects/Misc/CYYJ-AI_Boeing 727-200
+./SimObjects/Misc/CYYJ-AI_Boeing 727-200/model.nw
+./SimObjects/Misc/CYYJ-AI_Boeing 727-200/model.w
+./SimObjects/Misc/CYYJ-AI_Boeing 727-200/Texture.KFC-Purolator-1
+./SimObjects/Misc/CYYJ-AI_Boeing 727-200/Texture.KFC-Purolator-2
+./SimObjects/Misc/CYYJ-AI_Boeing 737-500
+./SimObjects/Misc/CYYJ-AI_Boeing 737-500/model.no_refl
+./SimObjects/Misc/CYYJ-AI_Boeing 737-500/texture.C-FPHS
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/Model
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/texture.C-FUND
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/texture.C-GAWH
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/texture.C-GDPF
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/texture.C-GWLL
+./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/Texture.caf
+./SimObjects/Misc/CYYJ-AI_Cessna 208B
+./SimObjects/Misc/CYYJ-AI_Cessna 208B/model.cp
+./SimObjects/Misc/CYYJ-AI_Cessna 208B/texture.fedex
+./SimObjects/Misc/CYYJ-AI_Cessna Citation II
+./SimObjects/Misc/CYYJ-AI_Cessna Citation II/model
+./SimObjects/Misc/CYYJ-AI_Cessna Citation II/texture.Blue
+./SimObjects/Misc/CYYJ-AI_Cessna Citation II/texture.Brown
+./SimObjects/Misc/CYYJ-AI_Cessna Citation II/texture.Grey
+./SimObjects/Misc/CYYJ-AI_Cessna Citation II/texture.Red
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/model
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/texture.Green
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/texture.Grey
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/texture.Red
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IV
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IV/model
+./SimObjects/Misc/CYYJ-AI_Gulfstream G-IV/texture
 ./terrain.cfg
-./Weather/themes
-./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-03-14.tar.gz
+./UninstalYCG.exe
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
-./_FSXGIT/data/ls-addonscenery.txt
-./_FSXGIT/data/ls-aircraft-cfg.txt
-./_FSXGIT/data/ls-config.txt
-./_FSXGIT/data/ls-effects.txt
-./_FSXGIT/data/ls-gauges.txt
-./_FSXGIT/data/ls-misc-cfg.txt
-./_FSXGIT/data/ls-modules.txt
-./_FSXGIT/data/ls-root.txt
-./_FSXGIT/data/ls-rotorcraft-cfg.txt
-./_FSXGIT/data/ls-sceneryworld.txt
-./_FSXGIT/data/ls-sound.txt
-./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

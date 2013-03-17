@@ -36,6 +36,9 @@
 ./SimObjects/Misc/AI_PA31_Navajo/aircraft.cfg
 ./SimObjects/Misc/AI_Pawnee/aircraft.cfg
 ./SimObjects/Misc/AI_SD360/aircraft.cfg
+./SimObjects/Misc/CAF-AI_CC-115 Buffalo/aircraft.cfg
+./SimObjects/Misc/CAF-AI_CP-140 Aurora/aircraft.cfg
+./SimObjects/Misc/CAF-AI_CP-150 Polaris/aircraft.cfg
 ./SimObjects/Misc/fsp_dc10/aircraft.cfg
 ./SimObjects/Misc/fsp_md11/aircraft.cfg
 ./SimObjects/Misc/FTX Aero Commander 500S/aircraft.cfg

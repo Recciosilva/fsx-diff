@@ -183,6 +183,10 @@
 ./Effects/cs777_sf.fx
 ./Effects/cs777_smoke_dark.fx
 ./Effects/cs777_vclightwhi.fx
+./Effects/CYOD_Light2.fx
+./Effects/CYOD_Light3.fx
+./Effects/CYOD_Light4.fx
+./Effects/CYOD_Light5.fx
 ./Effects/DC-6_HP_L_Flame.fx
 ./Effects/DC-6_HP_R_Flame.fx
 ./Effects/DC-6_IP_L_Flame.fx
@@ -210,6 +214,7 @@
 ./Effects/f35_Vapor6.fx
 ./Effects/f35_Vapor7.fx
 ./Effects/filelist.txt
+./Effects/FSX_AI_ship_BOW_SPRAY_l.fx
 ./Effects/FWI_.yellow.fx
 ./Effects/FWI_light_WhiteSteady.fx
 ./Effects/FWI_Taxi_Edge_blue.fx
@@ -292,6 +297,7 @@
 ./Effects/fx_AH_eject_sound.fx
 ./Effects/fx_AH_jet_ring.fx
 ./Effects/fx_ai_fighter_contrail.fx
+./Effects/fx_AI_floatplane_spray-and-wake.fx
 ./Effects/fx_ALPHA_B1B_AB.fx
 ./Effects/fx_ALPHA_B1B_AB_light.fx
 ./Effects/fx_ALPHA_B1B_Flapcontrail.fx
@@ -361,6 +367,7 @@
 ./Effects/fx_beacon_F1ATR.fx
 ./Effects/fx_beacon_FSD.fx
 ./Effects/fx_beacon_sml.fx
+./Effects/fx_beacon_t45.fx
 ./Effects/fx_BEAMLLET.fx
 ./Effects/fx_BEAMLLET1.fx
 ./Effects/fx_BEAMLLET2.fx
@@ -518,6 +525,7 @@
 ./Effects/fx_f14D_AfterBurnerFire1.fx
 ./Effects/fx_f14D_AfterBurnerFire2.fx
 ./Effects/fx_F14D_AfterBurnerFire3.fx
+./Effects/fx_f14d_vclight_dino.fx
 ./Effects/fx_f14_afterburner_1.fx
 ./Effects/fx_f14_afterburner_2.fx
 ./Effects/fx_f14_afterburner_3.fx
@@ -654,6 +662,8 @@
 ./Effects/fx_heat_haze.fx
 ./Effects/fx_heliFire.fx
 ./Effects/fx_hotpool.fx
+./Effects/fx_HS_FSX_AI_floatplane_DHC2_taxi.fx
+./Effects/fx_HS_FSX_AI_floatplane_DHC2_touchdown.fx
 ./Effects/fx_HS_FSX_Bonneville_Dam_ground_mist.fx
 ./Effects/fx_HS_FSX_Bonneville_Dam_spray.fx
 ./Effects/fx_HS_FSX_CRM_Yellowstone_LowerFalls.fx
@@ -692,8 +702,18 @@
 ./Effects/fx_HS_FSX_Mt_St_Helens_steam_small.fx
 ./Effects/fx_HS_FSX_NRM_HelmckenFalls.fx
 ./Effects/fx_HS_FSX_NRM_HelmckenFalls_mist.fx
+./Effects/fx_HS_FSX_obstruction_green_sml.fx
+./Effects/fx_HS_FSX_obstruction_red.fx
+./Effects/fx_HS_FSX_obstruction_red_sml.fx
+./Effects/fx_HS_FSX_obstruction_white.fx
+./Effects/fx_HS_FSX_obstruction_whiteblue.fx
+./Effects/fx_HS_FSX_obstruction_white_3s.fx
+./Effects/fx_HS_FSX_obstruction_white_delay8s.fx
+./Effects/fx_HS_FSX_obstruction_white_sml.fx
 ./Effects/fx_HS_FSX_oceanwavecontroller.fx
 ./Effects/fx_HS_FSX_oceanwaves.fx
+./Effects/fx_HS_FSX_smoke_yellow.fx
+./Effects/fx_HS_FSX_white_smoke.fx
 ./Effects/fx_hudsonrockettrail_l.fx
 ./Effects/fx_hudsonrockettrail_r.fx
 ./Effects/fx_hudsonsmoke.fx
@@ -1106,6 +1126,7 @@
 ./Effects/fx_strobe_E1X5.fx
 ./Effects/fx_strobe_F1ATR.fx
 ./Effects/fx_strobe_FSD.fx
+./Effects/fx_strobe_t45.fx
 ./Effects/fx_st_c123.fx
 ./Effects/fx_summer.fx
 ./Effects/fx_T332beacon.fx
@@ -1325,6 +1346,16 @@
 ./Effects/hosplandinglightObsorangeFlash60Hi.fx
 ./Effects/hosplandinglightsblueFlash60Med.fx
 ./Effects/Ilyushin_smoke.fx
+./Effects/JP_small_strobe_white2_4s.fx
+./Effects/JP_small_strobe_white3_4s.fx
+./Effects/JP_small_strobe_white4_4s.fx
+./Effects/JP_small_strobe_white5_4s.fx
+./Effects/JP_small_strobe_white_4s.fx
+./Effects/JP_small_strobe_yellow2_4s.fx
+./Effects/JP_small_strobe_yellow3_4s.fx
+./Effects/JP_small_strobe_yellow4_4s.fx
+./Effects/JP_small_strobe_yellow5_4s.fx
+./Effects/JP_small_strobe_yellow_4s.fx
 ./Effects/JY_apronlight.fx
 ./Effects/JY_Haslight1.fx
 ./Effects/JY_securitylight.fx
@@ -1744,6 +1775,9 @@
 ./Effects/LTBA_appr_light_white_large.fx
 ./Effects/LVLD_strobe.fx
 ./Effects/LVLD_vclight2.fx
+./Effects/MF_AI_ship_BOW_SPRAY_m.fx
+./Effects/MF_AI_ship_EnginSmoke.fx
+./Effects/MF_AI_ship_STERN_SPRAY_m.fx
 ./Effects/MilVizC310_TaxiBloom_01.fx
 ./Effects/MilVizC310_TaxiBloom_02.fx
 ./Effects/MilVizC310_TaxiBloom_03.fx
@@ -1836,6 +1870,10 @@
 ./Effects/sfx_marinaloop.fx
 ./Effects/sfx_RumbleLoop.fx
 ./Effects/sfx_shorelight.fx
+./Effects/Sonic_boom_tomcat1.fx
+./Effects/Sonic_boom_tomcat2.fx
+./Effects/Sonic_boom_tomcat3.fx
+./Effects/Sonic_boom_tomcat4.fx
 ./Effects/sr_fueldump.fx
 ./Effects/su_combustion.fx
 ./Effects/su_combustion_start.fx
@@ -1965,6 +2003,7 @@
 ./Effects/texture/fx_FW2.bmp
 ./Effects/texture/fx_heat.bmp
 ./Effects/texture/fx_heat_r.bmp
+./Effects/texture/fx_HS_landing_light.bmp
 ./Effects/texture/fx_Hugh_Orbx.bmp
 ./Effects/texture/fx_iris_2.bmp
 ./Effects/texture/fx_iris_flare.bmp
