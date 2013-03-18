@@ -211,6 +211,7 @@
 ./SimObjects/Airplanes/PMDG 737-900NGX WL/aircraft.cfg
 ./SimObjects/Airplanes/POSKY-742V4_JT9/aircraft.cfg
 ./SimObjects/Airplanes/POSKY-742V4_RB211/aircraft.cfg
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/aircraft.cfg
 ./SimObjects/Airplanes/Project Airbus A321-211/aircraft.cfg
 ./SimObjects/Airplanes/Project Airbus A321-231/aircraft.cfg
 ./SimObjects/Airplanes/Project Airbus A380-800/aircraft.cfg

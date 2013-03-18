@@ -663,6 +663,7 @@
 ./scenery/World/Scenery/Traffic_JordanAviation_FSX.bgl
 ./scenery/World/Scenery/Traffic_Kai Tak PAX_FSX.bgl
 ./scenery/World/Scenery/Traffic_Kalitta_FSX.bgl
+./scenery/World/Scenery/Traffic_KPAE.bgl
 ./scenery/World/Scenery/Traffic_KTHY-KYV-summer08 FP_FSX.bgl
 ./scenery/World/Scenery/Traffic_lao_FSX.bgl
 ./scenery/World/Scenery/Traffic_LDK_Su12_ShandongAirlines.bgl
@@ -950,3 +951,4 @@
 ./scenery/World/Scenery/_removed/Traffic_FTX GA Traffic.bgl
 ./scenery/World/Scenery/_removed/Traffic_FTX International Airlines.bgl.OFF
 ./scenery/World/Scenery/_removed/Traffic_FTX_NZSI.bgl.OFF
+./scenery/World/Scenery/_removed/Traffic_KPAE.bgl

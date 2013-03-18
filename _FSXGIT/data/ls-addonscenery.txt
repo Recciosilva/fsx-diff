@@ -1037,6 +1037,7 @@
 ./Addon Scenery/USA/Reno_AirRace/scenery
 ./Addon Scenery/USA/USA_MiscAirports
 ./Addon Scenery/USA/USA_MiscAirports/scenery
+./Addon Scenery/USA/USA_MiscAirports/scenery/_DEL
 ./Addon Scenery/USA/_DELETED
 ./Addon Scenery/USA/_DELETED/KFLL_FortLauderdale
 ./Addon Scenery/USA/_DELETED/KFLL_FortLauderdale/Scenery

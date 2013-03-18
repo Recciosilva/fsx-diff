@@ -1,87 +1,4 @@
 ./
-./Addon Scenery
-./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery
-./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery/Traffic PAED2_FSX.bgl
-./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery/Traffic PAED4_FSX.bgl
-./Addon Scenery/Asia/Vietnam/Vietnam War Project/scenery/Traffic PAED5_FSX.bgl
-./Addon Scenery/Canada
-./Addon Scenery/Canada/CYYJ (2011)
-./Addon Scenery/Canada/CYYJ (2011)/AI
-./Addon Scenery/Canada/CYYJ (2011)/AI/Traffic Files
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for Default_FSX
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for Default_FSX/scenery
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for ORBX_FTX_PNW
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for ORBX_FTX_PNW/scenery
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for UTX_Canada
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for UTX_Canada/scenery
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for VicPlus_FSX_wo_CYYJ
-./Addon Scenery/Canada/CYYJ (2011)/Compatibility Files/Enable for VicPlus_FSX_wo_CYYJ/scenery
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/scenery
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/AS 350_VIH
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Beech Baron 58 - CompassWest
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Bell 205_VIH
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Boeing 727-200 Purolator-1
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Boeing 737-500 (C-FPHS)
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-403
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-421
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-124 SeaKing-435
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-146 Griffon-428
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CH-146 Griffon-438
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/CT-133 Silver Target
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Douglas A-26B Conair FBMS
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Douglas Super DC-3
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Sikorsky S55 RCN
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/TCA Viscount 700
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-1
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-2
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-3
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C152-4
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-1
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-2
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-3
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-4
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/VFC C172-5
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Yak52_blue
-./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Yak52_red
-./Addon Scenery/Canada/CYYJ (2011)/Mipmap Manager
-./Addon Scenery/Canada/CYYJ (2011)/Update Checker
-./Addon Scenery/Canada/Kelowna-CYLW
-./Addon Scenery/Canada/Kelowna-CYLW/scenery
-./Addon Scenery/Canada/Kelowna-CYLW/texture
-./Addon Scenery/Canada/Okanagan_LandClass
-./Addon Scenery/Canada/Okanagan_LandClass/scenery
-./Addon Scenery/Canada/Penticton (CYYF)
-./Addon Scenery/Canada/Penticton (CYYF)/effects
-./Addon Scenery/Canada/Penticton (CYYF)/scenery
-./Addon Scenery/Canada/Penticton (CYYF)/scenery/Traffic_Penticton Commercial_FSX.bgl
-./Addon Scenery/Canada/Penticton (CYYF)/scenery/Traffic_Penticton_FSX.bgl
-./Addon Scenery/Canada/Penticton (CYYF)/texture
-./Addon Scenery/Canada/Yellowknife_CYZF_2010/Scenery
-./Addon Scenery/Canada/Yellowknife_CYZF_2010/Scenery/Yellowknife_CYZF_Static_Traffic_FSX.bgl
-./Addon Scenery/CastlegarX
-./Addon Scenery/CastlegarX/scenery
-./Addon Scenery/CastlegarX/texture
-./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery
-./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery/traffic
-./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery/traffic_FSX.bgl
-./Effects
-./Effects/texture
-./FSAddon
-./FSAddon/VictoriaPlus
-./FSAddon/VictoriaPlus/Cache
-./FSAddon/VictoriaPlus/Cache/Flights
-./FSAddon/VictoriaPlus/Cache/oldscenery.cfg
-./FSAddon/VictoriaPlus/Cache/terrain.cfg
-./FSAddon/VictoriaPlus/Docs
-./FSAddon/VictoriaPlus/unins000.dat
-./FSAddon/VictoriaPlus/VicPlus Higher Priority
-./FSAddon/VictoriaPlus/VicPlus Higher Priority/Scenery
-./FSAddon/VictoriaPlus/VicPlus Higher Priority/Texture
-./FSAddon/VictoriaPlus/VicPlus Lower Priority
-./FSAddon/VictoriaPlus/VicPlus Lower Priority/Scenery
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -89,134 +6,36 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./ORBX/Scripts/Backup
-./ORBX/Scripts/Backup/restore.bat
-./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
-./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
-./Scenery/World/Scenery
-./Scenery/World/Scenery/Flights
-./Scenery/World/Scenery/_removed
-./Scenery/World/Texture
+./Scenery/World/Scenery/Traffic_KPAE.bgl
 ./SimObjects/Airplanes
-./SimObjects/Airplanes/Chipmunk V3.0
-./SimObjects/Airplanes/Chipmunk V3.0/Effects
-./SimObjects/Airplanes/Chipmunk V3.0/model.T10
-./SimObjects/Airplanes/Chipmunk V3.0/Panel
-./SimObjects/Airplanes/Chipmunk V3.0/Panel manual
-./SimObjects/Airplanes/Chipmunk V3.0/sound
-./SimObjects/Airplanes/Chipmunk V3.0/soundai
-./SimObjects/Airplanes/Chipmunk V3.0/texture.1377
-./SimObjects/Airplanes/Chipmunk V3.0/texture.BBMF
-./SimObjects/Airplanes/Chipmunk V3.0/texture.GAORW
-./SimObjects/Airplanes/Chipmunk V3.0/texture.GAPSB
-./SimObjects/Airplanes/Chipmunk V3.0/texture.GBARS
-./SimObjects/Airplanes/Chipmunk V3.0/texture.P146
-./SimObjects/Airplanes/Chipmunk V3.0/texture.RCAF
-./SimObjects/Airplanes/Chipmunk V3.0/texture.WB671
-./SimObjects/Airplanes/Chipmunk V3.0/texture.WB733
-./SimObjects/Airplanes/Chipmunk V3.0/texture.WD305
-./SimObjects/Airplanes/Chipmunk V3.0/texture.WD379
-./SimObjects/Airplanes/Chipmunk V3.0/texture.WD390
-./SimObjects/Airplanes/Chipmunk V3.0/texture.WP800
-./SimObjects/Airplanes/Chipmunk V3.0/texture.WP924
-./SimObjects/Airplanes/Chipmunk V3.0/texture.WP962
-./SimObjects/Airplanes/mjc8q3_2/Aircraft.cfg
-./SimObjects/Airplanes/Rutan_Boomerang
-./SimObjects/Airplanes/Rutan_Boomerang/aircraft.cfg
-./SimObjects/Airplanes/Rutan_Boomerang/Docs
-./SimObjects/Airplanes/Rutan_Boomerang/Effects
-./SimObjects/Airplanes/Rutan_Boomerang/model
-./SimObjects/Airplanes/Rutan_Boomerang/model.1
-./SimObjects/Airplanes/Rutan_Boomerang/modules
-./SimObjects/Airplanes/Rutan_Boomerang/panel
-./SimObjects/Airplanes/Rutan_Boomerang/sound
-./SimObjects/Airplanes/Rutan_Boomerang/texture
-./SimObjects/Airplanes/Rutan_Boomerang/texture.1
-./SimObjects/Boats
-./SimObjects/Boats/AI_Vessel_22ft_boat_FSX
-./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/model
-./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/soundai
-./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/texture
-./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/texture.1
-./SimObjects/Boats/AI_Vessel_22ft_boat_FSX/texture.2
-./SimObjects/Boats/AI_Vessel_30ft_boat_FSX
-./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/model
-./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/soundai
-./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/texture
-./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/texture.1
-./SimObjects/Boats/AI_Vessel_30ft_boat_FSX/texture.2
-./SimObjects/Boats/AI_Vessel_40ft_boat_FSX
-./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/model
-./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/soundai
-./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/texture
-./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/texture.1
-./SimObjects/Boats/AI_Vessel_40ft_boat_FSX/texture.2
-./SimObjects/Boats/AI_Vessel_Asuka_FSX
-./SimObjects/Boats/AI_Vessel_Asuka_FSX/model.asuka
-./SimObjects/Boats/AI_Vessel_Asuka_FSX/texture
-./SimObjects/Boats/AI_Vessel_Asuka_FSX/texture.amsterdam
-./SimObjects/Boats/AI_Vessel_Asuka_FSX/texture.summit
-./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX
-./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/model
-./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/soundai
-./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/texture
-./SimObjects/Misc
+./SimObjects/Airplanes/BOB/Aircraft.cfg
+./SimObjects/Airplanes/POSKY_DreamLifter_AI
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/aircraft.cfg
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/model
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/panel
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/panel/Posky744
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/sound
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/Texture
 ./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/aircraft.cfg
-./SimObjects/Misc/CAF-AI CC-177 GlobeMaster
-./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/base textures
-./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/model
-./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/sound
-./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/texture
-./SimObjects/Misc/CAF-AI CC-177 GlobeMaster/texture.1701
-./SimObjects/Misc/CAF-AI_C-130 Hercules
-./SimObjects/Misc/CAF-AI_C-130 Hercules/model.no_tanks
-./SimObjects/Misc/CAF-AI_C-130 Hercules/texture.CFC
-./SimObjects/Misc/CAF-AI_CC-115 Buffalo
-./SimObjects/Misc/CAF-AI_CC-115 Buffalo/model.DHC5
-./SimObjects/Misc/CAF-AI_CC-115 Buffalo/texture.DHC5
-./SimObjects/Misc/CAF-AI_CF-18 Hornet
-./SimObjects/Misc/CAF-AI_CF-18 Hornet/model
-./SimObjects/Misc/CAF-AI_CF-18 Hornet/texture.CAF
-./SimObjects/Misc/CAF-AI_CP-140 Aurora
-./SimObjects/Misc/CAF-AI_CP-140 Aurora/model
-./SimObjects/Misc/CAF-AI_CP-140 Aurora/texture.caf_nc
-./SimObjects/Misc/CAF-AI_CP-150 Polaris
-./SimObjects/Misc/CAF-AI_CP-150 Polaris/model.ge
-./SimObjects/Misc/CAF-AI_CP-150 Polaris/texture.CAF_15004
-./SimObjects/Misc/CYYJ-AI_Boeing 727-200
-./SimObjects/Misc/CYYJ-AI_Boeing 727-200/model.nw
-./SimObjects/Misc/CYYJ-AI_Boeing 727-200/model.w
-./SimObjects/Misc/CYYJ-AI_Boeing 727-200/Texture.KFC-Purolator-1
-./SimObjects/Misc/CYYJ-AI_Boeing 727-200/Texture.KFC-Purolator-2
-./SimObjects/Misc/CYYJ-AI_Boeing 737-500
-./SimObjects/Misc/CYYJ-AI_Boeing 737-500/model.no_refl
-./SimObjects/Misc/CYYJ-AI_Boeing 737-500/texture.C-FPHS
-./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger
-./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/Model
-./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/texture.C-FUND
-./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/texture.C-GAWH
-./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/texture.C-GDPF
-./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/texture.C-GWLL
-./SimObjects/Misc/CYYJ-AI_Bombardier CL-604 Challenger/Texture.caf
-./SimObjects/Misc/CYYJ-AI_Cessna 208B
-./SimObjects/Misc/CYYJ-AI_Cessna 208B/model.cp
-./SimObjects/Misc/CYYJ-AI_Cessna 208B/texture.fedex
-./SimObjects/Misc/CYYJ-AI_Cessna Citation II
-./SimObjects/Misc/CYYJ-AI_Cessna Citation II/model
-./SimObjects/Misc/CYYJ-AI_Cessna Citation II/texture.Blue
-./SimObjects/Misc/CYYJ-AI_Cessna Citation II/texture.Brown
-./SimObjects/Misc/CYYJ-AI_Cessna Citation II/texture.Grey
-./SimObjects/Misc/CYYJ-AI_Cessna Citation II/texture.Red
-./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB
-./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/model
-./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/texture.Green
-./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/texture.Grey
-./SimObjects/Misc/CYYJ-AI_Gulfstream G-IIB/texture.Red
-./SimObjects/Misc/CYYJ-AI_Gulfstream G-IV
-./SimObjects/Misc/CYYJ-AI_Gulfstream G-IV/model
-./SimObjects/Misc/CYYJ-AI_Gulfstream G-IV/texture
-./terrain.cfg
-./UninstalYCG.exe
+./SimObjects/Misc/GWAI Boeing 787-800_FSX
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/Aircraft.cfg
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.Air India
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.Air India/dxt3
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.blank
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.CSN
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.CSN/DXT3
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.Ethiopian
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.HNA
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.HNA/dxt3
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.JAL 2012
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.JAL 2012/dxt3
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.LAN
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.LAN/dxt3
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United/Darker Gold Textures
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United/dxt3
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United/Lighter Gold Textures
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United/Lighter Gold Textures/dxt3
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

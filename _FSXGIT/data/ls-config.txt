@@ -3433,6 +3433,10 @@
 ./SimObjects/Airplanes/POSKY_777_panel/panel.vc2/Panel.2d.cfg
 ./SimObjects/Airplanes/POSKY_777_panel/panel.vc2/panel.cfg
 ./SimObjects/Airplanes/POSKY_777_panel/panel.vc2/Panel.vc.cfg
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/aircraft.cfg
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/model/model.cfg
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/panel/panel.cfg
+./SimObjects/Airplanes/POSKY_DreamLifter_AI/sound/sound.cfg
 ./SimObjects/Airplanes/Project Airbus A320 V2.1/model.cfm_100/model.cfg
 ./SimObjects/Airplanes/Project Airbus A320 V2.1/model.cfm_200/model.cfg
 ./SimObjects/Airplanes/Project Airbus A320 V2.1/model.iae_200/model.cfg
@@ -7475,6 +7479,8 @@
 ./SimObjects/Misc/Generator_sm/model/model.cfg
 ./SimObjects/Misc/Generator_sm/sim.cfg
 ./SimObjects/Misc/Generator_sm/texture/texture.cfg
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/Aircraft.cfg
+./SimObjects/Misc/GWAI Boeing 787-800_FSX/model/model.cfg
 ./SimObjects/Misc/HTAI Beechcraft 1900D/Aircraft.cfg
 ./SimObjects/Misc/HTAI Beechcraft 1900D/model/Model.cfg
 ./SimObjects/Misc/HTAI Cessna 120/Aircraft.cfg
