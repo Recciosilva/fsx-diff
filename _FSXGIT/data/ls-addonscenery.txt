@@ -597,8 +597,6 @@
 ./Addon Scenery/NZ/Christchurch-photoreal/texture
 ./Addon Scenery/NZ/Dunedin_NZDN
 ./Addon Scenery/NZ/Dunedin_NZDN/scenery
-./Addon Scenery/NZ/FSX-Timaru
-./Addon Scenery/NZ/FSX-Timaru/scenery
 ./Addon Scenery/NZ/GreatbarrierIslandX
 ./Addon Scenery/NZ/GreatbarrierIslandX/scenery
 ./Addon Scenery/NZ/GreatbarrierIslandX/texture

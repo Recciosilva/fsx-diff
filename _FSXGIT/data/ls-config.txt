@@ -1333,6 +1333,7 @@
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.Air New Zealand (NAA)/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.bah/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.klm/texture.cfg
+./SimObjects/Airplanes/CS_B737-200ADV/texture.mbs/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.mtj/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.N.A.J/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.OZJETVH-OBN/texture.cfg
@@ -5229,6 +5230,8 @@
 ./SimObjects/Misc/AI_Pawnee/model.spray/model.cfg
 ./SimObjects/Misc/AI_Pawnee/model.tug/model.cfg
 ./SimObjects/Misc/AI_Pawnee/sound/sound.cfg
+./SimObjects/Misc/AI_SCCB-B748-CAL/aircraft.cfg
+./SimObjects/Misc/AI_SCCB-B748-CAL/model/model.cfg
 ./SimObjects/Misc/AI_SD360/aircraft.cfg
 ./SimObjects/Misc/AI_SD360/model/model.cfg
 ./SimObjects/Misc/AI_SD360/panel/panel.cfg

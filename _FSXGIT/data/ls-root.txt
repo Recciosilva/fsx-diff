@@ -371,6 +371,7 @@
 ./VLCGalatea_uninst.exe
 ./VLCGodzoneHokitika
 ./VLCGodzoneKaikoura
+./VLCGodzoneNZTU
 ./VLClibrariesuninst.exe
 ./VLCNthAirfields_uninst.exe
 ./VLCuninst.exe

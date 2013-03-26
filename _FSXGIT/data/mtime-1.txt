@@ -6,36 +6,7 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./Scenery/World/Scenery/Traffic_KPAE.bgl
-./SimObjects/Airplanes
-./SimObjects/Airplanes/BOB/Aircraft.cfg
-./SimObjects/Airplanes/POSKY_DreamLifter_AI
-./SimObjects/Airplanes/POSKY_DreamLifter_AI/aircraft.cfg
-./SimObjects/Airplanes/POSKY_DreamLifter_AI/model
-./SimObjects/Airplanes/POSKY_DreamLifter_AI/panel
-./SimObjects/Airplanes/POSKY_DreamLifter_AI/panel/Posky744
-./SimObjects/Airplanes/POSKY_DreamLifter_AI/sound
-./SimObjects/Airplanes/POSKY_DreamLifter_AI/Texture
-./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/aircraft.cfg
-./SimObjects/Misc/GWAI Boeing 787-800_FSX
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/Aircraft.cfg
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.Air India
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.Air India/dxt3
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.blank
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.CSN
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.CSN/DXT3
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.Ethiopian
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.HNA
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.HNA/dxt3
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.JAL 2012
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.JAL 2012/dxt3
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.LAN
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.LAN/dxt3
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United/Darker Gold Textures
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United/dxt3
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United/Lighter Gold Textures
-./SimObjects/Misc/GWAI Boeing 787-800_FSX/texture.United/Lighter Gold Textures/dxt3
+./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

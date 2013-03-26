@@ -35,6 +35,7 @@
 ./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/aircraft.cfg
 ./SimObjects/Misc/AI_PA31_Navajo/aircraft.cfg
 ./SimObjects/Misc/AI_Pawnee/aircraft.cfg
+./SimObjects/Misc/AI_SCCB-B748-CAL/aircraft.cfg
 ./SimObjects/Misc/AI_SD360/aircraft.cfg
 ./SimObjects/Misc/CAF-AI_CC-115 Buffalo/aircraft.cfg
 ./SimObjects/Misc/CAF-AI_CP-140 Aurora/aircraft.cfg
