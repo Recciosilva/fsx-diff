@@ -539,6 +539,7 @@
 ./Sound/FSD Aircraft/337_stall.wav
 ./Sound/FSD Aircraft/air vent -soft.wav
 ./Sound/FSD Aircraft/air vent.wav
+./Sound/FSD Aircraft/Altitude.wav
 ./Sound/FSD Aircraft/APU.wav
 ./Sound/FSD Aircraft/APU_sft.wav
 ./Sound/FSD Aircraft/C400slowstart.wav
@@ -579,9 +580,14 @@
 ./Sound/FSD Aircraft/FSD_Stallhorn.WAV
 ./Sound/FSD Aircraft/FSD_Stallhorn_soft.WAV
 ./Sound/FSD Aircraft/FSD_terrain_warning.wav
+./Sound/FSD Aircraft/LeaveAltitude.wav
+./Sound/FSD Aircraft/OutOfTrim.wav
 ./Sound/FSD Aircraft/p6_stall.wav
 ./Sound/FSD Aircraft/PA32_flaps.wav
 ./Sound/FSD Aircraft/PA32_flaps_soft.wav
+./Sound/FSD Aircraft/ThreeBeeps.wav
+./Sound/FSD Aircraft/ToneRise.wav
+./Sound/FSD Aircraft/TrimMotion.wav
 ./Sound/fuel_pump.wav
 ./Sound/GatesGone.wav
 ./Sound/GA_Stall.wav

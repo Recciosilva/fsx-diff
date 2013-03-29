@@ -103,8 +103,6 @@
 ./FS2002.exe
 ./FS9.exe
 ./FSAddon
-./FSD Non Internet Installation Manual.pdf
-./FSD Online Installation Manual.pdf
 ./fsdreamteam
 ./FSSound.dll
 ./fsui.dll
@@ -206,6 +204,7 @@
 ./Real NZ Nelson FSX.url
 ./Real NZ Tauranga.url
 ./RealNZTGuninst.exe
+./Remove Bendix Radios.exe
 ./Remove SAAB105 for FSX.exe
 ./RemoveP38.exe
 ./RemoveYF23.exe
@@ -341,6 +340,7 @@
 ./Uninstal_CitXX_wilco.exe
 ./Uninstal_CRJ_FSX_wilco.exe
 ./Uninstal_FR_109K.exe
+./Uninstal_HJJ_FSX.exe
 ./Uninstal_LebanonTerrainXV1.exe
 ./Uninstal_Sirocco_GTX2.exe
 ./Uninstal_vcoljs31sfx.exe

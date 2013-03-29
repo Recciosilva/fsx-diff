@@ -1,4 +1,17 @@
 ./
+./Addon Modules
+./Ckpsound.dll
+./Effects
+./Effects/texture
+./FlightSim Developers
+./FlightSim Developers/Bendix King
+./FlightSim Developers/Bendix King/Control Center Error.txt
+./FlightSim Developers/Bendix King/Gauge Error.txt
+./FlightSim Developers/Bendix King/InstallLog.txt
+./FlightSim Developers/Bendix King/Manuals
+./Gauges
+./Gauges/Bkav.dll
+./Gauges/dc6b_config.ini
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -6,7 +19,40 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
+./Remove Bendix Radios.exe
+./SimObjects/Airplanes
+./SimObjects/Airplanes/DC-6B/Aircraft.cfg
+./SimObjects/Airplanes/SkySpirit_762V5
+./SimObjects/Airplanes/SkySpirit_762V5/Aircraft.cfg
+./SimObjects/Airplanes/SkySpirit_762V5/model
+./SimObjects/Airplanes/SkySpirit_762V5/panel
+./SimObjects/Airplanes/SkySpirit_762V5/panel/Pky_util
+./SimObjects/Airplanes/SkySpirit_762V5/panel/Posky762
+./SimObjects/Airplanes/SkySpirit_762V5/sound
+./SimObjects/Airplanes/SkySpirit_762V5/texture
+./SimObjects/Airplanes/Wilco_HJJ
+./SimObjects/Airplanes/Wilco_HJJ/Aircraft.cfg
+./SimObjects/Airplanes/Wilco_HJJ/Harrier_check_files
+./SimObjects/Airplanes/Wilco_HJJ/Harrier_ref_files
+./SimObjects/Airplanes/Wilco_HJJ/Manual
+./SimObjects/Airplanes/Wilco_HJJ/model.FRS1
+./SimObjects/Airplanes/Wilco_HJJ/model.GR3
+./SimObjects/Airplanes/Wilco_HJJ/Panel
+./SimObjects/Airplanes/Wilco_HJJ/Panel/rcb-gauges
+./SimObjects/Airplanes/Wilco_HJJ/Panel/VCAUTO
+./SimObjects/Airplanes/Wilco_HJJ/Panel/VTOLWindow
+./SimObjects/Airplanes/Wilco_HJJ/sound
+./SimObjects/Airplanes/Wilco_HJJ/texture
+./SimObjects/Airplanes/Wilco_HJJ/texture.1SQUAD
+./SimObjects/Airplanes/Wilco_HJJ/texture.233OCU
+./SimObjects/Airplanes/Wilco_HJJ/texture.3SQUAD
+./SimObjects/Airplanes/Wilco_HJJ/texture.801
+./SimObjects/Airplanes/Wilco_HJJ/texture.899
+./SimObjects/Airplanes/Wilco_HJJ/texture.Indian
+./SimObjects/Airplanes/Wilco_HJJ/texture.War
 ./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
+./Sound/FSD Aircraft
+./Uninstal_HJJ_FSX.exe
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

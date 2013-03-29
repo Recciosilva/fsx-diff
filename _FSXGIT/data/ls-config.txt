@@ -1511,6 +1511,17 @@
 ./SimObjects/Airplanes/De Havilland DH-83 Fox Moth/model.1/Model.cfg
 ./SimObjects/Airplanes/De Havilland DH-83 Fox Moth/panel/panel.cfg
 ./SimObjects/Airplanes/De Havilland DH-83 Fox Moth/sound/Sound.cfg
+./SimObjects/Airplanes/de Havilland DH104/Aircraft.cfg
+./SimObjects/Airplanes/de Havilland DH104/model/Model.cfg
+./SimObjects/Airplanes/de Havilland DH104/model.1/Model.cfg
+./SimObjects/Airplanes/de Havilland DH104/model.2/Model.cfg
+./SimObjects/Airplanes/de Havilland DH104/model.3/Model.cfg
+./SimObjects/Airplanes/de Havilland DH104/model.4/Model.cfg
+./SimObjects/Airplanes/de Havilland DH104/model.5/Model.cfg
+./SimObjects/Airplanes/de Havilland DH104/model.6/Model.cfg
+./SimObjects/Airplanes/de Havilland DH104/panel/Panel.cfg
+./SimObjects/Airplanes/de Havilland DH104/sound/sound.cfg
+./SimObjects/Airplanes/de Havilland DH104/sound.orig/Sound.cfg
 ./SimObjects/Airplanes/DeHavilland Vampire FB5/aircraft.cfg
 ./SimObjects/Airplanes/DeHavilland Vampire FB5/model/Model.cfg
 ./SimObjects/Airplanes/DeHavilland Vampire FB5/panel/panel.cfg
@@ -3801,6 +3812,10 @@
 ./SimObjects/Airplanes/SimCheck A300B4-200/texture.UPS/texture.cfg
 ./SimObjects/Airplanes/SimCheck A300B4-200/texture.vasp/texture.cfg
 ./SimObjects/Airplanes/SimCheck A300B4-200/texture.VH-TAD/texture.cfg
+./SimObjects/Airplanes/SkySpirit_762V5/Aircraft.cfg
+./SimObjects/Airplanes/SkySpirit_762V5/model/Model.cfg
+./SimObjects/Airplanes/SkySpirit_762V5/panel/panel.cfg
+./SimObjects/Airplanes/SkySpirit_762V5/sound/Sound.cfg
 ./SimObjects/Airplanes/Skyvan/Aircraft.cfg
 ./SimObjects/Airplanes/Skyvan/model.c/Model.cfg
 ./SimObjects/Airplanes/Skyvan/model.nc/Model.cfg
@@ -4144,6 +4159,18 @@
 ./SimObjects/Airplanes/VS_SBD/texture.BS3BG/texture.cfg
 ./SimObjects/Airplanes/VS_SBD/texture.NZ5057/texture.cfg
 ./SimObjects/Airplanes/VS_SBD/texture.VS37/texture.cfg
+./SimObjects/Airplanes/Wilco_HJJ/Aircraft.cfg
+./SimObjects/Airplanes/Wilco_HJJ/model.FRS1/Model.cfg
+./SimObjects/Airplanes/Wilco_HJJ/model.GR3/Model.cfg
+./SimObjects/Airplanes/Wilco_HJJ/Panel/Panel.cfg
+./SimObjects/Airplanes/Wilco_HJJ/sound/Sound.cfg
+./SimObjects/Airplanes/Wilco_HJJ/texture.1SQUAD/texture.cfg
+./SimObjects/Airplanes/Wilco_HJJ/texture.233OCU/texture.cfg
+./SimObjects/Airplanes/Wilco_HJJ/texture.3SQUAD/texture.cfg
+./SimObjects/Airplanes/Wilco_HJJ/texture.801/texture.cfg
+./SimObjects/Airplanes/Wilco_HJJ/texture.899/texture.cfg
+./SimObjects/Airplanes/Wilco_HJJ/texture.Indian/texture.cfg
+./SimObjects/Airplanes/Wilco_HJJ/texture.War/texture.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/aircraft.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/model/model.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/sound/SOUND.cfg

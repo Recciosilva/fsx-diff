@@ -491,6 +491,7 @@
 ./Effects/fx_engstrt.fx
 ./Effects/fx_engstrt_BN2.fx
 ./Effects/fx_engstrt_cub.fx
+./Effects/fx_engstrt_dv.fx
 ./Effects/fx_engstrt_fw190.fx
 ./Effects/fx_engstrt_jenny.fx
 ./Effects/fx_engstrt_propliner.fx
@@ -1031,6 +1032,11 @@
 ./Effects/fx_Razbam_f102_afterburner.fx
 ./Effects/fx_RAZBAM_smoke1.fx
 ./Effects/fx_RAZBAM_smoke2.fx
+./Effects/fx_RCB_Cannon3.fx
+./Effects/fx_RCB_Contrail.fx
+./Effects/fx_RCB_Smoke0.fx
+./Effects/fx_RCB_Smoke45.fx
+./Effects/fx_RCB_Smoke90.fx
 ./Effects/fx_rcs_exhaust_l.fx
 ./Effects/fx_rcs_exhaust_l2.fx
 ./Effects/fx_rcs_exhaust_r.fx
@@ -1793,6 +1799,7 @@
 ./Effects/MilViz_T38_BurnerStage4.fx
 ./Effects/NURI_apron_1.fx
 ./Effects/NURI_TAXIBLUE_1.fx
+./Effects/OneNote Table Of Contents.onetoc2
 ./Effects/Opensky_747_vclight.fx
 ./Effects/Opensky_beacon.fx
 ./Effects/Opensky_Boeing_vclight.fx
@@ -2080,6 +2087,7 @@
 ./Effects/texture/gunpack.bmp
 ./Effects/texture/halo.bmp
 ./Effects/texture/halomap.bmp
+./Effects/texture/HarrierCannon.bmp
 ./Effects/texture/iris_fx_2.bmp
 ./Effects/texture/lamp.bmp
 ./Effects/texture/lampadairejlv.bmp
@@ -2106,6 +2114,7 @@
 ./Effects/texture/NAV_Red.bmp
 ./Effects/texture/NAV_White.bmp
 ./Effects/texture/NAV_Yellow.bmp
+./Effects/texture/OneNote Table Of Contents.onetoc2
 ./Effects/texture/p40_cannon.bmp
 ./Effects/texture/people.bmp
 ./Effects/texture/projecteurb.bmp
