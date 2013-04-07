@@ -234,6 +234,8 @@
 ./SimObjects/Airplanes/Tom_A330-200F/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A340-300/aircraft.cfg
+./SimObjects/Airplanes/USNS_PATUXENT/aircraft.cfg
+./SimObjects/Airplanes/USS_Nimitz/aircraft.cfg
 ./SimObjects/Airplanes/Virtavia Heinkel He111H/aircraft.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/aircraft.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/aircraft.cfg

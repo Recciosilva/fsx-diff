@@ -1745,6 +1745,7 @@
 ./SimObjects/Airplanes/Extra300/model/model.cfg
 ./SimObjects/Airplanes/Extra300/panel/panel.cfg
 ./SimObjects/Airplanes/Extra300/sound/sound.cfg
+./SimObjects/Airplanes/Extra300/Sound.IO540/Sound.cfg
 ./SimObjects/Airplanes/Extra300/soundai/soundai.cfg
 ./SimObjects/Airplanes/Extra300/texture/texture.cfg
 ./SimObjects/Airplanes/Extra300/texture.1/texture.cfg
@@ -2171,6 +2172,7 @@
 ./SimObjects/Airplanes/FSD Piper Navajo/Data/Loadout.cfg
 ./SimObjects/Airplanes/FSD Piper Navajo/model/Model.cfg
 ./SimObjects/Airplanes/FSD Piper Navajo/panel/Panel.cfg
+./SimObjects/Airplanes/FSD Piper Navajo/Sound.IO540/Sound.cfg
 ./SimObjects/Airplanes/FSD Piper Navajo/texture/Paint.cfg
 ./SimObjects/Airplanes/FSD Piper Navajo/texture/texture.cfg
 ./SimObjects/Airplanes/FSD Piper Navajo/texture.41162/Paint.cfg
@@ -2197,6 +2199,7 @@
 ./SimObjects/Airplanes/FSD Piper Panther/Data/Loadout.cfg
 ./SimObjects/Airplanes/FSD Piper Panther/model/Model.cfg
 ./SimObjects/Airplanes/FSD Piper Panther/panel/Panel.cfg
+./SimObjects/Airplanes/FSD Piper Panther/Sound.IO540/Sound.cfg
 ./SimObjects/Airplanes/FSD Piper Panther/texture/Paint.cfg
 ./SimObjects/Airplanes/FSD Piper Panther/texture/texture.cfg
 ./SimObjects/Airplanes/FSD Piper Panther/texture.41162/Paint.cfg
@@ -3814,8 +3817,22 @@
 ./SimObjects/Airplanes/SimCheck A300B4-200/texture.VH-TAD/texture.cfg
 ./SimObjects/Airplanes/SkySpirit_762V5/Aircraft.cfg
 ./SimObjects/Airplanes/SkySpirit_762V5/model/Model.cfg
+./SimObjects/Airplanes/SkySpirit_762V5/model.AL/Model.cfg
 ./SimObjects/Airplanes/SkySpirit_762V5/panel/panel.cfg
 ./SimObjects/Airplanes/SkySpirit_762V5/sound/Sound.cfg
+./SimObjects/Airplanes/SkySpirit_762V5/sound.TSS/sound.cfg
+./SimObjects/Airplanes/SkySpirit_763F_GE/Aircraft.cfg
+./SimObjects/Airplanes/SkySpirit_763F_GE/model/Model.cfg
+./SimObjects/Airplanes/SkySpirit_763F_GE/panel/panel.cfg
+./SimObjects/Airplanes/SkySpirit_763F_GE/Panel.LDS/panel.cfg
+./SimObjects/Airplanes/SkySpirit_763F_GE/sound/Sound.cfg
+./SimObjects/Airplanes/SkySpirit_763F_GE/sound file for FSX/Sound.cfg
+./SimObjects/Airplanes/SkySpirit_763F_GE/sound.TSS/sound.cfg
+./SimObjects/Airplanes/SkySpirit_B763ER PW4060/Aircraft.cfg
+./SimObjects/Airplanes/SkySpirit_B763ER PW4060/model/Model.cfg
+./SimObjects/Airplanes/SkySpirit_B763ER PW4060/panel/panel.cfg
+./SimObjects/Airplanes/SkySpirit_B763ER PW4060/sound/Sound.cfg
+./SimObjects/Airplanes/SkySpirit_B763ER PW4060/sound.CLS/sound.cfg
 ./SimObjects/Airplanes/Skyvan/Aircraft.cfg
 ./SimObjects/Airplanes/Skyvan/model.c/Model.cfg
 ./SimObjects/Airplanes/Skyvan/model.nc/Model.cfg
@@ -3942,6 +3959,19 @@
 ./SimObjects/Airplanes/USN Boeing Stearman/model/Model.cfg
 ./SimObjects/Airplanes/USN Boeing Stearman/panel/panel.cfg
 ./SimObjects/Airplanes/USN Boeing Stearman/SOUND/sound.cfg
+./SimObjects/Airplanes/USNS_PATUXENT/aircraft.cfg
+./SimObjects/Airplanes/USNS_PATUXENT/model.USNS_PATUXENT/model.cfg
+./SimObjects/Airplanes/USNS_PATUXENT/model.USNS_PATUXENT_UNREP/model.cfg
+./SimObjects/Airplanes/USNS_PATUXENT/panel/panel.cfg
+./SimObjects/Airplanes/USNS_PATUXENT/texture/texture.cfg
+./SimObjects/Airplanes/USS_Nimitz/aircraft.cfg
+./SimObjects/Airplanes/USS_Nimitz/model.CVN68_10/model.cfg
+./SimObjects/Airplanes/USS_Nimitz/model.CVN68_2/model.cfg
+./SimObjects/Airplanes/USS_Nimitz/model.CVN68_4/model.cfg
+./SimObjects/Airplanes/USS_Nimitz/panel/panel.cfg
+./SimObjects/Airplanes/USS_Nimitz/texture.CVN68_10/texture.cfg
+./SimObjects/Airplanes/USS_Nimitz/texture.CVN68_2/texture.cfg
+./SimObjects/Airplanes/USS_Nimitz/texture.CVN68_4/texture.cfg
 ./SimObjects/Airplanes/VASFMC/panel.a320/Panel.cfg
 ./SimObjects/Airplanes/Vcol_fokker50x/Aircraft.cfg
 ./SimObjects/Airplanes/Vcol_fokker50x/Model/model.cfg
@@ -4215,6 +4245,9 @@
 ./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/Aircraft.cfg
 ./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/model/Model.cfg
 ./SimObjects/Boats/AI_Vessel_Pacific_Pilot_FSX/soundai/soundai.cfg
+./SimObjects/Boats/CA25_AI/Model/model.cfg
+./SimObjects/Boats/CA25_AI/sim.cfg
+./SimObjects/Boats/CA25_AI/soundai/soundai.cfg
 ./SimObjects/Boats/CargoA/model/model.cfg
 ./SimObjects/Boats/CargoA/sim.cfg
 ./SimObjects/Boats/CargoA/Texture/texture.cfg
@@ -4239,9 +4272,13 @@
 ./SimObjects/Boats/ferry2/model/model.cfg
 ./SimObjects/Boats/ferry2/sim.cfg
 ./SimObjects/Boats/ferry2/texture/texture.cfg
+./SimObjects/Boats/Fletcher_DD/model/model.cfg
+./SimObjects/Boats/Fletcher_DD/sim.cfg
 ./SimObjects/Boats/Flour_bomb_floating_dock/model/model.cfg
 ./SimObjects/Boats/Flour_bomb_floating_dock/sim.cfg
 ./SimObjects/Boats/Flour_bomb_floating_dock/texture/texture.cfg
+./SimObjects/Boats/LAclassSubmarine/model/Model.cfg
+./SimObjects/Boats/LAclassSubmarine/sim.cfg
 ./SimObjects/Boats/NZ_Ferry_Arahura/Model/Model.cfg
 ./SimObjects/Boats/NZ_Ferry_Arahura/sim.cfg
 ./SimObjects/Boats/NZ_Ferry_Aratere/Model/Model.cfg
@@ -4305,12 +4342,33 @@
 ./SimObjects/Boats/sailboat_S_u_sm/model/model.cfg
 ./SimObjects/Boats/sailboat_S_u_sm/sim.cfg
 ./SimObjects/Boats/sailboat_S_u_sm/texture/texture.cfg
+./SimObjects/Boats/SH-60_Plane_Guard/model/model.cfg
+./SimObjects/Boats/SH-60_Plane_Guard/sim.cfg
 ./SimObjects/Boats/ship_cranes_sm/model/model.cfg
 ./SimObjects/Boats/ship_cranes_sm/sim.cfg
 ./SimObjects/Boats/ship_cranes_sm/texture/texture.cfg
 ./SimObjects/Boats/Super_tanker_sm/model/model.cfg
 ./SimObjects/Boats/Super_tanker_sm/sim.cfg
 ./SimObjects/Boats/Super_tanker_sm/texture/texture.cfg
+./SimObjects/Boats/Swift/model/Model.cfg
+./SimObjects/Boats/Swift/sim.cfg
+./SimObjects/Boats/TUG1/model/model.cfg
+./SimObjects/Boats/TUG1/sim.cfg
+./SimObjects/Boats/TUG2/model/model.cfg
+./SimObjects/Boats/TUG2/sim.cfg
+./SimObjects/Boats/TUG3/model/model.cfg
+./SimObjects/Boats/TUG3/sim.cfg
+./SimObjects/Boats/USNS_PATUXENT/model.USNS_PATUXENT/model.cfg
+./SimObjects/Boats/USNS_PATUXENT/model.USNS_PATUXENT_UNREP/model.cfg
+./SimObjects/Boats/USNS_PATUXENT/sim.cfg
+./SimObjects/Boats/USNS_PATUXENT/texture/texture.cfg
+./SimObjects/Boats/USS_HORNET_MISSIONS/model/Model.cfg
+./SimObjects/Boats/USS_HORNET_MISSIONS/SIM.cfg
+./SimObjects/Boats/USS_HORNET_MISSIONS/sound/Sound.cfg
+./SimObjects/Boats/USS_Misspillion/model/Model.cfg
+./SimObjects/Boats/USS_Misspillion/sim.cfg
+./SimObjects/Boats/USS_NewJersey/model/model.cfg
+./SimObjects/Boats/USS_NewJersey/sim.cfg
 ./SimObjects/Boats/Veh_Airboat_Sm/Model/model.cfg
 ./SimObjects/Boats/Veh_Airboat_Sm/sim.cfg
 ./SimObjects/Boats/Veh_Airboat_Sm/texture/texture.cfg
@@ -4322,6 +4380,15 @@
 ./SimObjects/Boats/veh_carrier01_high_detail_sm/sound/sound.cfg
 ./SimObjects/Boats/veh_carrier01_high_detail_sm/soundai/soundai.cfg
 ./SimObjects/Boats/veh_carrier01_high_detail_sm/texture/texture.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/model/model.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/sim.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/sound/sound.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/soundai/soundai.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/texture.cvn68/texture.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/texture.cvn71/texture.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/texture.cvn72/texture.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/texture.cvn73/texture.cfg
+./SimObjects/Boats/VEH_carrier01_texturepack/texture.cvn76/texture.cfg
 ./SimObjects/Boats/Veh_CigaretteBoat_02_Sm/Model/model.cfg
 ./SimObjects/Boats/Veh_CigaretteBoat_02_Sm/sim.cfg
 ./SimObjects/Boats/Veh_CigaretteBoat_02_Sm/texture/texture.cfg
@@ -4466,9 +4533,25 @@
 ./SimObjects/Boats/VEH_water_yacht_280ft_sm/model/model.cfg
 ./SimObjects/Boats/VEH_water_yacht_280ft_sm/sim.cfg
 ./SimObjects/Boats/VEH_water_yacht_280ft_sm/texture/texture.cfg
+./SimObjects/Boats/VLCC/model/Model.cfg
+./SimObjects/Boats/VLCC/sim.cfg
+./SimObjects/Boats/VLCC/texture/texture.cfg
 ./SimObjects/Boats/wash_ferry_sm/model/model.cfg
 ./SimObjects/Boats/wash_ferry_sm/sim.cfg
 ./SimObjects/Boats/wash_ferry_sm/texture/texture.cfg
+./SimObjects/Boats/WWII_Sub/model/Model.cfg
+./SimObjects/Boats/WWII_Sub/sim.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/model/Model.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/model.hanger1/Model.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/model.hanger2/Model.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/sim.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/texture/texture.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/texture.Curts/texture.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/texture.Gary/texture.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/texture.Jarrett/texture.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/texture.McClusky/texture.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/texture.Rentz/texture.cfg
+./SimObjects/Boats/_AIV_FFG_Oliver_Hazard_Perry/texture.Vandegrift/texture.cfg
 ./SimObjects/GroundVehicles/Automobile/model/Model.cfg
 ./SimObjects/GroundVehicles/Automobile/panel/panel.cfg
 ./SimObjects/GroundVehicles/Automobile/sim.cfg
@@ -8137,6 +8220,14 @@
 ./SimObjects/Misc/WaterDrop/panel/panel.cfg
 ./SimObjects/Misc/WaterDrop/sim.cfg
 ./SimObjects/Misc/WaterDrop/sound/sound.cfg
+./SimObjects/Misc/WinchXParachute/model/model.cfg
+./SimObjects/Misc/WinchXParachute/model.closed/model.cfg
+./SimObjects/Misc/WinchXParachute/sim.cfg
+./SimObjects/Misc/WinchXParachute/texture/texture.cfg
+./SimObjects/Misc/WinchXWinch/model/model.cfg
+./SimObjects/Misc/WinchXWinch/sim.cfg
+./SimObjects/Misc/WinchXWinch/soundai/soundai.cfg
+./SimObjects/Misc/WinchXWinch/texture/texture.cfg
 ./SimObjects/Misc/WoA_AIA_B717/aircraft.cfg
 ./SimObjects/Misc/WoA_AIA_B717/model.no_refl/model.cfg
 ./SimObjects/Misc/WoA_AIA_B717/model.reflective/model.cfg

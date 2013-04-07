@@ -349,16 +349,20 @@
 ./Effects/fx_beacon2_FSD.fx
 ./Effects/fx_beacon85.fx
 ./Effects/fx_beaconb.fx
+./Effects/fx_beaconb_cvn.fx
+./Effects/fx_beaconb_island_cvn.fx
 ./Effects/fx_beaconcarac11.fx
 ./Effects/fx_beaconcardose.fx
 ./Effects/fx_beaconcn.fx
 ./Effects/fx_beacong.fx
+./Effects/fx_beacong_cvn.fx
 ./Effects/fx_beaconh.fx
 ./Effects/fx_beaconOrange.fx
 ./Effects/fx_beaconpa28archer.fx
 ./Effects/fx_beaconpa34.fx
 ./Effects/fx_beaconsm_F1ATR.fx
 ./Effects/fx_beaconwhi.fx
+./Effects/fx_beaconwhi_cvn.fx
 ./Effects/fx_beacony pgum.fx
 ./Effects/fx_beacony.fx
 ./Effects/fx_beacon_500.fx
@@ -410,6 +414,12 @@
 ./Effects/fx_cargoDestroyWaterWood.fx
 ./Effects/fx_cargoImpactLand.fx
 ./Effects/fx_cargoImpactWater.fx
+./Effects/fx_carrier_helo.fx
+./Effects/fx_carrier_mule.fx
+./Effects/fx_carrier_PA.fx
+./Effects/fx_carrier_rumble.fx
+./Effects/fx_carrier_waterloop.fx
+./Effects/fx_carrier_wind.fx
 ./Effects/fx_ChimneySmoke.fx
 ./Effects/fx_chirpsnd.fx
 ./Effects/fx_christeneagle_smoke.fx
@@ -853,6 +863,7 @@
 ./Effects/fx_lightObsRedFlash40.fx
 ./Effects/fx_lightObsRedFlash60.fx
 ./Effects/fx_lightObsRedSteady.fx
+./Effects/fx_lightObsRedSteady_cvn.fx
 ./Effects/fx_lightObsWhiteFlash40Hi.fx
 ./Effects/fx_lightObsWhiteFlash40Med.fx
 ./Effects/fx_lightObsWhiteFlash60Hi.fx
@@ -917,6 +928,7 @@
 ./Effects/fx_navwhi_FSD.fx
 ./Effects/fx_navwhi_sirgtx2.fx
 ./Effects/fx_navyel.fx
+./Effects/fx_navyelh.fx
 ./Effects/fx_nbai_F15_ab.fx
 ./Effects/fx_nbai_F15_ab_extended.fx
 ./Effects/fx_Ngafalls_lrg.fx
@@ -928,6 +940,7 @@
 ./Effects/fx_Nord_Beacon_01.fx
 ./Effects/fx_Nord_Beacon_02.fx
 ./Effects/fx_nosewhi_DG.fx
+./Effects/fx_NoWake.fx
 ./Effects/fx_nurlightw.fx
 ./Effects/fx_object_test.fx
 ./Effects/fx_obslight.fx
@@ -1067,6 +1080,9 @@
 ./Effects/fx_Saab_white.fx
 ./Effects/fx_SBD_EngStart.fx
 ./Effects/fx_sheep.fx
+./Effects/fx_Ship_smoke.fx
+./Effects/fx_shockwave_navgre.fx
+./Effects/fx_shockwave_vclight_l.fx
 ./Effects/fx_shootstar1.fx
 ./Effects/fx_shootstar2.fx
 ./Effects/fx_Sht_beaconb.fx
@@ -1877,6 +1893,7 @@
 ./Effects/sfx_marinaloop.fx
 ./Effects/sfx_RumbleLoop.fx
 ./Effects/sfx_shorelight.fx
+./Effects/ShipSpotLight.fx
 ./Effects/Sonic_boom_tomcat1.fx
 ./Effects/Sonic_boom_tomcat2.fx
 ./Effects/Sonic_boom_tomcat3.fx

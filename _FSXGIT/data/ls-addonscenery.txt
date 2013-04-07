@@ -978,9 +978,9 @@
 ./Addon Scenery/USA/KLGA_PHOTO_REAL/Texture
 ./Addon Scenery/USA/KMCO Orlando
 ./Addon Scenery/USA/KMCO Orlando/scenery
-./Addon Scenery/USA/KMSY_Daytime
-./Addon Scenery/USA/KMSY_Daytime/scenery
-./Addon Scenery/USA/KMSY_Daytime/texture
+./Addon Scenery/USA/KMSY Photo_Real V3.0
+./Addon Scenery/USA/KMSY Photo_Real V3.0/Scenery
+./Addon Scenery/USA/KMSY Photo_Real V3.0/Texture
 ./Addon Scenery/USA/KOAK_PHOTO_REAL
 ./Addon Scenery/USA/KOAK_PHOTO_REAL/Scenery
 ./Addon Scenery/USA/KOAK_PHOTO_REAL/Texture
@@ -1039,6 +1039,9 @@
 ./Addon Scenery/USA/_DELETED
 ./Addon Scenery/USA/_DELETED/KFLL_FortLauderdale
 ./Addon Scenery/USA/_DELETED/KFLL_FortLauderdale/Scenery
+./Addon Scenery/USA/_DELETED/KMSY_Daytime
+./Addon Scenery/USA/_DELETED/KMSY_Daytime/scenery
+./Addon Scenery/USA/_DELETED/KMSY_Daytime/texture
 ./Addon Scenery/USA/_DELETED/WTS_KOAK
 ./Addon Scenery/USA/_DELETED/WTS_KOAK/scenery
 ./Addon Scenery/USA/_DELETED/WTS_KOAK/texture

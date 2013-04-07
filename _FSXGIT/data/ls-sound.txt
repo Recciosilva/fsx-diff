@@ -2049,6 +2049,7 @@
 ./Sound/MRSDITH.wav
 ./Sound/MRSDITL.wav
 ./Sound/MRSSP.wav
+./Sound/mule.wav
 ./Sound/nose.wav
 ./Sound/no_ap.wav
 ./Sound/oilprime.wav
@@ -2563,6 +2564,7 @@
 ./Sound/SFX_UFOImpact.wav
 ./Sound/SFX_UFOSplash.wav
 ./Sound/SFX_WoodSplash.wav
+./Sound/sh60_sound.wav
 ./Sound/sheep.wav
 ./Sound/ShoreLight.wav
 ./Sound/shutdown.wav
@@ -2684,6 +2686,7 @@
 ./Sound/squeaking brakes/SB01_Brakes.wav
 ./Sound/squeaking brakes/Sound.ini
 ./Sound/STALLHRN.WAV
+./Sound/start-em-up.wav
 ./Sound/startpis.wav
 ./Sound/startup.wav
 ./Sound/startupx.wav

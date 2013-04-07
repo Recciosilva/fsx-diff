@@ -37,25 +37,52 @@
 ./modules/vasfmc.mcro
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./modules/_old_2
-./modules/_old_2/FSUIPC4 Install.log
-./modules/_old_2/FSUIPC4.DLL
-./modules/_old_2/FSUIPC4.ini
-./modules/_old_2/FSUIPC4.log
-./modules/_old_mods
-./modules/_old_mods/FSUIPC.dll
-./modules/_old_mods/FSUIPC4 Install.log
-./modules/_old_mods/FSUIPC4.DLL
-./modules/_old_mods/FSUIPC4.ini
-./modules/_old_mods/FSUIPC4.log
-./modules/_old_mods/state_busted_201111
-./modules/_old_mods/state_busted_201111/FSUIPC Install.log
-./modules/_old_mods/state_busted_201111/FSUIPC.DLL
-./modules/_working-FSUIPC-20111204
-./modules/_working-FSUIPC-20111204/FSCopilot.dll
-./modules/_working-FSUIPC-20111204/FSUIPC4 Install.log
-./modules/_working-FSUIPC-20111204/FSUIPC4.1.log
-./modules/_working-FSUIPC-20111204/FSUIPC4.DLL
-./modules/_working-FSUIPC-20111204/FSUIPC4.ini
-./modules/_working-FSUIPC-20111204/FSUIPC4.ini.bak
-./modules/_working-FSUIPC-20111204/FSUIPC4.log
+./modules/_DEL
+./modules/_DEL/WinchX!
+./modules/_DEL/WinchX!/CableSlackTow.wav
+./modules/_DEL/WinchX!/Release.wav
+./modules/_DEL/WinchX!/Rupture.wav
+./modules/_DEL/WinchX!/VEAllOut.wav
+./modules/_DEL/WinchX!/VECableOn.wav
+./modules/_DEL/WinchX!/VELive.wav
+./modules/_DEL/WinchX!/VEOpenClose.wav
+./modules/_DEL/WinchX!/VESlack.wav
+./modules/_DEL/WinchX!/VFAllOut.wav
+./modules/_DEL/WinchX!/VFCableOn.wav
+./modules/_DEL/WinchX!/VFLive.wav
+./modules/_DEL/WinchX!/VFOpenClose.wav
+./modules/_DEL/WinchX!/VFSlack.wav
+./modules/_DEL/WinchX!/VGAllOut.wav
+./modules/_DEL/WinchX!/VGCableOn.wav
+./modules/_DEL/WinchX!/VGLive.wav
+./modules/_DEL/WinchX!/VGOpenClose.wav
+./modules/_DEL/WinchX!/VGSlack.wav
+./modules/_DEL/WinchX!/WinchX.exe
+./modules/_DEL/WinchX!/WinchX.exe.config
+./modules/_DEL/WinchX!/WinchX.exe.manifest
+./modules/_DEL/WinchX!/WinchX.pdb
+./modules/_DEL/WinchX!/WinchX.xml
+./modules/_DEL/WinchX!/WinchXHelp.pdf
+./modules/_DEL/WinchX!/WinchXHelpDE.pdf
+./modules/_DEL/_old_2
+./modules/_DEL/_old_2/FSUIPC4 Install.log
+./modules/_DEL/_old_2/FSUIPC4.DLL
+./modules/_DEL/_old_2/FSUIPC4.ini
+./modules/_DEL/_old_2/FSUIPC4.log
+./modules/_DEL/_old_mods
+./modules/_DEL/_old_mods/FSUIPC.dll
+./modules/_DEL/_old_mods/FSUIPC4 Install.log
+./modules/_DEL/_old_mods/FSUIPC4.DLL
+./modules/_DEL/_old_mods/FSUIPC4.ini
+./modules/_DEL/_old_mods/FSUIPC4.log
+./modules/_DEL/_old_mods/state_busted_201111
+./modules/_DEL/_old_mods/state_busted_201111/FSUIPC Install.log
+./modules/_DEL/_old_mods/state_busted_201111/FSUIPC.DLL
+./modules/_DEL/_working-FSUIPC-20111204
+./modules/_DEL/_working-FSUIPC-20111204/FSCopilot.dll
+./modules/_DEL/_working-FSUIPC-20111204/FSUIPC4 Install.log
+./modules/_DEL/_working-FSUIPC-20111204/FSUIPC4.1.log
+./modules/_DEL/_working-FSUIPC-20111204/FSUIPC4.DLL
+./modules/_DEL/_working-FSUIPC-20111204/FSUIPC4.ini
+./modules/_DEL/_working-FSUIPC-20111204/FSUIPC4.ini.bak
+./modules/_DEL/_working-FSUIPC-20111204/FSUIPC4.log
