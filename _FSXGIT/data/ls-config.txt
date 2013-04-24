@@ -2989,6 +2989,7 @@
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/model.side/Model.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/panel/Panel.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Sound/sound.cfg
+./SimObjects/Airplanes/JF_Vickers_Viscount_800/sound.fsds/sound.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.AERLINGUS/texture.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.AIRCANADA/texture.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.baf/texture.cfg
@@ -2999,6 +3000,7 @@
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.intra/texture.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.klm/texture.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.lhvint/texture.cfg
+./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.NAC BRF/texture.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.raaf/texture.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Texture.TAA/texture.cfg
 ./SimObjects/Airplanes/Jodel/aircraft.cfg
@@ -3165,6 +3167,10 @@
 ./SimObjects/Airplanes/mjc8q3_2/panel/Panel.cfg
 ./SimObjects/Airplanes/mjc8q3_2/panel.wide/Panel.cfg
 ./SimObjects/Airplanes/mjc8q3_2/sound/Sound.cfg
+./SimObjects/Airplanes/mjc8q3_2/Texture.ZK-NEA/texture.cfg
+./SimObjects/Airplanes/mjc8q3_2/Texture.ZK-NEB/texture.cfg
+./SimObjects/Airplanes/mjc8q3_2/Texture.ZK-NED/texture.cfg
+./SimObjects/Airplanes/mjc8q3_2/Texture.ZK-NEQ OPac/texture.cfg
 ./SimObjects/Airplanes/Mooney_Bravo/aircraft.cfg
 ./SimObjects/Airplanes/Mooney_Bravo/model/model.cfg
 ./SimObjects/Airplanes/Mooney_Bravo/model.g1000/model.cfg
@@ -4014,6 +4020,38 @@
 ./SimObjects/Airplanes/Vcol_jetstream31/Texture.skyways/texture.cfg
 ./SimObjects/Airplanes/Vcol_jetstream31/Texture.ual90/texture.cfg
 ./SimObjects/Airplanes/Vcol_jetstream31/Texture.ual95/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Aircraft.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/model/Model.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Panel/panel.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Panel.812/panel.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Panel.814/panel.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Panel.816/Panel.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Panel.831/panel.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Panel.836/Panel.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Sound/sound.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.Airwork/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.alidairN501TL/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.ana/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.BAF_Uni_HOT/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.baltic/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.BMAARKIA/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.BMA_NC/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.Bouraq_last/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.britishworld/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.bua/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.bunited/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.channel/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.clan/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.cona/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.cubana/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.DANCZR/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.hot/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.Manx_ZL/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.midland/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.PLUNA/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.sudan/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.TAA59/texture.cfg
+./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.ZS-CDT/texture.cfg
 ./SimObjects/Airplanes/Virtavia C-7 Caribou/Aircraft.cfg
 ./SimObjects/Airplanes/Virtavia C-7 Caribou/model/model.cfg
 ./SimObjects/Airplanes/Virtavia C-7 Caribou/model.C7A/model.cfg
@@ -4130,6 +4168,13 @@
 ./SimObjects/Airplanes/Virtavia Yak-52TD/sound/Sound.cfg
 ./SimObjects/Airplanes/Virtavia Yak-52TD/texture.1/texture.cfg
 ./SimObjects/Airplanes/Virtavia Yak-52TD/texture.2/texture.cfg
+./SimObjects/Airplanes/Viscount_JF_FSDS_Merge/Aircraft.cfg
+./SimObjects/Airplanes/Viscount_JF_FSDS_Merge/model/Model.cfg
+./SimObjects/Airplanes/Viscount_JF_FSDS_Merge/model.MIL/Model.cfg
+./SimObjects/Airplanes/Viscount_JF_FSDS_Merge/model.side/Model.cfg
+./SimObjects/Airplanes/Viscount_JF_FSDS_Merge/panel/Panel.cfg
+./SimObjects/Airplanes/Viscount_JF_FSDS_Merge/sound.fsds/sound.cfg
+./SimObjects/Airplanes/Viscount_JF_FSDS_Merge/Texture.NAC BRF/texture.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/aircraft - ORIG.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/aircraft.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/model/model.cfg
@@ -8963,6 +9008,7 @@
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/texture.RAAF/texture.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/texture.UN/texture.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/texture.USA/texture.cfg
+./SimObjects/Sounds/FSDS_RR_Dart/sound/sound.cfg
 ./Sound/DG/Austersounds.cfg
 ./Sound/emb_sound.cfg
 ./Sound/Sound.cfg

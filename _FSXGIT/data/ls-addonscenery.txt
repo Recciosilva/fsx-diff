@@ -243,6 +243,7 @@
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/scenery/_old
+./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/texture
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports/_DELETED
 ./Addon Scenery/Caribbean/Bahamas/MY Eleutheria Island
 ./Addon Scenery/Caribbean/Bahamas/MY Eleutheria Island/scenery

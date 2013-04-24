@@ -1,18 +1,27 @@
 ./
-./Addon Scenery/USA
-./Addon Scenery/USA/KMSY Photo_Real V3.0
-./Addon Scenery/USA/KMSY Photo_Real V3.0/Scenery
-./Addon Scenery/USA/KMSY Photo_Real V3.0/Texture
-./Addon Scenery/USA/_DELETED
-./jb777memfilemap.txt
-./Level-D Simulations/B767-300/B767-300.ini
+./Gauges/Qw757_TCAS.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
 ./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
+./_FSXGIT/bkups
+./_FSXGIT/bkups/backup-2013-04-25.tar.gz
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
+./_FSXGIT/data/ls-addonscenery.txt
+./_FSXGIT/data/ls-aircraft-cfg.txt
+./_FSXGIT/data/ls-config.txt
+./_FSXGIT/data/ls-effects.txt
+./_FSXGIT/data/ls-gauges.txt
+./_FSXGIT/data/ls-misc-cfg.txt
+./_FSXGIT/data/ls-modules.txt
+./_FSXGIT/data/ls-root.txt
+./_FSXGIT/data/ls-rotorcraft-cfg.txt
+./_FSXGIT/data/ls-sceneryworld.txt
+./_FSXGIT/data/ls-sound.txt
+./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG
+./_FSXGIT/report.sh
