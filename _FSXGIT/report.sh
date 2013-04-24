@@ -22,6 +22,7 @@ echo running file listings/comparisons...
 find ./ -mtime -1 | grep -v "git" > "$DATADIR/mtime-1.txt"
 
 find ./ -maxdepth 1  > "$DATADIR/ls-root.txt"
+find ./Addon\ Modules/  > "$DATADIR/addon-modules.txt"
 find ./Effects/  > "$DATADIR/ls-effects.txt"
 find ./Gauges/ -name "*.gau" > "$DATADIR/ls-gauges.txt"
 find ./modules/  > "$DATADIR/ls-modules.txt"
