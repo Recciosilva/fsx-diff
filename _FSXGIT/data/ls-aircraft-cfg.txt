@@ -216,6 +216,7 @@
 ./SimObjects/Airplanes/Project Airbus A321-231/aircraft.cfg
 ./SimObjects/Airplanes/Project Airbus A380-800/aircraft.cfg
 ./SimObjects/Airplanes/Projet Noratlas/aircraft.cfg
+./SimObjects/Airplanes/RAAF CT-4A/aircraft.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/aircraft.cfg
 ./SimObjects/Airplanes/Riva Aquarama/aircraft.cfg
 ./SimObjects/Airplanes/RNZAF CT4Ev2/aircraft.cfg

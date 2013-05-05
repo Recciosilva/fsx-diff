@@ -3616,6 +3616,13 @@
 ./SimObjects/Airplanes/QualityWings C-32A/panel.retroHD/panel.cfg
 ./SimObjects/Airplanes/QualityWings C-32A/sound.pw/sound.cfg
 ./SimObjects/Airplanes/QualityWings C-32A/Texture/texture.cfg
+./SimObjects/Airplanes/RAAF CT-4A/aircraft.cfg
+./SimObjects/Airplanes/RAAF CT-4A/model/Model.cfg
+./SimObjects/Airplanes/RAAF CT-4A/model.RNZAF/Model.cfg
+./SimObjects/Airplanes/RAAF CT-4A/panel/panel.cfg
+./SimObjects/Airplanes/RAAF CT-4A/panel.b/panel.cfg
+./SimObjects/Airplanes/RAAF CT-4A/sound/Sound.cfg
+./SimObjects/Airplanes/RAAF CT-4A/sound.orig/Sound.cfg
 ./SimObjects/Airplanes/RAZBAM A-7 Corsair II/Aircraft.cfg
 ./SimObjects/Airplanes/RAZBAM A-7 Corsair II/model/model.cfg
 ./SimObjects/Airplanes/RAZBAM A-7 Corsair II/model.1/model.cfg
@@ -3679,6 +3686,7 @@
 ./SimObjects/Airplanes/RNZAF CT4Ev2/aircraftFAST.cfg
 ./SimObjects/Airplanes/RNZAF CT4Ev2/model/Model.cfg
 ./SimObjects/Airplanes/RNZAF CT4Ev2/panel/panel.cfg
+./SimObjects/Airplanes/RNZAF CT4Ev2/panel.orig/panel.cfg
 ./SimObjects/Airplanes/RNZAF CT4Ev2/sound/Sound.cfg
 ./SimObjects/Airplanes/RNZAF Skyhawk A4-K AA/aircraft.cfg
 ./SimObjects/Airplanes/RNZAF Skyhawk A4-K AA/model/Model.cfg

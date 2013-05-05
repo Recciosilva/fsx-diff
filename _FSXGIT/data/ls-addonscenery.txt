@@ -632,6 +632,9 @@
 ./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA
 ./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA/scenery
 ./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA/texture
+./Addon Scenery/NZ/NZMS_Masterton-4X
+./Addon Scenery/NZ/NZMS_Masterton-4X/Scenery
+./Addon Scenery/NZ/NZMS_Masterton-4X/Texture
 ./Addon Scenery/NZ/NZNP_New_Plymouth-4X
 ./Addon Scenery/NZ/NZNP_New_Plymouth-4X/Scenery
 ./Addon Scenery/NZ/NZNP_New_Plymouth-4X/Texture
@@ -802,6 +805,8 @@
 ./Addon Scenery/Rwy12/scenery
 ./Addon Scenery/Rwy12/texture
 ./Addon Scenery/scenery
+./Addon Scenery/scenery/NORTH_SOUTH_AMERICA
+./Addon Scenery/scenery/UK_EUROPE
 ./Addon Scenery/scenery/_removed
 ./Addon Scenery/Seychelles
 ./Addon Scenery/Seychelles/docs
