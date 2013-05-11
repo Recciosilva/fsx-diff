@@ -238,6 +238,7 @@
 ./SimObjects/Airplanes/USNS_PATUXENT/aircraft.cfg
 ./SimObjects/Airplanes/USS_Nimitz/aircraft.cfg
 ./SimObjects/Airplanes/Virtavia Heinkel He111H/aircraft.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/aircraft.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/aircraft.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/aircraft.cfg
 ./SimObjects/Airplanes/VS_RV8/aircraft.cfg

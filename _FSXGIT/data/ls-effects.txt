@@ -46,6 +46,15 @@
 ./Effects/Ants_P2002_Strobe2.fx
 ./Effects/ants_P2002_tchdrt.fx
 ./Effects/Ants_P2002_vclight2.fx
+./Effects/Ants_P92_EngineStart.fx
+./Effects/Ants_P92_Landing.fx
+./Effects/Ants_P92_Strobe.fx
+./Effects/ants_P92_tchdrt.fx
+./Effects/Ants_P92_vclight.fx
+./Effects/Ants_T28D_Cockpit_Red.fx
+./Effects/Ants_T28D_EngineStart.fx
+./Effects/Ants_T28D_EngineStartRPTE.fx
+./Effects/Ants_T28D_tchdrt.fx
 ./Effects/apron ground - kopie.fx
 ./Effects/apron ground general guam.fx
 ./Effects/apron ground guam.fx
@@ -318,6 +327,7 @@
 ./Effects/fx_ALPHA_He111_vclight.fx
 ./Effects/fx_ALPHA_He111_vclight1.fx
 ./Effects/fx_ALPHA_S55_engstrt.fx
+./Effects/fx_ALPHA_Sh2_vclight.fx
 ./Effects/fx_ALPHA_T6_DSb.fx
 ./Effects/fx_ALPHA_T6_DSr.fx
 ./Effects/fx_ALPHA_T6_DSw.fx
@@ -328,6 +338,16 @@
 ./Effects/fx_ALPHA_T6_ExSmoke.fx
 ./Effects/fx_ALPHA_T6_Td.fx
 ./Effects/fx_ALPHA_T6_WTVortices.fx
+./Effects/fx_ALPHA_Tonka_AB.fx
+./Effects/fx_ALPHA_Tonka_Exh.fx
+./Effects/fx_ALPHA_Tonka_LL4.fx
+./Effects/fx_ALPHA_Tonka_NavG4.fx
+./Effects/fx_ALPHA_Tonka_NavR4.fx
+./Effects/fx_ALPHA_Tonka_NavW.fx
+./Effects/fx_ALPHA_Tonka_smoke.fx
+./Effects/fx_ALPHA_Tonka_Td.fx
+./Effects/fx_ALPHA_Tonka_vclight_Gr.fx
+./Effects/fx_Alpha_Tonka_Vortices.fx
 ./Effects/fx_amazonExplosion.fx
 ./Effects/fx_amazonSmoke.fx
 ./Effects/fx_amazonStatueDust.fx
@@ -1917,6 +1937,13 @@
 ./Effects/texture/A_F18-1.bmp
 ./Effects/texture/A_F18-2.bmp
 ./Effects/texture/A_F18-3.bmp
+./Effects/texture/A_F3-00.bmp
+./Effects/texture/A_F3-00a1.bmp
+./Effects/texture/A_F3-01b.bmp
+./Effects/texture/A_F3-1.bmp
+./Effects/texture/A_F3-2.bmp
+./Effects/texture/A_F3-3.bmp
+./Effects/texture/A_fx2.bmp
 ./Effects/texture/A_GB-F1.bmp
 ./Effects/texture/A_He111_smoke.bmp
 ./Effects/texture/A_T6-F1.bmp

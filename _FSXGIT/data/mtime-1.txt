@@ -1,11 +1,106 @@
 ./
+./Addon Scenery/USA/USA_MiscAirports/scenery
+./Effects
+./Effects/texture
+./Gauges/PMDG_737NGX_3.ini
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
+./modules/WideServer0.log
+./PMDG/Livery Manager/new
+./PMDG/Livery Manager/new/done
+./PMDG/PMDG 737 NGX/737NGX_Colors.ini
+./PMDG/PMDG 737 NGX/737NGX_Options.ini
+./PMDG/PMDG 737 NGX/Aircraft
+./PMDG/PMDG 737 NGX/Aircraft/9Y-GEO.ini
+./PMDG/PMDG 737 NGX/Aircraft/Backups
+./SimObjects/Airplanes
+./SimObjects/Airplanes/Ants P92 Eaglet
+./SimObjects/Airplanes/Ants P92 Eaglet/Documentation
+./SimObjects/Airplanes/Ants P92 Eaglet/Eaglet Setup Program
+./SimObjects/Airplanes/Ants P92 Eaglet/model
+./SimObjects/Airplanes/Ants P92 Eaglet/model.EFIS
+./SimObjects/Airplanes/Ants P92 Eaglet/panel
+./SimObjects/Airplanes/Ants P92 Eaglet/panel/GPS296
+./SimObjects/Airplanes/Ants P92 Eaglet/panel/P92Gauges
+./SimObjects/Airplanes/Ants P92 Eaglet/panel.EFIS
+./SimObjects/Airplanes/Ants P92 Eaglet/sound
+./SimObjects/Airplanes/Ants P92 Eaglet/sound.EFIS
+./SimObjects/Airplanes/Ants P92 Eaglet/texture
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.247300
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.247600
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.blue
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.bluegold
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.IA066
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.IA093
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.N121TE
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.orange
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.silvergold
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.VHDBJ
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.white
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.ZKWTF
+./SimObjects/Airplanes/CS_B737-200ADV
+./SimObjects/Airplanes/CS_B737-200ADV/aircraft.cfg
+./SimObjects/Airplanes/CS_B737-200ADV/texture.wnn68sw1
+./SimObjects/Airplanes/IRIS DA42 Twin Star TDI
+./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Aircraft.cfg
+./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Texture.CTC
+./SimObjects/Airplanes/PMDG 737-800NGX WL
+./SimObjects/Airplanes/PMDG 737-800NGX WL/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.Caribbean_9YGEO_jkx
+./SimObjects/Airplanes/Virtavia Tornado F3
+./SimObjects/Airplanes/Virtavia Tornado F3/model.aim9sky
+./SimObjects/Airplanes/Virtavia Tornado F3/model.aim9skyLT
+./SimObjects/Airplanes/Virtavia Tornado F3/model.aim9skyST
+./SimObjects/Airplanes/Virtavia Tornado F3/model.ASAM
+./SimObjects/Airplanes/Virtavia Tornado F3/model.ASAMlt
+./SimObjects/Airplanes/Virtavia Tornado F3/model.ASAMst
+./SimObjects/Airplanes/Virtavia Tornado F3/model.clean
+./SimObjects/Airplanes/Virtavia Tornado F3/model.trlt
+./SimObjects/Airplanes/Virtavia Tornado F3/model.trst
+./SimObjects/Airplanes/Virtavia Tornado F3/panel
+./SimObjects/Airplanes/Virtavia Tornado F3/sound
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.111sqn
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.11sqn
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.25sqn
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.29sqn
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.29sqnRSAF
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.43sqn
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.56sqn
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.5sqn
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.bump
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.shared
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.stormo36
 ./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
+./SimObjects/Rotorcraft
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/Aircraft.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2F
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2G
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2GA
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2GNZ
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2G_US
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/panel
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/sound
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/sound.ab
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.bumpF
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.bumpG
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.HSL-30
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.HSL-32
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.HSL-84
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.RAN
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.RNZAF
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.shared
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.USCG
+./SimObjects/Rotorcraft/RNZN Kaman SH-2G Seasprite
+./Uninstall Ants Eaglet.exe
+./Virtavia
+./Virtavia/SH-2 Seasprite
+./Virtavia/Tornado F.3
+./Virtavia/Tornado F.3/Larger Panel Images
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

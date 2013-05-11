@@ -306,6 +306,7 @@
 ./UninstalESCPC12.exe
 ./Uninstalf50.exe
 ./Uninstalf50f.exe
+./Uninstall Ants Eaglet.exe
 ./Uninstall Ants Sierra LSA.exe
 ./Uninstall DH60GX.exe
 ./Uninstall FSD Navajo FSX.exe

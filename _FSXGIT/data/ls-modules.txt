@@ -13,13 +13,23 @@
 ./modules/FSUIPC Documents/FSUIPC User Guide.pdf
 ./modules/FSUIPC Documents/FSUIPC4 for Advanced Users.pdf
 ./modules/FSUIPC Documents/FSUIPC4 History.pdf
+./modules/FSUIPC Documents/FSUIPC4 Offsets Status.pdf
 ./modules/FSUIPC Documents/FSUIPC4 User Guide.pdf
 ./modules/FSUIPC Documents/List of FS2004 controls.pdf
 ./modules/FSUIPC Documents/List of FSX controls.pdf
 ./modules/FSUIPC Documents/Lua License.pdf
 ./modules/FSUIPC Documents/Lua Plugins for VRInsight Devices.pdf
 ./modules/FSUIPC Documents/LuaFileSystem.pdf
+./modules/FSUIPC Documents/Offset Mapping for PMDG 737NGX.pdf
 ./modules/FSUIPC Documents/SIMSAMURAI+FSUIPC+TUTORIAL.pdf
+./modules/FSUIPC Documents/working-201305
+./modules/FSUIPC Documents/working-201305/FSUIPC4 Install.log
+./modules/FSUIPC Documents/working-201305/FSUIPC4.1.log
+./modules/FSUIPC Documents/working-201305/FSUIPC4.DLL
+./modules/FSUIPC Documents/working-201305/FSUIPC4.ini
+./modules/FSUIPC Documents/working-201305/FSUIPC4.ini.bak
+./modules/FSUIPC Documents/working-201305/FSUIPC4.key
+./modules/FSUIPC Documents/working-201305/FSUIPC4.log
 ./modules/FSUIPC4 Install.log
 ./modules/FSUIPC4.1.log
 ./modules/FSUIPC4.DLL
@@ -38,6 +48,8 @@
 ./modules/WideServer.log
 ./modules/WideServer0.log
 ./modules/_DEL
+./modules/_DEL/A2A_Feel.dll
+./modules/_DEL/AccuFeelMenu.dll
 ./modules/_DEL/WinchX!
 ./modules/_DEL/WinchX!/CableSlackTow.wav
 ./modules/_DEL/WinchX!/Release.wav

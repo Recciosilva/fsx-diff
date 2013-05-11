@@ -614,6 +614,25 @@
 ./SimObjects/Airplanes/Antonov An-24RV/panel.orig/Panel.cfg
 ./SimObjects/Airplanes/Antonov An-24RV/sound/sound.cfg
 ./SimObjects/Airplanes/Antonov An-24RV/sound.orig/Sound.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/Aircraft.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/model/Model.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/model.EFIS/Model.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/panel/panel.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/panel.EFIS/panel.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/sound/Sound.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/sound.EFIS/Sound.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.247300/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.247600/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.blue/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.bluegold/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.IA066/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.IA093/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.N121TE/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.orange/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.silvergold/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.VHDBJ/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.white/texture.cfg
+./SimObjects/Airplanes/Ants P92 Eaglet/texture.ZKWTF/texture.cfg
 ./SimObjects/Airplanes/Ants Sierra LSA/Aircraft.cfg
 ./SimObjects/Airplanes/Ants Sierra LSA/model/Model.cfg
 ./SimObjects/Airplanes/Ants Sierra LSA/model.rxp530/Model.cfg
@@ -666,6 +685,29 @@
 ./SimObjects/Airplanes/Ants Tiger Moth/texture.VHDHA/texture.cfg
 ./SimObjects/Airplanes/Ants Tiger Moth/texture.VHWFW/texture.cfg
 ./SimObjects/Airplanes/Ants Tiger Moth/texture.ZK-BMY/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/Aircraft for rear cockpit view.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/Aircraft.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/model/Model.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/panel/panel.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/sound/sound.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/texture.138232/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/texture.517692/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/texture.AD496/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/texture.FAZHR/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/texture.N8539A/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/texture.TL530/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D/texture.VHTRO/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/Aircraft.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/model/Model.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/panel/panel.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/sound/sound.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/texture.138232/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/texture.517692/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/texture.AD496/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/texture.FAZHR/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/texture.N8539A/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/texture.TL530/texture.cfg
+./SimObjects/Airplanes/Ants Trojan T28D Solo/texture.VHTRO/texture.cfg
 ./SimObjects/Airplanes/Area51_Chinook/Aircraft.cfg
 ./SimObjects/Airplanes/Area51_Chinook/model/Model.cfg
 ./SimObjects/Airplanes/Area51_Chinook/panel/panel.cfg
@@ -1337,6 +1379,7 @@
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.mtj/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.N.A.J/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200ADV/texture.OZJETVH-OBN/texture.cfg
+./SimObjects/Airplanes/CS_B737-200ADV/texture.wnn68sw1/texture.cfg
 ./SimObjects/Airplanes/CS_B737-200C/aircraft.cfg
 ./SimObjects/Airplanes/CS_B737-200C/model/model.cfg
 ./SimObjects/Airplanes/CS_B737-200C/model.c/model.cfg
@@ -2698,6 +2741,7 @@
 ./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Model.TDI/model.cfg
 ./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Panel/panel.cfg
 ./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Sound/sound.cfg
+./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Texture.CTC/texture.cfg
 ./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Texture.D-GAAA/texture.cfg
 ./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Texture.F-HCTA/texture.cfg
 ./SimObjects/Airplanes/IRIS DA42 Twin Star TDI/Texture.G-BSEA/texture.cfg
@@ -3330,9 +3374,11 @@
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/model/model.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/panel/panel.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/sound/sound.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.201st/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.6B/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.AMERICAN FLAGSHIP/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.AP_DQFJG2_jkx/texture.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.Caribbean_9YGEO_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.CHINA SOUTHERN/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.DJ/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.DJ1/texture.cfg
@@ -4152,6 +4198,30 @@
 ./SimObjects/Airplanes/Virtavia T-6 Texan/texture.RNZAF/texture.cfg
 ./SimObjects/Airplanes/Virtavia T-6 Texan/texture.SNJ-5/texture.cfg
 ./SimObjects/Airplanes/Virtavia T-6 Texan/texture.T-6G/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/aircraft.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.aim9sky/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.aim9skyLT/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.aim9skyST/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.ASAM/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.ASAMlt/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.ASAMst/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.clean/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.trlt/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/model.trst/Model.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/panel/Panel HUD disabled.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/panel/Panel.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.111sqn/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.11sqn/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.25sqn/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.29sqn/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.29sqnRSAF/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.43sqn/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.56sqn/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.5sqn/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.bump/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.shared/texture.cfg
+./SimObjects/Airplanes/Virtavia Tornado F3/texture.stormo36/texture.cfg
 ./SimObjects/Airplanes/Virtavia Yak-52/Aircraft.cfg
 ./SimObjects/Airplanes/Virtavia Yak-52/model.1pilot/Model.cfg
 ./SimObjects/Airplanes/Virtavia Yak-52/model.2pilot/Model.cfg
@@ -8760,6 +8830,21 @@
 ./SimObjects/Rotorcraft/ALPHA AH-1W Super Cobra/texture.bump/texture.cfg
 ./SimObjects/Rotorcraft/ALPHA AH-1W Super Cobra/texture.marines/texture.cfg
 ./SimObjects/Rotorcraft/ALPHA AH-1W Super Cobra/texture.shared/texture.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/Aircraft.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2F/model.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2G/model.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2GA/model.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2GNZ/model.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/model.SH-2G_US/model.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/panel/panel.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/sound/sound.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/sound.ab/sound.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.HSL-30/texture.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.HSL-32/texture.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.HSL-84/texture.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.RAN/texture.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.RNZAF/texture.cfg
+./SimObjects/Rotorcraft/ALPHA SH-2 Seasprite/texture.USCG/texture.cfg
 ./SimObjects/Rotorcraft/ALPHA Sikorsky S-55/Aircraft.cfg
 ./SimObjects/Rotorcraft/ALPHA Sikorsky S-55/model/model.cfg
 ./SimObjects/Rotorcraft/ALPHA Sikorsky S-55/model.2/model.cfg
@@ -9083,4 +9168,5 @@
 ./vasfmc/cfg/upper_ecam.cfg
 ./vasfmc/cfg/vasfmc.cfg
 ./vasfmc/cfg/weather.cfg
+./_FSXGIT/data/appdata/fsx-broken.cfg
 ./_FSXGIT/data/appdata/fsx.cfg
