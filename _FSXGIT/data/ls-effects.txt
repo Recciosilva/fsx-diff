@@ -69,11 +69,16 @@
 ./Effects/CLSFSX_747wing_lightout.fx
 ./Effects/CLSFSX_747_vclight.fx
 ./Effects/CLS_747wing_light.fx
+./Effects/CLS_BAe146_Tail_light.fx
 ./Effects/CLS_beacon.fx
+./Effects/CLS_Beacon01.fx
+./Effects/CLS_Beacon02.fx
 ./Effects/CLS_DC10_vclight.fx
 ./Effects/CLS_nacelle_refl.fx
 ./Effects/CLS_nav_yellow.fx
 ./Effects/CLS_sparks.fx
+./Effects/CLS_vclight18.fx
+./Effects/CLS_White_Light.fx
 ./Effects/CLS_wing_light.fx
 ./Effects/Cntrl_Avalon_fx_Apron_light.fx
 ./Effects/Cntrl_Avalon_fx_Apron_lightY.fx
@@ -314,6 +319,11 @@
 ./Effects/fx_ALPHA_B1B_Td.fx
 ./Effects/fx_ALPHA_B1B_vclight_Saf.fx
 ./Effects/fx_ALPHA_B1B_WTVortices.fx
+./Effects/fx_ALPHA_B24_Dust.fx
+./Effects/fx_ALPHA_B24_engstrt.fx
+./Effects/fx_ALPHA_B24_Smoke.fx
+./Effects/fx_ALPHA_B24_Smoke1.fx
+./Effects/fx_ALPHA_B24_Td.fx
 ./Effects/fx_ALPHA_EZ_vclight.fx
 ./Effects/fx_ALPHA_EZ_vclightEXT.fx
 ./Effects/fx_ALPHA_GB_Dust.fx
@@ -460,6 +470,7 @@
 ./Effects/fx_contrail_l.fx
 ./Effects/fx_contrail_s.fx
 ./Effects/fx_cropdust.fx
+./Effects/fx_cropdustpa36.fx
 ./Effects/fx_crow.fx
 ./Effects/Fx_D7cbn2.FX
 ./Effects/Fx_D7cbn3.FX
@@ -1164,6 +1175,7 @@
 ./Effects/fx_strobecarenmoon.fx
 ./Effects/fx_strobecarenpa34.fx
 ./Effects/fx_strobeh.fx
+./Effects/fx_strobepa36.fx
 ./Effects/fx_strobe_AS.fx
 ./Effects/fx_strobe_E1X5.fx
 ./Effects/fx_strobe_F1ATR.fx
@@ -1269,6 +1281,10 @@
 ./Effects/fx_vcred_panel.fx
 ./Effects/fx_vehFire.fx
 ./Effects/fx_vehicledust.fx
+./Effects/fx_virtav_B1B_AB.fx
+./Effects/fx_virtav_B1B_startup.fx
+./Effects/fx_virtav_B1B_vclight_Gr.fx
+./Effects/fx_virtav_B1B_warning.fx
 ./Effects/fx_Virtav_contrail_EFA.fx
 ./Effects/fx_Virtav_DisplaySmoke_EFA.fx
 ./Effects/fx_Virtav_reheat_EFA.fx
@@ -1280,6 +1296,8 @@
 ./Effects/fx_volcanoSteam.fx
 ./Effects/fx_vortex.fx
 ./Effects/fx_vortex2.fx
+./Effects/fx_vortex2pa36.fx
+./Effects/fx_vortexpa36.fx
 ./Effects/fx_Vortices.fx
 ./Effects/fx_VSSBD_approach.fx
 ./Effects/fx_VSSBD_bomb.fx
@@ -1388,6 +1406,7 @@
 ./Effects/hosplandinglightObsorangeFlash60Hi.fx
 ./Effects/hosplandinglightsblueFlash60Med.fx
 ./Effects/Ilyushin_smoke.fx
+./Effects/JF_DC-6_EngStart.fx
 ./Effects/JP_small_strobe_white2_4s.fx
 ./Effects/JP_small_strobe_white3_4s.fx
 ./Effects/JP_small_strobe_white4_4s.fx
@@ -1932,6 +1951,11 @@
 ./Effects/texture/avalonFX2.bmp
 ./Effects/texture/avalonFX3Y.bmp
 ./Effects/texture/avalon_fx2.bmp
+./Effects/texture/A_B1b-00.bmp
+./Effects/texture/A_B1b-00a.bmp
+./Effects/texture/A_B1b-1.bmp
+./Effects/texture/A_B1b-2.bmp
+./Effects/texture/A_B1b-3.bmp
 ./Effects/texture/A_F18-00.bmp
 ./Effects/texture/A_F18-00b.bmp
 ./Effects/texture/A_F18-1.bmp
@@ -2030,10 +2054,13 @@
 ./Effects/texture/fx_C123pig1.bmp
 ./Effects/texture/fx_carcn.bmp
 ./Effects/texture/fx_carcod.bmp
+./Effects/texture/fx_carcodpa36.bmp
 ./Effects/texture/fx_coflight.bmp
 ./Effects/texture/fx_cotden.bmp
 ./Effects/texture/fx_cropdust.bmp
+./Effects/texture/fx_cropdustpa36.bmp
 ./Effects/texture/fx_cropvortex2.bmp
+./Effects/texture/fx_cropvortex2pa36.bmp
 ./Effects/texture/fx_da40_light.bmp
 ./Effects/texture/fx_da40_rays.bmp
 ./Effects/texture/fx_Dots.bmp
@@ -2104,6 +2131,7 @@
 ./Effects/texture/fx_strobeAlaWaco.bmp
 ./Effects/texture/fx_strobec188.bmp
 ./Effects/texture/fx_strobecn.bmp
+./Effects/texture/fx_strobepa36.bmp
 ./Effects/texture/fx_swave_lights_1.bmp
 ./Effects/texture/fx_swoosh.bmp
 ./Effects/texture/fx_swoosh2.bmp

@@ -22,3 +22,4 @@
 ./SimObjects/Rotorcraft/ND_EC120_police/aircraft.cfg
 ./SimObjects/Rotorcraft/ND_uh1c/aircraft.cfg
 ./SimObjects/Rotorcraft/ND_uh1h/aircraft.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/aircraft.cfg

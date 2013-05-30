@@ -30,6 +30,8 @@
 ./SimObjects/Airplanes/Airtuk-PL12/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck_WDE/aircraft.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/aircraft.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo Sukhoi 26/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo WACO_YMF5/aircraft.cfg
@@ -59,8 +61,10 @@
 ./SimObjects/Airplanes/Carenado C185F Ski/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C185F Tundra/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/aircraft.cfg
+./SimObjects/Airplanes/Carenado C208B Grand Caravan/C208_FDE_OP/aircraft.cfg
 ./SimObjects/Airplanes/Carenado Commander 114/aircraft.cfg
 ./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/aircraft.cfg
+./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/PA46T FSX Improved FDE/aircraft.cfg
 ./SimObjects/Airplanes/Carenado PA-34 Seneca II/aircraft.cfg
 ./SimObjects/Airplanes/Carenado_B200_King _Air/aircraft.cfg
 ./SimObjects/Airplanes/Chipmunk V3.0/aircraft.cfg

@@ -29,6 +29,7 @@
 ./Gauges/Cessna208.gau
 ./Gauges/CFR.fuelc.gau
 ./Gauges/ClassicsHangar_XMLSound.gau
+./Gauges/CLS_FSX_Sound2.gau
 ./Gauges/CONCORDE.gau
 ./Gauges/cv880sw.gau
 ./Gauges/Dash8All - ORIG.gau
@@ -154,6 +155,7 @@
 ./Gauges/isg1.gau
 ./Gauges/ISG1_TCAS.gau
 ./Gauges/Jet_RPM1.gau
+./Gauges/jf_146.gau
 ./Gauges/KI-13.gau
 ./Gauges/km_random_number.gau
 ./Gauges/LVLD/B767at.gau

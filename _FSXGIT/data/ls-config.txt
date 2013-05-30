@@ -79,6 +79,9 @@
 ./Just Flight/747 200-300 series/aircraft_EZ.cfg
 ./Just Flight/747 200-300 series/CLS742_paintkit/Example_upload_file/B742 CLS/texture.cls/texture.cfg
 ./Just Flight/747 200-300 series/status.cfg
+./JustFlight/146200/Alternate Flight Dynamics/Aircraft_CFG - Easy feel/Aircraft.cfg
+./JustFlight/146200/Alternate Flight Dynamics/Aircraft_CFG - True feel/Aircraft.cfg
+./JustFlight/146200/Paintkit/Texture.BLANK/texture.cfg
 ./KioskSettings.cfg
 ./ORBX/FTX_AU/FTXAA_YBCS/scenery/ModuleInstaller.cfg
 ./ORBX/FTX_AU/FTXAA_YMML/Scenery/ModuleInstaller.cfg
@@ -506,6 +509,26 @@
 ./SimObjects/Airplanes/Alabeo C188_AGTruck_WDE/Texture.N8762Z/texture.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck_WDE/Texture.N9853D/texture.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck_WDE/Texture.VHHQA/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/aircraft.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/model/model.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/panel/panel.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/sound/sound.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/Texture/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/Texture.Common/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/Texture.N55128/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/Texture.N57728/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/Texture.PBJYF/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/Texture.PRBUA/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee/Texture.VBXCS/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/aircraft.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/model/model.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/panel/panel.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/sound/sound.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/Texture.N55128/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/Texture.N57728/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/Texture.PBJYF/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/Texture.PRBUA/texture.cfg
+./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/Texture.VBXCS/texture.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/model/model.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/panel/panel.cfg
@@ -968,7 +991,9 @@
 ./SimObjects/Airplanes/Carenado C185F Tundra/model/model.cfg
 ./SimObjects/Airplanes/Carenado C185F Tundra/panel/panel.cfg
 ./SimObjects/Airplanes/Carenado C185F Tundra/sound/sound.cfg
+./SimObjects/Airplanes/Carenado C208B Grand Caravan/aircraft - 201305.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/aircraft.cfg
+./SimObjects/Airplanes/Carenado C208B Grand Caravan/C208_FDE_OP/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/model/model.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/sound/Sound.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/sound.orig/sound.cfg
@@ -998,8 +1023,10 @@
 ./SimObjects/Airplanes/Carenado mooney/model/model.cfg
 ./SimObjects/Airplanes/Carenado mooney/PANEL/panel.cfg
 ./SimObjects/Airplanes/Carenado mooney/SOUND/sound.cfg
+./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/aircraft-201305.cfg
 ./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/aircraft.cfg
 ./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/model/model.cfg
+./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/PA46T FSX Improved FDE/aircraft.cfg
 ./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/panel/panel.cfg
 ./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/sound/sound.cfg
 ./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/Texture/texture.cfg
@@ -1119,6 +1146,7 @@
 ./SimObjects/Airplanes/CLS_A330_200_GE/Panel.GE/Panel.cfg
 ./SimObjects/Airplanes/CLS_A330_200_GE/sound/sound.cfg
 ./SimObjects/Airplanes/CLS_A330_200_GE/texture.aci/texture.cfg
+./SimObjects/Airplanes/CLS_A330_200_GE/texture.Strategic/texture.cfg
 ./SimObjects/Airplanes/CLS_A330_200_PW/Aircraft.cfg
 ./SimObjects/Airplanes/CLS_A330_200_PW/intelliscene.cfg
 ./SimObjects/Airplanes/CLS_A330_200_PW/model.pw/model.cfg
@@ -1129,6 +1157,7 @@
 ./SimObjects/Airplanes/CLS_A330_200_RR/model.rr/model.cfg
 ./SimObjects/Airplanes/CLS_A330_200_RR/Panel.RR/panel.cfg
 ./SimObjects/Airplanes/CLS_A330_200_RR/sound/sound.cfg
+./SimObjects/Airplanes/CLS_A330_200_RR/texture.FIJI/texture.cfg
 ./SimObjects/Airplanes/CLS_A330_300_GE/Aircraft.cfg
 ./SimObjects/Airplanes/CLS_A330_300_GE/intelliscene.cfg
 ./SimObjects/Airplanes/CLS_A330_300_GE/model.ge/model.cfg
@@ -1221,6 +1250,56 @@
 ./SimObjects/Airplanes/CLS_B743_300_RR/Sound/sound.cfg
 ./SimObjects/Airplanes/CLS_B743_300_RR/texture.CX/texture.cfg
 ./SimObjects/Airplanes/CLS_B743_300_RR/texture.QF/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Aircraft.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Model/model.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.0000/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.0000/panel_FMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.0000/panel_noFMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1000/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1000/panel_FMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1000/panel_noFMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1100/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1100/panel_FMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1100/panel_noFMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1110/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1110/panel_FMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1110/panel_noFMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1111/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1111/panel_FMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/panel.1111/panel_noFMC.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Sound/sound.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.AAL/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/texture.airnova/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.BAW/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.BLANK/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.blue1/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.Brazil/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.BRU/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.Continental/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/texture.demo/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.EUW/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/texture.hbixe/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/texture.lhregional/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/texture.n177us/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.NWNEW/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/texture.qantaslink/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/texture.swissalliance/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.USEXO/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/Aircraft.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/Model/model.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/panel.0000/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/panel.1000/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/panel.1100/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/panel.1110/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/panel.1111/panel.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/Sound/sound.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/Texture/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/texture.astra/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/texture.chinaeastern/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/texture.eurowings/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/texture.fly/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_300/texture.Landor/texture.cfg
 ./SimObjects/Airplanes/CLS_DC10_10/aircraft.cfg
 ./SimObjects/Airplanes/CLS_DC10_10/model.50C/model.cfg
 ./SimObjects/Airplanes/CLS_DC10_10/model.6D6K/model.cfg
@@ -2933,6 +3012,27 @@
 ./SimObjects/Airplanes/JF_Douglas_DC3_Wright/texture.AA/texture.cfg
 ./SimObjects/Airplanes/JF_Douglas_DC3_Wright/texture.Capital/texture.cfg
 ./SimObjects/Airplanes/JF_Douglas_DC3_Wright/texture.Delta/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/Aircraft.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/model.dom/Model.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/model.radardomspin/Model.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/panel/panel.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/sound/Sound.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/texture.AmericanAirlines/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/texture.Northwest/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/texture.Sterling/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Domestic/texture.United/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/Aircraft.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/model.interradar/Model.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/model.interradarspin/Model.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/model.interradarspinRB/Model.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/panel/panel.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/sound/Sound.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/texture.balair/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/texture.britisheagle/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/texture.jal/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/texture.panam/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/texture.RedBull/texture.cfg
+./SimObjects/Airplanes/JF_Douglas_DC6B_Intercontinental/texture.Sabena/texture.cfg
 ./SimObjects/Airplanes/JF_F111_Aardvark/Aircraft.cfg
 ./SimObjects/Airplanes/JF_F111_Aardvark/model.A/model.cfg
 ./SimObjects/Airplanes/JF_F111_Aardvark/model.C/model.cfg
@@ -4106,6 +4206,36 @@
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.sudan/texture.cfg
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.TAA59/texture.cfg
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.ZS-CDT/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/model.1a/Model.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/model.1b/Model.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/model.2/Model.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/model.3/Model.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/panel/Panel.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.5062_Uncaged/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.5076_BlackJack/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.5085_NoAntidote/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.6110_GrandForks/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.6123_LetsRoll/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.6131_Mountain Home/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.6133_Belle/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.6134_McConnell/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.bump/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.shared/texture.cfg
+./SimObjects/Airplanes/Virtavia B-1B Lancer/texture.spec/texture.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/model.B-24D/Model.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/model.B-24J/Model.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/panel/Panel.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/texture.bump/texture.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/texture.CocktailHour/texture.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/texture.Hellsadroppin/texture.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/texture.SatansGal/texture.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/texture.shared/texture.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/texture.StrawberryBitch/texture.cfg
+./SimObjects/Airplanes/Virtavia B-24 Liberator/texture.TheStork/texture.cfg
 ./SimObjects/Airplanes/Virtavia C-7 Caribou/Aircraft.cfg
 ./SimObjects/Airplanes/Virtavia C-7 Caribou/model/model.cfg
 ./SimObjects/Airplanes/Virtavia C-7 Caribou/model.C7A/model.cfg
@@ -9083,6 +9213,24 @@
 ./SimObjects/Rotorcraft/Robinson_R22/Texture/texture.cfg
 ./SimObjects/Rotorcraft/Robinson_R22/texture.1/texture.cfg
 ./SimObjects/Rotorcraft/Robinson_R22/Texture.2/texture.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/aircraft.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/hap.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Model.MFD/model.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Model.Mk41/model.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Model.Mk50/model.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Model.sh3/model.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Panel/panel.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Panel.MFD/panel.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Panel.sh3/panel.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Sound/sound.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.434/texture.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.8954/texture.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.8959/texture.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.RAN/texture.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.RS02/texture.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.U279/Texture.8959/texture.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.U279/texture.cfg
+./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.usn50/texture.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/Aircraft.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/model.MH/model.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/model.MH_clean/model.cfg
