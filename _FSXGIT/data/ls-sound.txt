@@ -720,6 +720,7 @@
 ./Sound/Jcrash2.wav
 ./Sound/Jcrash3.WAV
 ./Sound/JetTruckIdleMIX.wav
+./Sound/jfgunWILD.wav
 ./Sound/Jsplash1.WAV
 ./Sound/JSPLASH2.wav
 ./Sound/KM

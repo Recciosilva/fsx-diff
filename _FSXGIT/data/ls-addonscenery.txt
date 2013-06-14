@@ -782,12 +782,19 @@
 ./Addon Scenery/Pacific/NSFA Faleolo International Airport
 ./Addon Scenery/Pacific/NSFA Faleolo International Airport/scenery
 ./Addon Scenery/Pacific/NSFA Faleolo International Airport/Texture
+./Addon Scenery/Pacific/Palau
+./Addon Scenery/Pacific/Palau/Scenery
+./Addon Scenery/Pacific/Palau/Texture
+./Addon Scenery/Pacific/Palau/_docs
 ./Addon Scenery/Pacific/PNG Bush Flying
 ./Addon Scenery/Pacific/PNG Bush Flying/PNG Bush Flying
 ./Addon Scenery/Pacific/PNG Bush Flying/PNG Bush Flying/Scenery
 ./Addon Scenery/Pacific/PNG Bush Flying/PNG Bush Flying/Texture
 ./Addon Scenery/Pacific/PNG Bush Flying/PNG Mesh
 ./Addon Scenery/Pacific/PNG Bush Flying/PNG Mesh/Scenery
+./Addon Scenery/Pacific/Solomons
+./Addon Scenery/Pacific/Solomons/scenery
+./Addon Scenery/Pacific/Solomons/_docs
 ./Addon Scenery/PacSim
 ./Addon Scenery/PacSim/Fua amotu International (v2)
 ./Addon Scenery/PacSim/Fua amotu International (v2)/Docs

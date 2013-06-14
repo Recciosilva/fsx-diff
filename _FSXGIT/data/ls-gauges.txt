@@ -46,7 +46,6 @@
 ./Gauges/dsd_engine_starters.gau
 ./Gauges/dsd_eng_rpm_3000_ring3.gau
 ./Gauges/dsd_fsx_xml_config.gau
-./Gauges/dsd_fsx_xml_sound.gau
 ./Gauges/dsd_fuel_dump.gau
 ./Gauges/dsd_fuel_flow_160_ring3.gau
 ./Gauges/dsd_fuel_level_fractions_ring3.gau
@@ -314,6 +313,7 @@
 ./Gauges/_DELETED/cesmap12.gau
 ./Gauges/_DELETED/cesrpm12.gau
 ./Gauges/_DELETED/dhc2.amps.gau
+./Gauges/_DELETED/dsd_fsx_xml_sound.gau
 ./Gauges/_DELETED/FB_Stall_Warn.gau
 ./Gauges/_DELETED/FB_Trim_Elevator.gau
 ./Gauges/_DELETED/FB_Trim_Rudder.gau

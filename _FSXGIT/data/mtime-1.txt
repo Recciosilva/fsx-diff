@@ -1,11 +1,3 @@
-./
-./jb777memfilemap.txt
-./modules
-./modules/FSUIPC4.ini
-./modules/FSUIPC4.log
-./modules/WideServer.log
-./modules/WideServer0.log
-./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/aircraft.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

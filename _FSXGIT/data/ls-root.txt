@@ -119,6 +119,9 @@
 ./Golden Age Simulations
 ./gps.dll
 ./GZkaikourauninst.exe
+./HudsonEXP_un.dat
+./HudsonEXP_un.xml
+./HudsonEXP_uninstall.exe
 ./Hudson_Uninstall
 ./Icon
 ./Imagine Simulation

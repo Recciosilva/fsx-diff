@@ -2384,6 +2384,16 @@
 ./SimObjects/Airplanes/GAF Nomad/model.tfslg/Model.cfg
 ./SimObjects/Airplanes/GAF Nomad/panel/panel.cfg
 ./SimObjects/Airplanes/GAF Nomad/sound/Sound.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 CIVIL/Aircraft.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 CIVIL/model/Model.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 CIVIL/panel/panel.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 CIVIL/sound/Sound.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 CIVIL/texture.mk6_civil/texture.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 MIL/Aircraft.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 MIL/model/Model.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 MIL/panel/panel.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 MIL/sound/Sound.cfg
+./SimObjects/Airplanes/GFA LH HUDSON MK3 MIL/texture.mk3MIL/texture.cfg
 ./SimObjects/Airplanes/GFA LH HUDSON PART 1/Aircraft.cfg
 ./SimObjects/Airplanes/GFA LH HUDSON PART 1/model.mk1/Model.cfg
 ./SimObjects/Airplanes/GFA LH HUDSON PART 1/model.mk2/Model.cfg
@@ -2418,6 +2428,16 @@
 ./SimObjects/Airplanes/GFA LH HUDSON PART 4/sound/Sound.cfg
 ./SimObjects/Airplanes/GFA LH HUDSON PART 4/texture.electra saa/texture.cfg
 ./SimObjects/Airplanes/GFA LH HUDSON PART 4/texture.lodestar ba/texture.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 Civil/Aircraft.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 Civil/model/Model.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 Civil/panel/panel.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 Civil/sound/Sound.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 Civil/texture.twa/texture.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 MILITARY/Aircraft.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 MILITARY/model/Model.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 MILITARY/panel/panel.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 MILITARY/sound/Sound.cfg
+./SimObjects/Airplanes/GFA LH LODESTAR Mdl 6 MILITARY/texture/texture.cfg
 ./SimObjects/Airplanes/Global_ExpressMX/model/model.cfg
 ./SimObjects/Airplanes/Global_ExpressMX/sim.cfg
 ./SimObjects/Airplanes/Global_ExpressMX/soundai/soundai.cfg
@@ -2935,6 +2955,15 @@
 ./SimObjects/Airplanes/JELAIR-Boeing 737-2L9 Maersk Air OY-MBZ/panel.JELAIR_2D/Panel.cfg
 ./SimObjects/Airplanes/JELAIR-Boeing 737-2L9 Maersk Air OY-MBZ/sound.737-200__p&w_jt8d_the_real_deal-JELAIRmodded/Sound.cfg
 ./SimObjects/Airplanes/JF Sounds/Merlin/sound.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/Aircraft.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/model/model.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/PANEL/Panel.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/sound/Sound.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/texture.1/texture.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/texture.2/texture.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/texture.3/texture.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/texture.4/texture.cfg
+./SimObjects/Airplanes/JF_A6M2_Zero/texture.5/texture.cfg
 ./SimObjects/Airplanes/jf_C152/aerocustom.cfg
 ./SimObjects/Airplanes/jf_C152/aeroface.cfg
 ./SimObjects/Airplanes/jf_C152/aeroload.cfg
@@ -3048,6 +3077,22 @@
 ./SimObjects/Airplanes/JF_F111_Aardvark/texture.C_131_30year/texture.cfg
 ./SimObjects/Airplanes/JF_F111_Aardvark/texture.C_131_REDFLAG2006/texture.cfg
 ./SimObjects/Airplanes/JF_F111_Aardvark/texture.C_A8_136/texture.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/aircraft.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/model.F4F-3/Model.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/model.F4F-3NT/Model.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/panel/panel.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/sound/Sound.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/texture.MF-1/texture.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/texture.OHare/texture.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/texture.USS SARATOGA/texture.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/aircraft.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/model/Model.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/model.NT/Model.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/panel/panel.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/sound/Sound.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/texture.23/texture.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/texture.USS ENTERPRISE/texture.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/texture.USS INDEPENDENCE/texture.cfg
 ./SimObjects/Airplanes/JF_L049/aircraft.cfg
 ./SimObjects/Airplanes/JF_L049/aircraft_.cfg
 ./SimObjects/Airplanes/JF_L049/L049_Paintkit/JF_L049_PAINTKIT/aircraft.cfg
@@ -3069,6 +3114,20 @@
 ./SimObjects/Airplanes/JF_L049/texture.PAASP/texture.cfg
 ./SimObjects/Airplanes/JF_L049/texture.TWA/texture.cfg
 ./SimObjects/Airplanes/JF_L049/texture.TWASP/texture.cfg
+./SimObjects/Airplanes/JF_Martlet1/aircraft.cfg
+./SimObjects/Airplanes/JF_Martlet1/model.Martlet1/Model.cfg
+./SimObjects/Airplanes/JF_Martlet1/model.Martlet1NT/Model.cfg
+./SimObjects/Airplanes/JF_Martlet1/panel/panel.cfg
+./SimObjects/Airplanes/JF_Martlet1/sound/Sound.cfg
+./SimObjects/Airplanes/JF_Martlet1/texture.EJ569/texture.cfg
+./SimObjects/Airplanes/JF_Martlet1/texture.FRENCH/texture.cfg
+./SimObjects/Airplanes/JF_MartletIV/aircraft.cfg
+./SimObjects/Airplanes/JF_MartletIV/model.MartletIV/Model.cfg
+./SimObjects/Airplanes/JF_MartletIV/model.MartletIVNT/Model.cfg
+./SimObjects/Airplanes/JF_MartletIV/panel/panel.cfg
+./SimObjects/Airplanes/JF_MartletIV/sound/Sound.cfg
+./SimObjects/Airplanes/JF_MartletIV/texture.TORCH/texture.cfg
+./SimObjects/Airplanes/JF_MartletIV/texture.TRACKER/texture.cfg
 ./SimObjects/Airplanes/JF_Mosquito/Aircraft.cfg
 ./SimObjects/Airplanes/JF_Mosquito/model/Model.cfg
 ./SimObjects/Airplanes/JF_Mosquito/panel/panel.cfg
@@ -3491,6 +3550,7 @@
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.india/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.Jet2.com/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.JEX_JA302J/texture.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.JFI/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.KOR224/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.LH/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.LNP/texture.cfg
@@ -3506,6 +3566,7 @@
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.RYANAIRGIRONA/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.SK/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.turknew/texture.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.UnitedSA/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.X3/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-900NGX/aircraft.cfg
 ./SimObjects/Airplanes/PMDG 737-900NGX/model/model.cfg
@@ -3551,6 +3612,11 @@
 ./SimObjects/Airplanes/Polikarpov I-16 Ishak/panel.EarlyBuild/Panel.cfg
 ./SimObjects/Airplanes/Polikarpov I-16 Ishak/panel.FAFCaptured/Panel.cfg
 ./SimObjects/Airplanes/Polikarpov I-16 Ishak/sound/Sound.cfg
+./SimObjects/Airplanes/Polikarpov U-2/aircraft.cfg
+./SimObjects/Airplanes/Polikarpov U-2/MODEL/model.cfg
+./SimObjects/Airplanes/Polikarpov U-2/panel/PANEL.cfg
+./SimObjects/Airplanes/Polikarpov U-2/sound/Sound.cfg
+./SimObjects/Airplanes/Polikarpov U-2/Texture/texture.cfg
 ./SimObjects/Airplanes/POSKY-742F_CF6/Aircraft.cfg
 ./SimObjects/Airplanes/POSKY-742F_CF6/model/model.cfg
 ./SimObjects/Airplanes/POSKY-742F_CF6/panel/panel.cfg
@@ -8095,6 +8161,8 @@
 ./SimObjects/Misc/pallet_of_Boxes_sm/model/model.cfg
 ./SimObjects/Misc/pallet_of_Boxes_sm/sim.cfg
 ./SimObjects/Misc/pallet_of_Boxes_sm/texture/texture.cfg
+./SimObjects/Misc/Paratroop_lodestar/model/Model.cfg
+./SimObjects/Misc/Paratroop_lodestar/sim.cfg
 ./SimObjects/Misc/pc9_CBLS/model/model.cfg
 ./SimObjects/Misc/pc9_CBLS/sim.cfg
 ./SimObjects/Misc/pc9_CBLS/texture/texture.cfg
@@ -9213,24 +9281,6 @@
 ./SimObjects/Rotorcraft/Robinson_R22/Texture/texture.cfg
 ./SimObjects/Rotorcraft/Robinson_R22/texture.1/texture.cfg
 ./SimObjects/Rotorcraft/Robinson_R22/Texture.2/texture.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/aircraft.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/hap.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Model.MFD/model.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Model.Mk41/model.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Model.Mk50/model.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Model.sh3/model.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Panel/panel.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Panel.MFD/panel.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Panel.sh3/panel.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Sound/sound.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.434/texture.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.8954/texture.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.8959/texture.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.RAN/texture.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.RS02/texture.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.U279/Texture.8959/texture.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.U279/texture.cfg
-./SimObjects/Rotorcraft/UKMil_SeaKing/Texture.usn50/texture.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/Aircraft.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/model.MH/model.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/model.MH_clean/model.cfg

@@ -19,6 +19,7 @@
 ./Effects/86_bano_green.fx
 ./Effects/86_bano_red.fx
 ./Effects/86_landing_light.fx
+./Effects/A6M2_EngStart.fx
 ./Effects/Aerosoft_EGLC_grlight_taxi_sm.fx
 ./Effects/Aerosoft_EGLC_red.fx
 ./Effects/Aerosoft_EGLC_spotlight.fx
@@ -302,6 +303,9 @@
 ./Effects/fx_af_f4u_vc.fx
 ./Effects/fx_af_f4u_whi.fx
 ./Effects/fx_AHint_eject_sound.fx
+./Effects/fx_AHrecog_green.fx
+./Effects/fx_AHrecog_orange.fx
+./Effects/fx_AHrecog_red.fx
 ./Effects/fx_AH_aburn.fx
 ./Effects/fx_AH_contrail_lowalpha.fx
 ./Effects/fx_AH_dumpnburn.fx
@@ -598,6 +602,7 @@
 ./Effects/fx_f35_navgrem.fx
 ./Effects/fx_f35_navredm.fx
 ./Effects/fx_F35_vclight.fx
+./Effects/fx_F4F_EngStart.fx
 ./Effects/fx_fastMover.fx
 ./Effects/fx_finch.fx
 ./Effects/fx_FireExhaust_JetTruck.fx
@@ -841,6 +846,8 @@
 ./Effects/fx_iris_vclight_orange.fx
 ./Effects/fx_iris_vclight_red.fx
 ./Effects/fx_iris_vortices.fx
+./Effects/fx_jfgun03.fx
+./Effects/fx_jfgun04.fx
 ./Effects/fx_jfgunDC1.fx
 ./Effects/fx_jfgunDCs.fx
 ./Effects/fx_JFM_Para_D.fx
@@ -1086,6 +1093,7 @@
 ./Effects/fx_rcs_exhaust_r.fx
 ./Effects/fx_rcs_exhaust_r2.fx
 ./Effects/fx_recog.fx
+./Effects/fx_recog_blue.fx
 ./Effects/fx_recog_p180.fx
 ./Effects/fx_reflected_light.fx
 ./Effects/fx_retardant.fx

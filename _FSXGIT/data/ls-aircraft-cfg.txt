@@ -182,8 +182,12 @@
 ./SimObjects/Airplanes/JF_Douglas_C47_Glider_Tug/aircraft.cfg
 ./SimObjects/Airplanes/JF_Douglas_DC3_PW/aircraft.cfg
 ./SimObjects/Airplanes/JF_Douglas_DC3_Wright/aircraft.cfg
+./SimObjects/Airplanes/JF_F4F_3_Wildcat/aircraft.cfg
+./SimObjects/Airplanes/JF_F4F_4_Wildcat/aircraft.cfg
 ./SimObjects/Airplanes/JF_L049/aircraft.cfg
 ./SimObjects/Airplanes/JF_L049/L049_Paintkit/JF_L049_PAINTKIT/aircraft.cfg
+./SimObjects/Airplanes/JF_Martlet1/aircraft.cfg
+./SimObjects/Airplanes/JF_MartletIV/aircraft.cfg
 ./SimObjects/Airplanes/jf_pa28_Archer/aircraft.cfg
 ./SimObjects/Airplanes/jf_pa38_Tomahawk/aircraft.cfg
 ./SimObjects/Airplanes/Jodel/aircraft.cfg
@@ -213,6 +217,7 @@
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/aircraft.cfg
 ./SimObjects/Airplanes/PMDG 737-900NGX/aircraft.cfg
 ./SimObjects/Airplanes/PMDG 737-900NGX WL/aircraft.cfg
+./SimObjects/Airplanes/Polikarpov U-2/aircraft.cfg
 ./SimObjects/Airplanes/POSKY-742V4_JT9/aircraft.cfg
 ./SimObjects/Airplanes/POSKY-742V4_RB211/aircraft.cfg
 ./SimObjects/Airplanes/POSKY_DreamLifter_AI/aircraft.cfg
