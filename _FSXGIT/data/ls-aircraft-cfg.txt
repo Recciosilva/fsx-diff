@@ -49,6 +49,7 @@
 ./SimObjects/Airplanes/C172/aircraft.cfg
 ./SimObjects/Airplanes/C208B/aircraft.cfg
 ./SimObjects/Airplanes/C46/aircraft.cfg
+./SimObjects/Airplanes/CamSim Airbus 350-900 V4/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-8 V3/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-9 V3/aircraft.cfg
 ./SimObjects/Airplanes/Canberra_B(I)6/aircraft.cfg

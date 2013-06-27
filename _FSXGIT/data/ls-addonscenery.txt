@@ -713,6 +713,9 @@
 ./Addon Scenery/NZ/Te_Kuiti
 ./Addon Scenery/NZ/Te_Kuiti/scenery
 ./Addon Scenery/NZ/Te_Kuiti/texture
+./Addon Scenery/NZ/Tonys Place
+./Addon Scenery/NZ/Tonys Place/Scenery
+./Addon Scenery/NZ/Tonys Place/Texture
 ./Addon Scenery/NZ/WaihekeX Island Airport
 ./Addon Scenery/NZ/WaihekeX Island Airport/scenery
 ./Addon Scenery/NZ/WaihekeX Island Airport/texture

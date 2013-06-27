@@ -1,4 +1,5 @@
 ./Addon Scenery/UK/UK2000 Heathrow Xtreme/scenery_beforeinstall.cfg
+./aerosoft/Airport Toulouse/Product.cfg
 ./aerosoft/Amsterdam Schiphol X/Product.cfg
 ./aerosoft/Approaching LOWI X/Product.cfg
 ./aerosoft/Bronco X/Product.cfg
@@ -498,6 +499,7 @@
 ./SimObjects/Airplanes/Alabeo C188_AGTruck/Texture.N8762Z/texture.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck/Texture.N9853D/texture.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck/Texture.VHHQA/texture.cfg
+./SimObjects/Airplanes/Alabeo C188_AGTruck/Texture.ZKDPA/texture.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck/Texture.zkejl/texture.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck/Texture.zkldz/texture.cfg
 ./SimObjects/Airplanes/Alabeo C188_AGTruck_WDE/aircraft.cfg
@@ -937,6 +939,10 @@
 ./SimObjects/Airplanes/C46/model.orig/model.cfg
 ./SimObjects/Airplanes/C46/panel/Panel.cfg
 ./SimObjects/Airplanes/C46/sound/sound.cfg
+./SimObjects/Airplanes/CamSim Airbus 350-900 V4/aircraft.cfg
+./SimObjects/Airplanes/CamSim Airbus 350-900 V4/model.350-900 ags v4/Model.cfg
+./SimObjects/Airplanes/CamSim Airbus 350-900 V4/PANEL/panel.cfg
+./SimObjects/Airplanes/CamSim Airbus 350-900 V4/SOUND/Sound.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-8 V3/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-8 V3/model.787-8 ags v3/Model.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-8 V3/Panel/panel.cfg
@@ -3544,6 +3550,7 @@
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.DLdirty/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.DYD/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.EA_SUGDD_jkx/texture.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.FijiAirways_FJG_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.Garuda_PKGMI_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.HF/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.HKEx_BKBR_jkx/texture.cfg
@@ -9366,5 +9373,6 @@
 ./vasfmc/cfg/upper_ecam.cfg
 ./vasfmc/cfg/vasfmc.cfg
 ./vasfmc/cfg/weather.cfg
+./VistaMare/Aerosoft/Airport Toulouse/Product.cfg
 ./_FSXGIT/data/appdata/fsx-broken.cfg
 ./_FSXGIT/data/appdata/fsx.cfg
