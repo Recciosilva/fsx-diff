@@ -651,6 +651,8 @@
 ./Texture/cumulus_overcast_above.bmp
 ./Texture/cumulus_scattered.bmp
 ./Texture/cumulus_scattered_above.bmp
+./Texture/CZMautogen.bmp
+./Texture/CZMautogenlm.bmp
 ./Texture/damage.bmp
 ./Texture/damage_japan.bmp
 ./Texture/damage_us.bmp
@@ -696,6 +698,7 @@
 ./Texture/f18_r_wing.bmp
 ./Texture/f18_tails.bmp
 ./Texture/faces.r8
+./Texture/FAIB_737_300_AlwaysOn_L.bmp
 ./Texture/farm.r8
 ./Texture/farmf.r8
 ./Texture/farms.r8
@@ -894,6 +897,8 @@
 ./Texture/ltgrayroof_specular.dds
 ./Texture/MAIW_canopy_clear.bmp
 ./Texture/marsh.bmp
+./Texture/MBJautogen.bmp
+./Texture/MBJautogenlm.bmp
 ./Texture/md80_scenery_t1.bmp
 ./Texture/mdgrayroof.dds
 ./Texture/mdgrayroof_bump.dds

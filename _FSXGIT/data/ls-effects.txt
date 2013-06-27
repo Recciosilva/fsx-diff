@@ -104,6 +104,8 @@
 ./Effects/Cntrl_FTX_Lighthouse_4s.fx
 ./Effects/Cntrl_FTX_Lighthouse_5s.fx
 ./Effects/Cntrl_FTX_Lighthouse_6s_solid.fx
+./Effects/Cntrl_JL-regtlpc.fx
+./Effects/Cntrl_JL-regtlpl.fx
 ./Effects/Cntrl_KilaueaEruption.fx
 ./Effects/Cntrl_KilaueaSteam.fx
 ./Effects/Cntrl_KORD_deice.fx
@@ -916,6 +918,7 @@
 ./Effects/fx_luxbeam1.fx
 ./Effects/fx_luxbeam2.fx
 ./Effects/fx_Lvfr_twn.fx
+./Effects/fx_Lvfr_twn2.fx
 ./Effects/fx_matrapod.fx
 ./Effects/fx_MirVolc.fx
 ./Effects/fx_Moth_exhaust.fx
@@ -1415,6 +1418,15 @@
 ./Effects/hosplandinglightsblueFlash60Med.fx
 ./Effects/Ilyushin_smoke.fx
 ./Effects/JF_DC-6_EngStart.fx
+./Effects/jf_rp_strobe_blue.fx
+./Effects/jf_rp_strobe_red.fx
+./Effects/JL-Barnstorm.fx
+./Effects/JL-Cntrl_Barn.fx
+./Effects/jl-lightgreen.fx
+./Effects/jl-redlight.fx
+./Effects/jlvfummeesblanches.fx
+./Effects/JL_Regtlpc.fx
+./Effects/JL_Regtlpl.fx
 ./Effects/JP_small_strobe_white2_4s.fx
 ./Effects/JP_small_strobe_white3_4s.fx
 ./Effects/JP_small_strobe_white4_4s.fx
@@ -2177,6 +2189,7 @@
 ./Effects/texture/lmml.bmp
 ./Effects/texture/lmml.zip
 ./Effects/texture/Lvfr_twn.bmp
+./Effects/texture/Lvfr_twn2.bmp
 ./Effects/texture/MilVizBloom.bmp
 ./Effects/texture/MilViz_AB_1.bmp
 ./Effects/texture/MilViz_AB_2.bmp

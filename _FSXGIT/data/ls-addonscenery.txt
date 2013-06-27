@@ -15,6 +15,8 @@
 ./Addon Scenery/Alaska/Alaska Airfields Kodiak/Texture
 ./Addon Scenery/Alaska/Alaska-misc
 ./Addon Scenery/Alaska/Alaska-misc/scenery
+./Addon Scenery/Alaska/AlaskaMesh
+./Addon Scenery/Alaska/AlaskaMesh/scenery
 ./Addon Scenery/Alaska/Bethel-city-airport
 ./Addon Scenery/Alaska/Bethel-city-airport/scenery
 ./Addon Scenery/Alaska/Bethel-city-airport/texture
@@ -285,13 +287,11 @@
 ./Addon Scenery/Caribbean/Caribbean-misc/scenery/_REMOVED
 ./Addon Scenery/Caribbean/Caribbean-misc/texture
 ./Addon Scenery/Caribbean/Caribbean-misc/texture/_REMOVED
+./Addon Scenery/Caribbean/Cayman Islands
 ./Addon Scenery/Caribbean/Cuba
 ./Addon Scenery/Caribbean/Cuba/scenery
 ./Addon Scenery/Caribbean/Cuba/texture
 ./Addon Scenery/Caribbean/Jamaica
-./Addon Scenery/Caribbean/Jamaica/Montego Bay Airport MKJS
-./Addon Scenery/Caribbean/Jamaica/Montego Bay Airport MKJS/scenery
-./Addon Scenery/Caribbean/Jamaica/Montego Bay Airport MKJS/texture
 ./Addon Scenery/Caribbean/MTPP Toussaint Louverture Haiti
 ./Addon Scenery/Caribbean/MTPP Toussaint Louverture Haiti/scenery
 ./Addon Scenery/Caribbean/Paramaribo SMJP
@@ -307,9 +307,16 @@
 ./Addon Scenery/Caribbean/St Kitts
 ./Addon Scenery/Caribbean/St Kitts/Scenery
 ./Addon Scenery/Caribbean/St Kitts/Texture
+./Addon Scenery/Caribbean/Virgin Islands
+./Addon Scenery/Caribbean/Virgin Islands/Sainte Croix
+./Addon Scenery/Caribbean/Virgin Islands/Sainte Croix/Scenery
+./Addon Scenery/Caribbean/Virgin Islands/Sainte Croix/texture
 ./Addon Scenery/Caribbean/WestIndies-Mesh
 ./Addon Scenery/Caribbean/WestIndies-Mesh/scenery
 ./Addon Scenery/Caribbean/_REMOVED
+./Addon Scenery/Caribbean/_REMOVED/Montego Bay Airport MKJS
+./Addon Scenery/Caribbean/_REMOVED/Montego Bay Airport MKJS/scenery
+./Addon Scenery/Caribbean/_REMOVED/Montego Bay Airport MKJS/texture
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad/scenery
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad/texture
@@ -478,6 +485,10 @@
 ./Addon Scenery/Israel/_DEL/LLBG 2/scenery
 ./Addon Scenery/Israel/_DEL/LLBG 2/texture
 ./Addon Scenery/LatinVFR
+./Addon Scenery/LatinVFR/Cozumel_MMCZ
+./Addon Scenery/LatinVFR/Cozumel_MMCZ/Docs
+./Addon Scenery/LatinVFR/Cozumel_MMCZ/Scenery
+./Addon Scenery/LatinVFR/Cozumel_MMCZ/Texture
 ./Addon Scenery/LatinVFR/Key West_KEYW
 ./Addon Scenery/LatinVFR/Key West_KEYW/Docs
 ./Addon Scenery/LatinVFR/Key West_KEYW/Scenery
@@ -486,6 +497,10 @@
 ./Addon Scenery/LatinVFR/Miami_KMIA/Docs
 ./Addon Scenery/LatinVFR/Miami_KMIA/Scenery
 ./Addon Scenery/LatinVFR/Miami_KMIA/Texture
+./Addon Scenery/LatinVFR/Montego Bay_MKJS
+./Addon Scenery/LatinVFR/Montego Bay_MKJS/Docs
+./Addon Scenery/LatinVFR/Montego Bay_MKJS/Scenery
+./Addon Scenery/LatinVFR/Montego Bay_MKJS/Texture
 ./Addon Scenery/LatinVFR/Piarco_TTPP
 ./Addon Scenery/LatinVFR/Piarco_TTPP/Documentation
 ./Addon Scenery/LatinVFR/Piarco_TTPP/Scenery

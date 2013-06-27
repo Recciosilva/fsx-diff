@@ -1,6 +1,49 @@
-./SimObjects/Airplanes
+./
+./Addon Scenery/Caribbean
+./Addon Scenery/Caribbean/Cayman Islands
+./FeelThere/b737 v2/737.ini
+./FeelThere/b737 v2/737c2.log
+./FeelThere/CustomDB
+./FeelThere/CustomDB/KMIAMWCR.U10.fpl
+./FeelThere/Nd
+./FeelThere/PerfDB/737.perf
+./jb777memfilemap.txt
+./Level-D Simulations/B767-300/B767-300.ini
+./modules
+./modules/FSUIPC4.ini
+./modules/FSUIPC4.log
+./modules/WideServer.log
+./modules/WideServer0.log
+./Scenery/UtTacAirports/Scenery
+./Scenery/UtTacAirports/Scenery/_REMOVED
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/traffic_000_woa_cayman airways_su08_FSX.bgl
+./Scenery/World/Scenery/traffic_000_woa_cayman airways_su08_FSX.bgl
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/aircraft.cfg
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/texture.cayman
+./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/texture.cayman/thumbnail.jpg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.cxc
+./SimObjects/Airplanes/mjc8q3_2/Aircraft.cfg
+./SimObjects/Misc
+./SimObjects/Misc/FAIB_B737-300_L
+./SimObjects/Misc/FAIB_B737-300_L/Aircraft.cfg
+./SimObjects/Misc/FAIB_B737-300_L/model.logolight
+./SimObjects/Misc/FAIB_B737-300_L/soundai
+./SimObjects/Misc/FAIB_B737-300_L/texture.Cayman
+./SimObjects/Misc/FAIB_B737-300_N
+./SimObjects/Misc/FAIB_B737-300_N/model.normal
+./SimObjects/Misc/FAIB_B737-300_N/soundai
+./SimObjects/Misc/FAIB_B737-300_N/texture.House
+./SimObjects/Misc/FAIB_B737-300_W
+./SimObjects/Misc/FAIB_B737-300_W/model.winglets
+./SimObjects/Misc/FAIB_B737-300_W/soundai
+./SimObjects/Misc/FTX Boeing B747-300/aircraft.cfg
+./SimObjects/Misc/WoA_HTAI_DHC6/aircraft.cfg
+./Texture
 ./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-06-24.tar.gz
+./_FSXGIT/bkups/backup-2013-06-27.tar.gz
 ./_FSXGIT/data/addon-modules.txt
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg

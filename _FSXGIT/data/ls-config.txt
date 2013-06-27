@@ -344,6 +344,7 @@
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/sound/sound.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.am/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.bagps/texture.cfg
+./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.cxc/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/Texture.ios1/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/Texture.ios2/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.wa/texture.cfg
@@ -5748,6 +5749,15 @@
 ./SimObjects/Misc/DJC_AI_js41/model/model.cfg
 ./SimObjects/Misc/DJC_AI_js41/panel/panel.cfg
 ./SimObjects/Misc/DJC_AI_js41/sound/sound.cfg
+./SimObjects/Misc/FAIB_B737-300_L/Aircraft.cfg
+./SimObjects/Misc/FAIB_B737-300_L/model.logolight/model.cfg
+./SimObjects/Misc/FAIB_B737-300_L/soundai/soundai.cfg
+./SimObjects/Misc/FAIB_B737-300_N/Aircraft.cfg
+./SimObjects/Misc/FAIB_B737-300_N/model.normal/model.cfg
+./SimObjects/Misc/FAIB_B737-300_N/soundai/soundai.cfg
+./SimObjects/Misc/FAIB_B737-300_W/Aircraft.cfg
+./SimObjects/Misc/FAIB_B737-300_W/model.winglets/model.cfg
+./SimObjects/Misc/FAIB_B737-300_W/soundai/soundai.cfg
 ./SimObjects/Misc/Fisherman_sm/model/model.cfg
 ./SimObjects/Misc/Fisherman_sm/sim.cfg
 ./SimObjects/Misc/Fisherman_sm/texture/texture.cfg
