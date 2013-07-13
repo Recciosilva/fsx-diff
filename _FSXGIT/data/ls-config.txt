@@ -1010,6 +1010,7 @@
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.FEDEX/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.GoTropical Caribbean Airlines/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.JK-SaltAir/texture.cfg
+./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.Mokulele/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.Red wine stripes/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.TZR/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.UAE Air Force Parachute squadron/texture.cfg
@@ -2180,6 +2181,18 @@
 ./SimObjects/Airplanes/feelThere PIC Citation X/model.nocandy/model.cfg
 ./SimObjects/Airplanes/feelThere PIC Citation X/Panel/Panel.cfg
 ./SimObjects/Airplanes/feelThere PIC Citation X/sound/sound.cfg
+./SimObjects/Airplanes/feelThere PIC E175/aircraft.cfg
+./SimObjects/Airplanes/feelThere PIC E175/model/Model.cfg
+./SimObjects/Airplanes/feelThere PIC E175/panel/panel-std.cfg
+./SimObjects/Airplanes/feelThere PIC E175/panel/panel-wide.cfg
+./SimObjects/Airplanes/feelThere PIC E175/panel/panel.cfg
+./SimObjects/Airplanes/feelThere PIC E175/sound/sound.cfg
+./SimObjects/Airplanes/feelThere PIC E195/aircraft.cfg
+./SimObjects/Airplanes/feelThere PIC E195/model/Model.cfg
+./SimObjects/Airplanes/feelThere PIC E195/panel/panel-std.cfg
+./SimObjects/Airplanes/feelThere PIC E195/panel/panel-wide.cfg
+./SimObjects/Airplanes/feelThere PIC E195/panel/panel.cfg
+./SimObjects/Airplanes/feelThere PIC E195/sound/sound.cfg
 ./SimObjects/Airplanes/FFG_FSX_Saab340_UAX/Aircraft.cfg
 ./SimObjects/Airplanes/FFG_FSX_Saab340_UAX/model/Model.cfg
 ./SimObjects/Airplanes/FFG_FSX_Saab340_UAX/panel/panel.cfg
@@ -2938,6 +2951,10 @@
 ./SimObjects/Airplanes/IRIS PC-9A/texture.facdu/texture.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/texture.raaf_bicentennial/texture.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/texture.roulettes/texture.cfg
+./SimObjects/Airplanes/J-21/aircraft.cfg
+./SimObjects/Airplanes/J-21/model/Model.cfg
+./SimObjects/Airplanes/J-21/panel/panel.cfg
+./SimObjects/Airplanes/J-21/sound/Sound.cfg
 ./SimObjects/Airplanes/JBK Douglas DC6/Aircraft.cfg
 ./SimObjects/Airplanes/JBK Douglas DC6/model/Model.cfg
 ./SimObjects/Airplanes/JBK Douglas DC6/model.domestic/Model.cfg
@@ -2971,6 +2988,14 @@
 ./SimObjects/Airplanes/JF_A6M2_Zero/texture.3/texture.cfg
 ./SimObjects/Airplanes/JF_A6M2_Zero/texture.4/texture.cfg
 ./SimObjects/Airplanes/JF_A6M2_Zero/texture.5/texture.cfg
+./SimObjects/Airplanes/jf_Beech_Duchess/Aircraft.cfg
+./SimObjects/Airplanes/jf_Beech_Duchess/Model/model.cfg
+./SimObjects/Airplanes/jf_Beech_Duchess/panel/Panel.cfg
+./SimObjects/Airplanes/jf_Beech_Duchess/Texture.Blue/texture.cfg
+./SimObjects/Airplanes/jf_Beech_Duchess/Texture.Bournemouth/texture.cfg
+./SimObjects/Airplanes/jf_Beech_Duchess/Texture.Conington/texture.cfg
+./SimObjects/Airplanes/jf_Beech_Duchess/Texture.Green/texture.cfg
+./SimObjects/Airplanes/jf_Beech_Duchess/Texture.Red/texture.cfg
 ./SimObjects/Airplanes/jf_C152/aerocustom.cfg
 ./SimObjects/Airplanes/jf_C152/aeroface.cfg
 ./SimObjects/Airplanes/jf_C152/aeroload.cfg
@@ -4130,6 +4155,12 @@
 ./SimObjects/Airplanes/T-38A_MilViz/texture.TB6/texture.cfg
 ./SimObjects/Airplanes/T-38A_MilViz/texture.TBann/texture.cfg
 ./SimObjects/Airplanes/T-38A_MilViz/texture.USAF/texture.cfg
+./SimObjects/Airplanes/TDS_B788_TRENT/Aircraft.cfg
+./SimObjects/Airplanes/TDS_B788_TRENT/model/model.cfg
+./SimObjects/Airplanes/TDS_B788_TRENT/model.genx/model.cfg
+./SimObjects/Airplanes/TDS_B788_TRENT/panel.camsim/Panel.cfg
+./SimObjects/Airplanes/TDS_B788_TRENT/panel.orig/panel.cfg
+./SimObjects/Airplanes/TDS_B788_TRENT/sound/Sound.cfg
 ./SimObjects/Airplanes/Tom_A330-200F/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-200F/model.PW/model.cfg
 ./SimObjects/Airplanes/Tom_A330-200F/model.RR/model.cfg
@@ -9246,6 +9277,7 @@
 ./SimObjects/Rotorcraft/ND_BO105/Texture.3/texture.cfg
 ./SimObjects/Rotorcraft/ND_BO105/Texture.4/texture.cfg
 ./SimObjects/Rotorcraft/ND_BO105/Texture.5/texture.cfg
+./SimObjects/Rotorcraft/ND_BO105/texture.hva/texture.cfg
 ./SimObjects/Rotorcraft/ND_EC120_base/aircraft.cfg
 ./SimObjects/Rotorcraft/ND_EC120_base/model.base/model.cfg
 ./SimObjects/Rotorcraft/ND_EC120_base/model.base2/model.cfg

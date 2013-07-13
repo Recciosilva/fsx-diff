@@ -57,6 +57,7 @@
 ./Gauges/dsd_xml_sound3.gau
 ./Gauges/dsd_xml_sound_relay.gau
 ./Gauges/E120c.gau
+./Gauges/EFinfo_emb.gau
 ./Gauges/EHSI.gau
 ./Gauges/f1152ec.gau
 ./Gauges/F16.gau

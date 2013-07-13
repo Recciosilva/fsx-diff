@@ -923,6 +923,7 @@
 ./Effects/fx_MirVolc.fx
 ./Effects/fx_Moth_exhaust.fx
 ./Effects/fx_multiply_test.fx
+./Effects/fx_mzlflsh_s.fx
 ./Effects/fx_navbluec.fx
 ./Effects/fx_navgre.fx
 ./Effects/fx_navgre85.fx
@@ -1960,6 +1961,8 @@
 ./Effects/sr_fueldump.fx
 ./Effects/su_combustion.fx
 ./Effects/su_combustion_start.fx
+./Effects/tdsb8_wing_light.fx
+./Effects/tdsnose_gearwell.fx
 ./Effects/texture
 ./Effects/texture/a10_tracer.bmp
 ./Effects/texture/ACG_JY_Pilots_Photographers.bmp

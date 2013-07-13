@@ -1,49 +1,154 @@
 ./
-./Addon Scenery/Caribbean
-./Addon Scenery/Caribbean/Cayman Islands
-./FeelThere/b737 v2/737.ini
-./FeelThere/b737 v2/737c2.log
-./FeelThere/CustomDB
-./FeelThere/CustomDB/KMIAMWCR.U10.fpl
+./Addon Scenery/USA/BlueSky-SouthernCalifornia/scenery
+./FeelThere
+./FeelThere/E170
+./FeelThere/E170/Docs
+./FeelThere/E170/e170.log
+./FeelThere/E170/Sounds
+./FeelThere/E170/Sounds/AC
+./FeelThere/E170/Sounds/Air
+./FeelThere/E170/Sounds/APU
+./FeelThere/E170/Sounds/Autopilot
+./FeelThere/E170/Sounds/Aws
+./FeelThere/E170/Sounds/Batteries
+./FeelThere/E170/Sounds/Button
+./FeelThere/E170/Sounds/Callouts
+./FeelThere/E170/Sounds/Eicas
+./FeelThere/E170/Sounds/FO
+./FeelThere/E170/Sounds/FO/after start
+./FeelThere/E170/Sounds/FO/after takeoff
+./FeelThere/E170/Sounds/FO/approach
+./FeelThere/E170/Sounds/FO/before landing
+./FeelThere/E170/Sounds/FO/before start
+./FeelThere/E170/Sounds/FO/before takeoff
+./FeelThere/E170/Sounds/FO/cockpit safety
+./FeelThere/E170/Sounds/FO/descent
+./FeelThere/E170/Sounds/FO/FA
+./FeelThere/E170/Sounds/FO/parking
+./FeelThere/E170/Sounds/FO/power down
+./FeelThere/E170/Sounds/FO/power up
+./FeelThere/E170/Sounds/FO/preflight
+./FeelThere/E170/Sounds/Gear
+./FeelThere/E170/Sounds/Gpws
+./FeelThere/E170/Sounds/Pax
+./FeelThere/E170/Sounds/Speed
+./FeelThere/E170/Sounds/Stall
+./FeelThere/E170/Sounds/Takeoff
+./FeelThere/E170/Sounds/Tcas
+./FeelThere/E170/Sounds/Trim
 ./FeelThere/Nd
-./FeelThere/PerfDB/737.perf
+./FeelThere/PerfDB
+./Gauges
+./Gauges/EFinfoBg_EMB
 ./jb777memfilemap.txt
+./JustFlight
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./Scenery/UtTacAirports/Scenery
-./Scenery/UtTacAirports/Scenery/_REMOVED
-./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/traffic_000_woa_cayman airways_su08_FSX.bgl
-./Scenery/World/Scenery/traffic_000_woa_cayman airways_su08_FSX.bgl
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/aircraft.cfg
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/texture.cayman
-./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/texture.cayman/thumbnail.jpg
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/aircraft.cfg
-./SimObjects/Airplanes/Aerosoft Twin Otter 300 modern/texture.cxc
-./SimObjects/Airplanes/mjc8q3_2/Aircraft.cfg
-./SimObjects/Misc
-./SimObjects/Misc/FAIB_B737-300_L
-./SimObjects/Misc/FAIB_B737-300_L/Aircraft.cfg
-./SimObjects/Misc/FAIB_B737-300_L/model.logolight
-./SimObjects/Misc/FAIB_B737-300_L/soundai
-./SimObjects/Misc/FAIB_B737-300_L/texture.Cayman
-./SimObjects/Misc/FAIB_B737-300_N
-./SimObjects/Misc/FAIB_B737-300_N/model.normal
-./SimObjects/Misc/FAIB_B737-300_N/soundai
-./SimObjects/Misc/FAIB_B737-300_N/texture.House
-./SimObjects/Misc/FAIB_B737-300_W
-./SimObjects/Misc/FAIB_B737-300_W/model.winglets
-./SimObjects/Misc/FAIB_B737-300_W/soundai
-./SimObjects/Misc/FTX Boeing B747-300/aircraft.cfg
-./SimObjects/Misc/WoA_HTAI_DHC6/aircraft.cfg
-./Texture
+./SimObjects
+./SimObjects/Airplanes
+./SimObjects/Airplanes/Carenado C185F/aircraft.cfg
+./SimObjects/Airplanes/feelThere PIC E175
+./SimObjects/Airplanes/feelThere PIC E175/aircraft.cfg
+./SimObjects/Airplanes/feelThere PIC E175/aircraft.cfg.original
+./SimObjects/Airplanes/feelThere PIC E175/model
+./SimObjects/Airplanes/feelThere PIC E175/panel
+./SimObjects/Airplanes/feelThere PIC E175/sound
+./SimObjects/Airplanes/feelThere PIC E175/texture
+./SimObjects/Airplanes/feelThere PIC E175/texture.ACA_100
+./SimObjects/Airplanes/feelThere PIC E175/texture.ACA_mcp
+./SimObjects/Airplanes/feelThere PIC E175/texture.AFR_mcp
+./SimObjects/Airplanes/feelThere PIC E175/texture.ANO
+./SimObjects/Airplanes/feelThere PIC E175/texture.AZA_mcp
+./SimObjects/Airplanes/feelThere PIC E175/texture.Cirrus
+./SimObjects/Airplanes/feelThere PIC E175/texture.DAL_mcp
+./SimObjects/Airplanes/feelThere PIC E175/texture.DAL_nc
+./SimObjects/Airplanes/feelThere PIC E175/texture.E170-1
+./SimObjects/Airplanes/feelThere PIC E175/texture.E170-2
+./SimObjects/Airplanes/feelThere PIC E175/texture.E175-1
+./SimObjects/Airplanes/feelThere PIC E175/texture.E175-2
+./SimObjects/Airplanes/feelThere PIC E175/texture.FFT871
+./SimObjects/Airplanes/feelThere PIC E175/texture.FFT874
+./SimObjects/Airplanes/feelThere PIC E175/texture.FNN
+./SimObjects/Airplanes/feelThere PIC E175/texture.FWI
+./SimObjects/Airplanes/feelThere PIC E175/texture.JAL_mcp
+./SimObjects/Airplanes/feelThere PIC E175/texture.Jordanian
+./SimObjects/Airplanes/feelThere PIC E175/texture.KYA
+./SimObjects/Airplanes/feelThere PIC E175/texture.LOT_mcp
+./SimObjects/Airplanes/feelThere PIC E175/texture.LOT_star
+./SimObjects/Airplanes/feelThere PIC E175/texture.MSR_mcp
+./SimObjects/Airplanes/feelThere PIC E175/texture.NWA_mcp
+./SimObjects/Airplanes/feelThere PIC E175/texture.NWA_mcp300
+./SimObjects/Airplanes/feelThere PIC E175/texture.RJA
+./SimObjects/Airplanes/feelThere PIC E175/texture.RPU
+./SimObjects/Airplanes/feelThere PIC E175/texture.RUS_new
+./SimObjects/Airplanes/feelThere PIC E175/texture.RUS_old
+./SimObjects/Airplanes/feelThere PIC E175/texture.SAW
+./SimObjects/Airplanes/feelThere PIC E175/texture.SOL
+./SimObjects/Airplanes/feelThere PIC E175/texture.STN
+./SimObjects/Airplanes/feelThere PIC E175/texture.SVA
+./SimObjects/Airplanes/feelThere PIC E175/texture.TAE
+./SimObjects/Airplanes/feelThere PIC E175/texture.Trip
+./SimObjects/Airplanes/feelThere PIC E175/texture.TRP
+./SimObjects/Airplanes/feelThere PIC E175/texture.UAL
+./SimObjects/Airplanes/feelThere PIC E175/texture.USA_400
+./SimObjects/Airplanes/feelThere PIC E175/texture.USA_nc
+./SimObjects/Airplanes/feelThere PIC E175/texture.USA_star
+./SimObjects/Airplanes/feelThere PIC E175/texture.VNG
+./SimObjects/Airplanes/feelThere PIC E175/texture.VOZ
+./SimObjects/Airplanes/feelThere PIC E175/Uninstal.exe
+./SimObjects/Airplanes/feelThere PIC E195
+./SimObjects/Airplanes/feelThere PIC E195/aircraft.cfg
+./SimObjects/Airplanes/feelThere PIC E195/aircraft.cfg.original
+./SimObjects/Airplanes/feelThere PIC E195/model
+./SimObjects/Airplanes/feelThere PIC E195/panel
+./SimObjects/Airplanes/feelThere PIC E195/sound
+./SimObjects/Airplanes/feelThere PIC E195/texture
+./SimObjects/Airplanes/feelThere PIC E195/texture.ACA_mcp
+./SimObjects/Airplanes/feelThere PIC E195/texture.AFR_mcp
+./SimObjects/Airplanes/feelThere PIC E195/texture.AMX
+./SimObjects/Airplanes/feelThere PIC E195/texture.ANG
+./SimObjects/Airplanes/feelThere PIC E195/texture.AZU
+./SimObjects/Airplanes/feelThere PIC E195/texture.Azul
+./SimObjects/Airplanes/feelThere PIC E195/texture.BBO
+./SimObjects/Airplanes/feelThere PIC E195/texture.BEE
+./SimObjects/Airplanes/feelThere PIC E195/texture.CMP
+./SimObjects/Airplanes/feelThere PIC E195/texture.DLA
+./SimObjects/Airplanes/feelThere PIC E195/texture.DLH_mcp
+./SimObjects/Airplanes/feelThere PIC E195/texture.EMB
+./SimObjects/Airplanes/feelThere PIC E195/texture.EMB_2
+./SimObjects/Airplanes/feelThere PIC E195/texture.FNN
+./SimObjects/Airplanes/feelThere PIC E195/texture.FWI
+./SimObjects/Airplanes/feelThere PIC E195/texture.HDA
+./SimObjects/Airplanes/feelThere PIC E195/texture.JBU_179
+./SimObjects/Airplanes/feelThere PIC E195/texture.JBU_228
+./SimObjects/Airplanes/feelThere PIC E195/texture.JBU_229
+./SimObjects/Airplanes/feelThere PIC E195/texture.JBU_265
+./SimObjects/Airplanes/feelThere PIC E195/texture.JBU_283
+./SimObjects/Airplanes/feelThere PIC E195/texture.JBU_290
+./SimObjects/Airplanes/feelThere PIC E195/texture.Jordan
+./SimObjects/Airplanes/feelThere PIC E195/texture.KLM
+./SimObjects/Airplanes/feelThere PIC E195/texture.KNE
+./SimObjects/Airplanes/feelThere PIC E195/texture.MDA
+./SimObjects/Airplanes/feelThere PIC E195/texture.MGX
+./SimObjects/Airplanes/feelThere PIC E195/texture.MLD
+./SimObjects/Airplanes/feelThere PIC E195/texture.PMW
+./SimObjects/Airplanes/feelThere PIC E195/texture.RJA
+./SimObjects/Airplanes/feelThere PIC E195/texture.RPB
+./SimObjects/Airplanes/feelThere PIC E195/texture.SAW
+./SimObjects/Airplanes/feelThere PIC E195/texture.SWR
+./SimObjects/Airplanes/feelThere PIC E195/texture.TAE
+./SimObjects/Airplanes/feelThere PIC E195/texture.TAI
+./SimObjects/Airplanes/feelThere PIC E195/texture.USA
+./SimObjects/Airplanes/feelThere PIC E195/texture.VGN
+./SimObjects/Airplanes/feelThere PIC E195/texture.VOZ
+./SimObjects/Airplanes/feelThere PIC E195/texture.wind
+./SimObjects/Airplanes/feelThere PIC E195/Uninstal.exe
 ./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-06-27.tar.gz
+./_FSXGIT/bkups/backup-2013-07-14.tar.gz
 ./_FSXGIT/data/addon-modules.txt
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg

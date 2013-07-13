@@ -963,6 +963,8 @@
 ./Addon Scenery/USA/BlueSky-PhoenixPhotoreal
 ./Addon Scenery/USA/BlueSky-PhoenixPhotoreal/Scenery
 ./Addon Scenery/USA/BlueSky-PhoenixPhotoreal/Texture
+./Addon Scenery/USA/BlueSky-SouthernCalifornia
+./Addon Scenery/USA/BlueSky-SouthernCalifornia/scenery
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada/KINS
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada/KINS/scenery

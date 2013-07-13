@@ -151,6 +151,8 @@
 ./SimObjects/Airplanes/feelThere pic 737-400 v2/aircraft.cfg
 ./SimObjects/Airplanes/feelThere pic 737-500/aircraft.cfg
 ./SimObjects/Airplanes/feelThere pic 737-500 v2/aircraft.cfg
+./SimObjects/Airplanes/feelThere PIC E175/aircraft.cfg
+./SimObjects/Airplanes/feelThere PIC E195/aircraft.cfg
 ./SimObjects/Airplanes/FlightSim Developers P38J/aircraft.cfg
 ./SimObjects/Airplanes/FlightSim Developers P38K/aircraft.cfg
 ./SimObjects/Airplanes/FlightSim Developers P38L/aircraft.cfg
@@ -176,6 +178,7 @@
 ./SimObjects/Airplanes/IRIS P-40 Kittyhawk/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/aircraft.cfg
+./SimObjects/Airplanes/J-21/aircraft.cfg
 ./SimObjects/Airplanes/jf_C152/aircraft.cfg
 ./SimObjects/Airplanes/JF_C69/aircraft.cfg
 ./SimObjects/Airplanes/JF_Douglas_AC47/aircraft.cfg
