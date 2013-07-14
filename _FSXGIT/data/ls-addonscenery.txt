@@ -401,6 +401,15 @@
 ./Addon Scenery/Europe/Norway/Norway_Scenic_X/Norway_Scenic_X/Scenery
 ./Addon Scenery/Europe/Norway/Norway_Scenic_X/Norway_Scenic_X_Exclude
 ./Addon Scenery/Europe/Norway/Norway_Scenic_X/Norway_Scenic_X_Exclude/Scenery
+./Addon Scenery/Europe/OpenVFR_Europe
+./Addon Scenery/Europe/OpenVFR_Europe/OpenVFR_EU_AutoGen
+./Addon Scenery/Europe/OpenVFR_Europe/OpenVFR_EU_AutoGen/Scenery
+./Addon Scenery/Europe/OpenVFR_Europe/OpenVFR_EU_AutoGen/Texture
+./Addon Scenery/Europe/OpenVFR_Europe/OpenVFR_EU_mesh
+./Addon Scenery/Europe/OpenVFR_Europe/OpenVFR_EU_mesh/Scenery
+./Addon Scenery/Europe/OpenVFR_Europe/OpenVFR_EU_Objects
+./Addon Scenery/Europe/OpenVFR_Europe/OpenVFR_EU_Objects/Scenery
+./Addon Scenery/Europe/OpenVFR_Europe/OpenVFR_EU_Objects/Texture
 ./Addon Scenery/Europe/Poland
 ./Addon Scenery/Europe/Poland/EPKK Krakow Balice 2012 X
 ./Addon Scenery/Europe/Poland/EPKK Krakow Balice 2012 X/Documents
@@ -912,12 +921,32 @@
 ./Addon Scenery/UK/Cardiff_Landmarks/texture
 ./Addon Scenery/UK/EastMidlands
 ./Addon Scenery/UK/EastMidlands/scenery
+./Addon Scenery/UK/EGYM
+./Addon Scenery/UK/EGYM/Scenery
+./Addon Scenery/UK/EGYM/Texture
 ./Addon Scenery/UK/Jersey
 ./Addon Scenery/UK/Jersey/Scenery
 ./Addon Scenery/UK/Jersey/Texture
 ./Addon Scenery/UK/Leeds_Bradford_EGNM
 ./Addon Scenery/UK/Leeds_Bradford_EGNM/Scenery
 ./Addon Scenery/UK/Leeds_Bradford_EGNM/Texture
+./Addon Scenery/UK/MAIW RAF Coningsby
+./Addon Scenery/UK/MAIW RAF Coningsby/scenery
+./Addon Scenery/UK/MAIW RAF Coningsby/texture
+./Addon Scenery/UK/MAIW Scenery Library Objects
+./Addon Scenery/UK/MAIW Scenery Library Objects/Scenery
+./Addon Scenery/UK/MAIW Scenery Library Objects/Texture
+./Addon Scenery/UK/MAIW UK Apache Bases
+./Addon Scenery/UK/MAIW UK Apache Bases/Scenery
+./Addon Scenery/UK/MAIW UK Apache Bases/Texture
+./Addon Scenery/UK/MAIW_Brough
+./Addon Scenery/UK/MAIW_Brough/Scenery
+./Addon Scenery/UK/MAIW_Brough/Texture
+./Addon Scenery/UK/MAIW_RAF Boscombe Down
+./Addon Scenery/UK/MAIW_RAF Boscombe Down/Scenery
+./Addon Scenery/UK/MAIW_RAF Odiham Scenery
+./Addon Scenery/UK/MAIW_RAF Odiham Scenery/Scenery
+./Addon Scenery/UK/MAIW_RAF Odiham Scenery/Texture
 ./Addon Scenery/UK/Shannon
 ./Addon Scenery/UK/Shannon/scenery
 ./Addon Scenery/UK/UK2000 Heathrow Xtreme
@@ -926,6 +955,8 @@
 ./Addon Scenery/UK/UK2000 Heathrow Xtreme/options
 ./Addon Scenery/UK/UK2000 Heathrow Xtreme/Scenery
 ./Addon Scenery/UK/UK2000 Heathrow Xtreme/texture
+./Addon Scenery/UK/UK_Misc_Scenery
+./Addon Scenery/UK/UK_Misc_Scenery/scenery
 ./Addon Scenery/UK/_DEL_Belfast
 ./Addon Scenery/UK/_DEL_Belfast/scenery
 ./Addon Scenery/UK/_DEL_Cardiff_Airport

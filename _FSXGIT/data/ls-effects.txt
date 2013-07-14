@@ -973,10 +973,14 @@
 ./Effects/fx_navyelh.fx
 ./Effects/fx_nbai_F15_ab.fx
 ./Effects/fx_nbai_F15_ab_extended.fx
+./Effects/fx_nbai_jaguar_ab.fx
+./Effects/fx_nbai_typhoon_ab.fx
 ./Effects/fx_Ngafalls_lrg.fx
 ./Effects/fx_Ngafalls_sml.fx
 ./Effects/fx_Ngastatic_lrg.fx
 ./Effects/fx_Ngastatic_sml.fx
+./Effects/fx_nicksmokeAI_lrglear-MD-7x.fx
+./Effects/fx_nicksmokeAI_nbai_jaguar.fx
 ./Effects/fx_nicksmokeAI_sm_lear.fx
 ./Effects/fx_nicks_tchdwn_s.fx
 ./Effects/fx_Nord_Beacon_01.fx
@@ -2113,6 +2117,7 @@
 ./Effects/texture/fx_iris_light.bmp
 ./Effects/texture/fx_iris_rays.bmp
 ./Effects/texture/fx_iris_vortex.bmp
+./Effects/texture/fx_jaguar.bmp
 ./Effects/texture/fx_JFM_Para_1.bmp
 ./Effects/texture/fx_JFM_Para_2.bmp
 ./Effects/texture/fx_JY_apronlight.bmp
@@ -2165,6 +2170,7 @@
 ./Effects/texture/fx_track.bmp
 ./Effects/texture/fx_track_727.bmp
 ./Effects/texture/fx_track_y3.bmp
+./Effects/texture/fx_typhoon.bmp
 ./Effects/texture/fx_VLC_1.bmp
 ./Effects/texture/fx_VLC_2.bmp
 ./Effects/texture/fx_VLC_3.bmp

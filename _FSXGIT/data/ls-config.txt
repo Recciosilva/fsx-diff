@@ -84,6 +84,7 @@
 ./JustFlight/146200/Alternate Flight Dynamics/Aircraft_CFG - True feel/Aircraft.cfg
 ./JustFlight/146200/Paintkit/Texture.BLANK/texture.cfg
 ./KioskSettings.cfg
+./Military AI Works/United Kingdom/Tornado F3/Options Folder/MAIW_PAI Tornado RAF Coningsby/Aircraft.cfg
 ./ORBX/FTX_AU/FTXAA_YBCS/scenery/ModuleInstaller.cfg
 ./ORBX/FTX_AU/FTXAA_YMML/Scenery/ModuleInstaller.cfg
 ./ORBX/FTX_NZ/FTX_NZNI_05_SCENERY/scenery/ModuleInstaller.cfg
@@ -5510,6 +5511,8 @@
 ./SimObjects/Misc/AI Shorts SD3-60/model/Model.cfg
 ./SimObjects/Misc/AI UKMIL Astor_EGXW/Aircraft.cfg
 ./SimObjects/Misc/AI UKMIL Astor_EGXW/model/model.cfg
+./SimObjects/Misc/AI UKMIL Bucaneer Brough Static/Aircraft.cfg
+./SimObjects/Misc/AI UKMIL Bucaneer Brough Static/model/Model.cfg
 ./SimObjects/Misc/AI UKMIL Nimrod R1_EGXW/Aircraft.cfg
 ./SimObjects/Misc/AI UKMIL Nimrod R1_EGXW/model/Model.cfg
 ./SimObjects/Misc/AI UKMIL Vulcan EGXW/Aircraft.cfg
@@ -8105,8 +8108,15 @@
 ./SimObjects/Misc/MAIW_DWAI_PA31_Navajo T&T/sound/Sound.cfg
 ./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/aircraft.cfg
 ./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/Model.Civy/model.cfg
+./SimObjects/Misc/MAIW_FMAI_RAF Tornado F3/Aircraft.cfg
+./SimObjects/Misc/MAIW_FMAI_RAF Tornado F3/model/model.cfg
+./SimObjects/Misc/MAIW_FMAI_RAF Tornado GR4/Aircraft.cfg
 ./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF/Aircraft.cfg
 ./SimObjects/Misc/MAIW_HTAI_Beechcraft King Air B200 RBDF/model.4Blades-Strakes/Model.cfg
+./SimObjects/Misc/MAIW_HTAI_British Aerospace Systems HS-125-800/aircraft.cfg
+./SimObjects/Misc/MAIW_HTAI_British Aerospace Systems HS-125-800/model/Model.cfg
+./SimObjects/Misc/MAIW_HTAI_British Aerospace Systems_Cessna 177 Cardinal/aircraft.cfg
+./SimObjects/Misc/MAIW_HTAI_British Aerospace Systems_Cessna 177 Cardinal/model/Model.cfg
 ./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T/Aircraft.cfg
 ./SimObjects/Misc/MAIW_HTAI_Cessna 402B T&T/model/Model.cfg
 ./SimObjects/Misc/MAIW_HTAI_Cessna 404 RBDF/Aircraft.cfg
@@ -8125,6 +8135,21 @@
 ./SimObjects/Misc/MAIW_HTAI_F-16D Nellis AFB/model.normal/Model.cfg
 ./SimObjects/Misc/MAIW_MGAI_M1025 Nellis AFB/Aircraft.cfg
 ./SimObjects/Misc/MAIW_MGAI_M1025 Nellis AFB/model.M1025/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/Aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.agm/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.asraam/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.brimst/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.cap/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.cas/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.long/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.maritime/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.qfit/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon F2 RAF Coningsby/model.sead/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon T1 RAF Coningsby/Aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon T1 RAF Coningsby/model.asraam/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon T1 RAF Coningsby/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI EF Typhoon T1 RAF Coningsby/model.long/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15C  Nellis AFB/Aircraft.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15C  Nellis AFB/model.centre_tank/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F15C  Nellis AFB/model.combat1/Model.cfg
@@ -8168,11 +8193,81 @@
 ./SimObjects/Misc/MAIW_NBAI_Boeing F22 Tyndall AFB/model.2tanks/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F22 Tyndall AFB/model.armed/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_Boeing F22 Tyndall AFB/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/Aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.close_air_support/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.drill/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.pylons/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.transit_tanks/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.warload1/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.warload2/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.warload3/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_GR9_RAF/model.warload4/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_T10_RAF/Aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_T10_RAF/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_T10_RAF/model.drill/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_T10_RAF/model.pylons/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Harrier_T10_RAF/model.transit_tanks/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_100_BAe/Aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_100_BAe/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_100_BAe/model.clean_solo/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_100_BAe/model.tanks_solo/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_BAe/Aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_BAe/model.CLEAN/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/Aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.ARMED/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.ARMED_SOLO/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.CLEAN/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.CLEAN_SOLO/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.DRILL/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.DRILL_SOLO/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.DUMMY_BOMBS/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.DUMMY_BOMBS_SOLO/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.PYLONS/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.PYLONS_SOLO/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.ROCKETS/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_Hawk_T1_RAF_Part1/model.ROCKETS_SOLO/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.clean_chute/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.drill/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.drill2/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.drill2_chute/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.drill_chute/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.loaded/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.loaded_chute/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.pylons/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.pylons_chute/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.tanks/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_GR3 RAF Coningsby/model.tanks_chute/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_T4 RAF Coningsby/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_T4 RAF Coningsby/model.clean/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_T4 RAF Coningsby/model.clean_chute/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_T4 RAF Coningsby/model.pylons/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_T4 RAF Coningsby/model.pylons_chute/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_T4 RAF Coningsby/model.tanks/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_JAG_T4 RAF Coningsby/model.tanks_chute/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/aircraft.cfg
 ./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/model.QF4E_NULLO/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/model.QF4E_NULLO_Tanks/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/model.QF4E_single_seat/Model.cfg
 ./SimObjects/Misc/MAIW_NBAI_McDonnell Douglas QF4E Tyndall AFB/model.QF4E_single_seat_tanks/Model.cfg
+./SimObjects/Misc/MAIW_NBAI_RAF Chinook/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_RAF Chinook/model.hc2/model.cfg
+./SimObjects/Misc/MAIW_NBAI_RAF Chinook/model.hc2_winch/model.cfg
+./SimObjects/Misc/MAIW_NBAI_RAF Chinook/model.hc3/model.cfg
+./SimObjects/Misc/MAIW_NBAI_WAH-64_AAC/aircraft.cfg
+./SimObjects/Misc/MAIW_NBAI_WAH-64_AAC/model.wah64_armed/model.cfg
+./SimObjects/Misc/MAIW_NBAI_WAH-64_AAC/model.wah64_clean/model.cfg
+./SimObjects/Misc/MAIW_NBAI_WAH-64_AAC/model.wah64_drill/model.cfg
+./SimObjects/Misc/MAIW_NBAI_WAH-64_AAC/model.wah64_hellfire/model.cfg
+./SimObjects/Misc/MAIW_NBAI_WAH-64_AAC/model.wah64_rockets/model.cfg
+./SimObjects/Misc/MAIW_OAI_British Aerospace Systems_PC-9/Aircraft.cfg
+./SimObjects/Misc/MAIW_OAI_British Aerospace Systems_PC-9/model/Model.cfg
+./SimObjects/Misc/MAIW_PAI Tornado RAF Coningsby/Aircraft.cfg
+./SimObjects/Misc/MAIW_PAI_British Aerospace Systems_ BA461/aircraft.cfg
+./SimObjects/Misc/MAIW_PAI_British Aerospace Systems_ BA462/aircraft.cfg
+./SimObjects/Misc/MAIW_PAI_British Aerospace Systems_ JS31NP/Aircraft.cfg
 ./SimObjects/Misc/MAIW_PAI_DH8A Tyndall AFB/aircraft.cfg
 ./SimObjects/Misc/MAIW_RWAI_A-10C Nellis AFB/aircraft.cfg
 ./SimObjects/Misc/MAIW_RWAI_A-10C Nellis AFB/model.training/model.cfg

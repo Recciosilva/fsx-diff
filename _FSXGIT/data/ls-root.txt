@@ -163,6 +163,7 @@
 ./mdstxfsxunin.xml
 ./messages
 ./Microsoft Online Privacy Notice Highlights.url
+./Military AI Works
 ./mingwm10.dll
 ./Misc
 ./Missions
