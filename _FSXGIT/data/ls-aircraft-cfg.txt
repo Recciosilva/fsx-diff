@@ -107,6 +107,7 @@
 ./SimObjects/Airplanes/CS_B737-200F/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_PW/aircraft.cfg
+./SimObjects/Airplanes/CS_B777-200ER_RR/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777-200LR/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777_PAX/aircraft.cfg
 ./SimObjects/Airplanes/CS_C130/aircraft.cfg
