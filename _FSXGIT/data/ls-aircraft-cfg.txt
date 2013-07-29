@@ -63,6 +63,7 @@
 ./SimObjects/Airplanes/Carenado C185F Tundra/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/C208_FDE_OP/aircraft.cfg
+./SimObjects/Airplanes/Carenado C208B Super Cargomaster/aircraft.cfg
 ./SimObjects/Airplanes/Carenado Commander 114/aircraft.cfg
 ./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/aircraft.cfg
 ./SimObjects/Airplanes/Carenado P46T Malibu JetProp DL/PA46T FSX Improved FDE/aircraft.cfg
@@ -214,6 +215,7 @@
 ./SimObjects/Airplanes/PA28_180/aircraft.cfg
 ./SimObjects/Airplanes/ParaFoil/aircraft.cfg
 ./SimObjects/Airplanes/Pasped Skylark HD/aircraft.cfg
+./SimObjects/Airplanes/Pilatus_PC12/aircraft.cfg
 ./SimObjects/Airplanes/Piper_J3Cub/aircraft.cfg
 ./SimObjects/Airplanes/PMDG 737-600NGX/aircraft.cfg
 ./SimObjects/Airplanes/PMDG 737-700NGX/aircraft.cfg

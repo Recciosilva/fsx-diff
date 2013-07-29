@@ -8,6 +8,8 @@
 ./Texture/256b2su1.bmp
 ./Texture/257b2su1.bmp
 ./Texture/258b2su1.bmp
+./Texture/64.bmp
+./Texture/64_lm.bmp
 ./Texture/737-400_scenery_t1.bmp
 ./Texture/AIG_FanShadow.bmp
 ./Texture/AirportHangars_Large.dds

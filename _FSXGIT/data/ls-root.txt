@@ -332,6 +332,8 @@
 ./Uninstall_Bob
 ./uninstall_C114.exe
 ./Uninstall_C188.exe
+./uninstall_C208BCG.exe
+./uninstall_C208BCGFREEL.exe
 ./Uninstall_Grand_Canyon_KGCN.exe
 ./Uninstall_PA36.exe
 ./Uninstall_PITTS.exe

@@ -237,9 +237,6 @@
 ./Addon Scenery/Canada/Yellowknife_CYZF_2010/Texture
 ./Addon Scenery/Caribbean
 ./Addon Scenery/Caribbean/Antilles
-./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM
-./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM/scenery
-./Addon Scenery/Caribbean/Antilles/Princess Juliana TNCM/texture
 ./Addon Scenery/Caribbean/Aruba
 ./Addon Scenery/Caribbean/Bahamas
 ./Addon Scenery/Caribbean/Bahamas/Bahamas Airports
@@ -317,6 +314,9 @@
 ./Addon Scenery/Caribbean/_REMOVED/Montego Bay Airport MKJS
 ./Addon Scenery/Caribbean/_REMOVED/Montego Bay Airport MKJS/scenery
 ./Addon Scenery/Caribbean/_REMOVED/Montego Bay Airport MKJS/texture
+./Addon Scenery/Caribbean/_REMOVED/Princess Juliana TNCM
+./Addon Scenery/Caribbean/_REMOVED/Princess Juliana TNCM/scenery
+./Addon Scenery/Caribbean/_REMOVED/Princess Juliana TNCM/texture
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad/scenery
 ./Addon Scenery/Caribbean/_REMOVED/Trinidad/texture
@@ -459,6 +459,10 @@
 ./Addon Scenery/Fly Wonderful Islands/FWI_EIDW/TEXTURE
 ./Addon Scenery/Fly Wonderful Islands/FWI_EIDW_LC
 ./Addon Scenery/Fly Wonderful Islands/FWI_EIDW_LC/Scenery
+./Addon Scenery/FlyTampa-Maarten
+./Addon Scenery/FlyTampa-Maarten/Doc
+./Addon Scenery/FlyTampa-Maarten/scenery
+./Addon Scenery/FlyTampa-Maarten/texture
 ./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY
 ./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY/scenery
 ./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY/texture

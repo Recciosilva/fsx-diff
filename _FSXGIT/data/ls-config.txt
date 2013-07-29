@@ -1018,6 +1018,13 @@
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.UAE Air Force Parachute squadron/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.ZK-MYH/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.ZK-SRI/texture.cfg
+./SimObjects/Airplanes/Carenado C208B Super Cargomaster/aircraft.cfg
+./SimObjects/Airplanes/Carenado C208B Super Cargomaster/model/model.cfg
+./SimObjects/Airplanes/Carenado C208B Super Cargomaster/sound/sound.cfg
+./SimObjects/Airplanes/Carenado C208B Super Cargomaster/texture/texture.cfg
+./SimObjects/Airplanes/Carenado C208B Super Cargomaster/texture.CIVIL/texture.cfg
+./SimObjects/Airplanes/Carenado C208B Super Cargomaster/texture.DHL/texture.cfg
+./SimObjects/Airplanes/Carenado C208B Super Cargomaster/texture.FEDEX/texture.cfg
 ./SimObjects/Airplanes/Carenado Commander 114/aircraft.cfg
 ./SimObjects/Airplanes/Carenado Commander 114/model.1P/model.cfg
 ./SimObjects/Airplanes/Carenado Commander 114/model.2P/model.cfg
@@ -1486,6 +1493,7 @@
 ./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft - Copy.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/aircraft.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/model.200ER_GE/model.cfg
+./SimObjects/Airplanes/CS_B777-200ER_GE/panel/panel-ORIG.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/panel/panel.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/sound/sound.cfg
 ./SimObjects/Airplanes/CS_B777-200ER_GE/texture.aa/texture.cfg
@@ -3369,11 +3377,6 @@
 ./SimObjects/Airplanes/Maule_M7_260C_Ski/soundai/soundai.cfg
 ./SimObjects/Airplanes/Maule_M7_260C_Ski/Texture/texture.cfg
 ./SimObjects/Airplanes/Maule_M7_260C_Ski/Texture.1/texture.cfg
-./SimObjects/Airplanes/MB339PAN_V.2011/Aircraft.cfg
-./SimObjects/Airplanes/MB339PAN_V.2011/model/Model.cfg
-./SimObjects/Airplanes/MB339PAN_V.2011/panel/Panel.cfg
-./SimObjects/Airplanes/MB339PAN_V.2011/sound/Sound.cfg
-./SimObjects/Airplanes/MB339PAN_V.2011/sound/STD_Sound.cfg
 ./SimObjects/Airplanes/MD_83/aircraft.cfg
 ./SimObjects/Airplanes/MD_83/model/model.cfg
 ./SimObjects/Airplanes/MD_83/soundai/soundai.cfg
@@ -3526,6 +3529,9 @@
 ./SimObjects/Airplanes/Pasped Skylark HD/texture/texture.cfg
 ./SimObjects/Airplanes/Pasped Skylark HD/texture.Blue Stripes/texture.cfg
 ./SimObjects/Airplanes/Pasped Skylark HD/texture.Red/texture.cfg
+./SimObjects/Airplanes/Pilatus_PC12/aircraft.cfg
+./SimObjects/Airplanes/Pilatus_PC12/Model.vc/model.cfg
+./SimObjects/Airplanes/Pilatus_PC12/panel.vc/Panel.cfg
 ./SimObjects/Airplanes/Piper Aztec/Aircraft.cfg
 ./SimObjects/Airplanes/Piper Aztec/model/Model.cfg
 ./SimObjects/Airplanes/Piper Aztec/panel/panel.cfg
@@ -3557,6 +3563,7 @@
 ./SimObjects/Airplanes/PMDG 737-700NGX WL/model/model.cfg
 ./SimObjects/Airplanes/PMDG 737-700NGX WL/panel/panel.cfg
 ./SimObjects/Airplanes/PMDG 737-700NGX WL/sound/sound.cfg
+./SimObjects/Airplanes/PMDG 737-700NGX WL/Texture.A36-001/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-700NGX WL/Texture.DJ/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-700NGX WL/Texture.DJ1/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-700NGX WL/Texture.europe/texture.cfg
@@ -4646,6 +4653,64 @@
 ./SimObjects/Boats/Flour_bomb_floating_dock/model/model.cfg
 ./SimObjects/Boats/Flour_bomb_floating_dock/sim.cfg
 ./SimObjects/Boats/Flour_bomb_floating_dock/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_bigcruise/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_bigcruise/model.carnspirit/Model.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_large/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_large/model.blue/Model.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_large/model.blue_nosail/Model.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_large/model.white/Model.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_large/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_small/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_small/model.color/Model.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_small/model.white/Model.cfg
+./SimObjects/Boats/flytampa_aiship_catamaran_small/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_freigther_medium/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_freigther_medium/model.black/Model.cfg
+./SimObjects/Boats/flytampa_aiship_freigther_medium/model.red/Model.cfg
+./SimObjects/Boats/flytampa_aiship_freigther_medium/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_medium/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_medium/model.blue/Model.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_medium/model.red/Model.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_medium/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_small/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_small/model.blue/Model.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_small/model.red/Model.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_small/model.white/Model.cfg
+./SimObjects/Boats/flytampa_aiship_motorboat_small/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_large/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_large/model.black/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_large/model.blue/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_large/model.blue_nosail/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_large/model.white1/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_large/model.white1_nosail/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_large/model.white2/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_large/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_medium/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_medium/model.red/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_medium/model.red_nosail/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_medium/model.white1/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_medium/model.white1_nosail/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_medium/model.white2/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_medium/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_small/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_small/model.red/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_small/model.white/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_small/model.white_nosail/Model.cfg
+./SimObjects/Boats/flytampa_aiship_sailboat_small/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_windsurfer/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_windsurfer/model.1/Model.cfg
+./SimObjects/Boats/flytampa_aiship_windsurfer/model.2/Model.cfg
+./SimObjects/Boats/flytampa_aiship_windsurfer/model.3/Model.cfg
+./SimObjects/Boats/flytampa_aiship_windsurfer/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_large/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_large/model.white/Model.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_large/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_medium/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_medium/model.white/Model.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_medium/texture/texture.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_small/aircraft.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_small/model.blue/Model.cfg
+./SimObjects/Boats/flytampa_aiship_yacht_small/texture/texture.cfg
 ./SimObjects/Boats/LAclassSubmarine/model/Model.cfg
 ./SimObjects/Boats/LAclassSubmarine/sim.cfg
 ./SimObjects/Boats/NZ_Ferry_Arahura/Model/Model.cfg

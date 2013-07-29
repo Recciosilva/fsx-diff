@@ -231,6 +231,14 @@
 ./Effects/f35_Vapor6.fx
 ./Effects/f35_Vapor7.fx
 ./Effects/filelist.txt
+./Effects/flytampa_aiship_wake_large.fx
+./Effects/flytampa_aiship_wake_medium.fx
+./Effects/flytampa_aiship_wake_small.fx
+./Effects/flytampa_aiship_wake_tiny.fx
+./Effects/flytampa_barth_smoke.fx
+./Effects/flytampa_maho_dust.fx
+./Effects/flytampa_maho_dust_cntrl.fx
+./Effects/flytampa_maho_wave.fx
 ./Effects/FSX_AI_ship_BOW_SPRAY_l.fx
 ./Effects/FWI_.yellow.fx
 ./Effects/FWI_light_WhiteSteady.fx
@@ -2027,6 +2035,7 @@
 ./Effects/texture/flood_3x3spot.bmp
 ./Effects/texture/flood_4x3spot.bmp
 ./Effects/texture/flood_terminal.bmp
+./Effects/texture/flytampa_wake1.bmp
 ./Effects/texture/FR109_fx_1.bmp
 ./Effects/texture/FR109_fx_2.bmp
 ./Effects/texture/fsblight.bmp
