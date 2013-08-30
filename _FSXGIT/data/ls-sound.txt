@@ -2716,6 +2716,7 @@
 ./Sound/SoundAlabeo/AC.wav
 ./Sound/SoundAlabeo/openwindow_alabeo.wav
 ./Sound/SoundAlabeo/openwindow_alabeo2.wav
+./Sound/SoundAlabeo/stallvibration.wav
 ./Sound/SoundAlabeo/switch_car.wav
 ./Sound/SoundCarb200
 ./Sound/SoundCarb200/AC.wav
@@ -2848,11 +2849,13 @@
 ./Sound/Vcol_sounds/littlefan.wav
 ./Sound/Vcol_sounds/minimums.wav
 ./Sound/Vcol_sounds/pressbee.wav
+./Sound/Vcol_sounds/pullup_alert.wav
 ./Sound/Vcol_sounds/push.wav
 ./Sound/Vcol_sounds/rotary_click.wav
 ./Sound/Vcol_sounds/SIGNS.wav
 ./Sound/Vcol_sounds/Stall_bip.wav
 ./Sound/Vcol_sounds/Stall_horn.wav
+./Sound/Vcol_sounds/terrain_alert.wav
 ./Sound/Vcol_sounds/whoop.wav
 ./Sound/Virtavia_AB.wav
 ./Sound/VSSBD_bomb.wav

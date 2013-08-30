@@ -58,10 +58,10 @@
 ./scenery/World/Scenery/ADE_FTX_NZSI_NZNV_elevation_adjustment.BGL
 ./scenery/World/Scenery/ADE_FTX_NZSI_NZOA_elevation_adjustment.BGL
 ./scenery/World/Scenery/ADE_FTX_NZSI_NZOB_elevation_adjustment.BGL
-./scenery/World/Scenery/ADE_FTX_NZSI_NZOM_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZOM_elevation_adjustment.BAK
 ./scenery/World/Scenery/ADE_FTX_NZSI_NZOU_elevation_adjustment.BGL
 ./scenery/World/Scenery/ADE_FTX_NZSI_NZPH_elevation_adjustment.BGL
-./scenery/World/Scenery/ADE_FTX_NZSI_NZPN_elevation_adjustment.BGL
+./scenery/World/Scenery/ADE_FTX_NZSI_NZPN_elevation_adjustment.BAK
 ./scenery/World/Scenery/ADE_FTX_NZSI_NZQN_elevation_adjustment.BGL
 ./scenery/World/Scenery/ADE_FTX_NZSI_NZRC_elevation_adjustment.BGL
 ./scenery/World/Scenery/ADE_FTX_NZSI_NZRI_elevation_adjustment.BGL
@@ -182,6 +182,7 @@
 ./scenery/World/Scenery/AF2_NZOM.bgl
 ./scenery/World/Scenery/AF2_NZPN.bgl
 ./scenery/World/Scenery/AF2_NZRO.bgl
+./scenery/World/Scenery/AF2_NZWB.bgl
 ./scenery/World/Scenery/AFRICA_MIDEAST/AFX_LLET_ALT.bgl
 ./scenery/World/Scenery/AFRICA_MIDEAST/AFX_LXGB_ALT.bgl
 ./scenery/World/Scenery/AFRICA_MIDEAST/Rafic Hariri International OLBA_ARP.bgl
@@ -222,7 +223,7 @@
 ./scenery/World/Scenery/AFRICA_MIDEAST/Traffic_JordanAF_FSX.bgl
 ./scenery/World/Scenery/AFRICA_MIDEAST/Traffic_JordanAviation_FSX.bgl
 ./scenery/World/Scenery/AFX_NCRG_ALT.bgl
-./scenery/World/Scenery/AFX_NZNP.bgl
+./scenery/World/Scenery/AFX_NFNA_ALT.bgl
 ./scenery/World/Scenery/AFX_NZNR.bgl
 ./scenery/World/Scenery/AFX_NZNS.bgl
 ./scenery/World/Scenery/AFX_PAUN_ALT.bgl
@@ -517,10 +518,10 @@
 ./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZNV_elevation_adjustment.BGL
 ./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZOA_elevation_adjustment.BGL
 ./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZOB_elevation_adjustment.BGL
-./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZOM_elevation_adjustment.BGL
+./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZOM_elevation_adjustment.BAK
 ./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZOU_elevation_adjustment.BGL
 ./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZPH_elevation_adjustment.BGL
-./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZPN_elevation_adjustment.BGL
+./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZPN_elevation_adjustment.BAK
 ./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZQN_elevation_adjustment.BGL
 ./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZRC_elevation_adjustment.BGL
 ./scenery/World/Scenery/FTX/ADE_FTX_NZSI_NZRI_elevation_adjustment.BGL
@@ -1003,7 +1004,7 @@
 ./scenery/World/Scenery/PACIFIC/AF2_NZPN.bgl
 ./scenery/World/Scenery/PACIFIC/AF2_NZRO.bgl
 ./scenery/World/Scenery/PACIFIC/AFX_NCRG_ALT.bgl
-./scenery/World/Scenery/PACIFIC/AFX_NZNP.bgl
+./scenery/World/Scenery/PACIFIC/AFX_NFNA_ALT.bgl
 ./scenery/World/Scenery/PACIFIC/AFX_NZNR.bgl
 ./scenery/World/Scenery/PACIFIC/AFX_NZNS.bgl
 ./scenery/World/Scenery/PACIFIC/AFX_PAUN_ALT.bgl
@@ -1312,10 +1313,10 @@
 ./scenery/World/Scenery/_removed/ADE_FTX_NZNI_NZPM_elevation_adjustment.BGL
 ./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZCH_elevation_adjustment.BGL
 ./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZFJ_elevation_adjustment.BGL
-./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZWB_elevation_adjustment.BGL
+./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZWB_elevation_adjustment.BAK
 ./scenery/World/Scenery/_removed/ADE_FTX_NZSI_NZWS_elevation_adjustment.BGL
 ./scenery/World/Scenery/_removed/AF2_NZKK.bgl
-./scenery/World/Scenery/_removed/AF2_NZWB.bgl
+./scenery/World/Scenery/_removed/AFX_NZNP.bgl
 ./scenery/World/Scenery/_removed/AIG_RPLL_ADE_MB_Default.BGL
 ./scenery/World/Scenery/_removed/AIG_RPLL_ADE_MB_Default_CVX.bgl
 ./scenery/World/Scenery/_removed/NZHK_ADEX_FSX.ad2.bak

@@ -392,7 +392,6 @@
 ./Addon Scenery/Europe/Norway
 ./Addon Scenery/Europe/Norway/Airports of Norway
 ./Addon Scenery/Europe/Norway/Airports of Norway/Scenery
-./Addon Scenery/Europe/Norway/Airports of Norway/Scenery/_DEL
 ./Addon Scenery/Europe/Norway/Airports of Norway/Texture
 ./Addon Scenery/Europe/Norway/Norway_mesh
 ./Addon Scenery/Europe/Norway/Norway_mesh/Scenery
@@ -659,13 +658,14 @@
 ./Addon Scenery/NZ/NZ22_Chateau-4X/Texture
 ./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA
 ./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA/scenery
+./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA/scenery/_REMOVED
 ./Addon Scenery/NZ/NZKK_NZTT_NZNP_NZWU_NZRA/texture
 ./Addon Scenery/NZ/NZMS_Masterton-4X
 ./Addon Scenery/NZ/NZMS_Masterton-4X/Scenery
 ./Addon Scenery/NZ/NZMS_Masterton-4X/Texture
-./Addon Scenery/NZ/NZNP_New_Plymouth-4X
-./Addon Scenery/NZ/NZNP_New_Plymouth-4X/Scenery
-./Addon Scenery/NZ/NZNP_New_Plymouth-4X/Texture
+./Addon Scenery/NZ/NZNP_NewPlymouth
+./Addon Scenery/NZ/NZNP_NewPlymouth/scenery
+./Addon Scenery/NZ/NZNP_NewPlymouth/texture
 ./Addon Scenery/NZ/NZNR_Napier-4X
 ./Addon Scenery/NZ/NZNR_Napier-4X/scenery
 ./Addon Scenery/NZ/NZNR_Napier-4X/texture
@@ -761,6 +761,10 @@
 ./Addon Scenery/NZ/WigramAerodrome/EddysNZAirports/WigramV1
 ./Addon Scenery/NZ/WigramAerodrome/scenery
 ./Addon Scenery/NZ/WigramAerodrome/texture
+./Addon Scenery/NZ/_REMOVED
+./Addon Scenery/NZ/_REMOVED/NZNP_New_Plymouth-4X
+./Addon Scenery/NZ/_REMOVED/NZNP_New_Plymouth-4X/Scenery
+./Addon Scenery/NZ/_REMOVED/NZNP_New_Plymouth-4X/Texture
 ./Addon Scenery/openVFR_Terrain
 ./Addon Scenery/openVFR_Terrain/Scenery
 ./Addon Scenery/openVFR_Terrain_Exclude
@@ -801,15 +805,16 @@
 ./Addon Scenery/Pacific/NCRG_Rarotonga-4X/Texture
 ./Addon Scenery/Pacific/NCRG_Rarotonga-LC
 ./Addon Scenery/Pacific/NCRG_Rarotonga-LC/scenery
+./Addon Scenery/Pacific/NFNA_Nausori-4X
+./Addon Scenery/Pacific/NFNA_Nausori-4X/docs
+./Addon Scenery/Pacific/NFNA_Nausori-4X/Scenery
+./Addon Scenery/Pacific/NFNA_Nausori-4X/Texture
 ./Addon Scenery/Pacific/NIUE_Hanan-Intl.-4X
 ./Addon Scenery/Pacific/NIUE_Hanan-Intl.-4X/Scenery
 ./Addon Scenery/Pacific/NIUE_Hanan-Intl.-4X/Texture
 ./Addon Scenery/Pacific/Norfolk-island
 ./Addon Scenery/Pacific/Norfolk-island/Scenery
 ./Addon Scenery/Pacific/Norfolk-island/Texture
-./Addon Scenery/Pacific/NorfolkIslandFS9
-./Addon Scenery/Pacific/NorfolkIslandFS9/Scenery
-./Addon Scenery/Pacific/NorfolkIslandFS9/Texture
 ./Addon Scenery/Pacific/NSFA Faleolo International Airport
 ./Addon Scenery/Pacific/NSFA Faleolo International Airport/scenery
 ./Addon Scenery/Pacific/NSFA Faleolo International Airport/Texture

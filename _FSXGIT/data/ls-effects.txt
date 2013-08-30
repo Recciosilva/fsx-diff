@@ -81,6 +81,7 @@
 ./Effects/CLS_vclight18.fx
 ./Effects/CLS_White_Light.fx
 ./Effects/CLS_wing_light.fx
+./Effects/Cntrl_1br_txcl.fx
 ./Effects/Cntrl_Avalon_fx_Apron_light.fx
 ./Effects/Cntrl_Avalon_fx_Apron_lightY.fx
 ./Effects/Cntrl_Avalon_hangerwhitelight.fx
@@ -248,6 +249,7 @@
 ./Effects/FW_show2.fx
 ./Effects/FW_show3.fx
 ./Effects/FW_show4.fx
+./Effects/fx_1br_txcl.fx
 ./Effects/fx_40B-4_start.FX
 ./Effects/fx_40C_start.FX
 ./Effects/fx_441ice.fx
@@ -458,6 +460,7 @@
 ./Effects/fx_cargoDestroyWaterWood.fx
 ./Effects/fx_cargoImpactLand.fx
 ./Effects/fx_cargoImpactWater.fx
+./Effects/fx_CARldnPA38.fx
 ./Effects/fx_carrier_helo.fx
 ./Effects/fx_carrier_mule.fx
 ./Effects/fx_carrier_PA.fx
@@ -996,6 +999,14 @@
 ./Effects/fx_nosewhi_DG.fx
 ./Effects/fx_NoWake.fx
 ./Effects/fx_nurlightw.fx
+./Effects/fx_nznp_blue_l.fx
+./Effects/fx_nznp_green_l.fx
+./Effects/fx_nznp_orange_SVL.fx
+./Effects/fx_nznp_red_l - Copy.fx
+./Effects/fx_nznp_red_l.fx
+./Effects/fx_nznp_white_l.fx
+./Effects/fx_nznp_white_MHL.fx
+./Effects/fx_nznp_white_MVL.fx
 ./Effects/fx_object_test.fx
 ./Effects/fx_obslight.fx
 ./Effects/fx_obslight2.fx
@@ -1198,6 +1209,7 @@
 ./Effects/fx_strobecardose.fx
 ./Effects/fx_strobecarenmoon.fx
 ./Effects/fx_strobecarenpa34.fx
+./Effects/fx_strobecarPA38.fx
 ./Effects/fx_strobeh.fx
 ./Effects/fx_strobepa36.fx
 ./Effects/fx_strobe_AS.fx
@@ -1263,6 +1275,7 @@
 ./Effects/fx_vclight.fx
 ./Effects/fx_vclight2_FSD.fx
 ./Effects/fx_vclightac11.fx
+./Effects/fx_vclightalapt.fx
 ./Effects/fx_vclightalawc.fx
 ./Effects/fx_vclightarcher.fx
 ./Effects/fx_vclightarcher2.fx
@@ -2069,6 +2082,7 @@
 ./Effects/texture/fx_af_f4u_circle.bmp
 ./Effects/texture/fx_AH_flame_alphad.bmp
 ./Effects/texture/fx_Alabeo.bmp
+./Effects/texture/fx_alapt.bmp
 ./Effects/texture/fx_aniburner1b.bmp
 ./Effects/texture/fx_aurora.bmp
 ./Effects/texture/fx_barnstorm.bmp
@@ -2091,6 +2105,7 @@
 ./Effects/texture/fx_carcn.bmp
 ./Effects/texture/fx_carcod.bmp
 ./Effects/texture/fx_carcodpa36.bmp
+./Effects/texture/fx_CARldnPA38.bmp
 ./Effects/texture/fx_coflight.bmp
 ./Effects/texture/fx_cotden.bmp
 ./Effects/texture/fx_cropdust.bmp
@@ -2167,6 +2182,7 @@
 ./Effects/texture/fx_SR-burner9.bmp
 ./Effects/texture/fx_strobeAlaWaco.bmp
 ./Effects/texture/fx_strobec188.bmp
+./Effects/texture/fx_strobecarPA38.bmp
 ./Effects/texture/fx_strobecn.bmp
 ./Effects/texture/fx_strobepa36.bmp
 ./Effects/texture/fx_swave_lights_1.bmp
@@ -2225,6 +2241,9 @@
 ./Effects/texture/NAV_Red.bmp
 ./Effects/texture/NAV_White.bmp
 ./Effects/texture/NAV_Yellow.bmp
+./Effects/texture/NZNP_Flare.bmp
+./Effects/texture/NZNP_Light_Rays.bmp
+./Effects/texture/NZNP_SVL_Spot.bmp
 ./Effects/texture/OneNote Table Of Contents.onetoc2
 ./Effects/texture/p40_cannon.bmp
 ./Effects/texture/people.bmp

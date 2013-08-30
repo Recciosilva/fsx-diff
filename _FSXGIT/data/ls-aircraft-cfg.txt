@@ -24,6 +24,7 @@
 ./SimObjects/Airplanes/AF_F4U-1A/aircraft.cfg
 ./SimObjects/Airplanes/AF_F4U-1C/aircraft.cfg
 ./SimObjects/Airplanes/AF_F4U-1D/aircraft.cfg
+./SimObjects/Airplanes/AF_FG-1D_Racers/aircraft.cfg
 ./SimObjects/Airplanes/Airborne/aircraft.cfg
 ./SimObjects/Airplanes/Airborne FL/aircraft.cfg
 ./SimObjects/Airplanes/Airbus_A321/aircraft.cfg
@@ -32,6 +33,7 @@
 ./SimObjects/Airplanes/Alabeo C188_AGTruck_WDE/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo PA36_Pawnee/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo PA36_Pawnee_WDE/aircraft.cfg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo Sukhoi 26/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo WACO_YMF5/aircraft.cfg

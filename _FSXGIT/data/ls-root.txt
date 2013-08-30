@@ -149,6 +149,8 @@
 ./Level-D Simulations
 ./Licenses
 ./livingwater.dll
+./logoatr72x_500.ico
+./logodo328110x.ico
 ./logof50x.ico
 ./ls-effects.txt
 ./lua5.1.dll
@@ -326,6 +328,7 @@
 ./uninstallP46T.exe
 ./Uninstall_ACG_IWM_DUXFORD_AI_FSX.exe
 ./Uninstall_ACG_IWM_DUXFORD_FSX.exe
+./Uninstall_ALPA38.exe
 ./Uninstall_B200.exe
 ./Uninstall_Ben Gurion X
 ./Uninstall_BN2_1-6.exe
@@ -365,6 +368,8 @@
 ./UtTacUninst.exe
 ./VansRV8_Uninstall.exe
 ./vasfmc
+./Vcol328110_uninstal.exe
+./Vcolatr72x_uninstal.exe
 ./Vector Land Class.url
 ./VectorLandClass
 ./VectorLandClass_AIShipping
@@ -393,6 +398,7 @@
 ./WaterConstants.Xml
 ./Weather
 ./weather.dll
+./WILCO
 ./window.dll
 ./xuipc.dll
 ./_FSXGIT

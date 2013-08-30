@@ -1,4 +1,7 @@
 ./
+./FeelThere/b737 v2/737.ini
+./FeelThere/b737 v2/737c2.log
+./FeelThere/Nd
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -6,18 +9,6 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./ORBX/Scripts/Backup
-./ORBX/Scripts/Backup/restore.bat
-./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
-./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
-./Scenery/UtLcCity/Scenery
-./Scenery/UtLcVeg/Scenery
-./Scenery/UtObjRepo/Scenery
-./Scenery/World/Scenery
-./Scenery/World/Scenery/NORTH_SOUTH_AMERICA
-./Scenery/World/Scenery/switch.bat
-./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
-./terrain.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt
