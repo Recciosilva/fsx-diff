@@ -52,6 +52,7 @@
 ./Carenado
 ./Categories
 ./charts
+./Check.dll
 ./Ckpsound.dll
 ./Classics Hangar
 ./CLS
@@ -161,6 +162,7 @@
 ./mbpvxxunin.dat
 ./mbpvxxunin.ini
 ./mbpvxxunin.lng
+./MD80.dll
 ./mdstxfsxunin.dat
 ./mdstxfsxunin.xml
 ./messages
@@ -234,6 +236,7 @@
 ./sldlext.dll
 ./Sound
 ./sound.dll
+./Sounds
 ./Standard.xml
 ./stars.dat
 ./Storch_uninstall.exe

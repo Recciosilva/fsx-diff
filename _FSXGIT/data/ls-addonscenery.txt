@@ -134,6 +134,9 @@
 ./Addon Scenery/Asia/WMKPv2-Penang/Texture
 ./Addon Scenery/Asia/ZGGG_Guangzhou_Baiyun
 ./Addon Scenery/Asia/ZGGG_Guangzhou_Baiyun/scenery
+./Addon Scenery/Asia/ZJHK Haikou Meilan International Airport
+./Addon Scenery/Asia/ZJHK Haikou Meilan International Airport/Scenery
+./Addon Scenery/Asia/ZJHK Haikou Meilan International Airport/Texture
 ./Addon Scenery/Asia/ZSPD Pudong
 ./Addon Scenery/Asia/ZSPD Pudong/scenery
 ./Addon Scenery/Asia/ZSSS-Shanghai-Hongqiao
@@ -533,8 +536,23 @@
 ./Addon Scenery/MiddleEast/Egypt/Cairo2011_High1.0/scenery
 ./Addon Scenery/MiddleEast/Egypt/Cairo2011_High1.0/texture
 ./Addon Scenery/MiddleEast/Iran
+./Addon Scenery/MiddleEast/Iran/OIBK Kish
+./Addon Scenery/MiddleEast/Iran/OIBK Kish/Scenery
+./Addon Scenery/MiddleEast/Iran/OIBP Persian Gulf
+./Addon Scenery/MiddleEast/Iran/OIBP Persian Gulf/OIBP Charts
+./Addon Scenery/MiddleEast/Iran/OIBP Persian Gulf/scenery
+./Addon Scenery/MiddleEast/Iran/OIBP Persian Gulf/texture
+./Addon Scenery/MiddleEast/Iran/OIIE Tehran Imam Khomeini
+./Addon Scenery/MiddleEast/Iran/OIIE Tehran Imam Khomeini/CHART
+./Addon Scenery/MiddleEast/Iran/OIIE Tehran Imam Khomeini/scenery
+./Addon Scenery/MiddleEast/Iran/OIIE Tehran Imam Khomeini/texture
 ./Addon Scenery/MiddleEast/Iran/OIII
 ./Addon Scenery/MiddleEast/Iran/OIII/scenery
+./Addon Scenery/MiddleEast/Iran/OIII-v2
+./Addon Scenery/MiddleEast/Iran/OIII-v2/Scenery
+./Addon Scenery/MiddleEast/Iran/OIII-v2/Texture
+./Addon Scenery/MiddleEast/Iran/OIMM Mashhad
+./Addon Scenery/MiddleEast/Iran/OIMM Mashhad/scenery
 ./Addon Scenery/MiddleEast/Iraq
 ./Addon Scenery/MiddleEast/Iraq/ORER - Erbil
 ./Addon Scenery/MiddleEast/Iraq/ORER - Erbil/scenery
@@ -750,9 +768,9 @@
 ./Addon Scenery/NZ/WanganuiX
 ./Addon Scenery/NZ/WanganuiX/scenery
 ./Addon Scenery/NZ/WanganuiX/texture
-./Addon Scenery/NZ/Wanganui_(V2)_NZWU
-./Addon Scenery/NZ/Wanganui_(V2)_NZWU/Scenery
-./Addon Scenery/NZ/Wanganui_(V2)_NZWU/Texture
+./Addon Scenery/NZ/WanganuiX photoreal
+./Addon Scenery/NZ/WanganuiX photoreal/scenery
+./Addon Scenery/NZ/WanganuiX photoreal/texture
 ./Addon Scenery/NZ/Whenuapai
 ./Addon Scenery/NZ/Whenuapai/Scenery
 ./Addon Scenery/NZ/Whenuapai/Texture
@@ -788,6 +806,7 @@
 ./Addon Scenery/Pacific/Cook_Islands_Southern
 ./Addon Scenery/Pacific/Cook_Islands_Southern/backup
 ./Addon Scenery/Pacific/Cook_Islands_Southern/scenery
+./Addon Scenery/Pacific/Cook_Islands_Southern/scenery/_DEL
 ./Addon Scenery/Pacific/Cook_Islands_Southern/texture
 ./Addon Scenery/Pacific/Guam X v2
 ./Addon Scenery/Pacific/Guam X v2/Airport diagram

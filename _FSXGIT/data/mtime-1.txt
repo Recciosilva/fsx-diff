@@ -1,7 +1,157 @@
 ./
-./FeelThere/b737 v2/737.ini
-./FeelThere/b737 v2/737c2.log
-./FeelThere/Nd
+./Addon Scenery/NZ
+./Addon Scenery/NZ/WanganuiX photoreal
+./Addon Scenery/NZ/WanganuiX photoreal/scenery
+./Addon Scenery/NZ/WanganuiX photoreal/texture
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010300333an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010301222an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010301223an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010301232an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010301233an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010301322an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010301323an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010301332an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010301333an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010302111an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010302113an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010302333an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303000an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303001an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303002an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303003an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303010an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303011an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303012an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303021an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303023an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303030an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303031an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303032an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303100an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303101an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303102an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303103an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303110an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303111an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303112an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303113an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303120an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303121an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303130an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303131an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303201an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303220an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303221an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303222an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303223an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303232an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303233an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303303an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303310an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303312an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303321an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303322an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303323an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303330an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303331an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303332an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010303333an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010310222an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010310223an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312000an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312001an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312002an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312003an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312020an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312021an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312022an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312200an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312201an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312202an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312203an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312220an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312221an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312222an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010312223an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010320111an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010320113an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321000an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321001an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321002an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321003an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321010an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321011an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321012an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321013an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321020an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321021an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321022an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321023an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321030an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321031an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321032an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321033an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321100an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321101an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321102an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321103an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321110an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321111an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321112an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321113an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321120an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321121an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321122an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321123an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321130an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321131an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321132an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321133an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321201an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321210an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321211an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321213an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321300an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321301an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321302an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321303an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321310an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321311an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321312an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321313an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321320an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321321an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321323an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321330an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321331an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321332an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010321333an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010323110an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010323111an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010323112an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010323113an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330000an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330001an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330002an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330003an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330020an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330021an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330022an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330023an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330200an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330201an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330202an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330203an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330220an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330221an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330222an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010330223an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010332000an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010332001an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010332002an.agn
+./Addon Scenery/NZ/WanganuiX photoreal/texture/121333010332003an.agn
+./FeelThere/Nd/nd.ldb
+./Gauges/CLS_MD80_config.ini
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -9,6 +159,51 @@
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
+./SimObjects/Airplanes/CLS_MD81
+./SimObjects/Airplanes/CLS_MD81/aircraft.cfg
+./SimObjects/Airplanes/CLS_MD81/PaintKit/Engine
+./SimObjects/Airplanes/CLS_MD81/PaintKit/Engine/engines.bmp
+./SimObjects/Airplanes/CLS_MD81/PaintKit/Engine/engines.xcf
+./SimObjects/Airplanes/CLS_MD81/texture.anz
+./SimObjects/Airplanes/CLS_MD81/texture.anz/airnz
+./SimObjects/Airplanes/CLS_MD81/texture.anz/airnz/md80L2_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.anz/airnz/md80R1_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.anz/airnz/md80R2_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.anz/airnz/md80tail_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.anz/airnz/MD80_Fuse_Left.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.anz/airnz/MD80_Fuse_Left.xcf
+./SimObjects/Airplanes/CLS_MD81/texture.anz/md80engines_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.anz/md80L1_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.anz/md80L2_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.anz/md80R1_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.anz/md80R2_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.anz/md80tail_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.anz/thumbnail.jpg
+./SimObjects/Airplanes/CLS_MD81/texture.nac
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/engines.xcf
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80engines_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80L1_ALPHA.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80L1_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80L2_ALPHA.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80L2_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80R1_ALPHA.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80R1_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80R2_ALPHA.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80R2_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/md80tail_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/MD80_Fuse_Left.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/MD80_Fuse_Left.xcf
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/MD80_Fuse_Right.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.nac/anz/MD80_Fuse_Right.xcf
+./SimObjects/Airplanes/CLS_MD81/texture.nac/md80engines_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.nac/md80L1_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.nac/md80L2_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.nac/md80R1_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.nac/md80R2_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.nac/md80tail_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.nac/thumbnail.jpg
+./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

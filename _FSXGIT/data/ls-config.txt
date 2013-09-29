@@ -108,6 +108,7 @@
 ./ORBX/Scripts/scenerylib_NA_PNW.cfg
 ./ORBX/Scripts/scenerylib_NZNI.cfg
 ./ORBX/Scripts/scenerylib_NZSI.cfg
+./PacSim/Rarotonga International - PAS/oldscenery.cfg
 ./PacSim/Tonga Domestic/oldscenery.cfg
 ./Project Tupolev/LMTu154 B/cfg/148.cfg
 ./Project Tupolev/LMTu154 B/cfg/164.cfg
@@ -1387,6 +1388,36 @@
 ./SimObjects/Airplanes/CLS_KDC10/model/model.cfg
 ./SimObjects/Airplanes/CLS_KDC10/PANEL/panel.cfg
 ./SimObjects/Airplanes/CLS_KDC10/sound/sound.cfg
+./SimObjects/Airplanes/CLS_MD81/aircraft.cfg
+./SimObjects/Airplanes/CLS_MD81/aircraft_.cfg
+./SimObjects/Airplanes/CLS_MD81/model/model.cfg
+./SimObjects/Airplanes/CLS_MD81/model.CT/model.cfg
+./SimObjects/Airplanes/CLS_MD81/Panel/panel.cfg
+./SimObjects/Airplanes/CLS_MD81/Panel/panel_.cfg
+./SimObjects/Airplanes/CLS_MD81/Sound/sound.cfg
+./SimObjects/Airplanes/CLS_MD81/texture/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.aa/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.anz/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.AZA/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.burkina/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.chinaeastern/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.continental/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.delta/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.FAO/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.finnair/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.hawaiian/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.IB/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.JetsGo/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.JKK/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.martinair/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.mexico/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.nac/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.qantas/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.republica/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.ryan/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.sasnc/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.TWA/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.viking/texture.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/aircraft.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/Model/model.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/Panel/panel.cfg
@@ -1565,6 +1596,7 @@
 ./SimObjects/Airplanes/CS_C130/sound/sound.cfg
 ./SimObjects/Airplanes/CS_C130/texture.aus/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.can/texture.cfg
+./SimObjects/Airplanes/CS_C130/texture.iran air force/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.ita/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.swe/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.us_70/texture.cfg
@@ -3207,9 +3239,6 @@
 ./SimObjects/Airplanes/JF_MartletIV/sound/Sound.cfg
 ./SimObjects/Airplanes/JF_MartletIV/texture.TORCH/texture.cfg
 ./SimObjects/Airplanes/JF_MartletIV/texture.TRACKER/texture.cfg
-./SimObjects/Airplanes/JF_Mosquito/Aircraft.cfg
-./SimObjects/Airplanes/JF_Mosquito/model/Model.cfg
-./SimObjects/Airplanes/JF_Mosquito/panel/panel.cfg
 ./SimObjects/Airplanes/jf_pa28_Archer/aerocustom.cfg
 ./SimObjects/Airplanes/jf_pa28_Archer/aeroload.cfg
 ./SimObjects/Airplanes/jf_pa28_Archer/aeropaint.cfg
@@ -3265,6 +3294,104 @@
 ./SimObjects/Airplanes/jf_pa38_Tomahawk/texture.US3/texture.cfg
 ./SimObjects/Airplanes/jf_pa38_Tomahawk/texture.US4/texture.cfg
 ./SimObjects/Airplanes/JF_SoundsHerc/SOUND/sound.cfg
+./SimObjects/Airplanes/jf_Tristar/aircraft.cfg
+./SimObjects/Airplanes/jf_Tristar/model.100_GPS/model.cfg
+./SimObjects/Airplanes/jf_Tristar/model.100_INS/model.cfg
+./SimObjects/Airplanes/jf_Tristar/model.500_GPS/model.cfg
+./SimObjects/Airplanes/jf_Tristar/model.500_INS/model.cfg
+./SimObjects/Airplanes/jf_Tristar/panel.100_GPS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar/panel.100_INS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar/panel.500_GPS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar/panel.500_INS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar/sound/sound.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.AirCanada/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.AirPort/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Airtours/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.AM/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.ATA/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Blank/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.BWIA/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Euro/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.HBA/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Jordanian/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.LAM/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Landor/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Lanka/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.LTU/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Novair/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Panam/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Saudi/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Saudia/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.Star/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.TAAG/texture.cfg
+./SimObjects/Airplanes/jf_Tristar/Texture.United/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/aircraft.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/model.100_FMC/model.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/model.500_FMC/model.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/panel.100_FMC/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/panel.500_FMC/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.AirCanada/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.AirPort/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Airtours/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.AM/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.ATA/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Blank/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.BWIA/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Euro/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.HBA/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Jordanian/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.LAM/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Landor/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Lanka/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.LTU/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Novair/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Panam/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Saudi/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Saudia/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.Star/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.TAAG/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/Texture.United/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/aircraft.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/model.500_GPS/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/model.500_INS/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/model.C2_GPS/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/model.C2_INS/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/model.K1_GPS/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/model.K1_INS/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/model.KC1_GPS/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/model.KC1_INS/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/panel.500_GPS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/panel.500_INS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/panel.K1_GPS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/panel.K1_INS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/panel.Tanker_FMC/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/panel.Tanker_GPS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/panel.Tanker_INS/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/sound/sound.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/Texture.C2/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/Texture.C2A_Grey/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/Texture.C2_Dev/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/Texture.K1/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/Texture.K1_Desert/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/Texture.K1_White/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/Texture.KC1/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/Texture.KC1_Grey/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/aircraft.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/model.500_FMC/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/model.C2_FMC/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/model.K1_FMC/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/model.KC1_FMC/model.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/panel.500_FMC/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/panel.K1_FMC/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/panel.Tanker_FMC/panel.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/Texture.C2/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/Texture.C2A_Grey/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/Texture.C2_Dev/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/Texture.K1/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/Texture.K1_Desert/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/Texture.K1_White/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/Texture.KC1/texture.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/Texture.KC1_Grey/texture.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/Aircraft.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/model/Model.cfg
 ./SimObjects/Airplanes/JF_Vickers_Viscount_800/model.MIL/Model.cfg
@@ -4219,6 +4346,14 @@
 ./SimObjects/Airplanes/Tom_A330-200F/sound.ai/sound.cfg
 ./SimObjects/Airplanes/Tom_A330-200F/texture.AB/texture.cfg
 ./SimObjects/Airplanes/Tom_A330-200F/texture.TKY/texture.cfg
+./SimObjects/Airplanes/Tom_A330-300/aircraft.cfg
+./SimObjects/Airplanes/Tom_A330-300/model.GE/model.cfg
+./SimObjects/Airplanes/Tom_A330-300/model.PW/model.cfg
+./SimObjects/Airplanes/Tom_A330-300/model.RR/model.cfg
+./SimObjects/Airplanes/Tom_A330-300/panel.330/panel.cfg
+./SimObjects/Airplanes/Tom_A330-300/texture.DR/texture.cfg
+./SimObjects/Airplanes/Tom_A330-300/texture.NW/texture.cfg
+./SimObjects/Airplanes/Tom_A330-300/texture.QA/texture.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/model.MRTT/model.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/panel.330/panel.cfg
@@ -4500,6 +4635,16 @@
 ./SimObjects/Airplanes/Virtavia Heinkel He111H/texture.3/texture.cfg
 ./SimObjects/Airplanes/Virtavia Heinkel He111H/texture.bump/texture.cfg
 ./SimObjects/Airplanes/Virtavia Heinkel He111H/texture.shared/texture.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/model/model.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/sound/Sound.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/texture/texture.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/texture.bump/texture.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/texture.camo/texture.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/texture.jasdf_50th/texture.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/texture.shared/texture.cfg
+./SimObjects/Airplanes/Virtavia MV-22 Osprey/texture.winter/texture.cfg
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/Aircraft.cfg
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/Model.LR/model.cfg
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/Model.SR/model.cfg
@@ -4580,6 +4725,13 @@
 ./SimObjects/Airplanes/Virtavia Tornado F3/texture.bump/texture.cfg
 ./SimObjects/Airplanes/Virtavia Tornado F3/texture.shared/texture.cfg
 ./SimObjects/Airplanes/Virtavia Tornado F3/texture.stormo36/texture.cfg
+./SimObjects/Airplanes/Virtavia XB-70 Valkyrie/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia XB-70 Valkyrie/model/Model.cfg
+./SimObjects/Airplanes/Virtavia XB-70 Valkyrie/panel/Panel.cfg
+./SimObjects/Airplanes/Virtavia XB-70 Valkyrie/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia XB-70 Valkyrie/texture/texture.cfg
+./SimObjects/Airplanes/Virtavia XB-70 Valkyrie/texture.bump/texture.cfg
+./SimObjects/Airplanes/Virtavia XB-70 Valkyrie/texture.shared/texture.cfg
 ./SimObjects/Airplanes/Virtavia Yak-52/Aircraft.cfg
 ./SimObjects/Airplanes/Virtavia Yak-52/model.1pilot/Model.cfg
 ./SimObjects/Airplanes/Virtavia Yak-52/model.2pilot/Model.cfg
@@ -7796,6 +7948,62 @@
 ./SimObjects/Misc/FTX ATR 72_500/Aircraft.cfg
 ./SimObjects/Misc/FTX ATR 72_500/Model/Model.cfg
 ./SimObjects/Misc/FTX ATR 72_500/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A319_100/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A319_100/model.CFM/model.cfg
+./SimObjects/Misc/FTX AU Airbus A319_100/model.IAE/model.cfg
+./SimObjects/Misc/FTX AU Airbus A319_100/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A320-200S/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A320-200S/model.IAE_S/model.cfg
+./SimObjects/Misc/FTX AU Airbus A320-200S/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A320_200/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A320_200/model.CFM/model.cfg
+./SimObjects/Misc/FTX AU Airbus A320_200/model.IAE/model.cfg
+./SimObjects/Misc/FTX AU Airbus A320_200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A321_200/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A321_200/model.IAE/model.cfg
+./SimObjects/Misc/FTX AU Airbus A321_200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A330-300/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A330-300/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU ATR 72-500/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE36/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE55/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE58/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air C90/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-300/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-300/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B737-300F/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-300F/model.logolight/model.cfg
+./SimObjects/Misc/FTX AU Boeing B737-300F/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B737-700/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-700/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B737-800/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-800/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 PW/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 RR/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 RR/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300ER/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300ER/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B777-300ER/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-300ER/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B787-800/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B787-800/model/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B787-800/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Britten-Norman BN-2/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 152/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 172 Skyhawk/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 182 Skylane/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 206 Stationair/Aircraft.cfg
+./SimObjects/Misc/FTX AU Dash 8 100-200/Aircraft.cfg
+./SimObjects/Misc/FTX AU Dash 8-300/Aircraft.cfg
+./SimObjects/Misc/FTX AU Fokker 50/Aircraft.cfg
+./SimObjects/Misc/FTX AU Jetstream JS31/Aircraft.cfg
+./SimObjects/Misc/FTX AU Jetstream JS31/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Pilatus PC-12 Raked Winglet/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Archer II/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Lance/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Navajo/aircraft.cfg
 ./SimObjects/Misc/FTX BAe 146-100/aircraft.cfg
 ./SimObjects/Misc/FTX BAe 146-100/model/model.cfg
 ./SimObjects/Misc/FTX BAe 146-100/soundai/soundai.cfg
@@ -9609,6 +9817,44 @@
 ./SimObjects/Rotorcraft/Robinson_R22/Texture/texture.cfg
 ./SimObjects/Rotorcraft/Robinson_R22/texture.1/texture.cfg
 ./SimObjects/Rotorcraft/Robinson_R22/Texture.2/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/Aircraft.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.RAF_HAR_Mk3/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.RAF_HAR_Mk3a/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.RBAF_Mk48/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.RCAF_C-124/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.RN_AEW_Mk2A/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.RN_HAR_Mk5/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.RN_HAS_MK1/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.RN_HC_Mk4/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.USN_SH-3A/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.USN_SH-3D/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.USN_SH-3D_A11/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/model.USN_SH-3H/model.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/panel/panel.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/sound/sound.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.AEW_Mk2A/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.AREAF/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.Armada/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.bump/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.HAR_Mk3/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.HAR_Mk3A/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.HAR_Mk5/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.HAS_Mk1/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.HC_Mk4/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.HC_Mk4_IFOR/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.INA/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.IRINA/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.JMSDF/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.Marina/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.Marineflieger/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.PNA/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.RAN/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.RBAF_Mk48/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.RCAF_C-124/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.shared/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.USN_SH-3A/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.USN_SH-3D/texture.cfg
+./SimObjects/Rotorcraft/Virtavia Sea King/texture.USN_SH-3H/texture.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/Aircraft.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/model.MH/model.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/model.MH_clean/model.cfg

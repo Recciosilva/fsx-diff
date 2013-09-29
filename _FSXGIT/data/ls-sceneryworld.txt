@@ -222,7 +222,6 @@
 ./scenery/World/Scenery/AFRICA_MIDEAST/Traffic_Hashemite_FSX.bgl
 ./scenery/World/Scenery/AFRICA_MIDEAST/Traffic_JordanAF_FSX.bgl
 ./scenery/World/Scenery/AFRICA_MIDEAST/Traffic_JordanAviation_FSX.bgl
-./scenery/World/Scenery/AFX_NCRG_ALT.bgl
 ./scenery/World/Scenery/AFX_NFNA_ALT.bgl
 ./scenery/World/Scenery/AFX_NZNR.bgl
 ./scenery/World/Scenery/AFX_NZNS.bgl
@@ -1003,7 +1002,6 @@
 ./scenery/World/Scenery/PACIFIC/AF2_NZOM.bgl
 ./scenery/World/Scenery/PACIFIC/AF2_NZPN.bgl
 ./scenery/World/Scenery/PACIFIC/AF2_NZRO.bgl
-./scenery/World/Scenery/PACIFIC/AFX_NCRG_ALT.bgl
 ./scenery/World/Scenery/PACIFIC/AFX_NFNA_ALT.bgl
 ./scenery/World/Scenery/PACIFIC/AFX_NZNR.bgl
 ./scenery/World/Scenery/PACIFIC/AFX_NZNS.bgl
@@ -1042,6 +1040,8 @@
 ./scenery/World/Scenery/PACIFIC/Traffic_BizNZ_FSX.bgl
 ./scenery/World/Scenery/PACIFIC/Traffic_Brisbane.bgl
 ./scenery/World/Scenery/PACIFIC/Traffic_FTX Aust-NZ Airlines.bgl
+./scenery/World/Scenery/PACIFIC/Traffic_FTX GA Traffic.bgl
+./scenery/World/Scenery/PACIFIC/Traffic_FTX International Airlines.bgl
 ./scenery/World/Scenery/PACIFIC/Traffic_Hawaii_FSX.bgl
 ./scenery/World/Scenery/PACIFIC/Traffic_IansAirNZ_A320.bgl
 ./scenery/World/Scenery/PACIFIC/Traffic_IansAirNZ_AT7.bgl
@@ -1058,6 +1058,7 @@
 ./scenery/World/Scenery/TahitiX_BoatTraffic.bgl
 ./scenery/World/Scenery/Traffic GNZLAP54_FSX.bgl
 ./scenery/World/Scenery/Traffic-Raro_FSX.bgl
+./scenery/World/Scenery/trafficAircraft.bgl.DISABLED-FOR-FTX-AI
 ./scenery/World/Scenery/Traffic_000_WoA_Air Bridge Cargo_Wi11_FSX.bgl
 ./scenery/World/Scenery/Traffic_000_WoA_Air Pacific_Wi07_FSX.bgl
 ./scenery/World/Scenery/traffic_000_woa_air tahiti nui_wi07_FSX.bgl
@@ -1105,6 +1106,8 @@
 ./scenery/World/Scenery/Traffic_BizNZ_FSX.bgl
 ./scenery/World/Scenery/Traffic_Brisbane.bgl
 ./scenery/World/Scenery/Traffic_FTX Aust-NZ Airlines.bgl
+./scenery/World/Scenery/Traffic_FTX GA Traffic.bgl
+./scenery/World/Scenery/Traffic_FTX International Airlines.bgl
 ./scenery/World/Scenery/Traffic_Hawaii_FSX.bgl
 ./scenery/World/Scenery/Traffic_IansAirNZ_A320.bgl
 ./scenery/World/Scenery/Traffic_IansAirNZ_AT7.bgl

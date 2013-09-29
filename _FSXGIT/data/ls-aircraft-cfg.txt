@@ -98,6 +98,7 @@
 ./SimObjects/Airplanes/CLS_DC10_40F/aircraft.cfg
 ./SimObjects/Airplanes/CLS_KC10_Extender/aircraft.cfg
 ./SimObjects/Airplanes/CLS_KDC10/aircraft.cfg
+./SimObjects/Airplanes/CLS_MD81/aircraft.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/aircraft.cfg
 ./SimObjects/Airplanes/CS_B52/aircraft.cfg
 ./SimObjects/Airplanes/CS_B727-100/aircraft.cfg
@@ -198,6 +199,10 @@
 ./SimObjects/Airplanes/JF_MartletIV/aircraft.cfg
 ./SimObjects/Airplanes/jf_pa28_Archer/aircraft.cfg
 ./SimObjects/Airplanes/jf_pa38_Tomahawk/aircraft.cfg
+./SimObjects/Airplanes/jf_Tristar/aircraft.cfg
+./SimObjects/Airplanes/jf_Tristar_FMC/aircraft.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF/aircraft.cfg
+./SimObjects/Airplanes/jf_Tristar_RAF_FMC/aircraft.cfg
 ./SimObjects/Airplanes/Jodel/aircraft.cfg
 ./SimObjects/Airplanes/Lear45/aircraft.cfg
 ./SimObjects/Airplanes/LVLD_B763/aircraft.cfg
@@ -251,6 +256,7 @@
 ./SimObjects/Airplanes/Sopwith_Camel/aircraft.cfg
 ./SimObjects/Airplanes/T-38A_MilViz/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-200F/aircraft.cfg
+./SimObjects/Airplanes/Tom_A330-300/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A330-MRTT/aircraft.cfg
 ./SimObjects/Airplanes/Tom_A340-300/aircraft.cfg
 ./SimObjects/Airplanes/USNS_PATUXENT/aircraft.cfg

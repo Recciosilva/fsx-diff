@@ -75,6 +75,10 @@
 ./Effects/CLS_Beacon01.fx
 ./Effects/CLS_Beacon02.fx
 ./Effects/CLS_DC10_vclight.fx
+./Effects/CLS_MD80nose_ref.fx
+./Effects/CLS_MD80wing_lightT.fx
+./Effects/CLS_MD80wing_lightW.fx
+./Effects/CLS_MD81_JT8D_engsmoke.fx
 ./Effects/CLS_nacelle_refl.fx
 ./Effects/CLS_nav_yellow.fx
 ./Effects/CLS_sparks.fx
@@ -374,6 +378,13 @@
 ./Effects/fx_ALPHA_Tonka_Td.fx
 ./Effects/fx_ALPHA_Tonka_vclight_Gr.fx
 ./Effects/fx_Alpha_Tonka_Vortices.fx
+./Effects/fx_ALPHA_XB70_AB1.fx
+./Effects/fx_ALPHA_XB70_smoke.fx
+./Effects/fx_ALPHA_XB70_Td.fx
+./Effects/fx_ALPHA_XB70_Vapour.fx
+./Effects/fx_ALPHA_XB70_vclight_Red.fx
+./Effects/fx_Alpha_XB70_Vortices.fx
+./Effects/fx_Alpha_XB70_Vortices1.fx
 ./Effects/fx_amazonExplosion.fx
 ./Effects/fx_amazonSmoke.fx
 ./Effects/fx_amazonStatueDust.fx
@@ -1325,6 +1336,7 @@
 ./Effects/fx_Virtav_contrail_EFA.fx
 ./Effects/fx_Virtav_DisplaySmoke_EFA.fx
 ./Effects/fx_Virtav_reheat_EFA.fx
+./Effects/fx_virtav_SK_engstrt.fx
 ./Effects/fx_Virtav_Yak52_engstrt.fx
 ./Effects/fx_Virtav_Yak_vclight.fx
 ./Effects/fx_VLC_StreetLight.fx
@@ -2020,6 +2032,12 @@
 ./Effects/texture/A_He111_smoke.bmp
 ./Effects/texture/A_T6-F1.bmp
 ./Effects/texture/A_T6-F2.bmp
+./Effects/texture/A_XB70-00.bmp
+./Effects/texture/A_XB70-00a1.bmp
+./Effects/texture/A_XB70-01a.bmp
+./Effects/texture/A_XB70-1.bmp
+./Effects/texture/A_XB70-2.bmp
+./Effects/texture/A_XB70-3.bmp
 ./Effects/texture/Beacon.bmp
 ./Effects/texture/Bf-109_ccase.bmp
 ./Effects/texture/Bf-109_cgun.bmp

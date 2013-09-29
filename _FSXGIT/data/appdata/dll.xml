@@ -193,4 +193,12 @@
     <Disabled>False</Disabled>
     <Path>FeelThere\E170\EJetH.dll</Path>
   </Launch.Addon>
+  <Launch.Addon>
+     <Name>MD-81/82 module activation</Name>
+     <Disabled>False</Disabled>
+     <Path>MD80.dll</Path>
+     <DllStartName>module_init</DllStartName>
+     <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+
 </SimBase.Document>

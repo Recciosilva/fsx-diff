@@ -47,6 +47,15 @@
 ./SimObjects/Misc/FTX Airbus A330-200/aircraft.cfg
 ./SimObjects/Misc/FTX Airbus A330-300/aircraft.cfg
 ./SimObjects/Misc/FTX ATR 42_300/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A319_100/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A320-200S/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A320_200/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A321_200/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A330-300/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-300ER/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B787-800/aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Navajo/aircraft.cfg
 ./SimObjects/Misc/FTX BAe 146-100/aircraft.cfg
 ./SimObjects/Misc/FTX Beechcraft V35 Bonanza/aircraft.cfg
 ./SimObjects/Misc/FTX Bell 407/aircraft.cfg
