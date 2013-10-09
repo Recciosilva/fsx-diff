@@ -5,6 +5,14 @@
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/aircraft.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-500/aircraft.cfg
 ./SimObjects/Airplanes/A-29B-SuperTucano/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 100 Floats/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 100 Ski/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Twin Otter 100 Wheels/aircraft.cfg
@@ -261,6 +269,11 @@
 ./SimObjects/Airplanes/Tom_A340-300/aircraft.cfg
 ./SimObjects/Airplanes/USNS_PATUXENT/aircraft.cfg
 ./SimObjects/Airplanes/USS_Nimitz/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 2-3 Adversaries/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 23 'F' Wing Tanks/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 24 Late E BT/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/aircraft.cfg
 ./SimObjects/Airplanes/Virtavia Heinkel He111H/aircraft.cfg
 ./SimObjects/Airplanes/Virtavia Tornado F3/aircraft.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/aircraft.cfg

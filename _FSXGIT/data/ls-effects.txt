@@ -330,6 +330,13 @@
 ./Effects/fx_AH_dumpnburn_huge.fx
 ./Effects/fx_AH_eject_sound.fx
 ./Effects/fx_AH_jet_ring.fx
+./Effects/fx_AirbusXnew_lightsoverlay_whi.fx
+./Effects/fx_AirbusXnew_navgre.fx
+./Effects/fx_AirbusXnew_navred.fx
+./Effects/fx_airbusx_beaconbot.fx
+./Effects/fx_airbusx_beacontop.fx
+./Effects/fx_airbusx_strobe.fx
+./Effects/fx_airbusx_vclight.fx
 ./Effects/fx_ai_fighter_contrail.fx
 ./Effects/fx_AI_floatplane_spray-and-wake.fx
 ./Effects/fx_ALPHA_B1B_AB.fx
@@ -622,7 +629,14 @@
 ./Effects/fx_F18_FSXBA_MedG_LEXVapor_R.fx
 ./Effects/fx_F18_HeatShimmer_L.fx
 ./Effects/fx_F18_HeatShimmer_R.fx
+./Effects/fx_F35A_gun.fx
+./Effects/fx_F35_AfterBurnerFire1.fx
+./Effects/fx_F35_AfterBurnerFire2.fx
+./Effects/fx_F35_AfterBurnerFire3.fx
+./Effects/fx_F35_afterburner_flame_stage3.fx
 ./Effects/fx_f35_beaconb.fx
+./Effects/fx_F35_gun_gunpod.fx
+./Effects/fx_F35_HeatShimmer.fx
 ./Effects/fx_f35_navgrem.fx
 ./Effects/fx_f35_navredm.fx
 ./Effects/fx_F35_vclight.fx
@@ -1329,6 +1343,7 @@
 ./Effects/fx_vcred_panel.fx
 ./Effects/fx_vehFire.fx
 ./Effects/fx_vehicledust.fx
+./Effects/fx_Virtav_A4_exhaust.fx
 ./Effects/fx_virtav_B1B_AB.fx
 ./Effects/fx_virtav_B1B_startup.fx
 ./Effects/fx_virtav_B1B_vclight_Gr.fx
@@ -1991,6 +2006,10 @@
 ./Effects/sfx_RumbleLoop.fx
 ./Effects/sfx_shorelight.fx
 ./Effects/ShipSpotLight.fx
+./Effects/Sonic_boom_f35_1.fx
+./Effects/Sonic_boom_f35_2.fx
+./Effects/Sonic_boom_f35_3.fx
+./Effects/Sonic_boom_f35_4.fx
 ./Effects/Sonic_boom_tomcat1.fx
 ./Effects/Sonic_boom_tomcat2.fx
 ./Effects/Sonic_boom_tomcat3.fx

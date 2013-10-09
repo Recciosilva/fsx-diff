@@ -188,17 +188,30 @@
 		<Disabled>False</Disabled>
 		<Path>Modules\FSCopilot.dll</Path>
 	</Launch.Addon>
+	<Launch.Addon>
+		<Name>FeelThere E170 Helper</Name>
+		<Disabled>False</Disabled>
+		<Path>FeelThere\E170\EJetH.dll</Path>
+	</Launch.Addon>
+	<Launch.Addon>
+		<Name>MD-81/82 module activation</Name>
+		<Disabled>False</Disabled>
+		<Path>MD80.dll</Path>
+		<DllStartName>module_init</DllStartName>
+		<DllStopName>module_deinit</DllStopName>
+	</Launch.Addon>
   <Launch.Addon>
-    <Name>FeelThere E170 Helper</Name>
+    <Name>Flight Recorder</Name>
     <Disabled>False</Disabled>
-    <Path>FeelThere\E170\EJetH.dll</Path>
+    <ManualLoad>False</ManualLoad>
+    <Path>Aerosoft\Flight Recorder\AS-FlightRecorder.dll</Path>
   </Launch.Addon>
   <Launch.Addon>
-     <Name>MD-81/82 module activation</Name>
-     <Disabled>False</Disabled>
-     <Path>MD80.dll</Path>
-     <DllStartName>module_init</DllStartName>
-     <DllStopName>module_deinit</DllStopName>
+    <Name>RAASPRO</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>.\RAASPRO\RAASPRO.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
   </Launch.Addon>
-
 </SimBase.Document>

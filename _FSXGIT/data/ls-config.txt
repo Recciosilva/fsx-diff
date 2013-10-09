@@ -1,4 +1,5 @@
 ./Addon Scenery/UK/UK2000 Heathrow Xtreme/scenery_beforeinstall.cfg
+./aerosoft/Airbus X Extended/Product.cfg
 ./aerosoft/Airport Toulouse/Product.cfg
 ./aerosoft/Amsterdam Schiphol X/Product.cfg
 ./aerosoft/Approaching LOWI X/Product.cfg
@@ -235,6 +236,115 @@
 ./SimObjects/Airplanes/AC680SV9/panel.ike/panel.cfg
 ./SimObjects/Airplanes/AC680SV9/panel.pegasus/panel.cfg
 ./SimObjects/Airplanes/AC680SV9/sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/intelliscene.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Model/model.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Panel/panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AerLingusEIDEK/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AeroflotVPBWH/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AirAsiaPKAXS/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AviancaN416AV/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.CondorFlugdienstDAICA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.DeltaN327NW/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.easyJetGEZTB/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.EdelweissAirHBIHY/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.FinnairOHLXD/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.IberiaECILQ/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.NikiOELEA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.SWISSHBIJJ/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/intelliscene.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Model/model.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Panel/panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.AirBerlinNeoOneWorld/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.AirbusNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/texture.AirbusNeoAerosoft/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.AmericanNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.IndiGoNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.LufthansaDAIZQ/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.LufthansaNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.MonarchGZBAA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.NorwegianAirShuttleNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.SpiritNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.TAMNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.VirginAmericaNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/intelliscene.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Model/model.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Panel/panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.BritishAirwaysGEUUU/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.EgyptAirSUGCC/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.Israir4XABF/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.KingfisherVTKFG/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.LAN/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.MEAODMRL/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.SpanairECJJD/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.UnitedAirlinesN405UA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.USAirwaysN629AW/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/texture.ZK-OJR/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/intelliscene.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Model/model.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Panel/panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Texture.VuelingECLUO/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Texture.WizzAirURWUC/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/intelliscene.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Model/model.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Panel/panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.AirBerlinDASLB/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.AirbusFWWIA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.AirFranceGTAR/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.AlitaliaBIXI/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.AlitaliaEIIXI/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.AustrianOELBE/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.FinnairOHLZF/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.SWISSHBIOC/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/Texture.ThomasCookGTCDA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/intelliscene.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/Model/model.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/Panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/Panel/panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/Texture.ArkiaNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/Texture.FinnairNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/intelliscene.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Model/model.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/panel/Panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.AtlasjetTCETV/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.BritishAirwaysGEUXG/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.ChinaSouthernAirlinesB6579/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.JetstarVHVWY/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.LufthansaDAISH/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.MonarchGMARA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.novairSERDO/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.RoyalJordanianJYAYJ/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.TurkishTCJRY/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/intelliscene.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/Model/model.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/panel/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/panel/Panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/Texture.MEANeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE NEO/Texture.QatarNeo/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X Extended Base/Panel_Fallback/asc.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X Extended Base/Panel_Fallback/panel.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X Extended Base/Sound_CFM/sound.cfg
 ./SimObjects/Airplanes/Aerosoft OV-10 CDF/Aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft OV-10 CDF/Model/model.cfg
 ./SimObjects/Airplanes/Aerosoft OV-10 CDF/Panel/asc.cfg
@@ -1397,27 +1507,41 @@
 ./SimObjects/Airplanes/CLS_MD81/Sound/sound.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.aa/texture.cfg
-./SimObjects/Airplanes/CLS_MD81/texture.anz/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.allegiant_nc/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.anz-fern/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.anz-nac/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.anz-wave/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.atlas/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.austrian_nnc/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.AZA/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.burkina/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.cebu/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.chinaeastern/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.china_southern/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.continental/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.delta/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.eva/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.FAO/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.finnair/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.hawaiian/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.IB/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.JetsGo/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.jetstar/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.JKK/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.kish/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.lion/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.martinair/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.mexico/texture.cfg
-./SimObjects/Airplanes/CLS_MD81/texture.nac/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.midwest/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.orient_thai/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.qantas/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.republica/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.ryan/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.sasnc/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.saudia/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.TWA/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.viking/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.wings_air/texture.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/aircraft.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/Model/model.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/Panel/panel.cfg
@@ -1968,6 +2092,8 @@
 ./SimObjects/Airplanes/F-35A/Model.long/model.cfg
 ./SimObjects/Airplanes/F-35A/Panel/panel.cfg
 ./SimObjects/Airplanes/F-35A/sound/sound.cfg
+./SimObjects/Airplanes/F-35A/Texture.5008/texture.cfg
+./SimObjects/Airplanes/F-35A/Texture.af1/texture.cfg
 ./SimObjects/Airplanes/F-35A/Texture.af6/texture.cfg
 ./SimObjects/Airplanes/F-35A/Texture.af9/texture.cfg
 ./SimObjects/Airplanes/F-35A/Texture.an1/texture.cfg
@@ -1976,14 +2102,19 @@
 ./SimObjects/Airplanes/F-35B/model.cas/model.cfg
 ./SimObjects/Airplanes/F-35B/Panel/panel.cfg
 ./SimObjects/Airplanes/F-35B/sound/sound.cfg
+./SimObjects/Airplanes/F-35B/Texture.bf1/texture.cfg
+./SimObjects/Airplanes/F-35B/Texture.bf21/texture.cfg
 ./SimObjects/Airplanes/F-35B/Texture.bf6/texture.cfg
 ./SimObjects/Airplanes/F-35B/Texture.bk1/texture.cfg
 ./SimObjects/Airplanes/F-35C/aircraft.cfg
+./SimObjects/Airplanes/F-35C/Model/model.cfg
 ./SimObjects/Airplanes/F-35C/Model.clean/model.cfg
 ./SimObjects/Airplanes/F-35C/Model.jdam/model.cfg
 ./SimObjects/Airplanes/F-35C/Model.long/model.cfg
 ./SimObjects/Airplanes/F-35C/Panel/panel.cfg
 ./SimObjects/Airplanes/F-35C/sound/sound.cfg
+./SimObjects/Airplanes/F-35C/Texture.101/texture.cfg
+./SimObjects/Airplanes/F-35C/Texture.102/texture.cfg
 ./SimObjects/Airplanes/F-35C/Texture.cf1/texture.cfg
 ./SimObjects/Airplanes/F-35C/Texture.cf2/texture.cfg
 ./SimObjects/Airplanes/F1_Cessna441/Aircraft.cfg
@@ -4569,6 +4700,137 @@
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.sudan/texture.cfg
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.TAA59/texture.cfg
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.ZS-CDT/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/model.E_clean_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/model.F_clean_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/sound/Sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.E2_NAVY_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.E2_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.E_Adversary_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.E_Adversary_2/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.E_NAVY_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.E_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.F_Blue_Angels/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.F_Navy_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.F_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.G_RAN_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.G_RAN_2/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.shared/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.thumbs/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 10 BT,Bullpup,Slick/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 10 BT,Bullpup,Slick/model.E_Navy_3/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 10 BT,Bullpup,Slick/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 10 BT,Bullpup,Slick/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 10 BT,Bullpup,Slick/texture.E_NAVY_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 11 BT,AIM9/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 11 BT,AIM9/model.G_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 11 BT,AIM9/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 11 BT,AIM9/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 11 BT,AIM9/texture.G_RAN_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/model.G_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/texture.G_RAN_2/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 13 BT,Shrikes/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 13 BT,Shrikes/model.E2_Navy_3/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 13 BT,Shrikes/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 13 BT,Shrikes/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 13 BT,Shrikes/texture.E2_NAVY_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 14 BT,MK82,LAU-3A/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 14 BT,MK82,LAU-3A/model.E_USMC_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 14 BT,MK82,LAU-3A/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 14 BT,MK82,LAU-3A/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 14 BT,MK82,LAU-3A/texture.E_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 15 BT,M117,MK82/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 15 BT,M117,MK82/model.E_USMC_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 15 BT,M117,MK82/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 15 BT,M117,MK82/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 15 BT,M117,MK82/texture.E_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 16 WT,MK82,LAU-3A/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 16 WT,MK82,LAU-3A/model.E_USMC_3/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 16 WT,MK82,LAU-3A/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 16 WT,MK82,LAU-3A/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 16 WT,MK82,LAU-3A/texture.E_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 17 WT,Walleye,LAU-10 Zunis/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 17 WT,Walleye,LAU-10 Zunis/model.E2_Navy_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 17 WT,Walleye,LAU-10 Zunis/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 17 WT,Walleye,LAU-10 Zunis/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 17 WT,Walleye,LAU-10 Zunis/texture.E2_NAVY_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 18 BT,Bullpup B, Mk 82/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 18 BT,Bullpup B, Mk 82/model.E2_Navy_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 18 BT,Bullpup B, Mk 82/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 18 BT,Bullpup B, Mk 82/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 18 BT,Bullpup B, Mk 82/texture.E2_NAVY_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 19 BT, MK 117,LAU-10 Zunis/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 19 BT, MK 117,LAU-10 Zunis/model.E2_USMC_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 19 BT, MK 117,LAU-10 Zunis/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 19 BT, MK 117,LAU-10 Zunis/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 19 BT, MK 117,LAU-10 Zunis/texture.E2_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 2-3 Adversaries/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 2-3 Adversaries/model.E_Adversary_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 2-3 Adversaries/model.E_Adversary_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 2-3 Adversaries/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 2-3 Adversaries/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 2-3 Adversaries/texture.E_Adversary_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 2-3 Adversaries/texture.E_Adversary_2/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 20 BT, Snakeyes/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 20 BT, Snakeyes/model.E2_USMC_3/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 20 BT, Snakeyes/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 20 BT, Snakeyes/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 20 BT, Snakeyes/texture.E2_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 21 WT,MK 82 Snakeye,LAU-3A/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 21 WT,MK 82 Snakeye,LAU-3A/model.E2_USMC_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 21 WT,MK 82 Snakeye,LAU-3A/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 21 WT,MK 82 Snakeye,LAU-3A/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 21 WT,MK 82 Snakeye,LAU-3A/texture.E2_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 22 Blue Angels/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 22 Blue Angels/model.F_Blue_Angels/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 22 Blue Angels/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 22 Blue Angels/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 22 Blue Angels/texture.F_Blue_Angels/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 23 'F' Wing Tanks/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 23 'F' Wing Tanks/model.F_clean_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 23 'F' Wing Tanks/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 23 'F' Wing Tanks/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 23 'F' Wing Tanks/texture.F_Navy_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 24 Late E BT/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 24 Late E BT/model.E2_clean_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 24 Late E BT/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 24 Late E BT/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 24 Late E BT/texture.E2_Navy_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 25 'F' Slicks, WT, Shrikes/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 25 'F' Slicks, WT, Shrikes/model.F_Navy_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 25 'F' Slicks, WT, Shrikes/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 25 'F' Slicks, WT, Shrikes/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 25 'F' Slicks, WT, Shrikes/texture.F_Navy_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 26 'F' BT,LAU-3A In,Out/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 26 'F' BT,LAU-3A In,Out/model.F_USMC_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 26 'F' BT,LAU-3A In,Out/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 26 'F' BT,LAU-3A In,Out/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 26 'F' BT,LAU-3A In,Out/texture.F_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/model.E2_clean_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/model.E_clean_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/model.G_camoclean/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/model.G_clean/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/texture.E2_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/texture.E_USMC_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/texture.G_RAN_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/texture.G_RAN_2/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 8 WT,Snakeye,Shrike/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 8 WT,Snakeye,Shrike/model.E_Navy_1/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 8 WT,Snakeye,Shrike/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 8 WT,Snakeye,Shrike/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 8 WT,Snakeye,Shrike/texture.E_NAVY_1/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 9 BT,Slick,BullPup/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 9 BT,Slick,BullPup/model.E_Navy_2/model.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 9 BT,Slick,BullPup/panel/panel.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 9 BT,Slick,BullPup/sound/sound.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 9 BT,Slick,BullPup/texture.E_NAVY_1/texture.cfg
 ./SimObjects/Airplanes/Virtavia B-1B Lancer/Aircraft.cfg
 ./SimObjects/Airplanes/Virtavia B-1B Lancer/model.1a/Model.cfg
 ./SimObjects/Airplanes/Virtavia B-1B Lancer/model.1b/Model.cfg
@@ -7910,9 +8172,6 @@
 ./SimObjects/Misc/FTX Airbus A320-200/model.CFM_200/Model.cfg
 ./SimObjects/Misc/FTX Airbus A320-200/model.IAE/Model.cfg
 ./SimObjects/Misc/FTX Airbus A320-200/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A321-200/Aircraft.cfg
-./SimObjects/Misc/FTX Airbus A321-200/model.IAE/model.cfg
-./SimObjects/Misc/FTX Airbus A321-200/Soundai/soundai.cfg
 ./SimObjects/Misc/FTX Airbus A330-200/aircraft.cfg
 ./SimObjects/Misc/FTX Airbus A330-200/model.GE/New Tail_refl/model.cfg
 ./SimObjects/Misc/FTX Airbus A330-200/model.GE/Old Tail_refl/model.cfg

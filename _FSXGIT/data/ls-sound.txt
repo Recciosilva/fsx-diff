@@ -418,6 +418,32 @@
 ./Sound/DeadPixl/SND30.wav
 ./Sound/DeadPixl/SND31.wav
 ./Sound/DeadPixl/SND32.wav
+./Sound/DeadPixl/SND33.wav
+./Sound/DeadPixl/SND34.wav
+./Sound/DeadPixl/SND35.wav
+./Sound/DeadPixl/SND36.wav
+./Sound/DeadPixl/SND37.wav
+./Sound/DeadPixl/SND38.wav
+./Sound/DeadPixl/SND38b.wav
+./Sound/DeadPixl/SND39.wav
+./Sound/DeadPixl/SND40.wav
+./Sound/DeadPixl/SND41 - Copy.wav
+./Sound/DeadPixl/SND41.wav
+./Sound/DeadPixl/SND42 - Copy.wav
+./Sound/DeadPixl/SND42.wav
+./Sound/DeadPixl/SND43.wav
+./Sound/DeadPixl/SND44.wav
+./Sound/DeadPixl/SND45.wav
+./Sound/DeadPixl/SND46.wav
+./Sound/DeadPixl/SND47.wav
+./Sound/DeadPixl/SND48.wav
+./Sound/DeadPixl/SND49.wav
+./Sound/DeadPixl/SND50.wav
+./Sound/DeadPixl/SND51.wav
+./Sound/DeadPixl/SND52.wav
+./Sound/DeadPixl/SND53.wav
+./Sound/DeadPixl/SND54.wav
+./Sound/DeadPixl/SND55.wav
 ./Sound/Detonation.wav
 ./Sound/DG
 ./Sound/DG/airframe_stress.wav

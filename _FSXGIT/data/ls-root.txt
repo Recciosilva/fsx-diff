@@ -205,6 +205,8 @@
 ./QtSvg4.dll
 ./QtXml4.dll
 ./Qualitywings
+./r4.csv
+./RAASPRO
 ./RAZBAM
 ./RCS_B-25J_RAF_MkII_for_FSX_Uninstal.exe
 ./Readme.htm
@@ -222,6 +224,7 @@
 ./Scenery
 ./scenery.cfg
 ./scenery_FSAD_DR.bak
+./Schema.ini
 ./script
 ./Setup
 ./Shade
@@ -366,6 +369,7 @@
 ./uninst_vcvx11fsx.exe
 ./uni_ec120fsx.exe
 ./UnLvld767.exe
+./unRAASProfessional_Locked_FSX.exe
 ./UNWISE.EXE
 ./util.dll
 ./UtTacUninst.exe
