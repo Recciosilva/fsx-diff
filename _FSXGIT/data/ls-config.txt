@@ -278,6 +278,7 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Panel/asc.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Panel/panel.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/texture.Air New Zealand/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.BritishAirwaysGEUUU/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.EgyptAirSUGCC/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.Israir4XABF/texture.cfg
@@ -294,6 +295,7 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Panel/asc.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Panel/panel.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Sound/sound.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/texture.Air New Zealand/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Texture.VuelingECLUO/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Texture.WizzAirURWUC/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/aircraft.cfg
@@ -4716,6 +4718,7 @@
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.F_USMC_1/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.G_RAN_1/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.G_RAN_2/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.G_RZNAF/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.shared/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/texture.thumbs/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 10 BT,Bullpup,Slick/Aircraft.cfg
@@ -4733,6 +4736,7 @@
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/panel/panel.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/sound/sound.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/texture.G_RAN_2/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 12 BT,LAU-3A,AIM9/texture.G_RZNAF/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 13 BT,Shrikes/Aircraft.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 13 BT,Shrikes/model.E2_Navy_3/model.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 13 BT,Shrikes/panel/panel.cfg
@@ -4821,6 +4825,7 @@
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/texture.E_USMC_1/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/texture.G_RAN_1/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/texture.G_RAN_2/texture.cfg
+./SimObjects/Airplanes/Virtavia A-4 Skyhawk 4-7 Wing Tanks/texture.G_RZNAF/texture.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 8 WT,Snakeye,Shrike/Aircraft.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 8 WT,Snakeye,Shrike/model.E_Navy_1/model.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 8 WT,Snakeye,Shrike/panel/panel.cfg

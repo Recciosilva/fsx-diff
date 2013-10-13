@@ -1,9 +1,3 @@
-./
-./jb777memfilemap.txt
-./Level-D Simulations/B767-300/B767-300.ini
-./modules/FSUIPC4.ini
-./modules/FSUIPC4.log
-./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

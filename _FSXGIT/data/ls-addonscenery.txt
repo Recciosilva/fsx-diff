@@ -1036,6 +1036,21 @@
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada/KXTA/Texture
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada/KXTA Docs
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada/SRC
+./Addon Scenery/USA/Hawaiian Airports Misc
+./Addon Scenery/USA/Hawaiian Airports Misc/scenery
+./Addon Scenery/USA/Hawaiian Islands - Kauai
+./Addon Scenery/USA/Hawaiian Islands - Kauai/scenery
+./Addon Scenery/USA/Hawaiian Islands_Seasons
+./Addon Scenery/USA/Hawaiian Islands_Seasons/Scenery
+./Addon Scenery/USA/Hawaii_Kahoolawe_LC
+./Addon Scenery/USA/Hawaii_Kahoolawe_LC/Scenery
+./Addon Scenery/USA/Hawaii_Lanai_LC
+./Addon Scenery/USA/Hawaii_Lanai_LC/ADE FILES
+./Addon Scenery/USA/Hawaii_Lanai_LC/EZ Scenery Files
+./Addon Scenery/USA/Hawaii_Lanai_LC/EZ Scenery Files/FSX
+./Addon Scenery/USA/Hawaii_Lanai_LC/Scenery
+./Addon Scenery/USA/Hawaii_Maui_LC
+./Addon Scenery/USA/Hawaii_Maui_LC/Scenery
 ./Addon Scenery/USA/KABE_LehighValley
 ./Addon Scenery/USA/KABE_LehighValley/scenery
 ./Addon Scenery/USA/KALB2010
@@ -1123,6 +1138,12 @@
 ./Addon Scenery/USA/PHNL2006_LR
 ./Addon Scenery/USA/PHNL2006_LR/Scenery
 ./Addon Scenery/USA/PHNL2006_LR/Texture
+./Addon Scenery/USA/PHNY - Lanai Autogen
+./Addon Scenery/USA/PHNY - Lanai Autogen/scenery
+./Addon Scenery/USA/PHNY - Lanai Autogen/texture
+./Addon Scenery/USA/PHNY - Lanai City
+./Addon Scenery/USA/PHNY - Lanai City/Scenery
+./Addon Scenery/USA/PHNY - Lanai City/Texture
 ./Addon Scenery/USA/Reno_AirRace
 ./Addon Scenery/USA/Reno_AirRace/scenery
 ./Addon Scenery/USA/USA_MiscAirports
