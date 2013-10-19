@@ -214,4 +214,12 @@
     <DllStartName>module_init</DllStartName>
     <DllStopName>module_deinit</DllStopName>
   </Launch.Addon>
+  <Launch.Addon>
+    <Name>RAZBAM Metroliner System Control</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Addon Modules\MM3SM.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
 </SimBase.Document>

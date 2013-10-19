@@ -1324,6 +1324,7 @@
 ./Effects/fx_vclightlanc.fx
 ./Effects/fx_vclightpa34.fx
 ./Effects/fx_vclightpa342.fx
+./Effects/fx_vclightsplash.fx
 ./Effects/fx_vclightwhi.fx
 ./Effects/fx_vclightwhite.fx
 ./Effects/fx_vclight_deepred.fx
@@ -1925,6 +1926,7 @@
 ./Effects/MilViz_T38_BurnerStage2.fx
 ./Effects/MilViz_T38_BurnerStage3.fx
 ./Effects/MilViz_T38_BurnerStage4.fx
+./Effects/none.fx
 ./Effects/NURI_apron_1.fx
 ./Effects/NURI_TAXIBLUE_1.fx
 ./Effects/OneNote Table Of Contents.onetoc2
@@ -2086,6 +2088,8 @@
 ./Effects/texture/flood_4x3spot.bmp
 ./Effects/texture/flood_terminal.bmp
 ./Effects/texture/flytampa_wake1.bmp
+./Effects/texture/flytampa_wave_A.bmp
+./Effects/texture/flytampa_wave_C.bmp
 ./Effects/texture/FR109_fx_1.bmp
 ./Effects/texture/FR109_fx_2.bmp
 ./Effects/texture/fsblight.bmp

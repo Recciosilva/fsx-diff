@@ -48,6 +48,7 @@
 ./CLS/A330_A340/EASY flight dynamics/EZ flight dynamics/CLS_A330_300/aircraft.cfg.cfg
 ./CLS/A330_A340/EASY flight dynamics/EZ flight dynamics/CLS_A340_200/aircraft.cfg.cfg
 ./CLS/A330_A340/EASY flight dynamics/EZ flight dynamics/CLS_A340_300/aircraft.cfg.cfg
+./CLS/CLS MD87/uni.cfg
 ./CLS/CLS Piper Arrow/uni.cfg
 ./display.cfg
 ./Elumens.cfg
@@ -245,14 +246,19 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AerLingusEIDEK/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AeroflotVPBWH/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AirAsiaPKAXS/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AIRMALTA9HAENnew/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AviancaN416AV/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.CondorFlugdienstDAICA/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.DeltaN327NW/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.easyJetGEZTB/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.EdelweissAirHBIHY/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.FinnairOHLXD/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.FrontierN263AV/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.IberiaECILQ/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.interjetXAMYR/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.MEAFOMRD/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.NikiOELEA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.PeachJA803P/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.SWISSHBIJJ/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/intelliscene.cfg
@@ -280,12 +286,14 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Sound/sound.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/texture.Air New Zealand/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.BritishAirwaysGEUUU/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.Cyprus5BDCM/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.EgyptAirSUGCC/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.Israir4XABF/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.KingfisherVTKFG/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.LAN/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.MEAODMRL/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.SpanairECJJD/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.TurkishTCJPK/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.UnitedAirlinesN405UA/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.USAirwaysN629AW/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/texture.ZK-OJR/texture.cfg
@@ -296,6 +304,7 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Panel/panel.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Sound/sound.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/texture.Air New Zealand/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Texture.Tigerair/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Texture.VuelingECLUO/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/Texture.WizzAirURWUC/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/aircraft.cfg
@@ -330,6 +339,7 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.AtlasjetTCETV/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.BritishAirwaysGEUXG/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.ChinaSouthernAirlinesB6579/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.GulfAirA9CCA/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.JetstarVHVWY/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.LufthansaDAISH/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/Texture.MonarchGMARA/texture.cfg
@@ -1544,6 +1554,19 @@
 ./SimObjects/Airplanes/CLS_MD81/texture.TWA/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.viking/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.wings_air/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/Aircraft.cfg
+./SimObjects/Airplanes/CLS_MD87/model/model.cfg
+./SimObjects/Airplanes/CLS_MD87/Panel/panel.cfg
+./SimObjects/Airplanes/CLS_MD87/Sound/sound.cfg
+./SimObjects/Airplanes/CLS_MD87/texture/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/Texture.AA/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/texture.aer/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/Texture.Allegiant/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/texture.aus/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/texture.cit/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/texture.fin/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/Texture.IB/texture.cfg
+./SimObjects/Airplanes/CLS_MD87/Texture.SAS/texture.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/aircraft.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/Model/model.cfg
 ./SimObjects/Airplanes/CLS_piperarrow/Panel/panel.cfg
@@ -3986,6 +4009,12 @@
 ./SimObjects/Airplanes/POSKY-CRJ700/panel-orig/panel.cfg
 ./SimObjects/Airplanes/POSKY-CRJ700/Sound/sound.cfg
 ./SimObjects/Airplanes/POSKY-CRJ700/sound-orig/Sound.cfg
+./SimObjects/Airplanes/POSKY_762V4/Aircraft - ORIG.cfg
+./SimObjects/Airplanes/POSKY_762V4/Aircraft.cfg
+./SimObjects/Airplanes/POSKY_762V4/model.NOWV/Model.cfg
+./SimObjects/Airplanes/POSKY_762V4/model.WV/Model.cfg
+./SimObjects/Airplanes/POSKY_762V4/panel/panel.cfg
+./SimObjects/Airplanes/POSKY_762V4/sound/Sound.cfg
 ./SimObjects/Airplanes/POSKY_777-200LRF/Aircraft.cfg
 ./SimObjects/Airplanes/POSKY_777-200LRF/model/model.cfg
 ./SimObjects/Airplanes/POSKY_777-200LRF/model.orig/model.cfg
@@ -4209,6 +4238,10 @@
 ./SimObjects/Airplanes/RAZBAM Convair 201 CTOL/texture.7/texture.cfg
 ./SimObjects/Airplanes/RAZBAM Convair 201 CTOL/texture.8/texture.cfg
 ./SimObjects/Airplanes/RAZBAM Convair 201 CTOL/texture.9/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Aircraft.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Model/model.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Panel/panel.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/sound.js31/Sound.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/aircraft.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/model/model.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/model.5/model.cfg

@@ -306,6 +306,8 @@
 ./unins005.exe
 ./unins006.dat
 ./unins006.exe
+./unins007.dat
+./unins007.exe
 ./uninst.exe
 ./Uninstal McPhat_LDS_WA2.exe
 ./Uninstal McPhat_LDS_WA3.exe

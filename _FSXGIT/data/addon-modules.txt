@@ -3,4 +3,5 @@
 ./Addon Modules/AirbusNewHUD.dll
 ./Addon Modules/C201_ALM.dll
 ./Addon Modules/HJJ_HUD.dll
+./Addon Modules/MM3SM.dll
 ./Addon Modules/OneNote Table Of Contents.onetoc2

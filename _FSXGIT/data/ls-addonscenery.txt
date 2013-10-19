@@ -461,6 +461,9 @@
 ./Addon Scenery/Fly Wonderful Islands/FWI_EIDW/TEXTURE
 ./Addon Scenery/Fly Wonderful Islands/FWI_EIDW_LC
 ./Addon Scenery/Fly Wonderful Islands/FWI_EIDW_LC/Scenery
+./Addon Scenery/FlyTampa-Libraries
+./Addon Scenery/FlyTampa-Libraries/scenery
+./Addon Scenery/FlyTampa-Libraries/texture
 ./Addon Scenery/FlyTampa-Maarten
 ./Addon Scenery/FlyTampa-Maarten/Doc
 ./Addon Scenery/FlyTampa-Maarten/scenery
@@ -1024,6 +1027,9 @@
 ./Addon Scenery/USA/BlueSky-PhoenixPhotoreal/Texture
 ./Addon Scenery/USA/BlueSky-SouthernCalifornia
 ./Addon Scenery/USA/BlueSky-SouthernCalifornia/scenery
+./Addon Scenery/USA/Duluth Intl - KDLH
+./Addon Scenery/USA/Duluth Intl - KDLH/scenery
+./Addon Scenery/USA/Duluth Intl - KDLH/texture
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada/KINS
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada/KINS/scenery
