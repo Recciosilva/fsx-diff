@@ -9,6 +9,7 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE NEO/aircraft.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Thomas Ruth A330 Merge/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended CFM NEO/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A321 Extended IAE/aircraft.cfg

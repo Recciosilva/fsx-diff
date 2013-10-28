@@ -1108,6 +1108,7 @@
 ./Effects/fx_P180_winsp_LE.fx
 ./Effects/fx_pa380land.fx
 ./Effects/fx_pa380logo.fx
+./Effects/fx_Pacer_engstrt.fx
 ./Effects/fx_PADbeaconh.fx
 ./Effects/fx_PAland.fx
 ./Effects/fx_pc9_beacon.fx

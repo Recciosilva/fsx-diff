@@ -527,6 +527,20 @@
 ./Addon Scenery/LatinVFR/Tobago_TTCP/Documentation
 ./Addon Scenery/LatinVFR/Tobago_TTCP/Scenery
 ./Addon Scenery/LatinVFR/Tobago_TTCP/Texture
+./Addon Scenery/LHC_Alaska
+./Addon Scenery/LHC_Alaska/scenery
+./Addon Scenery/LHC_Alaska/texture
+./Addon Scenery/LHC_Alaska/texture/Boeing 737-800 Paint6
+./Addon Scenery/LHC_Alaska/texture/Boeing 737-800 Paint6;All
+./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan
+./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint1;2
+./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint1;All
+./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint2;3
+./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint2;All
+./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint3;4
+./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint3;All
+./Addon Scenery/LHC_Alaska/texture/Douglas DC-3 Paint5
+./Addon Scenery/LHC_Alaska/texture/Douglas DC-3 Paint5;All
 ./Addon Scenery/MiddleEast
 ./Addon Scenery/MiddleEast/Cairo_cityX
 ./Addon Scenery/MiddleEast/Cairo_cityX/scenery

@@ -1,44 +1,9 @@
 ./
-./Addon Scenery/USA
-./Addon Scenery/USA/Duluth Intl - KDLH
-./Addon Scenery/USA/Duluth Intl - KDLH/scenery
-./Addon Scenery/USA/Duluth Intl - KDLH/texture
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
-./Level-D Simulations/B767-300/B767WFMC.dat
-./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
-./modules/WideServer.log
-./modules/WideServer0.log
-./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
-./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
-./SimObjects/Airplanes
-./SimObjects/Airplanes/POSKY_762V4
-./SimObjects/Airplanes/POSKY_762V4/Aircraft.cfg
-./SimObjects/Airplanes/POSKY_762V4/Effects
-./SimObjects/Airplanes/POSKY_762V4/FAQ
-./SimObjects/Airplanes/POSKY_762V4/FAQ/image
-./SimObjects/Airplanes/POSKY_762V4/model.NOWV
-./SimObjects/Airplanes/POSKY_762V4/model.WV
-./SimObjects/Airplanes/POSKY_762V4/panel
-./SimObjects/Airplanes/POSKY_762V4/panel/panel.cfg
-./SimObjects/Airplanes/POSKY_762V4/Scenarios
-./SimObjects/Airplanes/POSKY_762V4/sound
-./SimObjects/Airplanes/POSKY_762V4/sound/Sound.cfg
-./SimObjects/Airplanes/POSKY_762V4/texture.aal
-./SimObjects/Airplanes/POSKY_762V4/texture.aal/thumbnail-jal.jpg
-./SimObjects/Airplanes/POSKY_762V4/texture.aal/thumbnail.jpg
-./SimObjects/Airplanes/POSKY_762V4/texture.ANZ
-./SimObjects/Airplanes/POSKY_762V4/Texture.qt
-./SimObjects/Airplanes/POSKY_762V4/texture.rby
-./SimObjects/Airplanes/POSKY_762V4/texture.USA
-./SimObjects/Airplanes/Project Airbus A320-232/Aircraft.cfg
-./SimObjects/Airplanes/SkySpirit_762V5/Aircraft.cfg
-./TCAS2v7.ini
-./terrain.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt
-./_FSXGIT/data/programdata/Scenery - NorthSouthAmerica.CFG
 ./_FSXGIT/data/programdata/Scenery.CFG
