@@ -27,10 +27,13 @@
 ./Effects/Aerosoft_EGLC_taxi_middle_light.fx
 ./Effects/Aerosoft_EGLC_Tower_Light.fx
 ./Effects/Aerosoft_EGLC_white.fx
+./Effects/Aerosoft_highway.fx
 ./Effects/Aerosoft_LCLK_Spot_1.fx
+./Effects/Aerosoft_ManhattanTraffic.fx
 ./Effects/Aerosoft_Twotter_Smoke.fx
 ./Effects/Aerosoft_Twotter_Start.fx
 ./Effects/Aerosoft_Twotter_VC_Cabin.fx
+./Effects/Aerosoft_USCitiesX_Scream.fx
 ./Effects/ALPHA_Bou_vclight.fx
 ./Effects/AntsAussieAirports_YBNAlighthouse.fx
 ./Effects/Ants_Maritime_CardEast.fx
@@ -466,6 +469,7 @@
 ./Effects/fx_c47reco_green.fx
 ./Effects/fx_c47reco_red.fx
 ./Effects/fx_c47reco_white.fx
+./Effects/fx_c47_vclight.fx
 ./Effects/fx_CampFire.fx
 ./Effects/fx_canb_start.fx
 ./Effects/fx_cargoDestroyLandMetal.fx
@@ -504,6 +508,7 @@
 ./Effects/fx_concretecrash.fx
 ./Effects/fx_contrail_l.fx
 ./Effects/fx_contrail_s.fx
+./Effects/fx_Cranky_DC3_TFF.fx
 ./Effects/fx_cropdust.fx
 ./Effects/fx_cropdustpa36.fx
 ./Effects/fx_crow.fx
@@ -564,6 +569,7 @@
 ./Effects/fx_engout.fx
 ./Effects/fx_engsmoke.fx
 ./Effects/fx_engsmoke2.fx
+./Effects/fx_engstart_C47.fx
 ./Effects/fx_engstrt.fx
 ./Effects/fx_engstrt_BN2.fx
 ./Effects/fx_engstrt_cub.fx
@@ -955,6 +961,7 @@
 ./Effects/fx_luxbeam2.fx
 ./Effects/fx_Lvfr_twn.fx
 ./Effects/fx_Lvfr_twn2.fx
+./Effects/fx_Lvfr_twn3.fx
 ./Effects/fx_matrapod.fx
 ./Effects/fx_MirVolc.fx
 ./Effects/fx_Moth_exhaust.fx
@@ -2233,6 +2240,7 @@
 ./Effects/texture/fx_t6_light.bmp
 ./Effects/texture/fx_t6_rays.bmp
 ./Effects/texture/fx_taxi.bmp
+./Effects/texture/fx_TFF_Red_Flame_2b.bmp
 ./Effects/texture/fx_tracer.bmp
 ./Effects/texture/fx_track.bmp
 ./Effects/texture/fx_track_727.bmp
@@ -2266,6 +2274,7 @@
 ./Effects/texture/lmml.zip
 ./Effects/texture/Lvfr_twn.bmp
 ./Effects/texture/Lvfr_twn2.bmp
+./Effects/texture/Lvfr_twn3.bmp
 ./Effects/texture/MilVizBloom.bmp
 ./Effects/texture/MilViz_AB_1.bmp
 ./Effects/texture/MilViz_AB_2.bmp

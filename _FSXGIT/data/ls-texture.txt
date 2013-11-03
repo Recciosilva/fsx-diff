@@ -1181,6 +1181,8 @@
 ./Texture/runway_detail02.bmp
 ./Texture/runway_marks.dds
 ./Texture/rwai_a10_l.bmp
+./Texture/SANautogen.bmp
+./Texture/SANautogenlm.bmp
 ./Texture/sco_noaa_antenna2.bmp
 ./Texture/sco_noaa_antenna_grey.bmp
 ./Texture/sco_noaa_cooltower1.bmp
@@ -1905,3 +1907,5 @@
 ./Texture/wh_w6_bump.dds
 ./Texture/wh_w6_lm.bmp
 ./Texture/wh_w6_specular.dds
+./Texture/windsock.dds
+./Texture/windsock_LM.bmp

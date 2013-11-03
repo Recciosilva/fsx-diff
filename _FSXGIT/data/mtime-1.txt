@@ -1,8 +1,35 @@
-./
-./jb777memfilemap.txt
-./Level-D Simulations/B767-300/B767-300.ini
-./modules/FSUIPC4.ini
+./Gauges/CLS_MD80_config.ini
 ./modules/FSUIPC4.log
+./SimObjects/Airplanes/CLS_MD81
+./SimObjects/Airplanes/CLS_MD81/aircraft.cfg
+./SimObjects/Airplanes/CLS_MD81/PaintKit/Blank Textures
+./SimObjects/Airplanes/CLS_MD81/PaintKit/Blank Textures/New folder
+./SimObjects/Airplanes/CLS_MD81/texture.anz-fern
+./SimObjects/Airplanes/CLS_MD81/texture.anz-fern/New folder
+./SimObjects/Airplanes/CLS_MD81/texture.korean
+./SimObjects/Airplanes/CLS_MD81/texture.korean/md80engines_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.korean/md80L1_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.korean/md80L2_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.korean/md80R1_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.korean/md80R2_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.korean/md80tail_t.dds
+./SimObjects/Airplanes/CLS_MD81/texture.korean/screenshot.jpg
+./SimObjects/Airplanes/CLS_MD81/texture.korean/thumbnail.jpg
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/engines.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/engines.xcf
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/md80L1_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/md80L2_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/md80R1_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/md80R2_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/md80tail_t.bmp
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/MD80_Fuse_Left.xcf
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/MD80_Fuse_Right.xcf
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/photos
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/photos/2330805.jpg
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/photos/2334035.jpg
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/photos/korean.gif
+./SimObjects/Airplanes/CLS_MD81/texture.korean/working/photos/MD80_Fuse_Left.bmp
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

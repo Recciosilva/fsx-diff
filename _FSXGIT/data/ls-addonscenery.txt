@@ -90,6 +90,9 @@
 ./Addon Scenery/Asia/Korea/Ulsan
 ./Addon Scenery/Asia/Korea/Ulsan/scenery
 ./Addon Scenery/Asia/Korea/Ulsan/texture
+./Addon Scenery/Asia/Maldives_VRMM
+./Addon Scenery/Asia/Maldives_VRMM/Scenery
+./Addon Scenery/Asia/Maldives_VRMM/Texture
 ./Addon Scenery/Asia/Phillipines
 ./Addon Scenery/Asia/Phillipines/NINOY AQUINO INTERNATIONAL
 ./Addon Scenery/Asia/Phillipines/NINOY AQUINO INTERNATIONAL/scenery
@@ -523,6 +526,10 @@
 ./Addon Scenery/LatinVFR/Piarco_TTPP/Documentation
 ./Addon Scenery/LatinVFR/Piarco_TTPP/Scenery
 ./Addon Scenery/LatinVFR/Piarco_TTPP/Texture
+./Addon Scenery/LatinVFR/San Diego_KSAN
+./Addon Scenery/LatinVFR/San Diego_KSAN/Docs
+./Addon Scenery/LatinVFR/San Diego_KSAN/Scenery
+./Addon Scenery/LatinVFR/San Diego_KSAN/Texture
 ./Addon Scenery/LatinVFR/Tobago_TTCP
 ./Addon Scenery/LatinVFR/Tobago_TTCP/Documentation
 ./Addon Scenery/LatinVFR/Tobago_TTCP/Scenery
@@ -930,6 +937,8 @@
 ./Addon Scenery/SouthAmerica/Mexico/Cancun-MMUN/scenery
 ./Addon Scenery/SouthAmerica/Mexico/Mexico_Mesh
 ./Addon Scenery/SouthAmerica/Mexico/Mexico_Mesh/scenery
+./Addon Scenery/SouthAmerica/Mexico/Mexico_Misc_Airports
+./Addon Scenery/SouthAmerica/Mexico/Mexico_Misc_Airports/scenery
 ./Addon Scenery/static-library-objects
 ./Addon Scenery/static-library-objects/scenery
 ./Addon Scenery/static-library-objects/scenery/sources
@@ -1105,6 +1114,9 @@
 ./Addon Scenery/USA/KLGA_PHOTO_REAL/Texture
 ./Addon Scenery/USA/KMCO Orlando
 ./Addon Scenery/USA/KMCO Orlando/scenery
+./Addon Scenery/USA/KMRY Monterey Peninsula V2
+./Addon Scenery/USA/KMRY Monterey Peninsula V2/Scenery
+./Addon Scenery/USA/KMRY Monterey Peninsula V2/texture
 ./Addon Scenery/USA/KMSY Photo_Real V3.0
 ./Addon Scenery/USA/KMSY Photo_Real V3.0/Scenery
 ./Addon Scenery/USA/KMSY Photo_Real V3.0/Texture

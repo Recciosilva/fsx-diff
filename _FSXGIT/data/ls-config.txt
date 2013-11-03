@@ -12,6 +12,7 @@
 ./aerosoft/PBY_Catalina/Product.cfg
 ./aerosoft/Tahiti X/Product.cfg
 ./aerosoft/TwinOtter/Product.cfg
+./aerosoft/USCitiesX-LasVegas/Product.cfg
 ./aerosoft/Vaernes X/Product.cfg
 ./aircraft/Flight 1 ATR-72-500/Aircraft.cfg
 ./aircraft/Flight One ATR 72-500/Aircraft.cfg
@@ -1563,6 +1564,7 @@
 ./SimObjects/Airplanes/CLS_MD81/texture.jetstar/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.JKK/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.kish/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.korean/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.lion/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.martinair/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.mexico/texture.cfg
@@ -1998,6 +2000,15 @@
 ./SimObjects/Airplanes/Douglas_C-47/texture.RAF_KK138/texture.cfg
 ./SimObjects/Airplanes/Douglas_C-47/texture.RNZAF_NZ3546/texture.cfg
 ./SimObjects/Airplanes/Douglas_C-47/texture.USAF_15619/texture.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/aircraft.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/model.C47_1/model.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/model.C47_2/model.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/panel/panel.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/sound/sound.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/soundai/soundai.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/texture/texture.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/texture.EATS_315221/texture.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/texture.JK_ZK-AQS/texture.cfg
 ./SimObjects/Airplanes/Douglas_DC3/aircraft.cfg
 ./SimObjects/Airplanes/Douglas_DC3/model/model.cfg
 ./SimObjects/Airplanes/Douglas_DC3/model.cargo/model.cfg
@@ -2766,16 +2777,20 @@
 ./SimObjects/Airplanes/Grumman_Goose_G21A/Texture.4/texture.cfg
 ./SimObjects/Airplanes/Grumman_Goose_G21A/Texture.5/texture.cfg
 ./SimObjects/Airplanes/Grumman_Goose_G21A/Texture.6/texture.cfg
-./SimObjects/Airplanes/GulfIV_FSX/model/model.cfg
-./SimObjects/Airplanes/GulfIV_FSX/panel/panel.cfg
-./SimObjects/Airplanes/GulfIV_FSX/Panel.alt/Panel.cfg
-./SimObjects/Airplanes/GulfIV_FSX/panel.dno/panel.cfg
-./SimObjects/Airplanes/GulfIV_FSX/sound/Sound.cfg
-./SimObjects/Airplanes/Gulfstream V/Aircraft.cfg
-./SimObjects/Airplanes/Gulfstream V/model/model.cfg
-./SimObjects/Airplanes/Gulfstream V/Panel/panel.cfg
-./SimObjects/Airplanes/Gulfstream V/panel.2/panel.cfg
-./SimObjects/Airplanes/Gulfstream V/sound/sound.cfg
+./SimObjects/Airplanes/Gulfstream_G550/Aircraft.cfg
+./SimObjects/Airplanes/Gulfstream_G550/model/Model.cfg
+./SimObjects/Airplanes/Gulfstream_G550/panel/panel.cfg
+./SimObjects/Airplanes/Gulfstream_G550/sound/sound.cfg
+./SimObjects/Airplanes/Gulfstream_IV/model/model.cfg
+./SimObjects/Airplanes/Gulfstream_IV/panel/panel.cfg
+./SimObjects/Airplanes/Gulfstream_IV/Panel.alt/Panel.cfg
+./SimObjects/Airplanes/Gulfstream_IV/panel.dno/panel.cfg
+./SimObjects/Airplanes/Gulfstream_IV/sound/Sound.cfg
+./SimObjects/Airplanes/Gulfstream_V/Aircraft.cfg
+./SimObjects/Airplanes/Gulfstream_V/model/model.cfg
+./SimObjects/Airplanes/Gulfstream_V/Panel/panel.cfg
+./SimObjects/Airplanes/Gulfstream_V/panel.2/panel.cfg
+./SimObjects/Airplanes/Gulfstream_V/sound/sound.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/aircraft-FS9.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/aircraft.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/model.01/Model.cfg
@@ -3637,6 +3652,7 @@
 ./SimObjects/Airplanes/LVLD_B763/Sound/Sound.cfg
 ./SimObjects/Airplanes/LVLD_B763/Sound.GE/Sound.cfg
 ./SimObjects/Airplanes/LVLD_B763/Texture.ABX25_dxt3/texture.cfg
+./SimObjects/Airplanes/LVLD_B763/Texture.AEY_IAIGG/texture.cfg
 ./SimObjects/Airplanes/LVLD_B763/Texture.ana/texture.cfg
 ./SimObjects/Airplanes/LVLD_B763/Texture.AO/texture.cfg
 ./SimObjects/Airplanes/LVLD_B763/Texture.asiana/texture.cfg
@@ -3733,6 +3749,10 @@
 ./SimObjects/Airplanes/Metroliner III/model/model.cfg
 ./SimObjects/Airplanes/Metroliner III/Panel.orig/panel.cfg
 ./SimObjects/Airplanes/Metroliner III/sound/sound.cfg
+./SimObjects/Airplanes/Metro_RazBam_MikeStone_Merge/Aircraft.cfg
+./SimObjects/Airplanes/Metro_RazBam_MikeStone_Merge/Model/model.cfg
+./SimObjects/Airplanes/Metro_RazBam_MikeStone_Merge/panel/panel.cfg
+./SimObjects/Airplanes/Metro_RazBam_MikeStone_Merge/sound.js31/Sound.cfg
 ./SimObjects/Airplanes/Meyers 200D/aircraft.cfg
 ./SimObjects/Airplanes/Meyers 200D/model/Model.cfg
 ./SimObjects/Airplanes/Meyers 200D/panel/panel.cfg
@@ -3984,6 +4004,7 @@
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/sound/sound.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.201st/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.6B/texture.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.AItaly_IAIGN_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.AMERICAN FLAGSHIP/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.AP_DQFJG2_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.Caribbean_9YGEO_jkx/texture.cfg
@@ -4006,6 +4027,7 @@
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.LNP/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.MAL_9MMXE_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.MAL_Grunge_jkx/texture.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.Meridiana_IGN_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.miami/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.NG/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.PacBlue_ZKPBK_jkx/texture.cfg
@@ -4209,6 +4231,7 @@
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.ely/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.fat/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.ice/texture.cfg
+./SimObjects/Airplanes/QualityWings 752 Passenger/texture.italy/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.jet2/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.kiwi/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.mon/texture.cfg
@@ -5225,6 +5248,21 @@
 ./SimObjects/Airplanes/Wilco_HJJ/texture.899/texture.cfg
 ./SimObjects/Airplanes/Wilco_HJJ/texture.Indian/texture.cfg
 ./SimObjects/Airplanes/Wilco_HJJ/texture.War/texture.cfg
+./SimObjects/Airplanes/WoA_AIA_MD_8X_Cone/aircraft.cfg
+./SimObjects/Airplanes/WoA_AIA_MD_8X_Cone/model.cone_no_refl/model.cfg
+./SimObjects/Airplanes/WoA_AIA_MD_8X_Cone/soundai/soundai.cfg
+./SimObjects/Airplanes/WoA_AIA_MD_8X_SD/aircraft.cfg
+./SimObjects/Airplanes/WoA_AIA_MD_8X_SD/model.SD_no_refl/model.cfg
+./SimObjects/Airplanes/WoA_AIA_MD_8X_SD/soundai/soundai.cfg
+./SimObjects/Airplanes/WoA_DJC_A319_CFM/Aircraft.cfg
+./SimObjects/Airplanes/WoA_DJC_A319_CFM/model.CFM/Model.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR42/aircraft.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR42/model/model.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR42/soundai/soundai.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR72/aircraft.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR72/model.200/model.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR72/model.500/model.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR72/soundai/soundai.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/aircraft.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/model/model.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/sound/SOUND.cfg

@@ -145,6 +145,7 @@
 ./SimObjects/Airplanes/DH_Dash8_100/aircraft.cfg
 ./SimObjects/Airplanes/Diamond DA20-100 'Katana'/aircraft.cfg
 ./SimObjects/Airplanes/Douglas_C-47/aircraft.cfg
+./SimObjects/Airplanes/Douglas_C-47_V2/aircraft.cfg
 ./SimObjects/Airplanes/Douglas_DC3/aircraft.cfg
 ./SimObjects/Airplanes/Dr1/aircraft.cfg
 ./SimObjects/Airplanes/ELEC_CARGO/aircraft.cfg
@@ -281,5 +282,9 @@
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/aircraft.cfg
 ./SimObjects/Airplanes/VS_RV8/aircraft.cfg
 ./SimObjects/Airplanes/VS_SBD/aircraft.cfg
+./SimObjects/Airplanes/WoA_AIA_MD_8X_Cone/aircraft.cfg
+./SimObjects/Airplanes/WoA_AIA_MD_8X_SD/aircraft.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR42/aircraft.cfg
+./SimObjects/Airplanes/WoA_PAI_ATR72/aircraft.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/aircraft.cfg
 ./SimObjects/Airplanes/Yak-9U/aircraft.cfg

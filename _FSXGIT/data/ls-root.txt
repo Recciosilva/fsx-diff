@@ -119,6 +119,7 @@
 ./GdiPlus.dll
 ./Golden Age Simulations
 ./gps.dll
+./gsx_vehicles_update2_fsx_setup.exe
 ./GZkaikourauninst.exe
 ./HudsonEXP_un.dat
 ./HudsonEXP_un.xml
