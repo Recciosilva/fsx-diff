@@ -286,5 +286,7 @@
 ./SimObjects/Airplanes/WoA_AIA_MD_8X_SD/aircraft.cfg
 ./SimObjects/Airplanes/WoA_PAI_ATR42/aircraft.cfg
 ./SimObjects/Airplanes/WoA_PAI_ATR72/aircraft.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/aircraft.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-44 Seminole/aircraft.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/aircraft.cfg
 ./SimObjects/Airplanes/Yak-9U/aircraft.cfg

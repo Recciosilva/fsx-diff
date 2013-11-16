@@ -2,6 +2,26 @@
 ./Gauges/154_B2S.gau
 ./Gauges/154_B2_APU.gau
 ./Gauges/339tc_0001.gau
+./Gauges/717_altalert.gau
+./Gauges/717_APCRSS.gau
+./Gauges/717_boeing_callout.gau
+./Gauges/717_crss.gau
+./Gauges/717_EICAS1.gau
+./Gauges/717_EICAS2.gau
+./Gauges/717_elevator.trim.gau
+./Gauges/717_FLAPS.gau
+./Gauges/717_GEAR.gau
+./Gauges/717_Lgear.gau
+./Gauges/717_Ngear.gau
+./Gauges/717_OAT.gau
+./Gauges/717_OP1.gau
+./Gauges/717_OP2.gau
+./Gauges/717_OT1.gau
+./Gauges/717_OT2.gau
+./Gauges/717_Radio.gau
+./Gauges/717_Rgear.gau
+./Gauges/717_WindIndicator2k.gau
+./Gauges/717_Xpdrg.gau
 ./Gauges/a10a_fuelflow1.gau
 ./Gauges/alpha_clock.gau
 ./Gauges/AUD_Garmin_GMA340.gau
@@ -31,6 +51,8 @@
 ./Gauges/ClassicsHangar_XMLSound.gau
 ./Gauges/CLS_FSX_Sound2.gau
 ./Gauges/CONCORDE.gau
+./Gauges/CPT.F16.gau
+./Gauges/CPT.PSSND.gau
 ./Gauges/cv880sw.gau
 ./Gauges/Dash8All - ORIG.gau
 ./Gauges/Dash8All.gau
@@ -128,6 +150,7 @@
 ./Gauges/FlightReplicas_XMLSound.gau
 ./Gauges/fpda_gear_wind.gau
 ./Gauges/FRANPlaneTG.gau
+./Gauges/fs2k_GPS.gau
 ./Gauges/FSpainter_AS350_2.gau
 ./Gauges/FSpainter_AS350_3.gau
 ./Gauges/FSpainter_AS350_4.gau
@@ -157,6 +180,7 @@
 ./Gauges/Jet_RPM1.gau
 ./Gauges/jf_146.gau
 ./Gauges/KI-13.gau
+./Gauges/kk_black_indicators.gau
 ./Gauges/km_random_number.gau
 ./Gauges/LVLD/B767at.gau
 ./Gauges/LVLD/B767eadi.gau

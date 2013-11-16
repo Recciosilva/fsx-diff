@@ -53,6 +53,10 @@
 ./Addon Scenery/Asia/India/VABB Mumbai/texture
 ./Addon Scenery/Asia/India/VAPO Pune
 ./Addon Scenery/Asia/India/VAPO Pune/scenery
+./Addon Scenery/Asia/Indonesia
+./Addon Scenery/Asia/Indonesia/Jakarta_WIII
+./Addon Scenery/Asia/Indonesia/Jakarta_WIII/scenery
+./Addon Scenery/Asia/Indonesia/Jakarta_WIII/texture
 ./Addon Scenery/Asia/Japan
 ./Addon Scenery/Asia/Japan/Japan Airports misc
 ./Addon Scenery/Asia/Japan/Japan Airports misc/scenery
@@ -172,6 +176,12 @@
 ./Addon Scenery/Australia/Esperance YESP
 ./Addon Scenery/Australia/Esperance YESP/scenery
 ./Addon Scenery/Australia/Esperance YESP/texture
+./Addon Scenery/Australia/HobartAirport_YMHB
+./Addon Scenery/Australia/HobartAirport_YMHB/scenery
+./Addon Scenery/Australia/HobartAirport_YMHB/texture
+./Addon Scenery/Australia/HobartAirport_YMHB/_docs
+./Addon Scenery/Australia/Perth_YPPH
+./Addon Scenery/Australia/Perth_YPPH/scenery
 ./Addon Scenery/Baltics
 ./Addon Scenery/Baltics/Riga Airport
 ./Addon Scenery/Baltics/Riga Airport/Scenery
@@ -932,6 +942,15 @@
 ./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata
 ./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata/Scenery
 ./Addon Scenery/SouthAmerica/Argentina/SAZM_Mar del Plata/Texture
+./Addon Scenery/SouthAmerica/Chile
+./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP
+./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/docs
+./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/docs/CHARTS
+./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/docs/FSX_Pics
+./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/docs/Real_Pics
+./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/docs/Satellite_pics
+./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/Scenery
+./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/Texture
 ./Addon Scenery/SouthAmerica/Mexico
 ./Addon Scenery/SouthAmerica/Mexico/Cancun-MMUN
 ./Addon Scenery/SouthAmerica/Mexico/Cancun-MMUN/scenery

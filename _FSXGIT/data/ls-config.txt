@@ -1462,6 +1462,7 @@
 ./SimObjects/Airplanes/CLS_BAe146_200/Texture/texture.cfg
 ./SimObjects/Airplanes/CLS_BAe146_200/Texture.AAL/texture.cfg
 ./SimObjects/Airplanes/CLS_BAe146_200/texture.airnova/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.Ansett/texture.cfg
 ./SimObjects/Airplanes/CLS_BAe146_200/Texture.BAW/texture.cfg
 ./SimObjects/Airplanes/CLS_BAe146_200/Texture.BLANK/texture.cfg
 ./SimObjects/Airplanes/CLS_BAe146_200/Texture.blue1/texture.cfg
@@ -1477,6 +1478,8 @@
 ./SimObjects/Airplanes/CLS_BAe146_200/texture.qantaslink/texture.cfg
 ./SimObjects/Airplanes/CLS_BAe146_200/texture.swissalliance/texture.cfg
 ./SimObjects/Airplanes/CLS_BAe146_200/Texture.USEXO/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/texture.Vincent Aviation/texture.cfg
+./SimObjects/Airplanes/CLS_BAe146_200/Texture.ZK-NEZ/texture.cfg
 ./SimObjects/Airplanes/CLS_BAe146_300/Aircraft.cfg
 ./SimObjects/Airplanes/CLS_BAe146_300/Model/model.cfg
 ./SimObjects/Airplanes/CLS_BAe146_300/panel.0000/panel.cfg
@@ -2797,8 +2800,14 @@
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/model.02/Model.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/model.03/Model.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/Panel/Panel.cfg
+./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/Panel.CLS/panel.cfg
+./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/Panel.CLSmod/panel.cfg
+./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/Panel.CLSmod/panel_.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/panel.orig/panel.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/panel.orig/panel_fsx.cfg
+./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/Panel.SkyWorks/Panel-FS9.cfg
+./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/Panel.SkyWorks/Panel.cfg
+./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/Panel.SkyWorks/Panel_FS2K.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/sound.orig/sound.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/sound.orig/sound_fsx.cfg
 ./SimObjects/Airplanes/HJG Convair 990 v1.1/aircraft-fs9.cfg
@@ -4242,6 +4251,7 @@
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.tf_fik/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.thomas/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.titanairways/texture.cfg
+./SimObjects/Airplanes/QualityWings 752 Passenger/texture.US Airways_939/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.usn/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger RB211-535C/Aircraft.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger RB211-535C/intelliscene.cfg
@@ -5263,6 +5273,21 @@
 ./SimObjects/Airplanes/WoA_PAI_ATR72/model.200/model.cfg
 ./SimObjects/Airplanes/WoA_PAI_ATR72/model.500/model.cfg
 ./SimObjects/Airplanes/WoA_PAI_ATR72/soundai/soundai.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/aircraft.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/model/model.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/panel/panel.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/sound/sound.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/Texture.0/texture.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/Texture.1/texture.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/Texture.2/texture.cfg
+./SimObjects/Airplanes/WSSimulation-CZAW Sportcruiser/Texture.3/texture.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-44 Seminole/aircraft.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-44 Seminole/model/model.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-44 Seminole/Texture/texture.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-44 Seminole/Texture.1/texture.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-44 Seminole/Texture.2/texture.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-44 Seminole/Texture.3/texture.cfg
+./SimObjects/Airplanes/WSSimulation-Piper PA-44 Seminole/Texture.4/texture.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/aircraft.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/model/model.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/sound/SOUND.cfg

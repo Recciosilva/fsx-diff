@@ -2373,6 +2373,8 @@
 ./Effects/WS_vclight-m-orange.fx
 ./Effects/WS_vclight-m-orange2.fx
 ./Effects/WS_vclight-meridian-blue.fx
+./Effects/WS_vclight-s.fx
+./Effects/WS_vclight-s2.fx
 ./Effects/ZH_An12box.fx
 ./Effects/ZH_An12dust.fx
 ./Effects/ZH_An12smok.fx
