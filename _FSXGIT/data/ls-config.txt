@@ -107,10 +107,13 @@
 ./ORBX/Scripts/scenerylib_AU_YBCS.cfg
 ./ORBX/Scripts/scenerylib_AU_YMML.cfg
 ./ORBX/Scripts/scenerylib_AU_YSCB.cfg
+./ORBX/Scripts/scenerylib_FTXAA_AIRPORTS.cfg
 ./ORBX/Scripts/scenerylib_FTXAA_ORBXLIBS.cfg
 ./ORBX/Scripts/scenerylib_NA_PNW.cfg
 ./ORBX/Scripts/scenerylib_NZNI.cfg
 ./ORBX/Scripts/scenerylib_NZSI.cfg
+./PacSim/Chubu Centrair International - PAS/oldscenery.cfg
+./PacSim/Jeju International/oldscenery.cfg
 ./PacSim/Rarotonga International - PAS/oldscenery.cfg
 ./PacSim/Tonga Domestic/oldscenery.cfg
 ./Project Tupolev/LMTu154 B/cfg/148.cfg
@@ -247,6 +250,7 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AerLingusEIDEK/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AeroflotVPBWH/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AirAsiaPKAXS/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AirCanada C-FFWI/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AIRMALTA9HAENnew/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.AviancaN416AV/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/Texture.CondorFlugdienstDAICA/texture.cfg
@@ -270,6 +274,7 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.AirBerlinNeoOneWorld/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.AirbusNeo/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/texture.AirbusNeoAerosoft/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/texture.AirNZNeo/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.AmericanNeo/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.IndiGoNeo/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/Texture.LufthansaDAIZQ/texture.cfg
@@ -1185,6 +1190,7 @@
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.Brasilian Air force/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.FEDEX/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.GoTropical Caribbean Airlines/texture.cfg
+./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.JK-N28AN/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.JK-SaltAir/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.Mokulele/texture.cfg
 ./SimObjects/Airplanes/Carenado C208B Grand Caravan/texture.Red wine stripes/texture.cfg
@@ -1545,12 +1551,14 @@
 ./SimObjects/Airplanes/CLS_MD81/Sound/sound.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.aa/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.aeromexico_nc/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.allegiant_nc/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.anz-fern/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.anz-nac/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.anz-wave/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.atlas/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.austrian_nnc/texture.cfg
+./SimObjects/Airplanes/CLS_MD81/texture.avianca/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.AZA/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.burkina/texture.cfg
 ./SimObjects/Airplanes/CLS_MD81/texture.cebu/texture.cfg
@@ -2810,6 +2818,7 @@
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/Panel.SkyWorks/Panel_FS2K.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/sound.orig/sound.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/sound.orig/sound_fsx.cfg
+./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/sound.tss/sound.cfg
 ./SimObjects/Airplanes/HJG Convair 990 v1.1/aircraft-fs9.cfg
 ./SimObjects/Airplanes/HJG Convair 990 v1.1/aircraft.cfg
 ./SimObjects/Airplanes/HJG Convair 990 v1.1/model/model.cfg
@@ -4244,6 +4253,7 @@
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.jet2/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.kiwi/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.mon/texture.cfg
+./SimObjects/Airplanes/QualityWings 752 Passenger/texture.MUA_N169NA/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.nza/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.Omni_N558AX_New/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752 Passenger/texture.owl/texture.cfg
@@ -4361,11 +4371,14 @@
 ./SimObjects/Airplanes/RAZBAM Convair 201 CTOL/texture.9/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Aircraft.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Model/model.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Model.1/model.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Panel/panel.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/sound/Sound.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/sound.js31/Sound.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Texture.1/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.A/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.B/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.Toll/texture.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/aircraft.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/model/model.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/model.5/model.cfg
@@ -4543,6 +4556,7 @@
 ./SimObjects/Airplanes/SkySpirit_762V5/panel/panel.cfg
 ./SimObjects/Airplanes/SkySpirit_762V5/sound/Sound.cfg
 ./SimObjects/Airplanes/SkySpirit_762V5/sound.TSS/sound.cfg
+./SimObjects/Airplanes/SkySpirit_763F_GE/Aircraft - LAST.cfg
 ./SimObjects/Airplanes/SkySpirit_763F_GE/Aircraft.cfg
 ./SimObjects/Airplanes/SkySpirit_763F_GE/model/Model.cfg
 ./SimObjects/Airplanes/SkySpirit_763F_GE/panel/panel.cfg
@@ -4555,6 +4569,12 @@
 ./SimObjects/Airplanes/SkySpirit_B763ER PW4060/panel/panel.cfg
 ./SimObjects/Airplanes/SkySpirit_B763ER PW4060/sound/Sound.cfg
 ./SimObjects/Airplanes/SkySpirit_B763ER PW4060/sound.CLS/sound.cfg
+./SimObjects/Airplanes/SkySprit_KC767_CF6-80C/Aircraft.cfg
+./SimObjects/Airplanes/SkySprit_KC767_CF6-80C/model.737vc_merge/Model.cfg
+./SimObjects/Airplanes/SkySprit_KC767_CF6-80C/panel/panel.cfg
+./SimObjects/Airplanes/SkySprit_KC767_CF6-80C/panel/panel_original.cfg
+./SimObjects/Airplanes/SkySprit_KC767_CF6-80C/sound/Sound.cfg
+./SimObjects/Airplanes/SkySprit_KC767_CF6-80C/texture.jasdf/texture.cfg
 ./SimObjects/Airplanes/Skyvan/Aircraft.cfg
 ./SimObjects/Airplanes/Skyvan/model.c/Model.cfg
 ./SimObjects/Airplanes/Skyvan/model.nc/Model.cfg
@@ -4672,6 +4692,8 @@
 ./SimObjects/Airplanes/Tr_Pl12/Aircraft.cfg
 ./SimObjects/Airplanes/Tr_Pl12/model/model.cfg
 ./SimObjects/Airplanes/Tr_Pl12/panel/panel.cfg
+./SimObjects/Airplanes/TSS/Sound.BR715-pax/sound.cfg
+./SimObjects/Airplanes/TSS/Sound.BR715-pilot/sound.cfg
 ./SimObjects/Airplanes/TSS/Sound.CFM56-3/Sound.cfg
 ./SimObjects/Airplanes/TSS/Sound.CT7/sound.cfg
 ./SimObjects/Airplanes/TSS/Sound.GE-CF6/Sound.cfg
@@ -5422,6 +5444,14 @@
 ./SimObjects/Boats/flytampa_aiship_yacht_small/aircraft.cfg
 ./SimObjects/Boats/flytampa_aiship_yacht_small/model.blue/Model.cfg
 ./SimObjects/Boats/flytampa_aiship_yacht_small/texture/texture.cfg
+./SimObjects/Boats/FSDT_Kitesurf/model/model.cfg
+./SimObjects/Boats/FSDT_Kitesurf/sim.cfg
+./SimObjects/Boats/FSDT_Kitesurf_1/model/model.cfg
+./SimObjects/Boats/FSDT_Kitesurf_1/sim.cfg
+./SimObjects/Boats/FSDT_Kitesurf_2/model/model.cfg
+./SimObjects/Boats/FSDT_Kitesurf_2/sim.cfg
+./SimObjects/Boats/FSDT_Kitesurf_3/model/model.cfg
+./SimObjects/Boats/FSDT_Kitesurf_3/sim.cfg
 ./SimObjects/Boats/LAclassSubmarine/model/Model.cfg
 ./SimObjects/Boats/LAclassSubmarine/sim.cfg
 ./SimObjects/Boats/NZ_Ferry_Arahura/Model/Model.cfg
@@ -5707,10 +5737,30 @@
 ./SimObjects/GroundVehicles/FSDT_Firetruck_kfll/sim.cfg
 ./SimObjects/GroundVehicles/FSDT_Firetruck_kfll/soundai/soundai.cfg
 ./SimObjects/GroundVehicles/FSDT_Firetruck_kfll/texture/texture.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHKO/model/model.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHKO/sim.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHKO/soundai/soundai.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHKO/texture/texture.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHNL/model/model.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHNL/sim.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHNL/soundai/soundai.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHNL/texture/texture.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHOG/model/model.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHOG/sim.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHOG/soundai/soundai.cfg
+./SimObjects/GroundVehicles/FSDT_Firetruck_PHOG/texture/texture.cfg
 ./SimObjects/GroundVehicles/FSDT_Fueltruck_kfll/model/model.cfg
 ./SimObjects/GroundVehicles/FSDT_Fueltruck_kfll/sim.cfg
 ./SimObjects/GroundVehicles/FSDT_Fueltruck_kfll/soundai/soundai.cfg
 ./SimObjects/GroundVehicles/FSDT_Fueltruck_kfll/texture/texture.cfg
+./SimObjects/GroundVehicles/FSDT_Fueltruck_PHKO/model/model.cfg
+./SimObjects/GroundVehicles/FSDT_Fueltruck_PHKO/sim.cfg
+./SimObjects/GroundVehicles/FSDT_Fueltruck_PHKO/soundai/soundai.cfg
+./SimObjects/GroundVehicles/FSDT_Fueltruck_PHKO/texture/texture.cfg
+./SimObjects/GroundVehicles/FSDT_Fueltruck_PHOG/model/model.cfg
+./SimObjects/GroundVehicles/FSDT_Fueltruck_PHOG/sim.cfg
+./SimObjects/GroundVehicles/FSDT_Fueltruck_PHOG/soundai/soundai.cfg
+./SimObjects/GroundVehicles/FSDT_Fueltruck_PHOG/texture/texture.cfg
 ./SimObjects/GroundVehicles/FuelTruck/model/model.cfg
 ./SimObjects/GroundVehicles/FuelTruck/panel/panel.cfg
 ./SimObjects/GroundVehicles/FuelTruck/sim.cfg
@@ -7349,6 +7399,89 @@
 ./SimObjects/Misc/FSDT_Catering_Man/texture.red/texture.cfg
 ./SimObjects/Misc/FSDT_Catering_Man/texture.white/texture.cfg
 ./SimObjects/Misc/FSDT_Catering_Man/texture.yellow/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_caller/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_DETSO10/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_DETSO12/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sce1/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sce2/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf01/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf02/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf03/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf04/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf05/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf06/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf07/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf08/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf09/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf10/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf11/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf12/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf13/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf14/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf15/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf16/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf17/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf18/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf19/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf20/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf21/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf22/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D01/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D02/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D03/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D04/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D05/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D06/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D07/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D08/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D09/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D10/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D11/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D12/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D13/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D14/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D15/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D16/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D17/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D19/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D20/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D21/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D22/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_sf3D23/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO01/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO02/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO03/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO04/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO05/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO06/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO07/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO08/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO09/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO10/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO11/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO12/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO13/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO14/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO15/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO16/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO17/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO18/model.cfg
+./SimObjects/Misc/FSDT_CYVR/model.CYVR_SO19/model.cfg
+./SimObjects/Misc/FSDT_CYVR/sim.cfg
+./SimObjects/Misc/FSDT_CYVR/texture/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.AZ100H8/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.AZ112H9/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.AZ159H12/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.AZ198H14/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.AZ231H16/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.AZ245H17/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.AZ89H7/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.LM/texture.cfg
+./SimObjects/Misc/FSDT_CYVR/texture.OVC/texture.cfg
+./SimObjects/Misc/FSDT_CYVR_VHE/model.CYVR_PSH_ANIM/model.cfg
+./SimObjects/Misc/FSDT_CYVR_VHE/sim.cfg
+./SimObjects/Misc/FSDT_CYVR_VHE/soundai/soundai.cfg
+./SimObjects/Misc/FSDT_CYVR_VHE/texture/texture.cfg
 ./SimObjects/Misc/FSDT_DeIce/model/model.cfg
 ./SimObjects/Misc/FSDT_DeIce/sim.cfg
 ./SimObjects/Misc/FSDT_DeIce/texture/texture.cfg
@@ -9008,6 +9141,137 @@
 ./SimObjects/Misc/FSDT_PassengerBus/texture.red/texture.cfg
 ./SimObjects/Misc/FSDT_PassengerBus/texture.shuttle/texture.cfg
 ./SimObjects/Misc/FSDT_PassengerBus/texture.yellow/texture.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set01B_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set01_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_set01_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set01_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set02B_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set02_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_set02_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set02_Cars/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set02_ME/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set02_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set03B_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set03_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_set03_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set03_Cars/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set03_ME/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set03_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set04B_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set04_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set04_Cars/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set04_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set05_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set05_ME/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set05_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set06_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set06_Cars/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set07_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/model.PHKO_Set08_3D/model.cfg
+./SimObjects/Misc/FSDT_PHKO/sim.cfg
+./SimObjects/Misc/FSDT_PHKO/texture/texture.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_C17/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set01_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set01_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set01_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set02_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set02_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set02_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set03_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set03_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set03_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set04B_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set04_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set04_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set04_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set05_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set05_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set05_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set06B_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set06_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set06_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set06_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set07B_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set07B_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set07C_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set07C_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set07_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set07_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set07_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set07_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set08A_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set08B_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set08C_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set08D_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set08_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set08_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set09_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set09_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set09_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set10_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set10_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set10_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set10_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set11B_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set11B_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set11B_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set11_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set11_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set11_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set11_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set12B_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set12_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set12_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set12_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_set13_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTC_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTC_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTD_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTD_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTD_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTE_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTE_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTE_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTI_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTI_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTI_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTLB_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTL_3d/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTL_cars/model.cfg
+./SimObjects/Misc/FSDT_PHNL/model.PHNL_setTL_ME/model.cfg
+./SimObjects/Misc/FSDT_PHNL/sim.cfg
+./SimObjects/Misc/FSDT_PHNL/texture/texture.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set01_3D/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_set01_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set01_Cars/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set01_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set02_3D/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_set02_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set02_Cars/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set02_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set03_3D/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_set03_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set03_ME/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set04_3D/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_set04_3dsign/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set04_ME/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set05_3D/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set05_Cars/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set05_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set06_3D/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set07B_3D/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set07_3D/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set07_Cars/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set07_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_Set08_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_TEA/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_TEB/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_TEC/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_TE_ME/model.cfg
+./SimObjects/Misc/FSDT_PHOG/model.PHOG_TE_Trees/model.cfg
+./SimObjects/Misc/FSDT_PHOG/sim.cfg
+./SimObjects/Misc/FSDT_PHOG/texture/texture.cfg
+./SimObjects/Misc/FSDT_PHOG/texture.new/texture.cfg
 ./SimObjects/Misc/FSDT_Pointer/model/model.cfg
 ./SimObjects/Misc/FSDT_Pointer/model.active/model.cfg
 ./SimObjects/Misc/FSDT_Pointer/model.door/model.cfg
@@ -9627,6 +9891,11 @@
 ./SimObjects/Misc/FSDT_Van_Passengers/model.01/model.cfg
 ./SimObjects/Misc/FSDT_Van_Passengers/sim.cfg
 ./SimObjects/Misc/FSDT_Van_Passengers/texture/texture.cfg
+./SimObjects/Misc/FSDT_Windsock/model.FSDT_Windsock/model.cfg
+./SimObjects/Misc/FSDT_Windsock/model.FSDT_Windsock_1/model.cfg
+./SimObjects/Misc/FSDT_Windsock/model.FSDT_Windsock_2/model.cfg
+./SimObjects/Misc/FSDT_Windsock/model.FSDT_Windsock_3/model.cfg
+./SimObjects/Misc/FSDT_Windsock/sim.cfg
 ./SimObjects/Misc/FSDT_Wingwalker/model.01/model.cfg
 ./SimObjects/Misc/FSDT_Wingwalker/sim.cfg
 ./SimObjects/Misc/FSDT_Wingwalker/texture.01/texture.cfg

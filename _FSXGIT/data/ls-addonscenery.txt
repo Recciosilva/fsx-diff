@@ -94,6 +94,11 @@
 ./Addon Scenery/Asia/Korea/Ulsan
 ./Addon Scenery/Asia/Korea/Ulsan/scenery
 ./Addon Scenery/Asia/Korea/Ulsan/texture
+./Addon Scenery/Asia/Malaysia
+./Addon Scenery/Asia/Malaysia/Kuching_WBGG
+./Addon Scenery/Asia/Malaysia/Kuching_WBGG/docs
+./Addon Scenery/Asia/Malaysia/Kuching_WBGG/scenery
+./Addon Scenery/Asia/Malaysia/Kuching_WBGG/texture
 ./Addon Scenery/Asia/Maldives_VRMM
 ./Addon Scenery/Asia/Maldives_VRMM/Scenery
 ./Addon Scenery/Asia/Maldives_VRMM/Texture
@@ -190,6 +195,8 @@
 ./Addon Scenery/Billund Airport X/Scenery
 ./Addon Scenery/Billund Airport X/Texture
 ./Addon Scenery/Canada
+./Addon Scenery/Canada/Calgary_CYYC
+./Addon Scenery/Canada/Calgary_CYYC/scenery
 ./Addon Scenery/Canada/CYYJ (2011)
 ./Addon Scenery/Canada/CYYJ (2011)/AI
 ./Addon Scenery/Canada/CYYJ (2011)/AI/Traffic Files
@@ -515,6 +522,11 @@
 ./Addon Scenery/Israel/_DEL/LLBG 2
 ./Addon Scenery/Israel/_DEL/LLBG 2/scenery
 ./Addon Scenery/Israel/_DEL/LLBG 2/texture
+./Addon Scenery/Jeju International
+./Addon Scenery/Jeju International/Docs
+./Addon Scenery/Jeju International/Docs/Charts
+./Addon Scenery/Jeju International/Scenery
+./Addon Scenery/Jeju International/Texture
 ./Addon Scenery/LatinVFR
 ./Addon Scenery/LatinVFR/Cozumel_MMCZ
 ./Addon Scenery/LatinVFR/Cozumel_MMCZ/Docs
@@ -771,6 +783,9 @@
 ./Addon Scenery/NZ/RealNZrotorua
 ./Addon Scenery/NZ/RealNZrotorua/scenery
 ./Addon Scenery/NZ/RealNZrotorua/texture
+./Addon Scenery/NZ/RealNZSupercity
+./Addon Scenery/NZ/RealNZSupercity/scenery
+./Addon Scenery/NZ/RealNZSupercity/texture
 ./Addon Scenery/NZ/RealNZtauranga
 ./Addon Scenery/NZ/RealNZtauranga/scenery
 ./Addon Scenery/NZ/RealNZtauranga/scenery/backup
@@ -1186,9 +1201,6 @@
 ./Addon Scenery/USA/OZx_World/Grand_Canyon_KGCN/scenery
 ./Addon Scenery/USA/OZx_World/Grand_Canyon_KGCN/texture
 ./Addon Scenery/USA/OZx_World/Grand_Canyon_KGCN/User Documents
-./Addon Scenery/USA/PHNL2006_LR
-./Addon Scenery/USA/PHNL2006_LR/Scenery
-./Addon Scenery/USA/PHNL2006_LR/Texture
 ./Addon Scenery/USA/PHNY - Lanai Autogen
 ./Addon Scenery/USA/PHNY - Lanai Autogen/scenery
 ./Addon Scenery/USA/PHNY - Lanai Autogen/texture
@@ -1206,6 +1218,9 @@
 ./Addon Scenery/USA/_DELETED/KMSY_Daytime
 ./Addon Scenery/USA/_DELETED/KMSY_Daytime/scenery
 ./Addon Scenery/USA/_DELETED/KMSY_Daytime/texture
+./Addon Scenery/USA/_DELETED/PHNL2006_LR
+./Addon Scenery/USA/_DELETED/PHNL2006_LR/Scenery
+./Addon Scenery/USA/_DELETED/PHNL2006_LR/Texture
 ./Addon Scenery/USA/_DELETED/WTS_KOAK
 ./Addon Scenery/USA/_DELETED/WTS_KOAK/scenery
 ./Addon Scenery/USA/_DELETED/WTS_KOAK/texture

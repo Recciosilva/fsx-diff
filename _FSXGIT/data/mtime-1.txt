@@ -1,21 +1,17 @@
 ./
+./Addon Scenery/Asia
+./Addon Scenery/Asia/Malaysia
+./Addon Scenery/Asia/Malaysia/Kuching_WBGG
+./Addon Scenery/Asia/Malaysia/Kuching_WBGG/docs
+./Addon Scenery/Asia/Malaysia/Kuching_WBGG/scenery
+./Addon Scenery/Asia/Malaysia/Kuching_WBGG/texture
 ./Gauges/CLS_MD80_config.ini
-./ISG/FlightPlans/temp.rte
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
-./Scenery/World/Scenery
-./SimObjects/Airplanes/CLS_BAe146_200
-./SimObjects/Airplanes/CLS_BAe146_200/Aircraft.cfg
-./SimObjects/Airplanes/CLS_BAe146_200/Texture.Ansett
-./SimObjects/Airplanes/CLS_BAe146_200/texture.Vincent Aviation
-./SimObjects/Airplanes/CLS_BAe146_200/texture.Vincent Aviation/aircraft.inf
-./SimObjects/Airplanes/CLS_BAe146_200/Texture.ZK-NEZ
-./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/aircraft.cfg
-./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

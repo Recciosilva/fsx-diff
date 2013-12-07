@@ -141,6 +141,8 @@
 ./jb777memfilemap.txt
 ./Just Flight
 ./JustFlight
+./kdcaxnewfsxunin.dat
+./kdcaxnewfsxunin.xml
 ./Kiosk.exe
 ./kiosk.rtf
 ./KioskSettings.cfg
@@ -311,6 +313,14 @@
 ./unins007.exe
 ./unins008.dat
 ./unins008.exe
+./unins009.dat
+./unins009.exe
+./unins010.dat
+./unins010.exe
+./unins011.dat
+./unins011.exe
+./unins012.dat
+./unins012.exe
 ./uninst.exe
 ./Uninstal McPhat_LDS_WA2.exe
 ./Uninstal McPhat_LDS_WA3.exe

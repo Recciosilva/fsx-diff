@@ -698,6 +698,12 @@
 ./Effects/fx_FSDT_KFLL_SMOKE.fx
 ./Effects/fx_FSDT_KJFKLGT.fx
 ./Effects/fx_FSDT_KJFKLGT_WHT.fx
+./Effects/fx_FSDT_PHKOLGT.fx
+./Effects/fx_FSDT_PHKORED.fx
+./Effects/fx_FSDT_PHNLLGT.fx
+./Effects/fx_FSDT_PHNLRED.fx
+./Effects/fx_FSDT_PHOGLGT.fx
+./Effects/fx_FSDT_PHOGRED.fx
 ./Effects/fx_FSXBA_AB.fx
 ./Effects/fx_FTX_NZSI_Lighthouse_white_6s_solid.fx
 ./Effects/fx_FTX_NZSI_Lighthouse_white_x1.fx
@@ -1476,6 +1482,8 @@
 ./Effects/g_rwedge.fx
 ./Effects/g_txlights.fx
 ./Effects/g_warnlight.fx
+./Effects/helifx_lightObsblueFlash60Med.fx
+./Effects/helifx_lightObsorangeFlash60Hi.fx
 ./Effects/hosplandinglightObsorangeFlash60Hi.fx
 ./Effects/hosplandinglightsblueFlash60Med.fx
 ./Effects/Ilyushin_smoke.fx

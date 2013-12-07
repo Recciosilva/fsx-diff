@@ -1,219 +1,225 @@
 <?xml version="1.0" encoding="windows-1252"?>
 <SimBase.Document Type="Launch" version="1,0">
-	<Descr>Launch</Descr>
-	<Filename>dll.xml</Filename>
-	<Disabled>False</Disabled>
-	<Launch.ManualLoad>False</Launch.ManualLoad>
-	<Launch.Addon>
-		<Name>Addon Manager</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>bglmanx.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>ObjectFlow_NZNI.dll</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>G:\FSX\ORBX\FTX_NZ\FTX_NZNI_05_SCENERY\scenery\ObjectFlow_NZNI.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>ObjectFlow_YBCS.dll</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>G:\FSX\ORBX\FTX_AU\FTXAA_YBCS\scenery\ObjectFlow_YBCS.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>ObjectFlow_YMML.dll</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>G:\FSX\ORBX\FTX_AU\FTXAA_YMML\Scenery\ObjectFlow_YMML.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Object Placement Tool</Name>
-		<Disabled>True</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>..\Microsoft Flight Simulator X SDK\SDK\Mission Creation Kit\object_placement.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Traffic Toolbox</Name>
-		<Disabled>True</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>..\Microsoft Flight Simulator X SDK\SDK\Environment Kit\Traffic Toolbox SDK\traffictoolbox.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Visual Effects Tool</Name>
-		<Disabled>True</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>..\Microsoft Flight Simulator X SDK\SDK\Environment Kit\Special Effects SDK\visualfxtool.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>FeelThere ERJX Helper</Name>
-		<Disabled>False</Disabled>
-		<Path>FeelThere\Erj\E145XH.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>FeelThere PIC737X Helper</Name>
-		<Disabled>False</Disabled>
-		<Path>FeelThere\B737\PIC737XH.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Level-D Simulations</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>Modules\LVLD.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>VistaMare Core</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>VistaMare\ViMaCoreX.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Captain Sim 727 Menu</Name>
-		<Disabled>False</Disabled>
-		<Path>Captain_Sim\727\Captain_Sim.p727.menu.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>AirbusNewHUD</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>Addon Modules\AirbusNewHUD.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>FeelThere CitationX Helper</Name>
-		<Disabled>False</Disabled>
-		<Path>FeelThere\CitationX\CitationXH.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Just Flight TCAS Module</Name>
-		<Disabled>False</Disabled>
-		<Path>TCAS2v7.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>FeelThere PIC737X v2 Helper</Name>
-		<Disabled>False</Disabled>
-		<Path>FeelThere\B737 v2\PIC737XH.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>PMDG HUD interface</Name>
-		<Disabled>False</Disabled>
-		<Path>PMDG\DLLs\PMDG_HUD_interface.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Captain Sim 737 Sound</Name>
-		<Disabled>False</Disabled>
-		<Path>Captain_Sim\737\cs.sound.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>jb777 fmc</Name>
-		<Disabled>False</Disabled>
-		<Path>Modules\jb777_fmc.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>jb777 Panel Loader</Name>
-		<Disabled>False</Disabled>
-		<Path>Modules\jb777loader.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Captain Sim 777 Sound</Name>
-		<Disabled>False</Disabled>
-		<Path>Captain_Sim\777\cs.sound.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>IRIS F15E Weapons Manager</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>IRIS Platinum Series\F-15E Mudhen Driver\IRIS_F15E.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>C201 Aircraft Load Manager</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>Addon Modules\C201_ALM.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Captain Sim 520 Menu</Name>
-		<Disabled>False</Disabled>
-		<Path>Captain_Sim\520\cs.sound.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>FDav</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>Gauges\FDav.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Bkav</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>Gauges\Bkav.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>HJJ_HUD</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>Addon Modules\HJJ_HUD.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>FSUIPC 4</Name>
-		<Disabled>False</Disabled>
-		<Path>Modules\FSUIPC4.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>FSCopilot</Name>
-		<Disabled>False</Disabled>
-		<Path>Modules\FSCopilot.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>FeelThere E170 Helper</Name>
-		<Disabled>False</Disabled>
-		<Path>FeelThere\E170\EJetH.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>MD-81/82 module activation</Name>
-		<Disabled>False</Disabled>
-		<Path>MD80.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>Flight Recorder</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>Aerosoft\Flight Recorder\AS-FlightRecorder.dll</Path>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>RAASPRO</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>.\RAASPRO\RAASPRO.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon>
-		<Name>RAZBAM Metroliner System Control</Name>
-		<Disabled>False</Disabled>
-		<ManualLoad>False</ManualLoad>
-		<Path>Addon Modules\MM3SM.dll</Path>
-		<DllStartName>module_init</DllStartName>
-		<DllStopName>module_deinit</DllStopName>
-	</Launch.Addon>
-	<Launch.Addon><Name>FS Recorder</Name><Disabled>False</Disabled><ManualLoad>False</ManualLoad><Path>G:\Tools\FS Recorder v2.1\FSRecorder_FSX.dll</Path></Launch.Addon></SimBase.Document>
+  <Descr>Launch</Descr>
+  <Filename>dll.xml</Filename>
+  <Disabled>False</Disabled>
+  <Launch.ManualLoad>False</Launch.ManualLoad>
+  <Launch.Addon>
+    <Name>Addon Manager</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>bglmanx.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>ObjectFlow_NZNI.dll</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>G:\FSX\ORBX\FTX_NZ\FTX_NZNI_05_SCENERY\scenery\ObjectFlow_NZNI.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>ObjectFlow_YBCS.dll</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>G:\FSX\ORBX\FTX_AU\FTXAA_YBCS\scenery\ObjectFlow_YBCS.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>ObjectFlow_YMML.dll</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>G:\FSX\ORBX\FTX_AU\FTXAA_YMML\Scenery\ObjectFlow_YMML.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Object Placement Tool</Name>
+    <Disabled>True</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>..\Microsoft Flight Simulator X SDK\SDK\Mission Creation Kit\object_placement.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Traffic Toolbox</Name>
+    <Disabled>True</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>..\Microsoft Flight Simulator X SDK\SDK\Environment Kit\Traffic Toolbox SDK\traffictoolbox.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Visual Effects Tool</Name>
+    <Disabled>True</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>..\Microsoft Flight Simulator X SDK\SDK\Environment Kit\Special Effects SDK\visualfxtool.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FeelThere ERJX Helper</Name>
+    <Disabled>False</Disabled>
+    <Path>FeelThere\Erj\E145XH.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FeelThere PIC737X Helper</Name>
+    <Disabled>False</Disabled>
+    <Path>FeelThere\B737\PIC737XH.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Level-D Simulations</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Modules\LVLD.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>VistaMare Core</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>VistaMare\ViMaCoreX.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Captain Sim 727 Menu</Name>
+    <Disabled>False</Disabled>
+    <Path>Captain_Sim\727\Captain_Sim.p727.menu.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>AirbusNewHUD</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Addon Modules\AirbusNewHUD.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FeelThere CitationX Helper</Name>
+    <Disabled>False</Disabled>
+    <Path>FeelThere\CitationX\CitationXH.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Just Flight TCAS Module</Name>
+    <Disabled>False</Disabled>
+    <Path>TCAS2v7.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FeelThere PIC737X v2 Helper</Name>
+    <Disabled>False</Disabled>
+    <Path>FeelThere\B737 v2\PIC737XH.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>PMDG HUD interface</Name>
+    <Disabled>False</Disabled>
+    <Path>PMDG\DLLs\PMDG_HUD_interface.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Captain Sim 737 Sound</Name>
+    <Disabled>False</Disabled>
+    <Path>Captain_Sim\737\cs.sound.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>jb777 fmc</Name>
+    <Disabled>False</Disabled>
+    <Path>Modules\jb777_fmc.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>jb777 Panel Loader</Name>
+    <Disabled>False</Disabled>
+    <Path>Modules\jb777loader.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Captain Sim 777 Sound</Name>
+    <Disabled>False</Disabled>
+    <Path>Captain_Sim\777\cs.sound.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>IRIS F15E Weapons Manager</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>IRIS Platinum Series\F-15E Mudhen Driver\IRIS_F15E.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>C201 Aircraft Load Manager</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Addon Modules\C201_ALM.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Captain Sim 520 Menu</Name>
+    <Disabled>False</Disabled>
+    <Path>Captain_Sim\520\cs.sound.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FDav</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Gauges\FDav.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Bkav</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Gauges\Bkav.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>HJJ_HUD</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Addon Modules\HJJ_HUD.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FSUIPC 4</Name>
+    <Disabled>False</Disabled>
+    <Path>Modules\FSUIPC4.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FSCopilot</Name>
+    <Disabled>False</Disabled>
+    <Path>Modules\FSCopilot.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FeelThere E170 Helper</Name>
+    <Disabled>False</Disabled>
+    <Path>FeelThere\E170\EJetH.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>MD-81/82 module activation</Name>
+    <Disabled>False</Disabled>
+    <Path>MD80.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>Flight Recorder</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Aerosoft\Flight Recorder\AS-FlightRecorder.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>RAASPRO</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>.\RAASPRO\RAASPRO.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>RAZBAM Metroliner System Control</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Addon Modules\MM3SM.dll</Path>
+    <DllStartName>module_init</DllStartName>
+    <DllStopName>module_deinit</DllStopName>
+  </Launch.Addon>
+  <Launch.Addon>
+    <Name>FS Recorder</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>G:\Tools\FS Recorder v2.1\FSRecorder_FSX.dll</Path>
+  </Launch.Addon>
+</SimBase.Document>
