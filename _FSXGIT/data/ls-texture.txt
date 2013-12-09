@@ -702,10 +702,16 @@
 ./Texture/f18_r_wing.bmp
 ./Texture/f18_tails.bmp
 ./Texture/faces.r8
+./Texture/FAIB_737_200_AlwaysOn_L.dds
 ./Texture/FAIB_737_300_AlwaysOn_L.bmp
 ./Texture/FAIB_737_300_AlwaysOn_L.dds
+./Texture/FAIB_737_400_AlwaysOn_L.dds
+./Texture/FAIB_737_700_AlwaysOn_L.dds
+./Texture/FAIB_737_700_L.dds
 ./Texture/FAIB_737_800_AlwaysOn_L.dds
 ./Texture/FAIB_737_800_L.dds
+./Texture/FAIB_737_900_AlwaysOn_L.dds
+./Texture/FAIB_737_900_L.dds
 ./Texture/FAIB_A319_CFM_AlwaysOn_L.dds
 ./Texture/FAIB_A319_CFM_L.dds
 ./Texture/FAIB_A319_IAE_AlwaysOn_L.dds
@@ -1835,6 +1841,7 @@
 ./Texture/urbburb.r8
 ./Texture/us_pilot_1.bmp
 ./Texture/us_pilot_2.bmp
+./Texture/UTT_B787_L.dds
 ./Texture/VCRainMoving0000.bmp
 ./Texture/VCRainMoving0001.bmp
 ./Texture/VCRainMoving0002.bmp

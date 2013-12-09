@@ -966,6 +966,14 @@
 ./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/docs/Satellite_pics
 ./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/Scenery
 ./Addon Scenery/SouthAmerica/Chile/Easter Island SCIP/Texture
+./Addon Scenery/SouthAmerica/Columbia
+./Addon Scenery/SouthAmerica/Columbia/Bogota_El_Dorado_SKBO
+./Addon Scenery/SouthAmerica/Columbia/Bogota_El_Dorado_SKBO/scenery
+./Addon Scenery/SouthAmerica/Columbia/Bogota_El_Dorado_SKBO/texture
+./Addon Scenery/SouthAmerica/Columbia/Columbia_PhotoReal
+./Addon Scenery/SouthAmerica/Columbia/Columbia_PhotoReal/scenery
+./Addon Scenery/SouthAmerica/Columbia/Medellin_SKMD
+./Addon Scenery/SouthAmerica/Columbia/Medellin_SKMD/scenery
 ./Addon Scenery/SouthAmerica/Mexico
 ./Addon Scenery/SouthAmerica/Mexico/Cancun-MMUN
 ./Addon Scenery/SouthAmerica/Mexico/Cancun-MMUN/scenery

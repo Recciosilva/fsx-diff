@@ -1,17 +1,147 @@
 ./
-./Addon Scenery/Asia
-./Addon Scenery/Asia/Malaysia
-./Addon Scenery/Asia/Malaysia/Kuching_WBGG
-./Addon Scenery/Asia/Malaysia/Kuching_WBGG/docs
-./Addon Scenery/Asia/Malaysia/Kuching_WBGG/scenery
-./Addon Scenery/Asia/Malaysia/Kuching_WBGG/texture
-./Gauges/CLS_MD80_config.ini
+./Addon Scenery/scenery/NORTH_SOUTH_AMERICA
+./Addon Scenery/scenery/_removed
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
+./modules/WideServer0.log
+./ORBX/Scripts/Backup
+./ORBX/Scripts/Backup/restore.bat
+./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
+./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
+./PMDG/Livery Manager
+./PMDG/Livery Manager/new
+./PMDG/Livery Manager/new/done
+./Scenery/0303
+./Scenery/0303/scenery
+./Scenery/0303/scenery/_REMOVED
+./Scenery/World/Scenery
+./Scenery/World/Scenery/ASIA
+./Scenery/World/Scenery/ASIA/Traffic_000_WoA_Jin Air_Su13_FSX.bgl
+./Scenery/World/Scenery/New folder
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_JHM_ADA Columbia FA2011_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_JHM_EasyFly FA2011_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_Allegiant Air_Wi13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_American Airlines_Su13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_American Eagle_Su13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_Avianca_Su08_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_Delta Air Lines_Su13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_Jetblue Airways_Su13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_Jin Air_Su13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_United Airlines_Su13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_000_WoA_US Airways_Su13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_Aerosucre_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_AIG_CopaColombia_Wi12-13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_AIG_LAN-Colombia_Wi12-13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_AIG_LANCO_Wi12-13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_AIG_VivaColombia_Su13_FSX.bgl
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA/Traffic_utt_SATENA_Win2012-13_FSX.bgl
+./Scenery/World/Scenery/PACIFIC
+./Scenery/World/Scenery/PACIFIC/Traffic_000_WoA_Jin Air_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_JHM_ADA Columbia FA2011_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_JHM_EasyFly FA2011_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_Allegiant Air_Wi13_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_American Airlines_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_American Eagle_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_Avianca_Su08_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_Delta Air Lines_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_Jetblue Airways_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_Jin Air_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_United Airlines_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_000_WoA_US Airways_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_Aerosucre_FSX.bgl
+./Scenery/World/Scenery/Traffic_AIG_CopaColombia_Wi12-13_FSX.bgl
+./Scenery/World/Scenery/Traffic_AIG_LAN-Colombia_Wi12-13_FSX.bgl
+./Scenery/World/Scenery/Traffic_AIG_LANCO_Wi12-13_FSX.bgl
+./Scenery/World/Scenery/Traffic_AIG_VivaColombia_Su13_FSX.bgl
+./Scenery/World/Scenery/Traffic_utt_SATENA_Win2012-13_FSX.bgl
+./SimObjects
+./SimObjects/Airplanes/CS_B737-200F
+./SimObjects/Airplanes/CS_B737-200F/aircraft.cfg
+./SimObjects/Airplanes/CS_B737-200F/texture.aerosucre
+./SimObjects/Airplanes/PMDG 737-700NGX WL
+./SimObjects/Airplanes/PMDG 737-700NGX WL/aircraft.cfg
+./SimObjects/Airplanes/PMDG 737-700NGX WL/Texture.LAN_HK4694
+./SimObjects/Misc
+./SimObjects/Misc/AIA_727_200
+./SimObjects/Misc/AIA_727_200/Aircraft.cfg
+./SimObjects/Misc/AIA_727_200/texture.HK-4465
+./SimObjects/Misc/AIA_737_700_winglet
+./SimObjects/Misc/AIA_737_700_winglet/Aircraft.cfg
+./SimObjects/Misc/AIA_737_700_winglet/texture.LAN Colombia
+./SimObjects/Misc/AIA_737_700_winglet/texture.LAN Colombia/32bit
+./SimObjects/Misc/AIA_737_700_winglet/texture.LAN Colombia/mipped
+./SimObjects/Misc/AIA_EMB190
+./SimObjects/Misc/AIA_EMB190/Aircraft.cfg
+./SimObjects/Misc/AIA_EMB190/texture.COPA
+./SimObjects/Misc/AIA_EMB190/texture.COPA/32bit
+./SimObjects/Misc/AIA_EMB190/texture.COPA/mipped
+./SimObjects/Misc/DJC_AI_js41
+./SimObjects/Misc/DJC_AI_js41/Aircraft.cfg
+./SimObjects/Misc/DJC_AI_js41/texture.HK-4551
+./SimObjects/Misc/FAIB_B737-200_L
+./SimObjects/Misc/FAIB_B737-200_L/aircraft.cfg
+./SimObjects/Misc/FAIB_B737-200_L/model.gravellogolight
+./SimObjects/Misc/FAIB_B737-200_L/model.logolight
+./SimObjects/Misc/FAIB_B737-200_L/soundai
+./SimObjects/Misc/FAIB_B737-200_L/texture.HK-4253
+./SimObjects/Misc/FAIB_B737-200_N
+./SimObjects/Misc/FAIB_B737-200_N/model.gravelnormal
+./SimObjects/Misc/FAIB_B737-200_N/model.normal
+./SimObjects/Misc/FAIB_B737-200_N/soundai
+./SimObjects/Misc/FAIB_B737-200_N/Texture.House
+./SimObjects/Misc/FAIB_B737-700
+./SimObjects/Misc/FAIB_B737-700/model
+./SimObjects/Misc/FAIB_B737-700/model.SN
+./SimObjects/Misc/FAIB_B737-700/soundai
+./SimObjects/Misc/FAIB_B737-700/texture.Boeing
+./SimObjects/Misc/FAIB_B737-700_W
+./SimObjects/Misc/FAIB_B737-700_W/aircraft.cfg
+./SimObjects/Misc/FAIB_B737-700_W/model.winglets
+./SimObjects/Misc/FAIB_B737-700_W/model.winglets_SN
+./SimObjects/Misc/FAIB_B737-700_W/soundai
+./SimObjects/Misc/FTX Boeing B747-300/aircraft.cfg
+./SimObjects/Misc/L410AI
+./SimObjects/Misc/L410AI/Aircraft.cfg
+./SimObjects/Misc/L410AI/model
+./SimObjects/Misc/L410AI/sound
+./SimObjects/Misc/L410AI/texture.FAC-1103
+./SimObjects/Misc/TFS_Dash 8 100-200
+./SimObjects/Misc/TFS_Dash 8 100-200/Aircraft.cfg
+./SimObjects/Misc/TFS_Dash 8 100-200/texture.LAN Colombia
+./SimObjects/Misc/TFS_Dash 8 100-200/texture.LAN Colombia/32bit
+./SimObjects/Misc/TFS_Dash 8 100-200/texture.LAN Colombia/mipped
+./SimObjects/Misc/VOZ2 PAI JS31
+./SimObjects/Misc/VOZ2 PAI JS31/Aircraft.cfg
+./SimObjects/Misc/VOZ2 PAI JS31/texture.ADA
+./SimObjects/Misc/WoA_AIA_B763_GE
+./SimObjects/Misc/WoA_AIA_B763_GE/aircraft.cfg
+./SimObjects/Misc/WoA_AIA_B763_GE/texture.Lanco
+./SimObjects/Misc/WoA_AIG_CRJ-700/Aircraft.cfg
+./SimObjects/Misc/WoA_DJC_A320-200_IAE
+./SimObjects/Misc/WoA_DJC_A320-200_IAE/Aircraft.cfg
+./SimObjects/Misc/WoA_DJC_A320-200_IAE/texture.LAN Colombia
+./SimObjects/Misc/WoA_DJC_A320-200_IAE/texture.LAN Colombia/32bit
+./SimObjects/Misc/WoA_DJC_A320-200_IAE/texture.LAN Colombia/mipped
+./SimObjects/Misc/WoA_DJC_A320-200_IAE/texture.VivaColombia
+./SimObjects/Misc/WoA_HTAI_DHC6
+./SimObjects/Misc/WoA_HTAI_DHC6/aircraft.cfg
+./SimObjects/Misc/WoA_HTAI_DHC6/texture.ADA
+./SimObjects/Misc/WoA_OSP_ATR42_300
+./SimObjects/Misc/WoA_OSP_ATR42_500
+./SimObjects/Misc/WoA_OSP_ATR42_500/aircraft.cfg
+./SimObjects/Misc/WoA_OSP_ATR42_500/Model.500
+./SimObjects/Misc/WoA_OSP_ATR42_500/Texture.HK-4747
+./SimObjects/Misc/WoA_OSP_ATR42_500/Texture.HK-4748
+./SimObjects/Misc/WoA_TFS_B777-200LR
+./SimObjects/Misc/WoA_TFS_B777-200LR/aircraft.cfg
+./SimObjects/Misc/WoA_TFS_B777-200LR/Texture.LAE_Cargo
+./terrain.cfg
+./Texture
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt
