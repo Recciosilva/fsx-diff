@@ -42,6 +42,8 @@
 ./SimObjects/Misc/CAF-AI_CP-150 Polaris/aircraft.cfg
 ./SimObjects/Misc/FAIB_B737-200_L/aircraft.cfg
 ./SimObjects/Misc/FAIB_B737-200_N/aircraft.cfg
+./SimObjects/Misc/FAIB_B737-600/aircraft.cfg
+./SimObjects/Misc/FAIB_B737-600_W/aircraft.cfg
 ./SimObjects/Misc/FAIB_B737-700/aircraft.cfg
 ./SimObjects/Misc/FAIB_B737-700_W/aircraft.cfg
 ./SimObjects/Misc/fsp_dc10/aircraft.cfg

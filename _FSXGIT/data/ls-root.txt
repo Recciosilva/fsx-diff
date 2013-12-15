@@ -362,6 +362,7 @@
 ./Uninstall_PA36.exe
 ./Uninstall_PITTS.exe
 ./Uninstall_SU26.exe
+./uninstall_V35B.exe
 ./Uninstall_Waco.exe
 ./UninstalYCG.exe
 ./Uninstal_737PICEVODLX_FSX.exe

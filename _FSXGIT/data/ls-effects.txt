@@ -132,6 +132,7 @@
 ./Effects/Cntrl_Orbx_WW3.fx
 ./Effects/Cntrl_Orbx_WW4.fx
 ./Effects/Cntrl_SmokeStack.fx
+./Effects/Cntrl_whiteflashphp.fx
 ./Effects/Coffs_fx_Apron_lightY.fx
 ./Effects/crtl_ENGM_flash_red.fx
 ./Effects/crtl_ENGM_flash_white.fx
@@ -404,6 +405,7 @@
 ./Effects/fx_AOA_amber.fx
 ./Effects/fx_AOA_green.fx
 ./Effects/fx_AOA_red.fx
+./Effects/fx_apronlightphp.fx
 ./Effects/fx_aptsrrnd.fx
 ./Effects/fx_Aurora1.fx
 ./Effects/fx_Aurora2.fx
@@ -428,6 +430,7 @@
 ./Effects/fx_beaconpa28archer.fx
 ./Effects/fx_beaconpa34.fx
 ./Effects/fx_beaconsm_F1ATR.fx
+./Effects/fx_beaconvetres.fx
 ./Effects/fx_beaconwhi.fx
 ./Effects/fx_beaconwhi_cvn.fx
 ./Effects/fx_beacony pgum.fx
@@ -647,6 +650,7 @@
 ./Effects/fx_f35_navredm.fx
 ./Effects/fx_F35_vclight.fx
 ./Effects/fx_F4F_EngStart.fx
+./Effects/fx_FaroeIslands.fx
 ./Effects/fx_fastMover.fx
 ./Effects/fx_finch.fx
 ./Effects/fx_FireExhaust_JetTruck.fx
@@ -923,6 +927,7 @@
 ./Effects/Fx_KORD_Deice.fx
 ./Effects/fx_L-12_start.FX
 ./Effects/fx_lakewaves.fx
+./Effects/fx_lamplightphp.fx
 ./Effects/fx_landing.fx
 ./Effects/fx_landing_AS.fx
 ./Effects/fx_landing_DG1.fx
@@ -980,6 +985,7 @@
 ./Effects/fx_navgrecardose.fx
 ./Effects/fx_navgrecarenmoon.fx
 ./Effects/fx_navgrecarenpa34.fx
+./Effects/fx_navgrecarevetres.fx
 ./Effects/fx_navgreenpa28archer.fx
 ./Effects/fx_navgreh.fx
 ./Effects/fx_navgrem.fx
@@ -998,6 +1004,7 @@
 ./Effects/fx_navredcardose.fx
 ./Effects/fx_navredcarenmoon.fx
 ./Effects/fx_navredcarenpa34.fx
+./Effects/fx_navredcarevetres.fx
 ./Effects/fx_navredh.fx
 ./Effects/fx_navredm.fx
 ./Effects/fx_navredpa28archer.fx
@@ -1013,6 +1020,7 @@
 ./Effects/fx_navwhicarenmoon.fx
 ./Effects/fx_navwhih.fx
 ./Effects/fx_navwhihTRG.fx
+./Effects/fx_navwhivetres.fx
 ./Effects/fx_navwhi_AS.fx
 ./Effects/fx_navwhi_DG.fx
 ./Effects/fx_navwhi_F1ATR.fx
@@ -1048,6 +1056,7 @@
 ./Effects/fx_object_test.fx
 ./Effects/fx_obslight.fx
 ./Effects/fx_obslight2.fx
+./Effects/fx_obslightredorange.fx
 ./Effects/fx_OilFireHuge.fx
 ./Effects/fx_OilFireMedium.fx
 ./Effects/fx_OilFireSmall.fx
@@ -1248,6 +1257,7 @@
 ./Effects/fx_strobecardose.fx
 ./Effects/fx_strobecarenmoon.fx
 ./Effects/fx_strobecarenpa34.fx
+./Effects/fx_strobecarevetres.fx
 ./Effects/fx_strobecarPA38.fx
 ./Effects/fx_strobeh.fx
 ./Effects/fx_strobepa36.fx
@@ -1265,6 +1275,7 @@
 ./Effects/fx_T332logo.fx
 ./Effects/fx_T332wing.fx
 ./Effects/fx_tadustrun.fx
+./Effects/fx_taxibluelight.fx
 ./Effects/fx_TaxiwayBlue.fx
 ./Effects/FX_taxi_FSD.fx
 ./Effects/fx_taxi_glx.fx
@@ -1339,6 +1350,7 @@
 ./Effects/fx_vclightpa34.fx
 ./Effects/fx_vclightpa342.fx
 ./Effects/fx_vclightsplash.fx
+./Effects/fx_vclightvetres.fx
 ./Effects/fx_vclightwhi.fx
 ./Effects/fx_vclightwhite.fx
 ./Effects/fx_vclight_deepred.fx
@@ -1425,6 +1437,7 @@
 ./Effects/fx_WheelSnowSpray.fx
 ./Effects/fx_WheelWetSpray.fx
 ./Effects/fx_WhiteDot.fx
+./Effects/fx_whiteflashphp.fx
 ./Effects/fx_wigwag LIGHT.fx
 ./Effects/fx_WingtipVortex.fx
 ./Effects/fx_wingtipvortice_l.fx
@@ -1443,6 +1456,7 @@
 ./Effects/fx_wtrspray_l.fx
 ./Effects/fx_wtrspray_m.fx
 ./Effects/fx_wtrspray_s.fx
+./Effects/fx_yellowlight.fx
 ./Effects/fx_YF23_5.fx
 ./Effects/fx_YPMQ_apron_light_yellow.fx
 ./Effects/fx_YPMQ_carpark_light_yellow.fx
@@ -2089,6 +2103,7 @@
 ./Effects/texture/cs133.bmp
 ./Effects/texture/cs134.bmp
 ./Effects/texture/cs_land_y3.bmp
+./Effects/texture/desktop.ini
 ./Effects/texture/DLight.bmp
 ./Effects/texture/DR2.bmp
 ./Effects/texture/ENGM_rwy.bmp
@@ -2140,6 +2155,7 @@
 ./Effects/texture/fx_AH_flame_alphad.bmp
 ./Effects/texture/fx_Alabeo.bmp
 ./Effects/texture/fx_alapt.bmp
+./Effects/texture/fx_alavetres.bmp
 ./Effects/texture/fx_aniburner1b.bmp
 ./Effects/texture/fx_aurora.bmp
 ./Effects/texture/fx_barnstorm.bmp
@@ -2254,6 +2270,7 @@
 ./Effects/texture/fx_track_727.bmp
 ./Effects/texture/fx_track_y3.bmp
 ./Effects/texture/fx_typhoon.bmp
+./Effects/texture/fx_vetres2.bmp
 ./Effects/texture/fx_VLC_1.bmp
 ./Effects/texture/fx_VLC_2.bmp
 ./Effects/texture/fx_VLC_3.bmp
@@ -2306,6 +2323,7 @@
 ./Effects/texture/OneNote Table Of Contents.onetoc2
 ./Effects/texture/p40_cannon.bmp
 ./Effects/texture/people.bmp
+./Effects/texture/phpbeam.bmp
 ./Effects/texture/projecteurb.bmp
 ./Effects/texture/QW_fx.bmp
 ./Effects/texture/Razbam_aniburner.bmp

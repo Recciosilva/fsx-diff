@@ -38,6 +38,10 @@
 ./Addon Scenery/Asia/Asia_Misc
 ./Addon Scenery/Asia/Asia_Misc/scenery
 ./Addon Scenery/Asia/Asia_Misc/scenery/_REMOVED
+./Addon Scenery/Asia/Brunei
+./Addon Scenery/Asia/Brunei/Brunei-International_WBSB
+./Addon Scenery/Asia/Brunei/Brunei-International_WBSB/Scenery
+./Addon Scenery/Asia/Brunei/Brunei-International_WBSB/Texture
 ./Addon Scenery/Asia/Denpasar Bali
 ./Addon Scenery/Asia/Denpasar Bali/scenery
 ./Addon Scenery/Asia/Denpasar Bali/scenery/_DEL
@@ -386,6 +390,9 @@
 ./Addon Scenery/Europe/Denmark/DenmarkSceneryGroup/_docs
 ./Addon Scenery/Europe/Eastern_Europe_Mesh
 ./Addon Scenery/Europe/Eastern_Europe_Mesh/scenery
+./Addon Scenery/Europe/FaroeIslands
+./Addon Scenery/Europe/FaroeIslands/Scenery
+./Addon Scenery/Europe/FaroeIslands/Texture
 ./Addon Scenery/Europe/Germany
 ./Addon Scenery/Europe/Germany/EDDB_BerlinSchoenefeld
 ./Addon Scenery/Europe/Germany/EDDB_BerlinSchoenefeld/scenery
@@ -600,6 +607,8 @@
 ./Addon Scenery/MiddleEast/Iran/OIMM Mashhad
 ./Addon Scenery/MiddleEast/Iran/OIMM Mashhad/scenery
 ./Addon Scenery/MiddleEast/Iraq
+./Addon Scenery/MiddleEast/Iraq/Baghdad_ORBI
+./Addon Scenery/MiddleEast/Iraq/Baghdad_ORBI/scenery
 ./Addon Scenery/MiddleEast/Iraq/ORER - Erbil
 ./Addon Scenery/MiddleEast/Iraq/ORER - Erbil/scenery
 ./Addon Scenery/MiddleEast/Israel
@@ -625,6 +634,10 @@
 ./Addon Scenery/MiddleEast/Jordan/VATJO-OJAQ-EXCLUSION/Scenery
 ./Addon Scenery/MiddleEast/Jordan/VATJO-OJMF
 ./Addon Scenery/MiddleEast/Jordan/VATJO-OJMF/Scenery
+./Addon Scenery/MiddleEast/Kuwait
+./Addon Scenery/MiddleEast/Kuwait/Kuwait_City_OKBK
+./Addon Scenery/MiddleEast/Kuwait/Kuwait_City_OKBK/scenery
+./Addon Scenery/MiddleEast/Kuwait/Kuwait_City_OKBK/Texture
 ./Addon Scenery/MiddleEast/Lebanon
 ./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0
 ./Addon Scenery/MiddleEast/Lebanon/Lebor OLBAX V1.0/Scenery
@@ -641,6 +654,15 @@
 ./Addon Scenery/MiddleEast/PAPHOS FSXv2
 ./Addon Scenery/MiddleEast/PAPHOS FSXv2/scenery
 ./Addon Scenery/MiddleEast/PAPHOS FSXv2/texture
+./Addon Scenery/MiddleEast/Qatar
+./Addon Scenery/MiddleEast/Qatar/Doha
+./Addon Scenery/MiddleEast/Qatar/Doha/scenery
+./Addon Scenery/MiddleEast/Qatar/Doha/scenery/_removed
+./Addon Scenery/MiddleEast/Qatar/Doha/texture
+./Addon Scenery/MiddleEast/Qatar/Doha_Landclass
+./Addon Scenery/MiddleEast/Qatar/Doha_Landclass/scenery
+./Addon Scenery/MiddleEast/Qatar/Doha_Landclass/scenery/old
+./Addon Scenery/MiddleEast/Qatar/Doha_Landclass/texture
 ./Addon Scenery/MiddleEast/Turkey
 ./Addon Scenery/MiddleEast/Turkey/LBTA-Coast
 ./Addon Scenery/MiddleEast/Turkey/LBTA-Coast/scenery
@@ -653,6 +675,13 @@
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/scenery
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/scenery/_BKUPS
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/texture
+./Addon Scenery/MiddleEast/UAE
+./Addon Scenery/MiddleEast/UAE/Abu_Dhabi
+./Addon Scenery/MiddleEast/UAE/Abu_Dhabi/scenery
+./Addon Scenery/MiddleEast/UAE/Abu_Dhabi/texture
+./Addon Scenery/MiddleEast/UAE/Dubai X
+./Addon Scenery/MiddleEast/UAE/Dubai X/scenery
+./Addon Scenery/MiddleEast/UAE/Dubai X/texture
 ./Addon Scenery/North Africa
 ./Addon Scenery/North Africa/Algeria
 ./Addon Scenery/North Africa/Algeria/scenery

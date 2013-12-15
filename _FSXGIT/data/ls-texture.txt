@@ -706,6 +706,9 @@
 ./Texture/FAIB_737_300_AlwaysOn_L.bmp
 ./Texture/FAIB_737_300_AlwaysOn_L.dds
 ./Texture/FAIB_737_400_AlwaysOn_L.dds
+./Texture/FAIB_737_500_AlwaysOn_L.dds
+./Texture/FAIB_737_600_AlwaysOn_L.dds
+./Texture/FAIB_737_600_L.dds
 ./Texture/FAIB_737_700_AlwaysOn_L.dds
 ./Texture/FAIB_737_700_L.dds
 ./Texture/FAIB_737_800_AlwaysOn_L.dds

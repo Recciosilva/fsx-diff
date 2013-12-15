@@ -30,6 +30,9 @@
 ./Gauges/bell_206b.gau
 ./Gauges/Bendix_King_Radio.gau
 ./Gauges/Boeing747-400.gau
+./Gauges/BVT52.gau
+./Gauges/BVT54.gau
+./Gauges/BVT56.gau
 ./Gauges/c130_itt4.gau
 ./Gauges/c130_oil4.gau
 ./Gauges/c130_rpm4.gau

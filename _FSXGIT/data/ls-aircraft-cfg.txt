@@ -67,6 +67,8 @@
 ./SimObjects/Airplanes/Canberra_B15/aircraft.cfg
 ./SimObjects/Airplanes/Canberra_B16/aircraft.cfg
 ./SimObjects/Airplanes/Canberra_B6/aircraft.cfg
+./SimObjects/Airplanes/Carenado BONANZA V35B/aircraft.cfg
+./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C185F/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C185F Amphibian/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C185F Float/aircraft.cfg
