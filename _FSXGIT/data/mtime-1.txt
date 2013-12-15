@@ -11,6 +11,9 @@
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
+./Scenery/World/Scenery
+./Scenery/World/Scenery/EUROPE_UK
+./Scenery/World/Scenery/switch.bat
 ./SimObjects/Airplanes
 ./SimObjects/Airplanes/Carenado BONANZA V35B
 ./SimObjects/Airplanes/Carenado BONANZA V35B/aircraft.cfg
@@ -68,4 +71,5 @@
 ./_FSXGIT/data/ls-sound.txt
 ./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
+./_FSXGIT/data/programdata
 ./_FSXGIT/data/programdata/Scenery.CFG
