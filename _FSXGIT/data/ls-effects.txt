@@ -1241,6 +1241,7 @@
 ./Effects/fx_spray_dss_sirocco2.fx
 ./Effects/fx_spray_lie.fx
 ./Effects/fx_spray_riva_v.fx
+./Effects/fx_ST-A_start.fx
 ./Effects/fx_steam1.fx
 ./Effects/fx_Steam_Catapult.fx
 ./Effects/fx_Steam_Lrg.fx

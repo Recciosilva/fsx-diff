@@ -4393,10 +4393,28 @@
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Aircraft.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Model/model.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Model.1/model.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Model.3/model.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Panel/panel.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Panel.1/panel.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/sound/Sound.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/sound.js31/Sound.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/Texture.1/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.10/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.11/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.12/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.13/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.14/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.15/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.16/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.17/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.2/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.3/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.4/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.5/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.6/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.7/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.8/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.9/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.A/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.B/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.Toll/texture.cfg
@@ -4474,6 +4492,20 @@
 ./SimObjects/Airplanes/Ryan PT-22/panel/panel.cfg
 ./SimObjects/Airplanes/Ryan PT-22/panel.1/panel.cfg
 ./SimObjects/Airplanes/Ryan PT-22/Sound/Sound.cfg
+./SimObjects/Airplanes/Ryan ST-A/Aircraft.cfg
+./SimObjects/Airplanes/Ryan ST-A/model/Model.cfg
+./SimObjects/Airplanes/Ryan ST-A/panel/panel.cfg
+./SimObjects/Airplanes/Ryan ST-A/panel.1/panel.cfg
+./SimObjects/Airplanes/Ryan ST-A/sound/Sound.cfg
+./SimObjects/Airplanes/Ryan ST-A Special/Aircraft.cfg
+./SimObjects/Airplanes/Ryan ST-A Special/model/Model.cfg
+./SimObjects/Airplanes/Ryan ST-A Special/panel/panel.cfg
+./SimObjects/Airplanes/Ryan ST-A Special/sound/Sound.cfg
+./SimObjects/Airplanes/Ryan ST-M/aircraft.cfg
+./SimObjects/Airplanes/Ryan ST-M/model/Model.cfg
+./SimObjects/Airplanes/Ryan ST-M/panel/panel.cfg
+./SimObjects/Airplanes/Ryan ST-M/panel.1/panel.cfg
+./SimObjects/Airplanes/Ryan ST-M/sound/Sound.cfg
 ./SimObjects/Airplanes/Saab340_PAD/aircraft.cfg
 ./SimObjects/Airplanes/Saab340_PAD/model/model.cfg
 ./SimObjects/Airplanes/Saab340_PAD/panel.s340x_up/panel.cfg

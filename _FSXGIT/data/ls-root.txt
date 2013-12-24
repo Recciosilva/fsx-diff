@@ -343,6 +343,7 @@
 ./UNINSTALL OLBAX V1.0.exe
 ./Uninstall PNG Bush Flying.exe
 ./Uninstall Ryan PT 22.exe
+./Uninstall STM_Alpha.$$A
 ./uninstall.exe
 ./UninstallFSDC337.exe
 ./UninstallFSDO2A.exe

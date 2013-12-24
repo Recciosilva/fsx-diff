@@ -1,75 +1,28 @@
 ./
-./Carenado
-./Carenado/BONANZA V35B
-./Effects
-./Effects/texture
-./Fonts
-./Gauges
-./jb777memfilemap.txt
-./Level-D Simulations/B767-300/B767-300.ini
+./Addon Scenery/Europe/Germany
+./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB
+./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB/texture
+./Addon Scenery/Europe/Germany/C7_EDAH_2013X
+./Addon Scenery/Europe/Germany/C7_EDAH_2013X/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_2013X/texture
+./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY
+./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY/texture
+./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG
+./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG/texture
+./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV
+./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV/texture
+./Addon Scenery/NZ
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
-./Scenery/World/Scenery
-./Scenery/World/Scenery/EUROPE_UK
-./Scenery/World/Scenery/switch.bat
-./SimObjects/Airplanes
-./SimObjects/Airplanes/Carenado BONANZA V35B
-./SimObjects/Airplanes/Carenado BONANZA V35B/aircraft.cfg
-./SimObjects/Airplanes/Carenado BONANZA V35B/model
-./SimObjects/Airplanes/Carenado BONANZA V35B/panel
-./SimObjects/Airplanes/Carenado BONANZA V35B/sound
-./SimObjects/Airplanes/Carenado BONANZA V35B/texture.BASE
-./SimObjects/Airplanes/Carenado BONANZA V35B/texture.BLUEGREY
-./SimObjects/Airplanes/Carenado BONANZA V35B/texture.GOLDBLUE
-./SimObjects/Airplanes/Carenado BONANZA V35B/texture.INTERIOR
-./SimObjects/Airplanes/Carenado BONANZA V35B/texture.WHITE
-./SimObjects/Airplanes/Carenado BONANZA V35B/texture.ZK-DDG
-./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS
-./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS/model
-./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS/panel
-./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS/sound
-./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS/texture.CHROME
-./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS/texture.INTERIORTIP
-./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS/texture.ORANGEBLACK
-./SimObjects/Airplanes/CLS_MD81
-./SimObjects/Airplanes/CLS_MD81/texture.psa
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/0389906.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/1176166.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/1371256.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/1816315.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/250px-PSA_Airlines_Logo.svg.png
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/5288780404_2b6b109d35_o.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/5938155139_29aa3ab18a_b.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/5983168431_c9ef787b94_b.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/MD-80-005.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/notes
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/PSA DC-9-32.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.psa/work/PSA_Airlines_Logo.svg
-./SimObjects/Airplanes/CLS_MD81/texture.southeast
-./SimObjects/Airplanes/CLS_MD81/texture.southeast/0832653.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.southeast/MyAviationNetPhotoID00823105.jpg
-./SimObjects/Airplanes/CLS_MD81/texture.southeast/National_Airlines_Logo.png
-./uninstall_V35B.exe
-./_FSXGIT/bkups
-./_FSXGIT/bkups/backup-2013-12-15.tar.gz
-./_FSXGIT/data/addon-modules.txt
+./modules/WideServer0.log
+./SimObjects/Airplanes/DeHavilland Vampire FB5/aircraft.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
-./_FSXGIT/data/ls-addonscenery.txt
-./_FSXGIT/data/ls-aircraft-cfg.txt
-./_FSXGIT/data/ls-config.txt
-./_FSXGIT/data/ls-effects.txt
-./_FSXGIT/data/ls-gauges.txt
-./_FSXGIT/data/ls-misc-cfg.txt
-./_FSXGIT/data/ls-modules.txt
-./_FSXGIT/data/ls-root.txt
-./_FSXGIT/data/ls-rotorcraft-cfg.txt
-./_FSXGIT/data/ls-sceneryworld.txt
-./_FSXGIT/data/ls-sound.txt
-./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
-./_FSXGIT/data/programdata
 ./_FSXGIT/data/programdata/Scenery.CFG

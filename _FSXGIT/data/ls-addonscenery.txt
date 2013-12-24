@@ -394,6 +394,21 @@
 ./Addon Scenery/Europe/FaroeIslands/Scenery
 ./Addon Scenery/Europe/FaroeIslands/Texture
 ./Addon Scenery/Europe/Germany
+./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB
+./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB/texture
+./Addon Scenery/Europe/Germany/C7_EDAH_2013X
+./Addon Scenery/Europe/Germany/C7_EDAH_2013X/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_2013X/texture
+./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY
+./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY/texture
+./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG
+./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG/texture
+./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV
+./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV/scenery
+./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV/texture
 ./Addon Scenery/Europe/Germany/EDDB_BerlinSchoenefeld
 ./Addon Scenery/Europe/Germany/EDDB_BerlinSchoenefeld/scenery
 ./Addon Scenery/Europe/Germany/EDDB_BerlinSchoenefeld/texture
@@ -663,6 +678,9 @@
 ./Addon Scenery/MiddleEast/Qatar/Doha_Landclass/scenery
 ./Addon Scenery/MiddleEast/Qatar/Doha_Landclass/scenery/old
 ./Addon Scenery/MiddleEast/Qatar/Doha_Landclass/texture
+./Addon Scenery/MiddleEast/Saudi Arabia
+./Addon Scenery/MiddleEast/Saudi Arabia/Jeddah_OEJN
+./Addon Scenery/MiddleEast/Saudi Arabia/Jeddah_OEJN/scenery
 ./Addon Scenery/MiddleEast/Turkey
 ./Addon Scenery/MiddleEast/Turkey/LBTA-Coast
 ./Addon Scenery/MiddleEast/Turkey/LBTA-Coast/scenery
@@ -1162,6 +1180,8 @@
 ./Addon Scenery/USA/KDFW_DallasFortWorth
 ./Addon Scenery/USA/KDFW_DallasFortWorth/scenery
 ./Addon Scenery/USA/KDFW_DallasFortWorth/texture
+./Addon Scenery/USA/KEWR_Newark
+./Addon Scenery/USA/KEWR_Newark/scenery
 ./Addon Scenery/USA/KGSO_PiedmontTriad
 ./Addon Scenery/USA/KGSO_PiedmontTriad/scenery
 ./Addon Scenery/USA/KGSO_PiedmontTriad/texture

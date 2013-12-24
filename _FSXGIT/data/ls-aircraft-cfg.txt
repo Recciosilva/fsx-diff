@@ -262,6 +262,7 @@
 ./SimObjects/Airplanes/RNZAF Strikemaster/aircraft.cfg
 ./SimObjects/Airplanes/Robin_3x_EW/aircraft.cfg
 ./SimObjects/Airplanes/Rutan_Boomerang/aircraft.cfg
+./SimObjects/Airplanes/Ryan ST-M/aircraft.cfg
 ./SimObjects/Airplanes/Saab340_PAD/aircraft.cfg
 ./SimObjects/Airplanes/SE5/aircraft.cfg
 ./SimObjects/Airplanes/SimCheck A300B4-200/aircraft.cfg
