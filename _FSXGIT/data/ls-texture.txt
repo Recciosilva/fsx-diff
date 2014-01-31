@@ -12,6 +12,7 @@
 ./Texture/64_lm.bmp
 ./Texture/737-400_scenery_t1.bmp
 ./Texture/AIG_FanShadow.bmp
+./Texture/aihs125700.bmp
 ./Texture/AirportHangars_Large.dds
 ./Texture/AirportHangars_Large_bump.dds
 ./Texture/AirportHangars_Large_lm.dds
@@ -87,6 +88,10 @@
 ./Texture/air_w9_specular.dds
 ./Texture/AI_747_800_fan.dds
 ./Texture/AI_747_800_L.dds
+./Texture/ai_archer.bmp
+./Texture/ai_archer_l.bmp
+./Texture/ai_arrowIII.bmp
+./Texture/ai_arrowIV_T.bmp
 ./Texture/ai_rats_A50_l.bmp
 ./Texture/ai_rats_Il-76MF_l.bmp
 ./Texture/ai_rats_Il-76VKP_l.bmp

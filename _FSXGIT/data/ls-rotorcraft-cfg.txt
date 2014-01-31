@@ -2,6 +2,8 @@
 ./SimObjects/Rotorcraft/EH101/aircraft.cfg
 ./SimObjects/Rotorcraft/jf_schweizer_300cbi/aircraft.cfg
 ./SimObjects/Rotorcraft/MD500E_CGA/aircraft.cfg
+./SimObjects/Rotorcraft/Mi8mt/aircraft.cfg
+./SimObjects/Rotorcraft/Mi8T/aircraft.cfg
 ./SimObjects/Rotorcraft/NDmd500/aircraft.cfg
 ./SimObjects/Rotorcraft/NDmh-6/aircraft.cfg
 ./SimObjects/Rotorcraft/NDmh-6gunners/aircraft.cfg

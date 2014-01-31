@@ -112,6 +112,7 @@
 ./Effects/Cntrl_FTX_Lighthouse_4s.fx
 ./Effects/Cntrl_FTX_Lighthouse_5s.fx
 ./Effects/Cntrl_FTX_Lighthouse_6s_solid.fx
+./Effects/Cntrl_FTX_Lighthouse_ENG_12sx2.fx
 ./Effects/Cntrl_JL-regtlpc.fx
 ./Effects/Cntrl_JL-regtlpl.fx
 ./Effects/Cntrl_KilaueaEruption.fx
@@ -451,6 +452,7 @@
 ./Effects/fx_BellyFire2.fx
 ./Effects/fx_BilgePump.fx
 ./Effects/fx_bird.fx
+./Effects/fx_Birds_Sound.fx
 ./Effects/fx_BldStm_lrg.fx
 ./Effects/fx_BldStm_med.fx
 ./Effects/fx_BldStm_sml.fx
@@ -511,6 +513,7 @@
 ./Effects/fx_concretecrash.fx
 ./Effects/fx_contrail_l.fx
 ./Effects/fx_contrail_s.fx
+./Effects/fx_CoolingTower.fx
 ./Effects/fx_Cranky_DC3_TFF.fx
 ./Effects/fx_cropdust.fx
 ./Effects/fx_cropdustpa36.fx
@@ -552,6 +555,9 @@
 ./Effects/fx_dustcloud_m.fx
 ./Effects/fx_dustcloud_s.fx
 ./Effects/fx_dwtwn.fx
+./Effects/fx_ekch_lamplight.fx
+./Effects/fx_EKCH_LampLight2.fx
+./Effects/fx_ekch_lamplightDD.fx
 ./Effects/fx_EmergencyLights.fx
 ./Effects/fx_EmergencyLightsPolice.fx
 ./Effects/fx_engFire.fx
@@ -638,6 +644,8 @@
 ./Effects/fx_F18_FSXBA_MedG_LEXVapor_R.fx
 ./Effects/fx_F18_HeatShimmer_L.fx
 ./Effects/fx_F18_HeatShimmer_R.fx
+./Effects/fx_f1light.fx
+./Effects/fx_f1lighta.fx
 ./Effects/fx_F35A_gun.fx
 ./Effects/fx_F35_AfterBurnerFire1.fx
 ./Effects/fx_F35_AfterBurnerFire2.fx
@@ -709,6 +717,7 @@
 ./Effects/fx_FSDT_PHOGLGT.fx
 ./Effects/fx_FSDT_PHOGRED.fx
 ./Effects/fx_FSXBA_AB.fx
+./Effects/fx_FTX_ENG_Lighthouse_white_x2.fx
 ./Effects/fx_FTX_NZSI_Lighthouse_white_6s_solid.fx
 ./Effects/fx_FTX_NZSI_Lighthouse_white_x1.fx
 ./Effects/fx_FTX_NZSI_Lighthouse_white_x2.fx
@@ -753,6 +762,8 @@
 ./Effects/fx_GroundCrew06.fx
 ./Effects/fx_GroundCrew07.fx
 ./Effects/fx_GroundCrew08.fx
+./Effects/fx_Groundlight.fx
+./Effects/fx_GroundlightDD.fx
 ./Effects/fx_gulls.fx
 ./Effects/fx_gunpack.fx
 ./Effects/fx_HAMILTON_DRUMFIRE.fx
@@ -922,9 +933,24 @@
 ./Effects/fx_JY_apronlight.fx
 ./Effects/fx_JY_HasLight1.fx
 ./Effects/fx_JY_securitylight.fx
+./Effects/fx_kbeacongreen.fx
+./Effects/fx_kbeaconred.fx
+./Effects/fx_kbeaconwhite.fx
+./Effects/fx_kcontrail.fx
+./Effects/fx_kf16exhaust.fx
 ./Effects/fx_kilauea1.fx
 ./Effects/fx_kilsteam.fx
+./Effects/fx_kLVIPER.fx
+./Effects/fx_knavgre.fx
+./Effects/fx_knavred.fx
+./Effects/fx_knavwhi.fx
 ./Effects/Fx_KORD_Deice.fx
+./Effects/fx_kstrobe.fx
+./Effects/fx_ktchdwn.fx
+./Effects/fx_kvapor.fx
+./Effects/fx_kvapor_alt.fx
+./Effects/fx_kVbeacon.fx
+./Effects/fx_kvclight.fx
 ./Effects/fx_L-12_start.FX
 ./Effects/fx_lakewaves.fx
 ./Effects/fx_lamplightphp.fx
@@ -1149,6 +1175,7 @@
 ./Effects/fx_PMDG_NGX_vaportrail.fx
 ./Effects/fx_PMDG_NGX_vclight.fx
 ./Effects/fx_poacherMuzzleFlash.fx
+./Effects/fx_policered.fx
 ./Effects/fx_preoiler.fx
 ./Effects/fx_prknlt.fx
 ./Effects/fx_PT17_exhaust.fx
@@ -1457,6 +1484,7 @@
 ./Effects/fx_wtrspray_l.fx
 ./Effects/fx_wtrspray_m.fx
 ./Effects/fx_wtrspray_s.fx
+./Effects/fx_WT_DH106_smoke.fx
 ./Effects/fx_yellowlight.fx
 ./Effects/fx_YF23_5.fx
 ./Effects/fx_YPMQ_apron_light_yellow.fx
@@ -1960,6 +1988,11 @@
 ./Effects/none.fx
 ./Effects/NURI_apron_1.fx
 ./Effects/NURI_TAXIBLUE_1.fx
+./Effects/object_Oak1_14m_fa.fx
+./Effects/object_Oak1_14m_hw.fx
+./Effects/object_Oak1_14m_sp.fx
+./Effects/object_Oak1_14m_su.fx
+./Effects/object_Oak1_14m_wi.fx
 ./Effects/OneNote Table Of Contents.onetoc2
 ./Effects/Opensky_747_vclight.fx
 ./Effects/Opensky_beacon.fx
@@ -2000,6 +2033,15 @@
 ./Effects/QW757_wingscan.fx
 ./Effects/QW_vclight.fx
 ./Effects/QW_vclight_big.fx
+./Effects/RASSF260_beacon.fx
+./Effects/RASSF260_navgre.fx
+./Effects/RASSF260_navred.fx
+./Effects/RASSF260_navwhi.fx
+./Effects/RASSF260_SmokeWhite.fx
+./Effects/RASSF260_strobe.fx
+./Effects/RASSF260_vclight.fx
+./Effects/RASSF260_WingLight.fx
+./Effects/RASSF260_Wing_Vortex.fx
 ./Effects/rcs_smoke_gry.fx
 ./Effects/reheat_light.fx
 ./Effects/RFBMG.fx
@@ -2010,12 +2052,14 @@
 ./Effects/RFTRC.fx
 ./Effects/RFTRC1.fx
 ./Effects/rwy_ends.fx
+./Effects/sfx_busy_apron.fx
 ./Effects/sfx_CatalinaDlg03.fx
 ./Effects/sfx_CatalinaDlg04.fx
 ./Effects/sfx_CatalinaDlg05.fx
 ./Effects/sfx_CatalinaDlg06.fx
 ./Effects/sfx_dummyLoop.fx
 ./Effects/sfx_dummyOneShot.fx
+./Effects/sfx_herringgulls.fx
 ./Effects/sfx_JetTruckDlg01.fx
 ./Effects/sfx_JetTruckDlg05.fx
 ./Effects/sfx_JetTruckDlg07.fx
@@ -2036,6 +2080,7 @@
 ./Effects/sfx_LoopyLarryDlg16a.fx
 ./Effects/sfx_LoopyLarryDlg18.fx
 ./Effects/sfx_marinaloop.fx
+./Effects/sfx_motorway.fx
 ./Effects/sfx_RumbleLoop.fx
 ./Effects/sfx_shorelight.fx
 ./Effects/ShipSpotLight.fx
@@ -2050,6 +2095,8 @@
 ./Effects/sr_fueldump.fx
 ./Effects/su_combustion.fx
 ./Effects/su_combustion_start.fx
+./Effects/SyriaSim_glow.fx
+./Effects/SyriaSim_light_flood.fx
 ./Effects/tdsb8_wing_light.fx
 ./Effects/tdsnose_gearwell.fx
 ./Effects/texture
@@ -2107,6 +2154,8 @@
 ./Effects/texture/desktop.ini
 ./Effects/texture/DLight.bmp
 ./Effects/texture/DR2.bmp
+./Effects/texture/ekchbeam.dds
+./Effects/texture/ekchbeamDD.dds
 ./Effects/texture/ENGM_rwy.bmp
 ./Effects/texture/envaX_Floodlight.bmp
 ./Effects/texture/E_LT_Nav.bmp
@@ -2285,6 +2334,8 @@
 ./Effects/texture/fx_YMML_orbx.bmp
 ./Effects/texture/glow lightpole.bmp
 ./Effects/texture/glow.bmp
+./Effects/texture/GR2.dds
+./Effects/texture/GR2DD.dds
 ./Effects/texture/GroundCrew.bmp
 ./Effects/texture/gunpack.bmp
 ./Effects/texture/halo.bmp
@@ -2295,12 +2346,14 @@
 ./Effects/texture/lampadairejlv.bmp
 ./Effects/texture/light shining general apron.bmp
 ./Effects/texture/light shining.bmp
+./Effects/texture/light_flood.bmp
 ./Effects/texture/llet_grndlight.bmp
 ./Effects/texture/lmml.bmp
 ./Effects/texture/lmml.zip
 ./Effects/texture/Lvfr_twn.bmp
 ./Effects/texture/Lvfr_twn2.bmp
 ./Effects/texture/Lvfr_twn3.bmp
+./Effects/texture/Mill_Sound.bmp
 ./Effects/texture/MilVizBloom.bmp
 ./Effects/texture/MilViz_AB_1.bmp
 ./Effects/texture/MilViz_AB_2.bmp
@@ -2322,6 +2375,7 @@
 ./Effects/texture/NZNP_Light_Rays.bmp
 ./Effects/texture/NZNP_SVL_Spot.bmp
 ./Effects/texture/OneNote Table Of Contents.onetoc2
+./Effects/texture/oslk_glow.bmp
 ./Effects/texture/p40_cannon.bmp
 ./Effects/texture/people.bmp
 ./Effects/texture/phpbeam.bmp

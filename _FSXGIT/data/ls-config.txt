@@ -94,6 +94,7 @@
 ./ORBX/FTX_NZ/FTX_NZNI_05_SCENERY/scenery/ModuleInstaller.cfg
 ./ORBX/Scripts/FTXCentral/InstallBackup/terrain.cfg
 ./ORBX/Scripts/FTXCentral/Regions/terrain_AU.cfg
+./ORBX/Scripts/FTXCentral/Regions/terrain_EU.cfg
 ./ORBX/Scripts/FTXCentral/Regions/terrain_NA.cfg
 ./ORBX/Scripts/FTXCentral/Work/FTXConfigurator.cfg
 ./ORBX/Scripts/FTXCentral/Work/terrain.cfg
@@ -107,6 +108,7 @@
 ./ORBX/Scripts/scenerylib_AU_YBCS.cfg
 ./ORBX/Scripts/scenerylib_AU_YMML.cfg
 ./ORBX/Scripts/scenerylib_AU_YSCB.cfg
+./ORBX/Scripts/scenerylib_EU_ENG.cfg
 ./ORBX/Scripts/scenerylib_FTXAA_AIRPORTS.cfg
 ./ORBX/Scripts/scenerylib_FTXAA_ORBXLIBS.cfg
 ./ORBX/Scripts/scenerylib_NA_PNW.cfg
@@ -195,6 +197,9 @@
 ./Setup/XPackCache/Simobj.Rotorcraft.R22.Model_model.cfg
 ./Setup/XPackCache/Simobj.Rotorcraft.R22.Panel_panel.cfg
 ./Setup/XPackCache/Simobj.Rotorcraft.R22_sim.cfg
+./SimMarket/EKCH Copenhagen Kastrup X/Docs/Scenery.CFG/Default scenery.cfg
+./SimMarket/EKCH Copenhagen Kastrup X/EKCH-X/Texture/texture.cfg
+./SimMarket/EKCH Copenhagen Kastrup X/oldscenery.cfg
 ./SimMarket/Latin VFR MKJP FSX/oldscenery.cfg
 ./SimMarket/Malta Intl Airport v2/oldscenery.cfg
 ./SimMarket/Ni Hao Macau - Macau Intl Airport FSX/oldscenery.cfg
@@ -625,6 +630,11 @@
 ./SimObjects/Airplanes/AF_FG-1D_Racers/texture.nx63382/texture.cfg
 ./SimObjects/Airplanes/AF_FG-1D_Racers/texture.nx69900/texture.cfg
 ./SimObjects/Airplanes/AF_FG-1D_Racers/texture.nx91092/texture.cfg
+./SimObjects/Airplanes/AI An-24 CIS/Aircraft.cfg
+./SimObjects/Airplanes/AI An-24 CIS/Model.B/Enhanced/model.cfg
+./SimObjects/Airplanes/AI An-24 CIS/Model.B/Standard/model.cfg
+./SimObjects/Airplanes/AI An-24 CIS/Model.RV/Enhanced/model.cfg
+./SimObjects/Airplanes/AI An-24 CIS/Model.RV/Standard/model.cfg
 ./SimObjects/Airplanes/AI Gulfstream G-V/Aircraft.cfg
 ./SimObjects/Airplanes/AI Gulfstream G-V/model/Model.cfg
 ./SimObjects/Airplanes/AI Gulfstream G-V/Panel/panel.cfg
@@ -639,6 +649,12 @@
 ./SimObjects/Airplanes/Airborne FL/panel/panel.cfg
 ./SimObjects/Airplanes/Airborne FL/sound/sound.cfg
 ./SimObjects/Airplanes/Airborne FL/texture/texture.cfg
+./SimObjects/Airplanes/Airbus319_FSX/Aircraft.cfg
+./SimObjects/Airplanes/Airbus319_FSX/Model/model.cfg
+./SimObjects/Airplanes/Airbus319_FSX/panel/panel.cfg
+./SimObjects/Airplanes/Airbus319_FSX/Sound/sound.cfg
+./SimObjects/Airplanes/Airbus319_FSX/Texture.1/texture.cfg
+./SimObjects/Airplanes/Airbus319_FSX/texture.2/texture.cfg
 ./SimObjects/Airplanes/Airbus_A321/aircraft.cfg
 ./SimObjects/Airplanes/Airbus_A321/Model/model.cfg
 ./SimObjects/Airplanes/Airbus_A321/panel/panel.cfg
@@ -718,6 +734,7 @@
 ./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.4/texture.cfg
 ./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.5/texture.cfg
 ./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.6/texture.cfg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/texture.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/model/model.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/panel/panel.cfg
@@ -810,6 +827,21 @@
 ./SimObjects/Airplanes/ALPHA T-28 Trojan Set/texture.D2/texture.cfg
 ./SimObjects/Airplanes/ALPHA T-28 Trojan Set/texture.D3/texture.cfg
 ./SimObjects/Airplanes/ALPHA T-28 Trojan Set/texture.shared/texture.cfg
+./SimObjects/Airplanes/AN-32/aircraft.cfg
+./SimObjects/Airplanes/AN-32/model/model.cfg
+./SimObjects/Airplanes/AN-32/panel/panel.cfg
+./SimObjects/Airplanes/AN-32/sound/Sound.cfg
+./SimObjects/Airplanes/AN-32/Texture/texture.cfg
+./SimObjects/Airplanes/AN-32/Texture.AAF/texture.cfg
+./SimObjects/Airplanes/AN-32/Texture.BAF/texture.cfg
+./SimObjects/Airplanes/AN-32/Texture.FAP/texture.cfg
+./SimObjects/Airplanes/AN-32/Texture.JSOC/texture.cfg
+./SimObjects/Airplanes/AN-32/Texture.UN/texture.cfg
+./SimObjects/Airplanes/An12B/Aircraft.cfg
+./SimObjects/Airplanes/An12B/model/Model.cfg
+./SimObjects/Airplanes/An12B/PANEL/panel.cfg
+./SimObjects/Airplanes/An12B/Panel.orig/panel.cfg
+./SimObjects/Airplanes/An12B/Sound/sound.cfg
 ./SimObjects/Airplanes/An12BK/Aircraft.cfg
 ./SimObjects/Airplanes/An12BK/model/Model.cfg
 ./SimObjects/Airplanes/An12BK/Model.AFR/Model.cfg
@@ -1049,6 +1081,12 @@
 ./SimObjects/Airplanes/Boeing 40C/model/Model.cfg
 ./SimObjects/Airplanes/Boeing 40C/panel/panel.cfg
 ./SimObjects/Airplanes/Boeing 40C/Sound/sound.cfg
+./SimObjects/Airplanes/Boeing Model80/aircraft.cfg
+./SimObjects/Airplanes/Boeing Model80/model/model.cfg
+./SimObjects/Airplanes/Boeing Model80/panel/panel.cfg
+./SimObjects/Airplanes/Boeing Model80/sound/Sinstall.cfg
+./SimObjects/Airplanes/Boeing Model80/sound/sound.cfg
+./SimObjects/Airplanes/Boeing Model80/sound.R1690/sound.cfg
 ./SimObjects/Airplanes/Boeing_T45C/Aircraft.cfg
 ./SimObjects/Airplanes/Boeing_T45C/model/Model.cfg
 ./SimObjects/Airplanes/Boeing_T45C/sound/sound.cfg
@@ -1126,6 +1164,10 @@
 ./SimObjects/Airplanes/C46/model.orig/model.cfg
 ./SimObjects/Airplanes/C46/panel/Panel.cfg
 ./SimObjects/Airplanes/C46/sound/sound.cfg
+./SimObjects/Airplanes/C604_PAD/aircraft.cfg
+./SimObjects/Airplanes/C604_PAD/model/model.cfg
+./SimObjects/Airplanes/C604_PAD/panel.cl604x/Panel.cfg
+./SimObjects/Airplanes/C604_PAD/sound/sound.cfg
 ./SimObjects/Airplanes/CamSim Airbus 350-900 V4/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Airbus 350-900 V4/model.350-900 ags v4/Model.cfg
 ./SimObjects/Airplanes/CamSim Airbus 350-900 V4/PANEL/panel.cfg
@@ -1255,7 +1297,6 @@
 ./SimObjects/Airplanes/Carenado PA-34 Seneca II/model.1/model.cfg
 ./SimObjects/Airplanes/Carenado PA-34 Seneca II/panel/panel.cfg
 ./SimObjects/Airplanes/Carenado PA-34 Seneca II/sound/sound.cfg
-./SimObjects/Airplanes/Carenado PA-34 Seneca II/sound.IRIS/Sound.cfg
 ./SimObjects/Airplanes/Carenado PA28 Archer II/Aircraft.cfg
 ./SimObjects/Airplanes/Carenado PA28 Archer II/model/model.cfg
 ./SimObjects/Airplanes/Carenado PA28 Archer II/model.sc/model.cfg
@@ -1802,6 +1843,7 @@
 ./SimObjects/Airplanes/CS_C130/texture.iran air force/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.ita/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.swe/texture.cfg
+./SimObjects/Airplanes/CS_C130/texture.UNO/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.us_70/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.us_80/texture.cfg
 ./SimObjects/Airplanes/CS_C130/texture.us_gr/texture.cfg
@@ -1933,7 +1975,6 @@
 ./SimObjects/Airplanes/de Havilland DH104/model.6/Model.cfg
 ./SimObjects/Airplanes/de Havilland DH104/panel/Panel.cfg
 ./SimObjects/Airplanes/de Havilland DH104/sound/sound.cfg
-./SimObjects/Airplanes/de Havilland DH104/sound.orig/Sound.cfg
 ./SimObjects/Airplanes/DeHavilland Vampire FB5/aircraft.cfg
 ./SimObjects/Airplanes/DeHavilland Vampire FB5/model/Model.cfg
 ./SimObjects/Airplanes/DeHavilland Vampire FB5/panel/panel.cfg
@@ -2315,12 +2356,14 @@
 ./SimObjects/Airplanes/feelThere CRJ 200/model/Model.cfg
 ./SimObjects/Airplanes/feelThere CRJ 200/orig-Aircraft.cfg
 ./SimObjects/Airplanes/feelThere CRJ 200/panel/panel.cfg
-./SimObjects/Airplanes/feelThere CRJ 200/sound/Sound.cfg
+./SimObjects/Airplanes/feelThere CRJ 200/Sound/Sound.cfg
+./SimObjects/Airplanes/feelThere CRJ 200/sound.orig/Sound.cfg
 ./SimObjects/Airplanes/feelThere CRJ 700/Aircraft.cfg
 ./SimObjects/Airplanes/feelThere CRJ 700/model/Model.cfg
 ./SimObjects/Airplanes/feelThere CRJ 700/orig-Aircraft.cfg
 ./SimObjects/Airplanes/feelThere CRJ 700/panel/panel.cfg
-./SimObjects/Airplanes/feelThere CRJ 700/sound/Sound.cfg
+./SimObjects/Airplanes/feelThere CRJ 700/Sound/Sound.cfg
+./SimObjects/Airplanes/feelThere CRJ 700/sound.orig/Sound.cfg
 ./SimObjects/Airplanes/feelThere CRJ 900/model/Model.cfg
 ./SimObjects/Airplanes/feelThere CRJ 900/orig-Aircraft.cfg
 ./SimObjects/Airplanes/feelThere CRJ 900/panel/panel.cfg
@@ -2352,7 +2395,8 @@
 ./SimObjects/Airplanes/feelThere pic 737-300/aircraft.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300/model/model.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300/panel/panel.cfg
-./SimObjects/Airplanes/feelThere pic 737-300/sound/sound.cfg
+./SimObjects/Airplanes/feelThere pic 737-300/sound/Sound.cfg
+./SimObjects/Airplanes/feelThere pic 737-300/sound.orig/sound.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/aircraft - Copy.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/aircraft.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/model/model.cfg
@@ -2362,7 +2406,8 @@
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/panel/panel-digital-std.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/panel/panel-digital-wide.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/panel/panel.cfg
-./SimObjects/Airplanes/feelThere pic 737-300 v2/sound/sound.cfg
+./SimObjects/Airplanes/feelThere pic 737-300 v2/sound/Sound.cfg
+./SimObjects/Airplanes/feelThere pic 737-300 v2/sound.orig/sound.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/texture.anz/texture.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/texture.berlin/texture.cfg
 ./SimObjects/Airplanes/feelThere pic 737-300 v2/texture.china_southern/texture.cfg
@@ -2484,7 +2529,8 @@
 ./SimObjects/Airplanes/feelThere PIC E175/panel/panel-std.cfg
 ./SimObjects/Airplanes/feelThere PIC E175/panel/panel-wide.cfg
 ./SimObjects/Airplanes/feelThere PIC E175/panel/panel.cfg
-./SimObjects/Airplanes/feelThere PIC E175/sound/sound.cfg
+./SimObjects/Airplanes/feelThere PIC E175/Sound/Sound.cfg
+./SimObjects/Airplanes/feelThere PIC E175/sound.orig/sound.cfg
 ./SimObjects/Airplanes/feelThere PIC E195/aircraft.cfg
 ./SimObjects/Airplanes/feelThere PIC E195/model/Model.cfg
 ./SimObjects/Airplanes/feelThere PIC E195/panel/panel-std.cfg
@@ -2807,20 +2853,25 @@
 ./SimObjects/Airplanes/Grumman_Goose_G21A/Texture.4/texture.cfg
 ./SimObjects/Airplanes/Grumman_Goose_G21A/Texture.5/texture.cfg
 ./SimObjects/Airplanes/Grumman_Goose_G21A/Texture.6/texture.cfg
+./SimObjects/Airplanes/Grumman_Goose_G21A/Texture.SEABEE/texture.cfg
+./SimObjects/Airplanes/Grumman_Goose_G21A/Texture.SEABEE1/texture.cfg
 ./SimObjects/Airplanes/Gulfstream_G550/Aircraft.cfg
 ./SimObjects/Airplanes/Gulfstream_G550/model/Model.cfg
 ./SimObjects/Airplanes/Gulfstream_G550/panel/panel.cfg
 ./SimObjects/Airplanes/Gulfstream_G550/sound/sound.cfg
+./SimObjects/Airplanes/Gulfstream_G550/sound.tss/sound.cfg
 ./SimObjects/Airplanes/Gulfstream_IV/model/model.cfg
 ./SimObjects/Airplanes/Gulfstream_IV/panel/panel.cfg
 ./SimObjects/Airplanes/Gulfstream_IV/Panel.alt/Panel.cfg
 ./SimObjects/Airplanes/Gulfstream_IV/panel.dno/panel.cfg
 ./SimObjects/Airplanes/Gulfstream_IV/sound/Sound.cfg
+./SimObjects/Airplanes/Gulfstream_IV/sound.tss/sound.cfg
 ./SimObjects/Airplanes/Gulfstream_V/Aircraft.cfg
 ./SimObjects/Airplanes/Gulfstream_V/model/model.cfg
 ./SimObjects/Airplanes/Gulfstream_V/Panel/panel.cfg
 ./SimObjects/Airplanes/Gulfstream_V/panel.2/panel.cfg
-./SimObjects/Airplanes/Gulfstream_V/sound/sound.cfg
+./SimObjects/Airplanes/Gulfstream_V/sound.orig/sound.cfg
+./SimObjects/Airplanes/Gulfstream_V/sound.tss/sound.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/aircraft-FS9.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/aircraft.cfg
 ./SimObjects/Airplanes/HJG Boeing 717-200 v1.12/model.01/Model.cfg
@@ -2899,6 +2950,10 @@
 ./SimObjects/Airplanes/IL-18/model/Model.cfg
 ./SimObjects/Airplanes/IL-18/panel/Panel.cfg
 ./SimObjects/Airplanes/IL-18/sound/sound.cfg
+./SimObjects/Airplanes/IL-76/Aircraft.cfg
+./SimObjects/Airplanes/IL-76/model.fp/model.cfg
+./SimObjects/Airplanes/IL-76/panel/Panel.cfg
+./SimObjects/Airplanes/IL-76/sound/sound.cfg
 ./SimObjects/Airplanes/IL-76 Cargo/Aircraft.cfg
 ./SimObjects/Airplanes/IL-76 Cargo/model/model.cfg
 ./SimObjects/Airplanes/IL-76 Cargo/panel/panel.cfg
@@ -3260,10 +3315,27 @@
 ./SimObjects/Airplanes/IRIS PC-9A/texture.facdu/texture.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/texture.raaf_bicentennial/texture.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/texture.roulettes/texture.cfg
+./SimObjects/Airplanes/ISDT_ATR42-300/aircraft.cfg
+./SimObjects/Airplanes/ISDT_ATR42-300/model/model.cfg
+./SimObjects/Airplanes/ISDT_ATR42-300/panel/panel.cfg
+./SimObjects/Airplanes/ISDT_ATR42-300/sound/Sound.cfg
+./SimObjects/Airplanes/ISDT_ATR42-500/aircraft.cfg
+./SimObjects/Airplanes/ISDT_ATR42-500/model/model.cfg
+./SimObjects/Airplanes/ISDT_ATR42-500/panel/panel.cfg
+./SimObjects/Airplanes/ISDT_ATR42-500/sound/Sound.cfg
+./SimObjects/Airplanes/ISDT_ATR72-500/aircraft.cfg
+./SimObjects/Airplanes/ISDT_ATR72-500/model/model.cfg
+./SimObjects/Airplanes/ISDT_ATR72-500/panel/panel.cfg
+./SimObjects/Airplanes/ISDT_ATR72-500/sound/Sound.cfg
 ./SimObjects/Airplanes/J-21/aircraft.cfg
 ./SimObjects/Airplanes/J-21/model/Model.cfg
 ./SimObjects/Airplanes/J-21/panel/panel.cfg
 ./SimObjects/Airplanes/J-21/sound/Sound.cfg
+./SimObjects/Airplanes/JBK Boeing 247D/Aircraft.cfg
+./SimObjects/Airplanes/JBK Boeing 247D/model/Model.cfg
+./SimObjects/Airplanes/JBK Boeing 247D/Panel/panel.cfg
+./SimObjects/Airplanes/JBK Boeing 247D/sound/sound.cfg
+./SimObjects/Airplanes/JBK Boeing 247D/sound.orig/Sound.cfg
 ./SimObjects/Airplanes/JBK Douglas DC6/Aircraft.cfg
 ./SimObjects/Airplanes/JBK Douglas DC6/model/Model.cfg
 ./SimObjects/Airplanes/JBK Douglas DC6/model.domestic/Model.cfg
@@ -3288,6 +3360,18 @@
 ./SimObjects/Airplanes/JELAIR-Boeing 737-2L9 Maersk Air OY-MBZ/panel.JELAIR_2D/Panel.cfg
 ./SimObjects/Airplanes/JELAIR-Boeing 737-2L9 Maersk Air OY-MBZ/sound.737-200__p&w_jt8d_the_real_deal-JELAIRmodded/Sound.cfg
 ./SimObjects/Airplanes/JF Sounds/Merlin/sound.cfg
+./SimObjects/Airplanes/JF_800XP/aircraft.cfg
+./SimObjects/Airplanes/JF_800XP/model/model.cfg
+./SimObjects/Airplanes/JF_800XP/model.NC/model.cfg
+./SimObjects/Airplanes/JF_800XP/panel/panel.cfg
+./SimObjects/Airplanes/JF_800XP/sound/sound.cfg
+./SimObjects/Airplanes/JF_800XP/texture.1/texture.cfg
+./SimObjects/Airplanes/JF_800XP/texture.AURELA/texture.cfg
+./SimObjects/Airplanes/JF_800XP/texture.BRAZIL/texture.cfg
+./SimObjects/Airplanes/JF_800XP/texture.FEDEX/texture.cfg
+./SimObjects/Airplanes/JF_800XP/texture.Hawker/texture.cfg
+./SimObjects/Airplanes/JF_800XP/texture.JF/texture.cfg
+./SimObjects/Airplanes/JF_800XP/texture.N847CW/texture.cfg
 ./SimObjects/Airplanes/JF_A6M2_Zero/Aircraft.cfg
 ./SimObjects/Airplanes/JF_A6M2_Zero/model/model.cfg
 ./SimObjects/Airplanes/JF_A6M2_Zero/PANEL/Panel.cfg
@@ -3334,6 +3418,23 @@
 ./SimObjects/Airplanes/JF_C69/texture.Metal/texture.cfg
 ./SimObjects/Airplanes/JF_C69/texture.Military/texture.cfg
 ./SimObjects/Airplanes/JF_C69/Texture.Military2/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/Aircraft.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/model.COMET 4/model.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/panel/panel.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/sound/sound.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/texture.Argentina/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/texture.BOAC/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/texture.DanAir/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/texture.EgyptAir/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/texture.kuwait/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/texture.Malaysian/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/texture.mexicana/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet 4/texture.Saudi/texture.cfg
+./SimObjects/Airplanes/JF_DH106 Comet MkIV/Aircraft.cfg
+./SimObjects/Airplanes/JF_DH106 Comet MkIV/model.COMET_RAF/model.cfg
+./SimObjects/Airplanes/JF_DH106 Comet MkIV/panel/panel.cfg
+./SimObjects/Airplanes/JF_DH106 Comet MkIV/sound/sound.cfg
+./SimObjects/Airplanes/JF_DH106 Comet MkIV/texture.RAF/texture.cfg
 ./SimObjects/Airplanes/JF_Douglas_AC47/aircraft.cfg
 ./SimObjects/Airplanes/JF_Douglas_AC47/model.AC47/model.cfg
 ./SimObjects/Airplanes/JF_Douglas_AC47/panel/panel.cfg
@@ -4054,6 +4155,7 @@
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.DYD/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.EA_SUGDD_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.FijiAirways_FJG_jkx/texture.cfg
+./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.flynas/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.Garuda_PKGMI_jkx/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.HF/texture.cfg
 ./SimObjects/Airplanes/PMDG 737-800NGX WL/Texture.HKEx_BKBR_jkx/texture.cfg
@@ -4156,8 +4258,9 @@
 ./SimObjects/Airplanes/POSKY-CRJ700/model/model.cfg
 ./SimObjects/Airplanes/POSKY-CRJ700/panel/panel.cfg
 ./SimObjects/Airplanes/POSKY-CRJ700/panel-orig/panel.cfg
-./SimObjects/Airplanes/POSKY-CRJ700/Sound/sound.cfg
+./SimObjects/Airplanes/POSKY-CRJ700/Sound/Sound.cfg
 ./SimObjects/Airplanes/POSKY-CRJ700/sound-orig/Sound.cfg
+./SimObjects/Airplanes/POSKY-CRJ700/Sound.orig/sound.cfg
 ./SimObjects/Airplanes/POSKY_762V4/Aircraft - ORIG.cfg
 ./SimObjects/Airplanes/POSKY_762V4/Aircraft.cfg
 ./SimObjects/Airplanes/POSKY_762V4/model.NOWV/Model.cfg
@@ -4326,6 +4429,7 @@
 ./SimObjects/Airplanes/QualityWings 752F Special Freighter RB211-535C/sound.rr/sound.cfg
 ./SimObjects/Airplanes/QualityWings 752F Special Freighter RB211-535C/Texture/texture.cfg
 ./SimObjects/Airplanes/QualityWings 752F Special Freighter RB211-535C/texture.dhn/texture.cfg
+./SimObjects/Airplanes/QualityWings 752F Special Freighter RB211-535C/texture.VT-BDK/texture.cfg
 ./SimObjects/Airplanes/QualityWings 753 Passenger/Aircraft.cfg
 ./SimObjects/Airplanes/QualityWings 753 Passenger/intelliscene.cfg
 ./SimObjects/Airplanes/QualityWings 753 Passenger/model.PWWL_WV/Model.cfg
@@ -4416,8 +4520,35 @@
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.8/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.9/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.A/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.Air New Zealand Link 'old'/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.B/texture.cfg
 ./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.Toll/texture.cfg
+./SimObjects/Airplanes/RAZBAM_MetrolinerIII/texture.ZK-CIC G/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/aircraft.cfg
+./SimObjects/Airplanes/RealAir SF-260/Model/model.cfg
+./SimObjects/Airplanes/RealAir SF-260/Sound/Sound.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.AC-USA/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.Belgian_White/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.Belgian_Yellow/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.Camo_N67FD/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.Gold/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.Red/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.Redhawks/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.RWB/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260/Texture.Silver/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/aircraft.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Model/model.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Panel/panel.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Sound/sound.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.AC-USA/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.Belgian_White/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.Belgian_Yellow/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.Camo_N67FD/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.Gold/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.Red/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.Redhawks/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.RWB/texture.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/Texture.Silver/texture.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/aircraft.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/model/model.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/model.5/model.cfg
@@ -4509,8 +4640,8 @@
 ./SimObjects/Airplanes/Saab340_PAD/aircraft.cfg
 ./SimObjects/Airplanes/Saab340_PAD/model/model.cfg
 ./SimObjects/Airplanes/Saab340_PAD/panel.s340x_up/panel.cfg
-./SimObjects/Airplanes/Saab340_PAD/sound.0/sound.cfg
-./SimObjects/Airplanes/Saab340_PAD/Sound.tss-ct7/sound.cfg
+./SimObjects/Airplanes/Saab340_PAD/Sound/sound.cfg
+./SimObjects/Airplanes/Saab340_PAD/sound.orig/sound.cfg
 ./SimObjects/Airplanes/SAAB_105_OE/Aircraft.cfg
 ./SimObjects/Airplanes/SAAB_105_OE/Model.Campod/Model.cfg
 ./SimObjects/Airplanes/SAAB_105_OE/Model.Civil/Model.cfg
@@ -4547,6 +4678,10 @@
 ./SimObjects/Airplanes/SAAB_105_OE.1/Sound/Sound.cfg
 ./SimObjects/Airplanes/SAAB_105_OE.1/texture.fullarms/texture.cfg
 ./SimObjects/Airplanes/SAAB_105_OE.1/texture.guns/texture.cfg
+./SimObjects/Airplanes/Scottish Aviation Twin Pioneer/aircraft.cfg
+./SimObjects/Airplanes/Scottish Aviation Twin Pioneer/model/Model.cfg
+./SimObjects/Airplanes/Scottish Aviation Twin Pioneer/sound/Sound.cfg
+./SimObjects/Airplanes/Scottish Aviation Twin Pioneer/texture.XL995/texture.cfg
 ./SimObjects/Airplanes/SE5/aircraft.cfg
 ./SimObjects/Airplanes/SE5/model/Model.cfg
 ./SimObjects/Airplanes/SE5/panel/panel.cfg
@@ -4745,14 +4880,6 @@
 ./SimObjects/Airplanes/Tr_Pl12/Aircraft.cfg
 ./SimObjects/Airplanes/Tr_Pl12/model/model.cfg
 ./SimObjects/Airplanes/Tr_Pl12/panel/panel.cfg
-./SimObjects/Airplanes/TSS/Sound.BR715-pax/sound.cfg
-./SimObjects/Airplanes/TSS/Sound.BR715-pilot/sound.cfg
-./SimObjects/Airplanes/TSS/Sound.CFM56-3/Sound.cfg
-./SimObjects/Airplanes/TSS/Sound.CT7/sound.cfg
-./SimObjects/Airplanes/TSS/Sound.GE-CF6/Sound.cfg
-./SimObjects/Airplanes/TSS/Sound.GP7000/sound.cfg
-./SimObjects/Airplanes/TSS/Sound.IAE_V2500/sound.cfg
-./SimObjects/Airplanes/TSS/Sound.Trent1000/sound.cfg
 ./SimObjects/Airplanes/Tu-154B-2/Aircraft.cfg
 ./SimObjects/Airplanes/Tu-154B-2/gauges.Shared/Config/History.cfg
 ./SimObjects/Airplanes/Tu-154B-2/gauges.Shared/Config/tu154_gau.cfg
@@ -4934,6 +5061,14 @@
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.sudan/texture.cfg
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/texture.TAA59/texture.cfg
 ./SimObjects/Airplanes/Vickers Viscount 810 V6/Texture.ZS-CDT/texture.cfg
+./SimObjects/Airplanes/ViperDen/Aircraft.cfg
+./SimObjects/Airplanes/ViperDen/model/Model.cfg
+./SimObjects/Airplanes/ViperDen/panel/panel.cfg
+./SimObjects/Airplanes/ViperDen/panel/panel_backup001.cfg
+./SimObjects/Airplanes/ViperDen/panel/panel_backup002.cfg
+./SimObjects/Airplanes/ViperDen/panel/panel_backup003.cfg
+./SimObjects/Airplanes/ViperDen/panel/panel_backup004.cfg
+./SimObjects/Airplanes/ViperDen/sound/Sound.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/aircraft.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/model.E_clean_1/model.cfg
 ./SimObjects/Airplanes/Virtavia A-4 Skyhawk 0-1 Clean/model.F_clean_2/model.cfg
@@ -5148,7 +5283,7 @@
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/Model.LR/model.cfg
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/Model.SR/model.cfg
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/Panel/panel.cfg
-./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/Sound/sound.cfg
+./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/sound/sound.cfg
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/texture.HB-YCG/texture.cfg
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/texture.N701DS/texture.cfg
 ./SimObjects/Airplanes/Virtavia Rutan 61 Long-EZ O-235/texture.N76AB/texture.cfg
@@ -5284,6 +5419,7 @@
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/model/model.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/panel.marco/Panel.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/sound/Sound.cfg
+./SimObjects/Airplanes/VL_Wilco_Merge_737-300/sound.orig/Sound.cfg
 ./SimObjects/Airplanes/VS_RV8/aircraft.cfg
 ./SimObjects/Airplanes/VS_RV8/Alternate Panel configs/panel - default.cfg
 ./SimObjects/Airplanes/VS_RV8/Alternate Panel configs/panel - RPX430.cfg
@@ -5370,6 +5506,8 @@
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/Texture/texture.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/Texture.1/texture.cfg
 ./SimObjects/Airplanes/WSSimulation-Piper PA-46 Meridian/Texture.2/texture.cfg
+./SimObjects/Airplanes/Xian-MA60-AI/Aircraft.cfg
+./SimObjects/Airplanes/Xian-MA60-AI/model/Model.cfg
 ./SimObjects/Airplanes/Yak-9U/aircraft.cfg
 ./SimObjects/Airplanes/Yak-9U/MODEL/model.cfg
 ./SimObjects/Airplanes/Yak-9U/MODEL.K/model.cfg
@@ -5826,6 +5964,9 @@
 ./SimObjects/GroundVehicles/Veh_Air_AirStartUnit_sm/sim.cfg
 ./SimObjects/GroundVehicles/Veh_Air_AirStartUnit_sm/soundai/soundai.cfg
 ./SimObjects/GroundVehicles/Veh_Air_AirStartUnit_sm/texture/texture.cfg
+./SimObjects/GroundVehicles/Veh_Air_ASAS_Bus/model/model.cfg
+./SimObjects/GroundVehicles/Veh_Air_ASAS_Bus/sim.cfg
+./SimObjects/GroundVehicles/Veh_Air_ASAS_Bus/soundai/soundai.cfg
 ./SimObjects/GroundVehicles/VEH_air_bagcart1/model/model.cfg
 ./SimObjects/GroundVehicles/VEH_air_bagcart1/sim.cfg
 ./SimObjects/GroundVehicles/VEH_air_bagcart1/soundai/soundai.cfg
@@ -6484,6 +6625,8 @@
 ./SimObjects/Misc/AI Yak42/model/model.cfg
 ./SimObjects/Misc/AI Yak42/panel/panel.cfg
 ./SimObjects/Misc/AI Yak42/sound/sound.cfg
+./SimObjects/Misc/AI-Mi8T_SBAI/Aircraft.cfg
+./SimObjects/Misc/AI-Mi8T_SBAI/model.8/Model.cfg
 ./SimObjects/Misc/AIA 737-800/Aircraft.cfg
 ./SimObjects/Misc/AIA 737-800/model.no_refl/model.cfg
 ./SimObjects/Misc/AIA 737-800/model.reflective/model.cfg
@@ -6568,9 +6711,37 @@
 ./SimObjects/Misc/AIM_B767_200/model.pw/PW-E/Model.cfg
 ./SimObjects/Misc/AI_A380/aircraft.cfg
 ./SimObjects/Misc/AI_A380/model/Model.cfg
+./SimObjects/Misc/AI_Airbus319_FSX/Aircraft.cfg
+./SimObjects/Misc/AI_Airbus319_FSX/Model/model.cfg
+./SimObjects/Misc/AI_Airbus319_FSX/Model.2/model.cfg
+./SimObjects/Misc/AI_Airbus319_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_Airbus321_FSX/Aircraft.cfg
+./SimObjects/Misc/AI_Airbus321_FSX/Model/model.cfg
+./SimObjects/Misc/AI_Airbus321_FSX/Model.2/model.cfg
+./SimObjects/Misc/AI_Airbus321_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_Airbus330_FSX/Aircraft.cfg
+./SimObjects/Misc/AI_Airbus330_FSX/Model/model.cfg
+./SimObjects/Misc/AI_Airbus330_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_Airbus340_FSX/aircraft.cfg
+./SimObjects/Misc/AI_Airbus340_FSX/Model/model.cfg
+./SimObjects/Misc/AI_Airbus340_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_ATR72-500_FSX/Aircraft.cfg
+./SimObjects/Misc/AI_b747_400_FSX/aircraft.cfg
+./SimObjects/Misc/AI_b747_400_FSX/Model/model.cfg
+./SimObjects/Misc/AI_b747_400_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_BAE-146_FSX/Aircraft.cfg
+./SimObjects/Misc/AI_BAE-146_FSX/model/model.cfg
+./SimObjects/Misc/AI_BAE-146_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_Boing737_FSX/aircraft.cfg
+./SimObjects/Misc/AI_Boing737_FSX/Model/model.cfg
+./SimObjects/Misc/AI_Boing737_FSX/soundai/soundai.cfg
 ./SimObjects/Misc/AI_CL604/Aircraft.cfg
 ./SimObjects/Misc/AI_CL604/Model/model.cfg
 ./SimObjects/Misc/AI_CL604/Sound/sound.cfg
+./SimObjects/Misc/AI_CRJ200_FSX/aircraft.cfg
+./SimObjects/Misc/AI_CRJ200_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_CRJ700_FSX/aircraft.cfg
+./SimObjects/Misc/AI_CRJ700_FSX/soundai/soundai.cfg
 ./SimObjects/Misc/AI_Duo Discus circling glider/Aircraft.cfg
 ./SimObjects/Misc/AI_Duo Discus circling glider/model/Model.cfg
 ./SimObjects/Misc/AI_Duo Discus Glider/Aircraft.cfg
@@ -6581,10 +6752,50 @@
 ./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/aircraft.cfg
 ./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/model/model.cfg
 ./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_Fokker50_FSX/Aircraft.cfg
+./SimObjects/Misc/AI_Fokker50_FSX/soundai/soundai.cfg
 ./SimObjects/Misc/AI_GII/Aircraft.cfg
 ./SimObjects/Misc/AI_GII/model/Model.cfg
+./SimObjects/Misc/AI_Hawaiian_atr_42_300x/aircraft.cfg
+./SimObjects/Misc/AI_Hawaiian_atr_42_300x/Model.300/Model.cfg
+./SimObjects/Misc/AI_Hawaiian_atr_42_300x/Sound/sound.cfg
+./SimObjects/Misc/AI_Hawaii_atr_72_210/Aircraft.cfg
+./SimObjects/Misc/AI_Hawaii_atr_72_210/Model/Model.cfg
+./SimObjects/Misc/AI_Hawaii_atr_72_210/sound/Sound.cfg
+./SimObjects/Misc/AI_Hawaii_B717/Aircraft.cfg
+./SimObjects/Misc/AI_Hawaii_B717/model.no_refl/model.cfg
+./SimObjects/Misc/AI_Hawaii_B717/model.reflective/model.cfg
+./SimObjects/Misc/AI_Hawaii_B717/sound/Sound.cfg
+./SimObjects/Misc/AI_Hawaii_B717/soundai/soundai.cfg
+./SimObjects/Misc/AI_Hawaii_C172_N73151/aircraft.cfg
+./SimObjects/Misc/AI_Hawaii_C172_N73151/model/model.cfg
+./SimObjects/Misc/AI_Hawaii_C172_N73151/soundai/soundAI.cfg
+./SimObjects/Misc/AI_Hawaii_C172_N73151/Texture/texture.cfg
+./SimObjects/Misc/AI_Hawaii_C172_N73151/Texture.N73151/texture.cfg
+./SimObjects/Misc/AI_Hawaii_C208B Grand Caravan/Aircraft.cfg
+./SimObjects/Misc/AI_Hawaii_C208B Grand Caravan/model/Model.cfg
+./SimObjects/Misc/AI_Hawaii_C208B Grand Caravan/model.cp/Model.cfg
+./SimObjects/Misc/AI_Hawaii_C208B Grand Caravan/sound/soundai.cfg
+./SimObjects/Misc/AI_Hawaii_C402/Aircraft.cfg
+./SimObjects/Misc/AI_Hawaii_C402/model/Model.cfg
+./SimObjects/Misc/AI_Hawaii_C402/Sound/sound.cfg
+./SimObjects/Misc/AI_Hawaii_Dash_8_100-200/Aircraft.cfg
+./SimObjects/Misc/AI_Hawaii_Dash_8_100-200/model/model.cfg
+./SimObjects/Misc/AI_Hawaii_Dash_8_100-200/model.NL/model.cfg
+./SimObjects/Misc/AI_Hawaii_DHC_Dash-7/Aircraft.cfg
+./SimObjects/Misc/AI_Hawaii_DHC_Dash-7/model/Model.cfg
+./SimObjects/Misc/AI_Hawaii_DHC_Dash-7/sound/Sound.cfg
 ./SimObjects/Misc/AI_Lockheed L-1011/Aircraft.cfg
 ./SimObjects/Misc/AI_Lockheed L-1011/model/Model.cfg
+./SimObjects/Misc/AI_MD80_FSX/aircraft.cfg
+./SimObjects/Misc/AI_MD80_FSX/Model/model.cfg
+./SimObjects/Misc/AI_MD80_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_MD83_FSX/aircraft.cfg
+./SimObjects/Misc/AI_MD83_FSX/Model/model.cfg
+./SimObjects/Misc/AI_MD83_FSX/soundai/soundai.cfg
+./SimObjects/Misc/AI_MD87_FSX/aircraft.cfg
+./SimObjects/Misc/AI_MD87_FSX/Model/model.cfg
+./SimObjects/Misc/AI_MD87_FSX/soundai/soundai.cfg
 ./SimObjects/Misc/AI_PA31_Navajo/aircraft.cfg
 ./SimObjects/Misc/AI_PA31_Navajo/model/Model.cfg
 ./SimObjects/Misc/AI_PA31_Navajo/sound/Sound.cfg
@@ -9991,55 +10202,12 @@
 ./SimObjects/Misc/fsp_dc10/MODEL/model.cfg
 ./SimObjects/Misc/fsp_md11/aircraft.cfg
 ./SimObjects/Misc/fsp_md11/MODEL/model.cfg
-./SimObjects/Misc/FTX Aero Commander 500S/aircraft.cfg
-./SimObjects/Misc/FTX Aero Commander 500S/model/Model.cfg
-./SimObjects/Misc/FTX Aero Commander 500S/soundai/soundai.cfg
-./SimObjects/Misc/FTX Aero Grand Commander 680FL/aircraft.cfg
-./SimObjects/Misc/FTX Aero Grand Commander 680FL/model/Model.cfg
-./SimObjects/Misc/FTX Aero Grand Commander 680FL/soundai/Soundai.cfg
-./SimObjects/Misc/FTX Airbus A319-100/Aircraft.cfg
-./SimObjects/Misc/FTX Airbus A319-100/model.CFM/Model.cfg
-./SimObjects/Misc/FTX Airbus A319-100/model.IAE/Model.cfg
-./SimObjects/Misc/FTX Airbus A319-100/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A320-200/Aircraft.cfg
-./SimObjects/Misc/FTX Airbus A320-200/model.CFM_200/Model.cfg
-./SimObjects/Misc/FTX Airbus A320-200/model.IAE/Model.cfg
-./SimObjects/Misc/FTX Airbus A320-200/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A330-200/aircraft.cfg
-./SimObjects/Misc/FTX Airbus A330-200/model.GE/New Tail_refl/model.cfg
-./SimObjects/Misc/FTX Airbus A330-200/model.GE/Old Tail_refl/model.cfg
-./SimObjects/Misc/FTX Airbus A330-200/model.PW/New Tail_refl/model.cfg
-./SimObjects/Misc/FTX Airbus A330-200/model.PW/Old Tail_refl/model.cfg
-./SimObjects/Misc/FTX Airbus A330-200/model.RR/New Tail_refl/model.cfg
-./SimObjects/Misc/FTX Airbus A330-200/model.RR/Old Tail_refl/model.cfg
-./SimObjects/Misc/FTX Airbus A330-200/soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A330-300/aircraft.cfg
-./SimObjects/Misc/FTX Airbus A330-300/model.GE/model.cfg
-./SimObjects/Misc/FTX Airbus A330-300/model.PW/model.cfg
-./SimObjects/Misc/FTX Airbus A330-300/model.RR/model.cfg
-./SimObjects/Misc/FTX Airbus A330-300/soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A340-200/Aircraft.cfg
-./SimObjects/Misc/FTX Airbus A340-200/model/model.cfg
-./SimObjects/Misc/FTX Airbus A340-200/soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A340-300/Aircraft.cfg
-./SimObjects/Misc/FTX Airbus A340-300/model/model.cfg
-./SimObjects/Misc/FTX Airbus A340-300/soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A340-500/Aircraft.cfg
-./SimObjects/Misc/FTX Airbus A340-500/model/model.cfg
-./SimObjects/Misc/FTX Airbus A340-500/soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A340-600/Aircraft.cfg
-./SimObjects/Misc/FTX Airbus A340-600/model/model.cfg
-./SimObjects/Misc/FTX Airbus A340-600/soundai/soundai.cfg
-./SimObjects/Misc/FTX Airbus A380_800/Aircraft.cfg
-./SimObjects/Misc/FTX Airbus A380_800/model.EA/model.cfg
-./SimObjects/Misc/FTX Airbus A380_800/model.RR/model.cfg
-./SimObjects/Misc/FTX Airbus A380_800/Soundai/soundai.cfg
-./SimObjects/Misc/FTX ATR 42_300/aircraft.cfg
-./SimObjects/Misc/FTX ATR 42_300/Model.300/Model.cfg
-./SimObjects/Misc/FTX ATR 42_300/soundai/soundai.cfg
-./SimObjects/Misc/FTX ATR 72_500/Aircraft.cfg
-./SimObjects/Misc/FTX ATR 72_500/Model/Model.cfg
-./SimObjects/Misc/FTX ATR 72_500/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Aero Commander 500S/aircraft.cfg
+./SimObjects/Misc/FTX AU Aero Commander 500S/model/Model.cfg
+./SimObjects/Misc/FTX AU Aero Commander 500S/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Aero Grand Commander 680FL/aircraft.cfg
+./SimObjects/Misc/FTX AU Aero Grand Commander 680FL/model/Model.cfg
+./SimObjects/Misc/FTX AU Aero Grand Commander 680FL/soundai/Soundai.cfg
 ./SimObjects/Misc/FTX AU Airbus A319_100/aircraft.cfg
 ./SimObjects/Misc/FTX AU Airbus A319_100/model.CFM/model.cfg
 ./SimObjects/Misc/FTX AU Airbus A319_100/model.IAE/model.cfg
@@ -10055,387 +10223,425 @@
 ./SimObjects/Misc/FTX AU Airbus A321_200/model.IAE/model.cfg
 ./SimObjects/Misc/FTX AU Airbus A321_200/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Airbus A330-200/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/model.GE/New Tail_refl/model.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/model.GE/Old Tail_refl/model.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/model.PW/New Tail_refl/model.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/model.PW/Old Tail_refl/model.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/model.RR/New Tail_refl/model.cfg
+./SimObjects/Misc/FTX AU Airbus A330-200/model.RR/Old Tail_refl/model.cfg
 ./SimObjects/Misc/FTX AU Airbus A330-200/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Airbus A330-300/aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A330-300/model.GE/model.cfg
+./SimObjects/Misc/FTX AU Airbus A330-300/model.PW/model.cfg
+./SimObjects/Misc/FTX AU Airbus A330-300/model.RR/model.cfg
 ./SimObjects/Misc/FTX AU Airbus A330-300/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A340-200/Aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A340-200/model/model.cfg
+./SimObjects/Misc/FTX AU Airbus A340-200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A340-300/Aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A340-300/model/model.cfg
+./SimObjects/Misc/FTX AU Airbus A340-300/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A340-500/Aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A340-500/model/model.cfg
+./SimObjects/Misc/FTX AU Airbus A340-500/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A340-600/Aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A340-600/model/model.cfg
+./SimObjects/Misc/FTX AU Airbus A340-600/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Airbus A380-800/Aircraft.cfg
+./SimObjects/Misc/FTX AU Airbus A380-800/model.EA/model.cfg
+./SimObjects/Misc/FTX AU Airbus A380-800/model.RR/model.cfg
+./SimObjects/Misc/FTX AU Airbus A380-800/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU ATR 42-300/aircraft.cfg
+./SimObjects/Misc/FTX AU ATR 42-300/Model.300/Model.cfg
+./SimObjects/Misc/FTX AU ATR 42-300/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU ATR 72-500/Aircraft.cfg
+./SimObjects/Misc/FTX AU ATR 72-500/Model/Model.cfg
+./SimObjects/Misc/FTX AU ATR 72-500/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU BAe 146-100/aircraft.cfg
+./SimObjects/Misc/FTX AU BAe 146-100/model/model.cfg
+./SimObjects/Misc/FTX AU BAe 146-100/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU BAe 146-200/Aircraft.cfg
+./SimObjects/Misc/FTX AU BAe 146-200/model/model.cfg
+./SimObjects/Misc/FTX AU BAe 146-200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU BAe 146-300/Aircraft.cfg
+./SimObjects/Misc/FTX AU BAe 146-300/model/model.cfg
+./SimObjects/Misc/FTX AU BAe 146-300/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Beechcraft 1900C/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft 1900C/model/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft 1900C/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Beechcraft 1900D/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft 1900D/model/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft 1900D/Soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Beechcraft BE36/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE36/model/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE36/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Beechcraft BE55/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE55/model.2bl/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE55/model.3bl/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE55/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Beechcraft BE58/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE58/model.llt-e/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE58/model.llt-w/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE58/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE76 Duchess/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft BE76 Duchess/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200/model.3Blades-Fin/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200/model.3Blades-Strakes/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200/model.4Blades-Fin/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200/model.4Blades-Strakes/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200 Door/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200 Door/model.3Blades-Fin/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200 Door/model.3Blades-Strakes/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200 Door/model.4Blades-Fin/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200 Door/model.4Blades-Strakes/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air B200 Door/Soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Beechcraft King Air C90/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air C90/model.4Blades-PT6A-20-Fin/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air C90/model.4Blades-PT6A-20-Strakes/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air C90/model.4Blades-PT6A-21-Fin/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air C90/model.4Blades-PT6A-21-Strakes/Model.cfg
+./SimObjects/Misc/FTX AU Beechcraft King Air C90/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Beechcraft V35 Bonanza/aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft V35 Bonanza/model/model.cfg
+./SimObjects/Misc/FTX AU Beechcraft V35 Bonanza/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Beechjet 400A/Aircraft.cfg
+./SimObjects/Misc/FTX AU Beechjet 400A/model/Model.cfg
+./SimObjects/Misc/FTX AU Beechjet 400A/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Bell 407/aircraft.cfg
+./SimObjects/Misc/FTX AU Bell 407/model/model.cfg
+./SimObjects/Misc/FTX AU Boeing B707-320/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B707-320/model.old/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B707-320/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B717-200/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B717-200/model/model.cfg
+./SimObjects/Misc/FTX AU Boeing B717-200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B727-100/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B727-100/model/model.cfg
+./SimObjects/Misc/FTX AU Boeing B727-100/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B727-200/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B727-200/model/model.cfg
+./SimObjects/Misc/FTX AU Boeing B727-200/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-300/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-300/model/model.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-300/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-300F/Aircraft.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-300F/model.logolight/model.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-300F/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B737-400/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-400/model/model.cfg
+./SimObjects/Misc/FTX AU Boeing B737-400/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-700/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-700/model/model.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-700/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-800/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B737-800/model/model.cfg
 ./SimObjects/Misc/FTX AU Boeing B737-800/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B747-300/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B747-300/model/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B747-300/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 FSP/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 FSP/model.GE/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 FSP/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 GE/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 GE/model/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 GE/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 PW/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 PW/model/Model.cfg
 ./SimObjects/Misc/FTX AU Boeing B747-400 PW/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Boeing B747-400 RR/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400 RR/model/Model.cfg
 ./SimObjects/Misc/FTX AU Boeing B747-400 RR/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400F/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400F/model.fge/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400F/model.fpw/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400F/model.frr/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B747-400F/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B757-200/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B757-200/model.PW/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B757-200/model.RR/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B757-200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B757-200W/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B757-200W/model.PW_WL/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B757-200W/model.RR_WL/Model.cfg
+./SimObjects/Misc/FTX AU Boeing B757-200W/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300 GE/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300 GE/model/model.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300 GE/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300 RR/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300 RR/model/model.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300 RR/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Boeing B767-300ER/Aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300ER/model.GE/model.cfg
+./SimObjects/Misc/FTX AU Boeing B767-300ER/model.PW/model.cfg
 ./SimObjects/Misc/FTX AU Boeing B767-300ER/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200/model.ge/model.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200/model.pw/model.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200/model.rr/model.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200LR/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200LR/model/model.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200LR/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Boeing B777-300/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-300/model.rr/model.cfg
 ./SimObjects/Misc/FTX AU Boeing B777-300ER/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-300ER/model.no_satcomm/model.cfg
+./SimObjects/Misc/FTX AU Boeing B777-300ER/model.satcomm/model.cfg
 ./SimObjects/Misc/FTX AU Boeing B777-300ER/Soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Boeing B787-800/aircraft.cfg
 ./SimObjects/Misc/FTX AU Boeing B787-800/model/Model.cfg
 ./SimObjects/Misc/FTX AU Boeing B787-800/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Bombardier Global 5000/Aircraft.cfg
+./SimObjects/Misc/FTX AU Bombardier Global 5000/model/Model.cfg
+./SimObjects/Misc/FTX AU Bombardier Global 5000/model.IR_Cam/Model.cfg
+./SimObjects/Misc/FTX AU Bombardier Global 5000/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Bombardier Global Express/Aircraft.cfg
+./SimObjects/Misc/FTX AU Bombardier Global Express/model/Model.cfg
+./SimObjects/Misc/FTX AU Bombardier Global Express/model.IR_Cam/Model.cfg
+./SimObjects/Misc/FTX AU Bombardier Global Express/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Bombardier Global Express XRS/Aircraft.cfg
+./SimObjects/Misc/FTX AU Bombardier Global Express XRS/model/Model.cfg
+./SimObjects/Misc/FTX AU Bombardier Global Express XRS/model.IR_Cam/Model.cfg
+./SimObjects/Misc/FTX AU Bombardier Global Express XRS/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU British Aerospace HS 125-800/Aircraft.cfg
+./SimObjects/Misc/FTX AU British Aerospace HS 125-800/model/Model.cfg
+./SimObjects/Misc/FTX AU British Aerospace HS 125-800/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Britten-Norman BN-2/Aircraft.cfg
+./SimObjects/Misc/FTX AU Britten-Norman BN-2/model.longnose/Model.cfg
+./SimObjects/Misc/FTX AU Britten-Norman BN-2/model.shortnose/Model.cfg
+./SimObjects/Misc/FTX AU Britten-Norman BN-2/Soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Cessna 152/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 152/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 152/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Cessna 172 Skyhawk/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 172 Skyhawk/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 172 Skyhawk/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 177 Cardinal/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 177 Cardinal/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 177 Cardinal/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Cessna 182 Skylane/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 182 Skylane/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 182 Skylane/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Cessna 206 Stationair/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 206 Stationair/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 206 Stationair/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 208B/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 208B/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 208B/model.cp/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 208B/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 210 Centurion/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 210 Centurion/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 210 Centurion/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 310Q/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 310Q/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 310Q/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 310R/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 310R/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 310R/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 402A/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 402A/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 402A/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 402B/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 402B/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 402B/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 402C/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 402C/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 402C/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 404/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 404/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 404/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 414/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 414/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 414/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 421/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 421/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 421/model/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 421/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna 441/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna 441/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna 441/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Cessna Citation ll/Aircraft.cfg
+./SimObjects/Misc/FTX AU Cessna Citation ll/model/Model.cfg
+./SimObjects/Misc/FTX AU Cessna Citation ll/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Challenger CL-604/Aircraft.cfg
+./SimObjects/Misc/FTX AU Challenger CL-604/model/Model.cfg
+./SimObjects/Misc/FTX AU Challenger CL-604/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Constellation/Aircraft.cfg
+./SimObjects/Misc/FTX AU Constellation/model/model.cfg
+./SimObjects/Misc/FTX AU Control Tower - High Level/Aircraft.cfg
+./SimObjects/Misc/FTX AU Control Tower - High Level/model/model.cfg
+./SimObjects/Misc/FTX AU Control Tower - High Level/panel/panel.cfg
+./SimObjects/Misc/FTX AU Control Tower - Low Level/Aircraft.cfg
+./SimObjects/Misc/FTX AU Control Tower - Low Level/model/model.cfg
+./SimObjects/Misc/FTX AU Control Tower - Low Level/panel/panel.cfg
+./SimObjects/Misc/FTX AU Convair CV-580/Aircraft.cfg
+./SimObjects/Misc/FTX AU Convair CV-580/model/Model.cfg
+./SimObjects/Misc/FTX AU Convair CV-580/Soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Dash 8 100-200/Aircraft.cfg
+./SimObjects/Misc/FTX AU Dash 8 100-200/model/model.cfg
+./SimObjects/Misc/FTX AU Dash 8 100-200/model.NL/model.cfg
 ./SimObjects/Misc/FTX AU Dash 8-300/Aircraft.cfg
+./SimObjects/Misc/FTX AU Dash 8-300/model/model.cfg
+./SimObjects/Misc/FTX AU Dash 8-300/model.NL/model.cfg
+./SimObjects/Misc/FTX AU Dash 8-300/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Dash 8-400/Aircraft.cfg
+./SimObjects/Misc/FTX AU Dash 8-400/model/model.cfg
+./SimObjects/Misc/FTX AU Dash 8-400/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU De Havilland DHC6/Aircraft.cfg
+./SimObjects/Misc/FTX AU De Havilland DHC6/model/Model.cfg
+./SimObjects/Misc/FTX AU De Havilland DHC6/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Diamond Katana/Aircraft.cfg
+./SimObjects/Misc/FTX AU Diamond Katana/model/Model.cfg
+./SimObjects/Misc/FTX AU Diamond Katana/model.fgop/Model.cfg
+./SimObjects/Misc/FTX AU Diamond Katana/model.fullglass/Model.cfg
+./SimObjects/Misc/FTX AU Diamond Katana/model.onepilot/Model.cfg
+./SimObjects/Misc/FTX AU Dornier 228-200/Aircraft.cfg
+./SimObjects/Misc/FTX AU Dornier 228-200/model/model.cfg
+./SimObjects/Misc/FTX AU Dornier 228-200/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Dornier 328-100/aircraft.cfg
+./SimObjects/Misc/FTX AU Dornier 328-100/model/model.cfg
+./SimObjects/Misc/FTX AU Dornier 328-100/model.AMSA/model.cfg
+./SimObjects/Misc/FTX AU Dornier 328-100/model.NO_APU/model.cfg
+./SimObjects/Misc/FTX AU Dornier 328-100/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Douglas DC-3/aircraft.cfg
+./SimObjects/Misc/FTX AU Douglas DC-3/model/Model.cfg
+./SimObjects/Misc/FTX AU Douglas DC-3/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Embraer EMB-110/Aircraft.cfg
+./SimObjects/Misc/FTX AU Embraer EMB-110/model/Model.cfg
+./SimObjects/Misc/FTX AU Embraer EMB-110/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Embraer EMB-120/Aircraft.cfg
+./SimObjects/Misc/FTX AU Embraer EMB-120/model/model.cfg
+./SimObjects/Misc/FTX AU Embraer EMB-120/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Embraer ERJ-170/Aircraft.cfg
+./SimObjects/Misc/FTX AU Embraer ERJ-170/model/model.cfg
+./SimObjects/Misc/FTX AU Embraer ERJ-170/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Embraer ERJ-190/Aircraft.cfg
+./SimObjects/Misc/FTX AU Embraer ERJ-190/model/model.cfg
+./SimObjects/Misc/FTX AU Embraer ERJ-190/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Fokker 100/Aircraft.cfg
+./SimObjects/Misc/FTX AU Fokker 100/model/model.cfg
+./SimObjects/Misc/FTX AU Fokker 100/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Fokker 50/Aircraft.cfg
+./SimObjects/Misc/FTX AU Fokker 50/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Fokker F-27A/Aircraft.cfg
+./SimObjects/Misc/FTX AU Fokker F-27A/model/Model.cfg
+./SimObjects/Misc/FTX AU Fokker F-27A/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU GA8 Airvan/Aircraft.cfg
+./SimObjects/Misc/FTX AU GA8 Airvan/model/Model.cfg
+./SimObjects/Misc/FTX AU GA8 Airvan/model.cargo/Model.cfg
+./SimObjects/Misc/FTX AU GA8 Airvan/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-IIB/Aircraft.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-IIB/model/Model.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-IIB/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-IV/Aircraft.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-IV/model/Model.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-IV/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-V/Aircraft.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-V/model/Model.cfg
+./SimObjects/Misc/FTX AU Gulfstream G-V/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Isreal Westwind/Aircraft.cfg
+./SimObjects/Misc/FTX AU Isreal Westwind/model.1124 Westwind 1/Model.cfg
+./SimObjects/Misc/FTX AU Isreal Westwind/model.1124A Westwind 2/Model.cfg
+./SimObjects/Misc/FTX AU Isreal Westwind/Soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Jetstream JS31/Aircraft.cfg
 ./SimObjects/Misc/FTX AU Jetstream JS31/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Jetstream JS41/Aircraft.cfg
+./SimObjects/Misc/FTX AU Jetstream JS41/model/model.cfg
+./SimObjects/Misc/FTX AU Jetstream JS41/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Learjet 31/Aircraft.cfg
+./SimObjects/Misc/FTX AU Learjet 31/model/Model.cfg
+./SimObjects/Misc/FTX AU Learjet 31/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Learjet 35/Aircraft.cfg
+./SimObjects/Misc/FTX AU Learjet 35/model/Model.cfg
+./SimObjects/Misc/FTX AU Learjet 35/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Learjet 45/Aircraft.cfg
+./SimObjects/Misc/FTX AU Learjet 45/model/model.cfg
+./SimObjects/Misc/FTX AU Learjet 45/model.NoCovers/model.cfg
+./SimObjects/Misc/FTX AU Learjet 45/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Learjet 60/Aircraft.cfg
+./SimObjects/Misc/FTX AU Learjet 60/model/model.cfg
+./SimObjects/Misc/FTX AU Learjet 60/model.covers/model.cfg
+./SimObjects/Misc/FTX AU Learjet 60/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Lockheed L-100-30/Aircraft.cfg
+./SimObjects/Misc/FTX AU Lockheed L-100-30/model.no_wing_tanks/Model.cfg
+./SimObjects/Misc/FTX AU Lockheed L-100-30/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU McDonnell-Douglas MD-11/aircraft.cfg
+./SimObjects/Misc/FTX AU McDonnell-Douglas MD-11/model/model.cfg
+./SimObjects/Misc/FTX AU McDonnell-Douglas MD-11/Soundai/soundai.cfg
+./SimObjects/Misc/FTX AU McDonnell-Douglas MD-82/Aircraft.cfg
+./SimObjects/Misc/FTX AU McDonnell-Douglas MD-82/model/model.cfg
+./SimObjects/Misc/FTX AU McDonnell-Douglas MD-82/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Merlin III/Aircraft.cfg
+./SimObjects/Misc/FTX AU Merlin III/model.A/model.cfg
+./SimObjects/Misc/FTX AU Merlin III/model.B/model.cfg
+./SimObjects/Misc/FTX AU Merlin III/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Metro III/Aircraft.cfg
+./SimObjects/Misc/FTX AU Metro III/model.3blade/model.cfg
+./SimObjects/Misc/FTX AU Metro III/model.4blade/model.cfg
+./SimObjects/Misc/FTX AU Metro III/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Partenavia P68/Aircraft.cfg
+./SimObjects/Misc/FTX AU Partenavia P68/model.spats/Model.cfg
+./SimObjects/Misc/FTX AU Partenavia P68/model.wheels/Model.cfg
+./SimObjects/Misc/FTX AU Partenavia P68/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Pilatus PC-12 Normal Winglet/Aircraft.cfg
+./SimObjects/Misc/FTX AU Pilatus PC-12 Normal Winglet/model.normal_winglet/Model.cfg
+./SimObjects/Misc/FTX AU Pilatus PC-12 Normal Winglet/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Pilatus PC-12 Raked Winglet/Aircraft.cfg
+./SimObjects/Misc/FTX AU Pilatus PC-12 Raked Winglet/model.raked_winglet/Model.cfg
+./SimObjects/Misc/FTX AU Pilatus PC-12 Raked Winglet/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Piper Archer II/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Archer II/model.fairings_anim/Model.cfg
+./SimObjects/Misc/FTX AU Piper Archer II/model.front_fairings_anim/Model.cfg
+./SimObjects/Misc/FTX AU Piper Archer II/model.main_fairings_anim/Model.cfg
+./SimObjects/Misc/FTX AU Piper Archer II/model.no_fairings_anim/Model.cfg
+./SimObjects/Misc/FTX AU Piper Archer II/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Piper Archer III/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Archer III/model.fairings/Model.cfg
+./SimObjects/Misc/FTX AU Piper Archer III/model.no_fairings/Model.cfg
+./SimObjects/Misc/FTX AU Piper Archer III/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Piper Arrow III/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Arrow III/model/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow III/model.anim/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow III/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Piper Arrow III Turbo/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Arrow III Turbo/model/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow III Turbo/model.not/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow III Turbo/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV/model.not/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV/model.ties/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV Turbo/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV Turbo/model.anim/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV Turbo/model.ant/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV Turbo/model.not/Model.cfg
+./SimObjects/Misc/FTX AU Piper Arrow IV Turbo/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Piper Lance/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Lance/model/Model.cfg
+./SimObjects/Misc/FTX AU Piper Lance/soundai/soundai.cfg
 ./SimObjects/Misc/FTX AU Piper Navajo/aircraft.cfg
-./SimObjects/Misc/FTX BAe 146-100/aircraft.cfg
-./SimObjects/Misc/FTX BAe 146-100/model/model.cfg
-./SimObjects/Misc/FTX BAe 146-100/soundai/soundai.cfg
-./SimObjects/Misc/FTX BAe 146-300/Aircraft.cfg
-./SimObjects/Misc/FTX BAe 146-300/model/model.cfg
-./SimObjects/Misc/FTX BAe 146-300/soundai/soundai.cfg
-./SimObjects/Misc/FTX BAe 146_200/Aircraft.cfg
-./SimObjects/Misc/FTX BAe 146_200/model/model.cfg
-./SimObjects/Misc/FTX BAe 146_200/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft 1900C/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft 1900C/model/Model.cfg
-./SimObjects/Misc/FTX Beechcraft 1900C/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft 1900D/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft 1900D/model/Model.cfg
-./SimObjects/Misc/FTX Beechcraft 1900D/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft BE36/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft BE36/model/Model.cfg
-./SimObjects/Misc/FTX Beechcraft BE36/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft BE55/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft BE55/model.2bl/Model.cfg
-./SimObjects/Misc/FTX Beechcraft BE55/model.3bl/Model.cfg
-./SimObjects/Misc/FTX Beechcraft BE55/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft BE58/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft BE58/model.llt-e/Model.cfg
-./SimObjects/Misc/FTX Beechcraft BE58/model.llt-w/Model.cfg
-./SimObjects/Misc/FTX Beechcraft BE58/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft BE76 Duchess/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft BE76 Duchess/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200/model.3Blades-Fin/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200/model.3Blades-Strakes/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200/model.4Blades-Fin/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200/model.4Blades-Strakes/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200 Door/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200 Door/model.3Blades-Fin/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200 Door/model.3Blades-Strakes/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200 Door/model.4Blades-Fin/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200 Door/model.4Blades-Strakes/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air B200 Door/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft King Air C90/Aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft King Air C90/model.4Blades-PT6A-20-Fin/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air C90/model.4Blades-PT6A-20-Strakes/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air C90/model.4Blades-PT6A-21-Fin/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air C90/model.4Blades-PT6A-21-Strakes/Model.cfg
-./SimObjects/Misc/FTX Beechcraft King Air C90/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechcraft V35 Bonanza/aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft V35 Bonanza/model/model.cfg
-./SimObjects/Misc/FTX Beechcraft V35 Bonanza/soundai/soundai.cfg
-./SimObjects/Misc/FTX Beechjet 400A/Aircraft.cfg
-./SimObjects/Misc/FTX Beechjet 400A/model/Model.cfg
-./SimObjects/Misc/FTX Beechjet 400A/soundai/soundai.cfg
-./SimObjects/Misc/FTX Bell 407/aircraft.cfg
-./SimObjects/Misc/FTX Bell 407/model/model.cfg
-./SimObjects/Misc/FTX Boeing B707-320/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B707-320/model.old/Model.cfg
-./SimObjects/Misc/FTX Boeing B707-320/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B717_200/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B717_200/model/model.cfg
-./SimObjects/Misc/FTX Boeing B717_200/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B727-100/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B727-100/model/model.cfg
-./SimObjects/Misc/FTX Boeing B727-100/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B727_200/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B727_200/model/model.cfg
-./SimObjects/Misc/FTX Boeing B727_200/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B737_200/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B737_200/model/model.cfg
-./SimObjects/Misc/FTX Boeing B737_200/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B737_300/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B737_300/model/model.cfg
-./SimObjects/Misc/FTX Boeing B737_300/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B737_400/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B737_400/model/model.cfg
-./SimObjects/Misc/FTX Boeing B737_400/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B737_700/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B737_700/model/model.cfg
-./SimObjects/Misc/FTX Boeing B737_700/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B737_800/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B737_800/model/model.cfg
-./SimObjects/Misc/FTX Boeing B737_800/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B747-300/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B747-300/model/Model.cfg
-./SimObjects/Misc/FTX Boeing B747-300/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B747-400 FSP/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B747-400 FSP/model.GE/Model.cfg
-./SimObjects/Misc/FTX Boeing B747-400 FSP/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B747-400 GE/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B747-400 GE/model/Model.cfg
-./SimObjects/Misc/FTX Boeing B747-400 GE/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B747-400 PW/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B747-400 PW/model/Model.cfg
-./SimObjects/Misc/FTX Boeing B747-400 PW/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B747-400 RR/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B747-400 RR/model/Model.cfg
-./SimObjects/Misc/FTX Boeing B747-400 RR/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B747_400F/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B747_400F/model.fge/Model.cfg
-./SimObjects/Misc/FTX Boeing B747_400F/model.fpw/Model.cfg
-./SimObjects/Misc/FTX Boeing B747_400F/model.frr/Model.cfg
-./SimObjects/Misc/FTX Boeing B747_400F/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B757_200/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B757_200/model/model.cfg
-./SimObjects/Misc/FTX Boeing B757_200/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B767-300 GE/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B767-300 GE/model/model.cfg
-./SimObjects/Misc/FTX Boeing B767-300 GE/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B767-300 RR/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B767-300 RR/model/model.cfg
-./SimObjects/Misc/FTX Boeing B767-300 RR/soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B767-300ER/Aircraft.cfg
-./SimObjects/Misc/FTX Boeing B767-300ER/model.GE/model.cfg
-./SimObjects/Misc/FTX Boeing B767-300ER/model.PW/model.cfg
-./SimObjects/Misc/FTX Boeing B777-200/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B777-200/model.ge/model.cfg
-./SimObjects/Misc/FTX Boeing B777-200/model.pw/model.cfg
-./SimObjects/Misc/FTX Boeing B777-200/model.rr/model.cfg
-./SimObjects/Misc/FTX Boeing B777-200/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B777-200LR/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B777-200LR/model/model.cfg
-./SimObjects/Misc/FTX Boeing B777-200LR/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Boeing B777-300/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B777-300/model.rr/model.cfg
-./SimObjects/Misc/FTX Boeing B777-300ER/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B777-300ER/model.no_satcomm/model.cfg
-./SimObjects/Misc/FTX Boeing B777-300ER/model.satcomm/model.cfg
-./SimObjects/Misc/FTX Boeing B777-300ER/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Bombardier Global 5000/Aircraft.cfg
-./SimObjects/Misc/FTX Bombardier Global 5000/model/Model.cfg
-./SimObjects/Misc/FTX Bombardier Global 5000/soundai/soundai.cfg
-./SimObjects/Misc/FTX British Aerospace HS 125-800/Aircraft.cfg
-./SimObjects/Misc/FTX British Aerospace HS 125-800/model/Model.cfg
-./SimObjects/Misc/FTX British Aerospace HS 125-800/soundai/soundai.cfg
-./SimObjects/Misc/FTX Britten-Norman BN-2/Aircraft.cfg
-./SimObjects/Misc/FTX Britten-Norman BN-2/model.longnose/Model.cfg
-./SimObjects/Misc/FTX Britten-Norman BN-2/model.shortnose/Model.cfg
-./SimObjects/Misc/FTX Britten-Norman BN-2/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Canadair CL-604/Aircraft.cfg
-./SimObjects/Misc/FTX Canadair CL-604/Model/model.cfg
-./SimObjects/Misc/FTX Canadair CL-604/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 152/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 152/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 152/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 172 Skyhawk/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 172 Skyhawk/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 172 Skyhawk/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 177/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 177/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 177/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 182 Skylane/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 182 Skylane/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 182 Skylane/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 206 Stationair/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 206 Stationair/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 206 Stationair/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 208B/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 208B/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 208B/model.cp/Model.cfg
-./SimObjects/Misc/FTX Cessna 208B/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 210 Centurion/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 210 Centurion/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 210 Centurion/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 310Q/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 310Q/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 310Q/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 310R/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 310R/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 310R/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 402A/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 402A/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 402A/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 402B/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 402B/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 402B/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 402C/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 402C/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 402C/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 404/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 404/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 404/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 414/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 414/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 414/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 421/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 421/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 421/soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna 441/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna 441/model/Model.cfg
-./SimObjects/Misc/FTX Cessna 441/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Cessna Citation ll/Aircraft.cfg
-./SimObjects/Misc/FTX Cessna Citation ll/model/Model.cfg
-./SimObjects/Misc/FTX Cessna Citation ll/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Constellation/Aircraft.cfg
-./SimObjects/Misc/FTX Constellation/model/model.cfg
-./SimObjects/Misc/FTX Control Tower - High Level/Aircraft.cfg
-./SimObjects/Misc/FTX Control Tower - High Level/model/model.cfg
-./SimObjects/Misc/FTX Control Tower - High Level/panel/panel.cfg
-./SimObjects/Misc/FTX Control Tower - Low Level/Aircraft.cfg
-./SimObjects/Misc/FTX Control Tower - Low Level/model/model.cfg
-./SimObjects/Misc/FTX Control Tower - Low Level/panel/panel.cfg
-./SimObjects/Misc/FTX CV-580/Aircraft.cfg
-./SimObjects/Misc/FTX CV-580/model/Model.cfg
-./SimObjects/Misc/FTX CV-580/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Dash 8 100-200/Aircraft.cfg
-./SimObjects/Misc/FTX Dash 8 100-200/model/model.cfg
-./SimObjects/Misc/FTX Dash 8 100-200/model.NL/model.cfg
-./SimObjects/Misc/FTX Dash 8-300/Aircraft.cfg
-./SimObjects/Misc/FTX Dash 8-300/model/model.cfg
-./SimObjects/Misc/FTX Dash 8-300/model.NL/model.cfg
-./SimObjects/Misc/FTX Dash 8-300/soundai/soundai.cfg
-./SimObjects/Misc/FTX Dash 8-400/Aircraft.cfg
-./SimObjects/Misc/FTX Dash 8-400/model/model.cfg
-./SimObjects/Misc/FTX Dash 8-400/soundai/soundai.cfg
-./SimObjects/Misc/FTX DHC6/Aircraft.cfg
-./SimObjects/Misc/FTX DHC6/model/Model.cfg
-./SimObjects/Misc/FTX DHC6/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Dornier D228/Aircraft.cfg
-./SimObjects/Misc/FTX Dornier D228/model/model.cfg
-./SimObjects/Misc/FTX Dornier D228/soundai/soundai.cfg
-./SimObjects/Misc/FTX Dornier D328/Aircraft.cfg
-./SimObjects/Misc/FTX Dornier D328/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Douglas DC-3/aircraft.cfg
-./SimObjects/Misc/FTX Douglas DC-3/model/Model.cfg
-./SimObjects/Misc/FTX Douglas DC-3/soundai/soundai.cfg
-./SimObjects/Misc/FTX Embraer EMB-110/Aircraft.cfg
-./SimObjects/Misc/FTX Embraer EMB-110/model/Model.cfg
-./SimObjects/Misc/FTX Embraer EMB-110/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Embraer EMB-120/Aircraft.cfg
-./SimObjects/Misc/FTX Embraer EMB-120/model/model.cfg
-./SimObjects/Misc/FTX Embraer EMB-120/soundai/soundai.cfg
-./SimObjects/Misc/FTX Embraer ERJ-170/Aircraft.cfg
-./SimObjects/Misc/FTX Embraer ERJ-170/model/model.cfg
-./SimObjects/Misc/FTX Embraer ERJ-170/soundai/soundai.cfg
-./SimObjects/Misc/FTX Embraer ERJ-190/Aircraft.cfg
-./SimObjects/Misc/FTX Embraer ERJ-190/model/model.cfg
-./SimObjects/Misc/FTX Embraer ERJ-190/soundai/soundai.cfg
-./SimObjects/Misc/FTX Fokker 100/Aircraft.cfg
-./SimObjects/Misc/FTX Fokker 100/model/model.cfg
-./SimObjects/Misc/FTX Fokker 100/soundai/soundai.cfg
-./SimObjects/Misc/FTX Fokker 50/Aircraft.cfg
-./SimObjects/Misc/FTX Fokker 50/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Fokker F-27A/Aircraft.cfg
-./SimObjects/Misc/FTX Fokker F-27A/model/Model.cfg
-./SimObjects/Misc/FTX Fokker F-27A/Soundai/soundai.cfg
-./SimObjects/Misc/FTX GA8 Airvan/Aircraft.cfg
-./SimObjects/Misc/FTX GA8 Airvan/model/Model.cfg
-./SimObjects/Misc/FTX GA8 Airvan/model.cargo/Model.cfg
-./SimObjects/Misc/FTX GA8 Airvan/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Gulfstream G-IIB/Aircraft.cfg
-./SimObjects/Misc/FTX Gulfstream G-IIB/model/Model.cfg
-./SimObjects/Misc/FTX Gulfstream G-IIB/soundai/soundai.cfg
-./SimObjects/Misc/FTX Gulfstream G-IV/Aircraft.cfg
-./SimObjects/Misc/FTX Gulfstream G-IV/model/Model.cfg
-./SimObjects/Misc/FTX Gulfstream G-IV/soundai/soundai.cfg
-./SimObjects/Misc/FTX Gulfstream G-V/Aircraft.cfg
-./SimObjects/Misc/FTX Gulfstream G-V/model/Model.cfg
-./SimObjects/Misc/FTX Gulfstream G-V/soundai/soundai.cfg
-./SimObjects/Misc/FTX Isreal Westwind/Aircraft.cfg
-./SimObjects/Misc/FTX Isreal Westwind/model.1124 Westwind 1/Model.cfg
-./SimObjects/Misc/FTX Isreal Westwind/model.1124A Westwind 2/Model.cfg
-./SimObjects/Misc/FTX Isreal Westwind/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Jetstream JS31/Aircraft.cfg
-./SimObjects/Misc/FTX Jetstream JS31/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Jetstream JS41/Aircraft.cfg
-./SimObjects/Misc/FTX Jetstream JS41/model/model.cfg
-./SimObjects/Misc/FTX Jetstream JS41/soundai/soundai.cfg
-./SimObjects/Misc/FTX Learjet 31/Aircraft.cfg
-./SimObjects/Misc/FTX Learjet 31/model/Model.cfg
-./SimObjects/Misc/FTX Learjet 31/soundai/soundai.cfg
-./SimObjects/Misc/FTX Learjet 35/Aircraft.cfg
-./SimObjects/Misc/FTX Learjet 35/model/Model.cfg
-./SimObjects/Misc/FTX Learjet 35/soundai/soundai.cfg
-./SimObjects/Misc/FTX Lockheed L-100-30/Aircraft.cfg
-./SimObjects/Misc/FTX Lockheed L-100-30/model.no_wing_tanks/Model.cfg
-./SimObjects/Misc/FTX Lockheed L-100-30/model.wing_tanks/Model.cfg
-./SimObjects/Misc/FTX Lockheed L-100-30/soundai/soundai.cfg
-./SimObjects/Misc/FTX Lockheed P-3C Orion/Aircraft.cfg
-./SimObjects/Misc/FTX Lockheed P-3C Orion/model/Model.cfg
-./SimObjects/Misc/FTX Lockheed P-3C Orion/model.harpoon/Model.cfg
-./SimObjects/Misc/FTX McDonnell-Douglas MD-11/aircraft.cfg
-./SimObjects/Misc/FTX McDonnell-Douglas MD-11/model/model.cfg
-./SimObjects/Misc/FTX McDonnell-Douglas MD-11/Soundai/soundai.cfg
-./SimObjects/Misc/FTX McDonnell-Douglas MD-82/Aircraft.cfg
-./SimObjects/Misc/FTX McDonnell-Douglas MD-82/model/model.cfg
-./SimObjects/Misc/FTX McDonnell-Douglas MD-82/soundai/soundai.cfg
-./SimObjects/Misc/FTX Metro III/Aircraft.cfg
-./SimObjects/Misc/FTX Metro III/model.3blade/model.cfg
-./SimObjects/Misc/FTX Metro III/model.4blade/model.cfg
-./SimObjects/Misc/FTX Metro III/soundai/soundai.cfg
-./SimObjects/Misc/FTX Pilatus_PC-12/Aircraft.cfg
-./SimObjects/Misc/FTX Pilatus_PC-12/model/Model.cfg
-./SimObjects/Misc/FTX Pilatus_PC-12/Soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Archer II/Aircraft.cfg
-./SimObjects/Misc/FTX Piper Archer II/model.fairings_anim/Model.cfg
-./SimObjects/Misc/FTX Piper Archer II/model.front_fairings_anim/Model.cfg
-./SimObjects/Misc/FTX Piper Archer II/model.main_fairings_anim/Model.cfg
-./SimObjects/Misc/FTX Piper Archer II/model.no_fairings_anim/Model.cfg
-./SimObjects/Misc/FTX Piper Archer II/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Archer III/Aircraft.cfg
-./SimObjects/Misc/FTX Piper Archer III/model.fairings/Model.cfg
-./SimObjects/Misc/FTX Piper Archer III/model.no_fairings/Model.cfg
-./SimObjects/Misc/FTX Piper Archer III/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Arrow III/Aircraft.cfg
-./SimObjects/Misc/FTX Piper Arrow III/model/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow III/model.anim/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow III/model.not/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow III/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Arrow III Turbo/Aircraft.cfg
-./SimObjects/Misc/FTX Piper Arrow III Turbo/model/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow III Turbo/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Arrow IV/Aircraft.cfg
-./SimObjects/Misc/FTX Piper Arrow IV/model.not/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow IV/model.ties/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow IV/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Arrow IV Turbo/Aircraft.cfg
-./SimObjects/Misc/FTX Piper Arrow IV Turbo/model.anim/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow IV Turbo/model.ant/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow IV Turbo/model.not/Model.cfg
-./SimObjects/Misc/FTX Piper Arrow IV Turbo/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Lance/Aircraft.cfg
-./SimObjects/Misc/FTX Piper Lance/model/Model.cfg
-./SimObjects/Misc/FTX Piper Lance/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Navajo/aircraft.cfg
-./SimObjects/Misc/FTX Piper Navajo/model/Model.cfg
-./SimObjects/Misc/FTX Piper Navajo/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Seneca/aircraft.cfg
-./SimObjects/Misc/FTX Piper Seneca/model/model.cfg
-./SimObjects/Misc/FTX Piper Seneca/soundai/soundai.cfg
-./SimObjects/Misc/FTX Piper Warrior II/Aircraft.cfg
-./SimObjects/Misc/FTX Piper Warrior II/model.Fairings/Model.cfg
-./SimObjects/Misc/FTX Piper Warrior II/model.Front_Fairing/Model.cfg
-./SimObjects/Misc/FTX Piper Warrior II/model.Main_Fairings/Model.cfg
-./SimObjects/Misc/FTX Piper Warrior II/model.No_Fairings/model.cfg
-./SimObjects/Misc/FTX Piper Warrior II/soundai/soundai.cfg
-./SimObjects/Misc/FTX Pitts S-2A/Aircraft.cfg
-./SimObjects/Misc/FTX Pitts S-2A/model/Model.cfg
-./SimObjects/Misc/FTX Pitts S-2A/soundai/soundai.cfg
-./SimObjects/Misc/FTX Saab 340B/Aircraft.cfg
-./SimObjects/Misc/FTX Saab 340B/model/model.cfg
-./SimObjects/Misc/FTX Saab 340B/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Piper Navajo/model/Model.cfg
+./SimObjects/Misc/FTX AU Piper Navajo/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Piper Seneca/aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Seneca/model/model.cfg
+./SimObjects/Misc/FTX AU Piper Seneca/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Piper Warrior II/Aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Warrior II/model.Fairings/Model.cfg
+./SimObjects/Misc/FTX AU Piper Warrior II/model.Front_Fairing/Model.cfg
+./SimObjects/Misc/FTX AU Piper Warrior II/model.Main_Fairings/Model.cfg
+./SimObjects/Misc/FTX AU Piper Warrior II/model.No_Fairings/model.cfg
+./SimObjects/Misc/FTX AU Piper Warrior II/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Pitts S-2A/Aircraft.cfg
+./SimObjects/Misc/FTX AU Pitts S-2A/model/Model.cfg
+./SimObjects/Misc/FTX AU Pitts S-2A/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Saab 340B/Aircraft.cfg
+./SimObjects/Misc/FTX AU Saab 340B/model/model.cfg
+./SimObjects/Misc/FTX AU Saab 340B/soundai/soundai.cfg
+./SimObjects/Misc/FTX AU Yak-52/aircraft.cfg
+./SimObjects/Misc/FTX AU Yak-52/model/model.cfg
+./SimObjects/Misc/FTX AU Yak-52/soundai/soundai.cfg
 ./SimObjects/Misc/GBU-31 JDAM/model/model.cfg
 ./SimObjects/Misc/GBU-31 JDAM/sim.cfg
 ./SimObjects/Misc/GBU-31 JDAM/texture/texture.cfg
@@ -10550,7 +10756,6 @@
 ./SimObjects/Misc/Humvee_sm/model/model.cfg
 ./SimObjects/Misc/Humvee_sm/sim.cfg
 ./SimObjects/Misc/Humvee_sm/texture/texture.cfg
-./SimObjects/Misc/IRIS/sound.360/sound.cfg
 ./SimObjects/Misc/iris_cbu87/model/model.cfg
 ./SimObjects/Misc/iris_cbu87/sim.cfg
 ./SimObjects/Misc/iris_cbu87/texture/texture.cfg
@@ -11810,6 +12015,15 @@
 ./SimObjects/Rotorcraft/MD500E_CGA/model/model.cfg
 ./SimObjects/Rotorcraft/MD500E_CGA/panel/panel.cfg
 ./SimObjects/Rotorcraft/MD500E_CGA/sound/sound.cfg
+./SimObjects/Rotorcraft/Mi8mt/aircraft.cfg
+./SimObjects/Rotorcraft/Mi8mt/model/model.cfg
+./SimObjects/Rotorcraft/Mi8mt/PANEL/Panel.cfg
+./SimObjects/Rotorcraft/Mi8mt/sound/Sound.cfg
+./SimObjects/Rotorcraft/Mi8T/aircraft.cfg
+./SimObjects/Rotorcraft/Mi8T/model/model.cfg
+./SimObjects/Rotorcraft/Mi8T/PANEL/Panel.cfg
+./SimObjects/Rotorcraft/Mi8T/PANEL.orig/panel.cfg
+./SimObjects/Rotorcraft/Mi8T/sound/Sound.cfg
 ./SimObjects/Rotorcraft/NDmd500/aircraft.cfg
 ./SimObjects/Rotorcraft/NDmd500/model/model.cfg
 ./SimObjects/Rotorcraft/NDmd500/model.1/model.cfg
@@ -12039,7 +12253,22 @@
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/texture.UN/texture.cfg
 ./SimObjects/Rotorcraft/Virtavia Sikorsky H-60 Blackhawk/texture.USA/texture.cfg
 ./SimObjects/Sounds/FSDS_RR_Dart/sound/sound.cfg
+./SimObjects/Sounds/FSSoundStudio/Sound.R1690/sound.cfg
+./SimObjects/Sounds/IRIS/sound.360/sound.cfg
+./SimObjects/Sounds/RealAir/Sound.O540/Sound.cfg
+./SimObjects/Sounds/SonicSolutions/sound.O360/sound.cfg
+./SimObjects/Sounds/TSS/Sound.BR715-pax/sound.cfg
+./SimObjects/Sounds/TSS/Sound.BR715-pilot/sound.cfg
+./SimObjects/Sounds/TSS/Sound.CF34/sound.cfg
+./SimObjects/Sounds/TSS/Sound.CFM56-3/Sound.cfg
+./SimObjects/Sounds/TSS/Sound.CT7/sound.cfg
+./SimObjects/Sounds/TSS/Sound.GE-CF6/Sound.cfg
+./SimObjects/Sounds/TSS/Sound.GP7000/sound.cfg
+./SimObjects/Sounds/TSS/Sound.IAE_V2500/sound.cfg
 ./SimObjects/Sounds/TSS/sound.MD500/sound.cfg
+./SimObjects/Sounds/TSS/Sound.O235/sound.cfg
+./SimObjects/Sounds/TSS/Sound.R1340/sound.cfg
+./SimObjects/Sounds/TSS/Sound.Trent1000/sound.cfg
 ./Sound/DG/Austersounds.cfg
 ./Sound/emb_sound.cfg
 ./Sound/Sound.cfg

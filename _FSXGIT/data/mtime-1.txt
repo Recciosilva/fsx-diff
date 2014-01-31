@@ -1,27 +1,32 @@
 ./
-./Addon Scenery/Europe/Germany
-./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB
-./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB/scenery
-./Addon Scenery/Europe/Germany/C7_EDAH_1_WINTER_DEC_FEB/texture
-./Addon Scenery/Europe/Germany/C7_EDAH_2013X
-./Addon Scenery/Europe/Germany/C7_EDAH_2013X/scenery
-./Addon Scenery/Europe/Germany/C7_EDAH_2013X/texture
-./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY
-./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY/scenery
-./Addon Scenery/Europe/Germany/C7_EDAH_2_SPRING_MAR_MAY/texture
-./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG
-./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG/scenery
-./Addon Scenery/Europe/Germany/C7_EDAH_3_SUMMER_JUN_AUG/texture
-./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV
-./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV/scenery
-./Addon Scenery/Europe/Germany/C7_EDAH_4_FALL_SEP_NOV/texture
-./Addon Scenery/NZ
+./jb777memfilemap.txt
+./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
 ./modules/WideServer0.log
-./SimObjects/Airplanes/DeHavilland Vampire FB5/aircraft.cfg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/2014-1-31_ZK-FML.jpg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Alabeo_PA38_ZK-FML.zip
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/README.txt
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/screenshot.jpg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/pato_ext1.dds
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/pato_ext2.dds
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/pato_ext3.dds
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/thumbnail.jpg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext1.bmp
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext1.xcf
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext2-ALPHA.bmp
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext2-lines-alpha.bmp
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext2.bmp
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext2.xcf
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext3.bmp
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext3.xcf
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/screenshot-big.jpg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/screenshot.xcf
+./SimObjects/Misc/FTX AU Piper Seneca/aircraft.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

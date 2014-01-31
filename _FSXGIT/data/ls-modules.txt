@@ -2,6 +2,7 @@
 ./modules/4X_DA20-100.mcro
 ./modules/A2A_Feel.dll
 ./modules/AccuFeelMenu.dll
+./modules/ActiGate.dll
 ./modules/cfo_tfxinfo.dll
 ./modules/FSCopilot.dll
 ./modules/FSUIPC Documents

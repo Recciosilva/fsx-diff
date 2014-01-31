@@ -32,7 +32,17 @@
 ./SimObjects/Misc/AIA_TU_214/FS2002_FDE/aircraft.cfg
 ./SimObjects/Misc/AIM_B767_200/aircraft.cfg
 ./SimObjects/Misc/AI_A380/aircraft.cfg
+./SimObjects/Misc/AI_Airbus340_FSX/aircraft.cfg
+./SimObjects/Misc/AI_b747_400_FSX/aircraft.cfg
+./SimObjects/Misc/AI_Boing737_FSX/aircraft.cfg
+./SimObjects/Misc/AI_CRJ200_FSX/aircraft.cfg
+./SimObjects/Misc/AI_CRJ700_FSX/aircraft.cfg
 ./SimObjects/Misc/AI_Floatplane_DHC-2_Beaver_FSX/aircraft.cfg
+./SimObjects/Misc/AI_Hawaiian_atr_42_300x/aircraft.cfg
+./SimObjects/Misc/AI_Hawaii_C172_N73151/aircraft.cfg
+./SimObjects/Misc/AI_MD80_FSX/aircraft.cfg
+./SimObjects/Misc/AI_MD83_FSX/aircraft.cfg
+./SimObjects/Misc/AI_MD87_FSX/aircraft.cfg
 ./SimObjects/Misc/AI_PA31_Navajo/aircraft.cfg
 ./SimObjects/Misc/AI_Pawnee/aircraft.cfg
 ./SimObjects/Misc/AI_SCCB-B748-CAL/aircraft.cfg
@@ -48,32 +58,30 @@
 ./SimObjects/Misc/FAIB_B737-700_W/aircraft.cfg
 ./SimObjects/Misc/fsp_dc10/aircraft.cfg
 ./SimObjects/Misc/fsp_md11/aircraft.cfg
-./SimObjects/Misc/FTX Aero Commander 500S/aircraft.cfg
-./SimObjects/Misc/FTX Aero Grand Commander 680FL/aircraft.cfg
-./SimObjects/Misc/FTX Airbus A330-200/aircraft.cfg
-./SimObjects/Misc/FTX Airbus A330-300/aircraft.cfg
-./SimObjects/Misc/FTX ATR 42_300/aircraft.cfg
+./SimObjects/Misc/FTX AU Aero Commander 500S/aircraft.cfg
+./SimObjects/Misc/FTX AU Aero Grand Commander 680FL/aircraft.cfg
 ./SimObjects/Misc/FTX AU Airbus A319_100/aircraft.cfg
 ./SimObjects/Misc/FTX AU Airbus A320-200S/aircraft.cfg
 ./SimObjects/Misc/FTX AU Airbus A320_200/aircraft.cfg
 ./SimObjects/Misc/FTX AU Airbus A321_200/aircraft.cfg
 ./SimObjects/Misc/FTX AU Airbus A330-200/aircraft.cfg
 ./SimObjects/Misc/FTX AU Airbus A330-300/aircraft.cfg
+./SimObjects/Misc/FTX AU ATR 42-300/aircraft.cfg
+./SimObjects/Misc/FTX AU BAe 146-100/aircraft.cfg
+./SimObjects/Misc/FTX AU Beechcraft V35 Bonanza/aircraft.cfg
+./SimObjects/Misc/FTX AU Bell 407/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B747-300/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-200LR/aircraft.cfg
+./SimObjects/Misc/FTX AU Boeing B777-300/aircraft.cfg
 ./SimObjects/Misc/FTX AU Boeing B777-300ER/aircraft.cfg
 ./SimObjects/Misc/FTX AU Boeing B787-800/aircraft.cfg
+./SimObjects/Misc/FTX AU Dornier 328-100/aircraft.cfg
+./SimObjects/Misc/FTX AU Douglas DC-3/aircraft.cfg
+./SimObjects/Misc/FTX AU McDonnell-Douglas MD-11/aircraft.cfg
 ./SimObjects/Misc/FTX AU Piper Navajo/aircraft.cfg
-./SimObjects/Misc/FTX BAe 146-100/aircraft.cfg
-./SimObjects/Misc/FTX Beechcraft V35 Bonanza/aircraft.cfg
-./SimObjects/Misc/FTX Bell 407/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B747-300/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B777-200/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B777-200LR/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B777-300/aircraft.cfg
-./SimObjects/Misc/FTX Boeing B777-300ER/aircraft.cfg
-./SimObjects/Misc/FTX Douglas DC-3/aircraft.cfg
-./SimObjects/Misc/FTX McDonnell-Douglas MD-11/aircraft.cfg
-./SimObjects/Misc/FTX Piper Navajo/aircraft.cfg
-./SimObjects/Misc/FTX Piper Seneca/aircraft.cfg
+./SimObjects/Misc/FTX AU Piper Seneca/aircraft.cfg
+./SimObjects/Misc/FTX AU Yak-52/aircraft.cfg
 ./SimObjects/Misc/MAIW_DJC_Metroliner III RSS/aircraft.cfg
 ./SimObjects/Misc/MAIW_DJC_Metroliner III T&T/aircraft.cfg
 ./SimObjects/Misc/MAIW_EAI_Sikorsky S-76 T&T/aircraft.cfg

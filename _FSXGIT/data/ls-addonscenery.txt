@@ -1,5 +1,9 @@
 ./Addon Scenery/
 ./Addon Scenery/Africa
+./Addon Scenery/Africa/Chad
+./Addon Scenery/Africa/Chad/Misc
+./Addon Scenery/Africa/Chad/Misc/scenery
+./Addon Scenery/Africa/Chad/Misc/scenery/projects
 ./Addon Scenery/Africa/KenyaAddonScenery
 ./Addon Scenery/Africa/KenyaAddonScenery/scenery
 ./Addon Scenery/Africa/Scenery
@@ -23,12 +27,23 @@
 ./Addon Scenery/Alaska/Goodnews GNU
 ./Addon Scenery/Alaska/Goodnews GNU/Scenery
 ./Addon Scenery/Alaska/Goodnews GNU/Texture
+./Addon Scenery/Alaska/LHC_Alaska
+./Addon Scenery/Alaska/LHC_Alaska/scenery
+./Addon Scenery/Alaska/LHC_Alaska/texture
+./Addon Scenery/Alaska/LHC_Alaska/texture/Boeing 737-800 Paint6
+./Addon Scenery/Alaska/LHC_Alaska/texture/Boeing 737-800 Paint6;All
+./Addon Scenery/Alaska/LHC_Alaska/texture/Cessna Grand Caravan
+./Addon Scenery/Alaska/LHC_Alaska/texture/Cessna Grand Caravan Paint1;2
+./Addon Scenery/Alaska/LHC_Alaska/texture/Cessna Grand Caravan Paint1;All
+./Addon Scenery/Alaska/LHC_Alaska/texture/Cessna Grand Caravan Paint2;3
+./Addon Scenery/Alaska/LHC_Alaska/texture/Cessna Grand Caravan Paint2;All
+./Addon Scenery/Alaska/LHC_Alaska/texture/Cessna Grand Caravan Paint3;4
+./Addon Scenery/Alaska/LHC_Alaska/texture/Cessna Grand Caravan Paint3;All
+./Addon Scenery/Alaska/LHC_Alaska/texture/Douglas DC-3 Paint5
+./Addon Scenery/Alaska/LHC_Alaska/texture/Douglas DC-3 Paint5;All
 ./Addon Scenery/Alaska/Unalakleet Airport - PAUN
 ./Addon Scenery/Alaska/Unalakleet Airport - PAUN/scenery
 ./Addon Scenery/Alaska/Unalakleet Airport - PAUN/texture
-./Addon Scenery/Alhambra
-./Addon Scenery/Alhambra/scenery
-./Addon Scenery/Alhambra/texture
 ./Addon Scenery/Antarctica
 ./Addon Scenery/Antarctica/McMurdu Station - NZIR
 ./Addon Scenery/Antarctica/McMurdu Station - NZIR/scenery
@@ -244,6 +259,9 @@
 ./Addon Scenery/Canada/CYYJ (2011)/CYYJ/texture/Yak52_red
 ./Addon Scenery/Canada/CYYJ (2011)/Mipmap Manager
 ./Addon Scenery/Canada/CYYJ (2011)/Update Checker
+./Addon Scenery/Canada/Hay River - Merlyn Carter Airport NT CYHY
+./Addon Scenery/Canada/Hay River - Merlyn Carter Airport NT CYHY/scenery
+./Addon Scenery/Canada/Hay River - Merlyn Carter Airport NT CYHY/texture
 ./Addon Scenery/Canada/Kelowna-CYLW
 ./Addon Scenery/Canada/Kelowna-CYLW/scenery
 ./Addon Scenery/Canada/Kelowna-CYLW/texture
@@ -510,9 +528,6 @@
 ./Addon Scenery/FlyTampa-Maarten/Doc
 ./Addon Scenery/FlyTampa-Maarten/scenery
 ./Addon Scenery/FlyTampa-Maarten/texture
-./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY
-./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY/scenery
-./Addon Scenery/Hay River - Merlyn Carter Airport NT CYHY/texture
 ./Addon Scenery/Israel
 ./Addon Scenery/Israel/ISP Eilat Airport
 ./Addon Scenery/Israel/ISP Eilat Airport/Scenery
@@ -578,20 +593,6 @@
 ./Addon Scenery/LatinVFR/Tobago_TTCP/Documentation
 ./Addon Scenery/LatinVFR/Tobago_TTCP/Scenery
 ./Addon Scenery/LatinVFR/Tobago_TTCP/Texture
-./Addon Scenery/LHC_Alaska
-./Addon Scenery/LHC_Alaska/scenery
-./Addon Scenery/LHC_Alaska/texture
-./Addon Scenery/LHC_Alaska/texture/Boeing 737-800 Paint6
-./Addon Scenery/LHC_Alaska/texture/Boeing 737-800 Paint6;All
-./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan
-./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint1;2
-./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint1;All
-./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint2;3
-./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint2;All
-./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint3;4
-./Addon Scenery/LHC_Alaska/texture/Cessna Grand Caravan Paint3;All
-./Addon Scenery/LHC_Alaska/texture/Douglas DC-3 Paint5
-./Addon Scenery/LHC_Alaska/texture/Douglas DC-3 Paint5;All
 ./Addon Scenery/MiddleEast
 ./Addon Scenery/MiddleEast/Cairo_cityX
 ./Addon Scenery/MiddleEast/Cairo_cityX/scenery
@@ -666,6 +667,10 @@
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Transp/Scenery
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Water
 ./Addon Scenery/MiddleEast/Lebanon/Leb_Water/Scenery
+./Addon Scenery/MiddleEast/MiddleEastMesh
+./Addon Scenery/MiddleEast/MiddleEastMesh/docs
+./Addon Scenery/MiddleEast/MiddleEastMesh/docs/Gallery
+./Addon Scenery/MiddleEast/MiddleEastMesh/Scenery
 ./Addon Scenery/MiddleEast/PAPHOS FSXv2
 ./Addon Scenery/MiddleEast/PAPHOS FSXv2/scenery
 ./Addon Scenery/MiddleEast/PAPHOS FSXv2/texture
@@ -681,6 +686,17 @@
 ./Addon Scenery/MiddleEast/Saudi Arabia
 ./Addon Scenery/MiddleEast/Saudi Arabia/Jeddah_OEJN
 ./Addon Scenery/MiddleEast/Saudi Arabia/Jeddah_OEJN/scenery
+./Addon Scenery/MiddleEast/Syria
+./Addon Scenery/MiddleEast/Syria/Damascus Airport Extreme 2014
+./Addon Scenery/MiddleEast/Syria/Damascus Airport Extreme 2014/scenery
+./Addon Scenery/MiddleEast/Syria/Damascus Airport Extreme 2014/Texture
+./Addon Scenery/MiddleEast/Syria/Latakia airport 2014
+./Addon Scenery/MiddleEast/Syria/Latakia airport 2014/scenery
+./Addon Scenery/MiddleEast/Syria/Latakia airport 2014/texture
+./Addon Scenery/MiddleEast/Syria/Latakia airport 2014/texture/Ilyushin Il-76TD Syrian Air YK-ATB;1
+./Addon Scenery/MiddleEast/Syria/Latakia airport 2014/texture/SAF-MI-17
+./Addon Scenery/MiddleEast/Syria/Latakia airport 2014/texture/Syrianair Tupolev Tu-134B-3
+./Addon Scenery/MiddleEast/Syria/Latakia airport 2014/texture/Syrianair Yakovlev Yak-40;1
 ./Addon Scenery/MiddleEast/Turkey
 ./Addon Scenery/MiddleEast/Turkey/LBTA-Coast
 ./Addon Scenery/MiddleEast/Turkey/LBTA-Coast/scenery
@@ -1067,6 +1083,8 @@
 ./Addon Scenery/UK/EGYM
 ./Addon Scenery/UK/EGYM/Scenery
 ./Addon Scenery/UK/EGYM/Texture
+./Addon Scenery/UK/Glasgow_egpf_fsx
+./Addon Scenery/UK/Glasgow_egpf_fsx/scenery
 ./Addon Scenery/UK/Jersey
 ./Addon Scenery/UK/Jersey/Scenery
 ./Addon Scenery/UK/Jersey/Texture
@@ -1126,6 +1144,9 @@
 ./Addon Scenery/United Kingdom/RAF Waddington V-Force/Scenery/traffic
 ./Addon Scenery/United Kingdom/RAF Waddington V-Force/Texture
 ./Addon Scenery/USA
+./Addon Scenery/USA/Alhambra
+./Addon Scenery/USA/Alhambra/scenery
+./Addon Scenery/USA/Alhambra/texture
 ./Addon Scenery/USA/BlueSky-CaliforniaPhotoreal
 ./Addon Scenery/USA/BlueSky-CaliforniaPhotoreal/Scenery
 ./Addon Scenery/USA/BlueSky-CaliforniaPhotoreal/Texture
@@ -1156,6 +1177,9 @@
 ./Addon Scenery/USA/FP_Groom_Lake_Nevada/SRC
 ./Addon Scenery/USA/Hawaiian Airports Misc
 ./Addon Scenery/USA/Hawaiian Airports Misc/scenery
+./Addon Scenery/USA/Hawaiian Airports Misc/texture
+./Addon Scenery/USA/Hawaiian Airports Misc/texture/TFS Dash8-200 Prototype
+./Addon Scenery/USA/Hawaiian Airports Misc/_DEL
 ./Addon Scenery/USA/Hawaiian Islands - Kauai
 ./Addon Scenery/USA/Hawaiian Islands - Kauai/scenery
 ./Addon Scenery/USA/Hawaiian Islands_Seasons

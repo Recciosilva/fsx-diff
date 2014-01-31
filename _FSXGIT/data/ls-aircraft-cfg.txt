@@ -46,6 +46,7 @@
 ./SimObjects/Airplanes/Alabeo PITTS S2S/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo Sukhoi 26/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo WACO_YMF5/aircraft.cfg
+./SimObjects/Airplanes/AN-32/aircraft.cfg
 ./SimObjects/Airplanes/Ants Tiger Moth/aircraft.cfg
 ./SimObjects/Airplanes/Auster J1 Autocrat/aircraft.cfg
 ./SimObjects/Airplanes/B-25J RAF MkII/aircraft.cfg
@@ -56,10 +57,12 @@
 ./SimObjects/Airplanes/Beaufighter/aircraft.cfg
 ./SimObjects/Airplanes/beech_baron_58/aircraft.cfg
 ./SimObjects/Airplanes/Beech_King_Air_350/aircraft.cfg
+./SimObjects/Airplanes/Boeing Model80/aircraft.cfg
 ./SimObjects/Airplanes/Bombardier_CRJ_700/aircraft.cfg
 ./SimObjects/Airplanes/C172/aircraft.cfg
 ./SimObjects/Airplanes/C208B/aircraft.cfg
 ./SimObjects/Airplanes/C46/aircraft.cfg
+./SimObjects/Airplanes/C604_PAD/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Airbus 350-900 V4/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-8 V3/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-9 V3/aircraft.cfg
@@ -195,7 +198,11 @@
 ./SimObjects/Airplanes/IRIS P-40 Kittyhawk/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/aircraft.cfg
+./SimObjects/Airplanes/ISDT_ATR42-300/aircraft.cfg
+./SimObjects/Airplanes/ISDT_ATR42-500/aircraft.cfg
+./SimObjects/Airplanes/ISDT_ATR72-500/aircraft.cfg
 ./SimObjects/Airplanes/J-21/aircraft.cfg
+./SimObjects/Airplanes/JF_800XP/aircraft.cfg
 ./SimObjects/Airplanes/jf_C152/aircraft.cfg
 ./SimObjects/Airplanes/JF_C69/aircraft.cfg
 ./SimObjects/Airplanes/JF_Douglas_AC47/aircraft.cfg
@@ -252,6 +259,8 @@
 ./SimObjects/Airplanes/Project Airbus A380-800/aircraft.cfg
 ./SimObjects/Airplanes/Projet Noratlas/aircraft.cfg
 ./SimObjects/Airplanes/RAAF CT-4A/aircraft.cfg
+./SimObjects/Airplanes/RealAir SF-260/aircraft.cfg
+./SimObjects/Airplanes/RealAir SF-260 Left Seat/aircraft.cfg
 ./SimObjects/Airplanes/RF F6F_Hellcat/aircraft.cfg
 ./SimObjects/Airplanes/Riva Aquarama/aircraft.cfg
 ./SimObjects/Airplanes/RNZAF CT4Ev2/aircraft.cfg
@@ -264,6 +273,7 @@
 ./SimObjects/Airplanes/Rutan_Boomerang/aircraft.cfg
 ./SimObjects/Airplanes/Ryan ST-M/aircraft.cfg
 ./SimObjects/Airplanes/Saab340_PAD/aircraft.cfg
+./SimObjects/Airplanes/Scottish Aviation Twin Pioneer/aircraft.cfg
 ./SimObjects/Airplanes/SE5/aircraft.cfg
 ./SimObjects/Airplanes/SimCheck A300B4-200/aircraft.cfg
 ./SimObjects/Airplanes/Sopwith_Camel/aircraft.cfg

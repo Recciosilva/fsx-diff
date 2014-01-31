@@ -1,3 +1,5 @@
+./scenery/World/Scenery/ADE_FTX_ENG_EGDJ_elevation_adjustment.OFF
+./scenery/World/Scenery/ADE_FTX_ENG_EGDP_elevation_adjustment.OFF
 ./scenery/World/Scenery/ADE_FTX_NZNI_NZAG_elevation_adjustment.BGL
 ./scenery/World/Scenery/ADE_FTX_NZNI_NZAP_elevation_adjustment.BGL
 ./scenery/World/Scenery/ADE_FTX_NZNI_NZCX_elevation_adjustment.BGL
@@ -797,6 +799,7 @@
 ./scenery/World/Scenery/FTX/ADE_FTX_PNW_WN65_elevation_adjustment.OFF
 ./scenery/World/Scenery/FTX/Traffic_FTX GA Traffic.bgl
 ./scenery/World/Scenery/FTX/Traffic_FTX International Airlines.bgl.OFF
+./scenery/World/Scenery/Gdansk Rebiechowo EPGD_ARP.BGL
 ./scenery/World/Scenery/GLOBAL/Traffic_000_WoA_Air Bridge Cargo_Wi11_FSX.bgl
 ./scenery/World/Scenery/GLOBAL/Traffic_000_WoA_Cargolux Airlines International_Su08_FSX.bgl
 ./scenery/World/Scenery/GLOBAL/Traffic_000_WoA_DHL Air_Su08_FSX.bgl
@@ -1270,6 +1273,8 @@
 ./scenery/World/Scenery/PACIFIC/Traffic_RoyalTonga_FSX.bgl
 ./scenery/World/Scenery/PACIFIC/Traffic_VOZ_FSX.bgl
 ./scenery/World/Scenery/PACIFIC/YCCT_ADEX_aero_ALT.BGL
+./scenery/World/Scenery/Pyrzowice EPKT_ARP.bgl
+./scenery/World/Scenery/Rzeszow EPRJ_ARP.BGL
 ./scenery/World/Scenery/switch.bat
 ./scenery/World/Scenery/TahitiX_AirTraffic.bgl
 ./scenery/World/Scenery/TahitiX_BoatTraffic.bgl

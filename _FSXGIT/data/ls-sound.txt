@@ -116,6 +116,7 @@
 ./Sound/bnsplas2.wav
 ./Sound/BoatWaterLOOP.wav
 ./Sound/Brownmgun.wav
+./Sound/busy_apron.wav
 ./Sound/C47_Sound
 ./Sound/C47_Sound/button.wav
 ./Sound/C47_Sound/cabin.wav
@@ -2228,6 +2229,7 @@
 ./Sound/MilViz/SND7.wav
 ./Sound/MilViz/SND8.wav
 ./Sound/MilViz/SND9.wav
+./Sound/motorway.wav
 ./Sound/MRSDAHH.wav
 ./Sound/MRSDAHL.wav
 ./Sound/MRSDITH.wav
@@ -2741,6 +2743,7 @@
 ./Sound/rumblp.wav
 ./Sound/SFX_AvalancheCharge.wav
 ./Sound/SFX_ExpFire.wav
+./Sound/sfx_herringgulls.wav
 ./Sound/SFX_MetalImpact.wav
 ./Sound/SFX_MetalSplash.wav
 ./Sound/SFX_MuzzleFlash.wav

@@ -22,7 +22,6 @@
 ./Aircraft Factory
 ./airlines.cfg
 ./AirObjectVisuals.xml
-./Airplanes
 ./AivlaSoft
 ./ai_player.dll
 ./api.dll
@@ -216,6 +215,7 @@
 ./readme.rtf
 ./Real NZ Nelson FSX.url
 ./Real NZ Tauranga.url
+./RealAir
 ./RealNZTGuninst.exe
 ./Remove Bendix Radios.exe
 ./Remove SAAB105 for FSX.exe
@@ -226,6 +226,7 @@
 ./SBD_Uninstal.exe
 ./Scenery
 ./scenery.cfg
+./SceneryTech
 ./scenery_FSAD_DR.bak
 ./Schema.ini
 ./script
@@ -245,6 +246,7 @@
 ./Sounds
 ./Standard.xml
 ./stars.dat
+./STBackups
 ./Storch_uninstall.exe
 ./Substitutions
 ./suneffect.cfg
@@ -344,7 +346,8 @@
 ./Uninstall PNG Bush Flying.exe
 ./Uninstall Ryan PT 22.exe
 ./Uninstall STM_Alpha.$$A
-./uninstall.exe
+./Uninstall.exe
+./Uninstall.ini
 ./UninstallFSDC337.exe
 ./UninstallFSDO2A.exe
 ./uninstallP46T.exe
