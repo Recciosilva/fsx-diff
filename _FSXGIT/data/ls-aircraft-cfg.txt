@@ -195,9 +195,13 @@
 ./SimObjects/Airplanes/IRIS AIM-120/aircraft.cfg
 ./SimObjects/Airplanes/IRIS AIM-9/aircraft.cfg
 ./SimObjects/Airplanes/IRIS C-27J Spartan/aircraft.cfg
+./SimObjects/Airplanes/IRIS CRJ-200/aircraft.cfg
+./SimObjects/Airplanes/IRIS CRJ-900/aircraft.cfg
+./SimObjects/Airplanes/IRIS Global Express/aircraft.cfg
 ./SimObjects/Airplanes/IRIS P-40 Kittyhawk/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/aircraft.cfg
+./SimObjects/Airplanes/IRIS Sentinel R.1/aircraft.cfg
 ./SimObjects/Airplanes/ISDT_ATR42-300/aircraft.cfg
 ./SimObjects/Airplanes/ISDT_ATR42-500/aircraft.cfg
 ./SimObjects/Airplanes/ISDT_ATR72-500/aircraft.cfg

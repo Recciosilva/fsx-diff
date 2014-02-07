@@ -1,32 +1,19 @@
 ./
+./Gauges/a333cls_config.ini
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
-./modules/WideServer0.log
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/2014-1-31_ZK-FML.jpg
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Alabeo_PA38_ZK-FML.zip
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/README.txt
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/screenshot.jpg
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/pato_ext1.dds
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/pato_ext2.dds
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/pato_ext3.dds
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/thumbnail.jpg
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext1.bmp
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext1.xcf
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext2-ALPHA.bmp
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext2-lines-alpha.bmp
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext2.bmp
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext2.xcf
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext3.bmp
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/pato_ext3.xcf
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/screenshot-big.jpg
-./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/working/screenshot.xcf
-./SimObjects/Misc/FTX AU Piper Seneca/aircraft.cfg
+./ORBX/Scripts/Backup
+./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
+./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
+./Scenery/World/Scenery
+./SimObjects/Airplanes/CLS_A330_200_GE/Aircraft.cfg
+./SimObjects/Airplanes/CLS_A330_200_RR/Aircraft.cfg
+./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
+./terrain.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

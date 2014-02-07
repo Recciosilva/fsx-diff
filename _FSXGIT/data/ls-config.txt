@@ -308,6 +308,7 @@
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.MEAODMRL/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.SpanairECJJD/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.SyrianAirYKAKA/texture.cfg
+./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.THAISmileHSTXA/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.TurkishTCJPK/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.UnitedAirlinesN405UA/texture.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended IAE/Texture.USAirwaysN629AW/texture.cfg
@@ -734,7 +735,10 @@
 ./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.4/texture.cfg
 ./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.5/texture.cfg
 ./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.6/texture.cfg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.wac/texture.cfg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-evl/texture.cfg
 ./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.zk-fml/texture.cfg
+./SimObjects/Airplanes/Alabeo PA38_Tomahawk/Texture.ZKEQH/texture.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/aircraft.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/model/model.cfg
 ./SimObjects/Airplanes/Alabeo PITTS S2S/panel/panel.cfg
@@ -3187,6 +3191,16 @@
 ./SimObjects/Airplanes/IRIS Christen Eagle II/Texture.N83DS/texture.cfg
 ./SimObjects/Airplanes/IRIS Christen Eagle II/Texture.VH-DRB/texture.cfg
 ./SimObjects/Airplanes/IRIS Christen Eagle II/Texture.VH-KAZ/texture.cfg
+./SimObjects/Airplanes/IRIS CRJ-200/aircraft.cfg
+./SimObjects/Airplanes/IRIS CRJ-200/model/model.cfg
+./SimObjects/Airplanes/IRIS CRJ-200/panel/panel.cfg
+./SimObjects/Airplanes/IRIS CRJ-200/sound/sound.cfg
+./SimObjects/Airplanes/IRIS CRJ-200/texture/texture.cfg
+./SimObjects/Airplanes/IRIS CRJ-900/aircraft.cfg
+./SimObjects/Airplanes/IRIS CRJ-900/model/model.cfg
+./SimObjects/Airplanes/IRIS CRJ-900/panel/panel.cfg
+./SimObjects/Airplanes/IRIS CRJ-900/sound/sound.cfg
+./SimObjects/Airplanes/IRIS CRJ-900/texture/texture.cfg
 ./SimObjects/Airplanes/IRIS DA-40 Diamond Star 2/Aircraft.cfg
 ./SimObjects/Airplanes/IRIS DA-40 Diamond Star 2/Model.XLS_2_NoSpats/model.cfg
 ./SimObjects/Airplanes/IRIS DA-40 Diamond Star 2/Model.XLS_2_Spats/model.cfg
@@ -3275,6 +3289,11 @@
 ./SimObjects/Airplanes/IRIS F-22 Raptor/texture.HH046/texture.cfg
 ./SimObjects/Airplanes/IRIS F-22 Raptor/texture.TBIRD/texture.cfg
 ./SimObjects/Airplanes/IRIS F-22 Raptor/texture.ZJ635/texture.cfg
+./SimObjects/Airplanes/IRIS Global Express/aircraft.cfg
+./SimObjects/Airplanes/IRIS Global Express/model/model.cfg
+./SimObjects/Airplanes/IRIS Global Express/panel/panel.cfg
+./SimObjects/Airplanes/IRIS Global Express/sound/sound.cfg
+./SimObjects/Airplanes/IRIS Global Express/texture/texture.cfg
 ./SimObjects/Airplanes/IRIS P-40 Kittyhawk/aircraft.cfg
 ./SimObjects/Airplanes/IRIS P-40 Kittyhawk/model.P-40E_1/Model.cfg
 ./SimObjects/Airplanes/IRIS P-40 Kittyhawk/model.P-40N_1_nonspec/Model.cfg
@@ -3315,6 +3334,11 @@
 ./SimObjects/Airplanes/IRIS PC-9A/texture.facdu/texture.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/texture.raaf_bicentennial/texture.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/texture.roulettes/texture.cfg
+./SimObjects/Airplanes/IRIS Sentinel R.1/aircraft.cfg
+./SimObjects/Airplanes/IRIS Sentinel R.1/model.R1/model.cfg
+./SimObjects/Airplanes/IRIS Sentinel R.1/panel/panel.cfg
+./SimObjects/Airplanes/IRIS Sentinel R.1/sound/sound.cfg
+./SimObjects/Airplanes/IRIS Sentinel R.1/texture/texture.cfg
 ./SimObjects/Airplanes/ISDT_ATR42-300/aircraft.cfg
 ./SimObjects/Airplanes/ISDT_ATR42-300/model/model.cfg
 ./SimObjects/Airplanes/ISDT_ATR42-300/panel/panel.cfg

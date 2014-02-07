@@ -752,6 +752,9 @@
 ./Addon Scenery/NZ/Christchurch-photoreal/texture
 ./Addon Scenery/NZ/Dunedin_NZDN
 ./Addon Scenery/NZ/Dunedin_NZDN/scenery
+./Addon Scenery/NZ/Fox Glacier ORBX
+./Addon Scenery/NZ/Fox Glacier ORBX/scenery
+./Addon Scenery/NZ/Fox Glacier ORBX/texture
 ./Addon Scenery/NZ/GreatbarrierIslandX
 ./Addon Scenery/NZ/GreatbarrierIslandX/scenery
 ./Addon Scenery/NZ/GreatbarrierIslandX/texture
@@ -780,6 +783,9 @@
 ./Addon Scenery/NZ/Northland-fsx
 ./Addon Scenery/NZ/Northland-fsx/scenery
 ./Addon Scenery/NZ/Northland-fsx/texture
+./Addon Scenery/NZ/NZ Haast ORBX
+./Addon Scenery/NZ/NZ Haast ORBX/Scenery
+./Addon Scenery/NZ/NZ Haast ORBX/texture
 ./Addon Scenery/NZ/NZ22_Chateau-4X
 ./Addon Scenery/NZ/NZ22_Chateau-4X/Scenery
 ./Addon Scenery/NZ/NZ22_Chateau-4X/Texture

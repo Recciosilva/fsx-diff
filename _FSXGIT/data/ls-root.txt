@@ -129,6 +129,7 @@
 ./IRIMG1.JPG
 ./IRIMG2.JPG
 ./IRIMG3.JPG
+./IRIS
 ./IRIS AudioworX
 ./IRIS Classics
 ./IRIS Platinum Series
@@ -186,7 +187,6 @@
 ./Navigraph
 ./ndas350fsxuninst.exe
 ./Nemeth Designs
-./NemethDesigns
 ./NZSIftxPatchUninst.exe
 ./ORBX
 ./OZx
