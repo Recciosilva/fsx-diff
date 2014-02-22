@@ -402,6 +402,7 @@
 ./VectorLandClass_AIShipping
 ./VectorLandClass_ChathamIsland
 ./VectorLandClass_DTM
+./Victorious 1.00.exe
 ./Virtavia
 ./Virtualcol FS Software
 ./VistaMare

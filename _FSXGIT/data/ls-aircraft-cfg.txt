@@ -202,6 +202,8 @@
 ./SimObjects/Airplanes/IRIS PC-9/aircraft.cfg
 ./SimObjects/Airplanes/IRIS PC-9A/aircraft.cfg
 ./SimObjects/Airplanes/IRIS Sentinel R.1/aircraft.cfg
+./SimObjects/Airplanes/IRIS T-6A Texan II NTA SP2/aircraft.cfg
+./SimObjects/Airplanes/IRIS T-6A Texan II SP2/aircraft.cfg
 ./SimObjects/Airplanes/ISDT_ATR42-300/aircraft.cfg
 ./SimObjects/Airplanes/ISDT_ATR42-500/aircraft.cfg
 ./SimObjects/Airplanes/ISDT_ATR72-500/aircraft.cfg

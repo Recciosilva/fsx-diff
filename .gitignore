@@ -1,9 +1,11 @@
 *.bak
 *.bmp
+*.csv
 *.dat
 *.dll
 *.exe
 *.ins
+*.ico
 *.ini
 *.lng
 *.htm
@@ -32,12 +34,14 @@ A2A/
 ACG/
 A300B4/
 A320PIC/
+Addon Modules/
 Addon Scenery/
 Aircraft Factory/
 AivlaSoft/
 Autogen/
 BluePrint Simulations/
 CLS/
+CLS_A330_A340_FSX_remove
 Captain_Sim/
 Carenado/
 Classics Hangar/
@@ -59,6 +63,7 @@ Golden Age Simulations/
 IRIMG1.JPG
 IRIMG2.JPG
 IRIMG3.JPG
+IRIS/
 IRIS AudioworX/
 IRIS Classics/
 IRIS Platinum Series/
@@ -75,8 +80,8 @@ Lessons/
 Level-D Simulations/
 Licenses/
 Missions/
+Military AI Works/
 modules/
-CLS_A330_A340_FSX_remove
 Navigraph/
 Nemeth Designs/
 NemethDesigns/
@@ -87,9 +92,12 @@ PMDG/
 PS Panels/
 Project Tupolev/
 Qualitywings/
+RAASPRO/
 RAZBAM/
+RealAir/
 Rewards/
 Scenery/
+SceneryTech/
 script/
 Setup/
 Shade/
@@ -97,6 +105,7 @@ ShadersHLSL/
 SimMarket/
 SimObjects/
 Sound/
+Sounds/
 Texture/
 TropicalSim/
 UK2000 scenery/
@@ -111,5 +120,6 @@ Virtualcol FS Software/
 VistaMare/
 VLC*/
 Weather/
+WILCO/
 messages/
 vasfmc/

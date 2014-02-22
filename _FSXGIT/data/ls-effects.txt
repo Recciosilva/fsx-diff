@@ -63,9 +63,13 @@
 ./Effects/apron ground general guam.fx
 ./Effects/apron ground guam.fx
 ./Effects/apron ground.fx
+./Effects/Apronlight_RVV.fx
 ./Effects/Apron_Flood_11.fx
 ./Effects/Avalon_fx_Apron_light.fx
 ./Effects/Avalon_fx_Apron_lightY.fx
+./Effects/A_RsvR.fx
+./Effects/A_RsvR2.fx
+./Effects/A_RVV_streetlight2.fx
 ./Effects/Bf-109_cgun.fx
 ./Effects/Bf-109_mgunL.fx
 ./Effects/Bf-109_mgunR.fx
@@ -223,6 +227,8 @@
 ./Effects/DC6_EngStart.fx
 ./Effects/effects.CFG
 ./Effects/EMB110_start.fx
+./Effects/ETUO_floodlights.fx
+./Effects/ETUO_floodlights_buildings.fx
 ./Effects/E_LT_Beacon.fx
 ./Effects/E_LT_LL.fx
 ./Effects/E_LT_LL_Splash.fx
@@ -599,6 +605,10 @@
 ./Effects/fx_ENVAfloodlight2.fx
 ./Effects/fx_ENVAred.fx
 ./Effects/fx_ENVAtaxilight.fx
+./Effects/fx_ETUO_APPROACH_LIGHTS.fx
+./Effects/fx_ETUO_floodlights.fx
+./Effects/fx_ETUO_floodlights_buildings.fx
+./Effects/fx_ETUO_OBS_BEACON.fx
 ./Effects/fx_exhaust.fx
 ./Effects/fx_explosion.fx
 ./Effects/fx_explosionFire.fx
@@ -705,6 +715,9 @@
 ./Effects/fx_ForestSteamHuge.fx
 ./Effects/fx_ForestSteamLarge.fx
 ./Effects/fx_formation_DG.fx
+./Effects/fx_fsbowwave.fx
+./Effects/fx_fsbrightamber.fx
+./Effects/fx_fsbrightgreen.fx
 ./Effects/fx_FSDT_KFLLLGT.fx
 ./Effects/fx_FSDT_KFLLLRED.fx
 ./Effects/fx_FSDT_KFLL_SMOKE.fx
@@ -716,6 +729,12 @@
 ./Effects/fx_FSDT_PHNLRED.fx
 ./Effects/fx_FSDT_PHOGLGT.fx
 ./Effects/fx_FSDT_PHOGRED.fx
+./Effects/fx_fsflashingred.fx
+./Effects/fx_fsfunnelsmoke.fx
+./Effects/fx_fsnavdimgre.fx
+./Effects/fx_fsnavdimred.fx
+./Effects/fx_fsnavdimwhi.fx
+./Effects/fx_fssteamthin.fx
 ./Effects/fx_FSXBA_AB.fx
 ./Effects/fx_FTX_ENG_Lighthouse_white_x2.fx
 ./Effects/fx_FTX_NZSI_Lighthouse_white_6s_solid.fx
@@ -907,6 +926,17 @@
 ./Effects/fx_iris_smoke.fx
 ./Effects/fx_iris_staticbeacon.fx
 ./Effects/fx_iris_strobe.fx
+./Effects/fx_iris_t6_engfire.fx
+./Effects/fx_iris_t6_landinglight.fx
+./Effects/fx_iris_t6_navgreen.fx
+./Effects/fx_iris_t6_navred.fx
+./Effects/fx_iris_t6_navwhite.fx
+./Effects/fx_iris_t6_smoke.fx
+./Effects/fx_iris_t6_strobe.fx
+./Effects/fx_iris_t6_vclight_red.fx
+./Effects/fx_iris_t6_vclight_tq.fx
+./Effects/fx_iris_t6_vclight_yellow.fx
+./Effects/fx_iris_t6_vortex.fx
 ./Effects/fx_iris_vclight_green.fx
 ./Effects/fx_iris_vclight_orange.fx
 ./Effects/fx_iris_vclight_red.fx
@@ -2031,6 +2061,7 @@
 ./Effects/Pz339_fx_WVortex.fx
 ./Effects/QW757_contrail.fx
 ./Effects/QW757_wingscan.fx
+./Effects/QW_beacon.fx
 ./Effects/QW_vclight.fx
 ./Effects/QW_vclight_big.fx
 ./Effects/RASSF260_beacon.fx
@@ -2105,6 +2136,8 @@
 ./Effects/texture/ACG_SL_People.bmp
 ./Effects/texture/Aerosoft_EGLC_grlight_taxi_sm.bmp
 ./Effects/texture/Aerosoft_LCLK_Spots_1.bmp
+./Effects/texture/Apronlight_RVV.bmp
+./Effects/texture/Apronlight_RVV_sm.bmp
 ./Effects/texture/Apron_Flood_11.bmp
 ./Effects/texture/apron_glow.bmp
 ./Effects/texture/avalonFX2.bmp
@@ -2313,6 +2346,7 @@
 ./Effects/texture/fx_swoosh2.bmp
 ./Effects/texture/fx_t6_light.bmp
 ./Effects/texture/fx_t6_rays.bmp
+./Effects/texture/fx_t6_vortex.bmp
 ./Effects/texture/fx_taxi.bmp
 ./Effects/texture/fx_TFF_Red_Flame_2b.bmp
 ./Effects/texture/fx_tracer.bmp
@@ -2380,6 +2414,7 @@
 ./Effects/texture/people.bmp
 ./Effects/texture/phpbeam.bmp
 ./Effects/texture/projecteurb.bmp
+./Effects/texture/pspbrwse.jbf
 ./Effects/texture/QW_fx.bmp
 ./Effects/texture/Razbam_aniburner.bmp
 ./Effects/texture/Razbam_burner1.bmp
@@ -2391,6 +2426,8 @@
 ./Effects/texture/RFC.bmp
 ./Effects/texture/rocket.bmp
 ./Effects/texture/rospot.bmp
+./Effects/texture/RsvR.bmp
+./Effects/texture/RsvR2.bmp
 ./Effects/texture/sparks.bmp
 ./Effects/texture/spotlight.bmp
 ./Effects/texture/sr_burn.bmp

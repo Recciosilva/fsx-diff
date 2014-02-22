@@ -43,6 +43,7 @@
 ./modules/LVLD.dll
 ./modules/LVLD.DLL_for_ SimConnect_1.zip
 ./modules/Meggitt2100.MCRO
+./modules/SimConnectP3D2.dll
 ./modules/TrafficInfo.DLL
 ./modules/uipchist.bin
 ./modules/vasfmc.mcro

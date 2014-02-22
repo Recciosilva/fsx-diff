@@ -100,6 +100,7 @@
 ./Texture/alpha.r8
 ./Texture/Ants_Ballina_Autogen.dds
 ./Texture/Ants_Ballina_AutogenLM.dds
+./Texture/Apron_Flood_10.bmp
 ./Texture/aptsign.bmp
 ./Texture/ap_tb1_2.bmp
 ./Texture/ap_tb1_2_bump.dds
@@ -696,6 +697,7 @@
 ./Texture/earth1.bmp
 ./Texture/earth2.bmp
 ./Texture/envmap.bmp
+./Texture/ETUO_floodlights.bmp
 ./Texture/eywautogen.bmp
 ./Texture/eywautogenlm.bmp
 ./Texture/f16c_l.bmp

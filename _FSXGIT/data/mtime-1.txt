@@ -1,5 +1,5 @@
 ./
-./Gauges/a333cls_config.ini
+./Gauges/Qw757_TCAS.ini
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
@@ -10,9 +10,12 @@
 ./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
 ./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
 ./Scenery/World/Scenery
-./SimObjects/Airplanes/CLS_A330_200_GE/Aircraft.cfg
-./SimObjects/Airplanes/CLS_A330_200_RR/Aircraft.cfg
-./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
+./Scenery/World/Scenery/AFRICA_MIDEAST
+./Scenery/World/Scenery/EUROPE_UK
+./Scenery/World/Scenery/MISC
+./Scenery/World/Scenery/NORTH_SOUTH_AMERICA
+./Scenery/World/Scenery/PACIFIC
+./Scenery/World/Scenery/switch.bat
 ./terrain.cfg
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg

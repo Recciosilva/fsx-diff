@@ -5,6 +5,12 @@
   <Disabled>False</Disabled>
   <Launch.ManualLoad>False</Launch.ManualLoad>
   <Launch.Addon>
+    <Name>FSUIPC 4</Name>
+    <Disabled>False</Disabled>
+    <ManualLoad>False</ManualLoad>
+    <Path>Modules\FSUIPC4.dll</Path>
+  </Launch.Addon>
+  <Launch.Addon>
     <Name>Addon Manager</Name>
     <Disabled>False</Disabled>
     <ManualLoad>False</ManualLoad>
@@ -171,11 +177,6 @@
     <Path>Addon Modules\HJJ_HUD.dll</Path>
     <DllStartName>module_init</DllStartName>
     <DllStopName>module_deinit</DllStopName>
-  </Launch.Addon>
-  <Launch.Addon>
-    <Name>FSUIPC 4</Name>
-    <Disabled>False</Disabled>
-    <Path>Modules\FSUIPC4.dll</Path>
   </Launch.Addon>
   <Launch.Addon>
     <Name>FSCopilot</Name>
