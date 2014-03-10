@@ -26,6 +26,7 @@
 ./Texture/AirportHangars_Small_lm.dds
 ./Texture/AirportHangars_Small_specular.dds
 ./Texture/AirportParkingSpace.dds
+./Texture/air_ms_tsa.bmp
 ./Texture/air_tb1_2.dds
 ./Texture/air_tb1_2_bump.dds
 ./Texture/air_tb1_2_lm.dds
@@ -1633,6 +1634,8 @@
 ./Texture/swamp.r8
 ./Texture/swamp_m.r8
 ./Texture/synfarm.r8
+./Texture/t2g2.dds
+./Texture/t2g2lm.dds
 ./Texture/tanroof.dds
 ./Texture/tanroof2.dds
 ./Texture/tanroof2_bump.dds

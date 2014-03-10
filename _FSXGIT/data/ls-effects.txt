@@ -252,6 +252,9 @@
 ./Effects/flytampa_aiship_wake_small.fx
 ./Effects/flytampa_aiship_wake_tiny.fx
 ./Effects/flytampa_barth_smoke.fx
+./Effects/flytampa_kbuf_fountain.fx
+./Effects/flytampa_kbuf_fountain_low.fx
+./Effects/flytampa_kbuf_fountain_mid.fx
 ./Effects/flytampa_maho_dust.fx
 ./Effects/flytampa_maho_dust_cntrl.fx
 ./Effects/flytampa_maho_wave.fx
@@ -2128,6 +2131,7 @@
 ./Effects/su_combustion_start.fx
 ./Effects/SyriaSim_glow.fx
 ./Effects/SyriaSim_light_flood.fx
+./Effects/taxi2gate_lightpole1.fx
 ./Effects/tdsb8_wing_light.fx
 ./Effects/tdsnose_gearwell.fx
 ./Effects/texture
@@ -2211,6 +2215,7 @@
 ./Effects/texture/ft_E1X5_2.bmp
 ./Effects/texture/FWI_halo.bmp
 ./Effects/texture/fx_1.bmp
+./Effects/texture/fx_1_FT.bmp
 ./Effects/texture/fx_2.bmp
 ./Effects/texture/fx_208car.bmp
 ./Effects/texture/fx_208car2.bmp
@@ -2224,6 +2229,7 @@
 ./Effects/texture/fx_2o.bmp
 ./Effects/texture/fx_2sarat.bmp
 ./Effects/texture/fx_2_EZ.bmp
+./Effects/texture/fx_2_FT.bmp
 ./Effects/texture/fx_2_orbx.bmp
 ./Effects/texture/fx_2_orbx_obs.bmp
 ./Effects/texture/fx_2_orbx_obs_hs.bmp
@@ -2433,6 +2439,7 @@
 ./Effects/texture/sr_burn.bmp
 ./Effects/texture/sr_flame.bmp
 ./Effects/texture/su_tracer.bmp
+./Effects/texture/taxi2gate_lightpole1.bmp
 ./Effects/texture/Thumbs.db
 ./Effects/texture/TR2.bmp
 ./Effects/texture/TR2_b.bmp

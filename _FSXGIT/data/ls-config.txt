@@ -216,6 +216,7 @@
 ./SimMarket/EKCH Copenhagen Kastrup X/oldscenery.cfg
 ./SimMarket/Latin VFR MKJP FSX/oldscenery.cfg
 ./SimMarket/Malta Intl Airport v2/oldscenery.cfg
+./SimMarket/MMMX-T2G/oldscenery.cfg
 ./SimMarket/Ni Hao Macau - Macau Intl Airport FSX/oldscenery.cfg
 ./SimMarket/PhuketIntFSX/oldscenery.cfg
 ./SimObjects/Airplanes/50N Boeing 737-300/aircraft.cfg
@@ -3999,13 +4000,30 @@
 ./SimObjects/Airplanes/Nieuport_17/model.lewis/model.cfg
 ./SimObjects/Airplanes/Nieuport_17/panel/panel.cfg
 ./SimObjects/Airplanes/Nieuport_17/sound/sound.cfg
-./SimObjects/Airplanes/P-3C_V29/Aircraft.cfg
-./SimObjects/Airplanes/P-3C_V29/model/model.cfg
-./SimObjects/Airplanes/P-3C_V29/model.v2 non pod/model.cfg
-./SimObjects/Airplanes/P-3C_V29/model.v2 non pod VC/model.cfg
-./SimObjects/Airplanes/P-3C_V29/model.VC/model.cfg
-./SimObjects/Airplanes/P-3C_V29/panel/panel.cfg
-./SimObjects/Airplanes/P-3C_V29/sound/Sound.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/Aircraft.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model.JMSDF_Type0/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model.JMSDF_Type1/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model.JMSDF_Type2/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model.JMSDF_Type3/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model.USN_Type0/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model.USN_Type1/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model.USN_Type2/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/model.USN_Type3/model.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/panel.The general-purpose virtual cockpit for the P-3 series/panel.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/sound/Sound.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.canada/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.JMSDF 5035/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.JMSDF 5040/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.JMSDF 5098/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.JMSDF Shimofusa/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.RNZAF Grey/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.US NAVY/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.US NAVY VP-11 former color/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.US NAVY VP-47/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.US NAVY VP-5/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.US NAVY VP-8 APS-149 LSRS/texture.cfg
+./SimObjects/Airplanes/P-3C_ORION_FSX/texture.US NAVY_Low_visibility/texture.cfg
 ./SimObjects/Airplanes/P-51D_Little_Friends/Aircraft.cfg
 ./SimObjects/Airplanes/P-51D_Little_Friends/Alternative Aircraft.CFG File/Aircraft.cfg
 ./SimObjects/Airplanes/P-51D_Little_Friends/Model.Baby Duck/model.cfg
@@ -4407,6 +4425,11 @@
 ./SimObjects/Airplanes/Project Airbus A380-800/panel.Rinaldi/panel.cfg
 ./SimObjects/Airplanes/Project Airbus A380-800/panel.vasfmc/panel.cfg
 ./SimObjects/Airplanes/Project Airbus A380-800/sound/sound.cfg
+./SimObjects/Airplanes/Project Airbus A380-800 VC/aircraft.cfg
+./SimObjects/Airplanes/Project Airbus A380-800 VC/model.vc_ea/model.cfg
+./SimObjects/Airplanes/Project Airbus A380-800 VC/panel/panel.cfg
+./SimObjects/Airplanes/Project Airbus A380-800 VC/sound/sound.cfg
+./SimObjects/Airplanes/Project Airbus A380-800 VC/texture.uae/texture.cfg
 ./SimObjects/Airplanes/Project Airbus FSX/model.A318_CFM/model.cfg
 ./SimObjects/Airplanes/Project Airbus FSX/model.A319_CFM/model.cfg
 ./SimObjects/Airplanes/Project Airbus FSX/model.A319_IAE/model.cfg
@@ -5497,7 +5520,7 @@
 ./SimObjects/Airplanes/VL_Boeing_727-200/panel/panel.cfg
 ./SimObjects/Airplanes/VL_Boeing_727-200/panel.orig/panel.cfg
 ./SimObjects/Airplanes/VL_Boeing_727-200/sound/sound.cfg
-./SimObjects/Airplanes/VL_Boeing_727-200/sound.orig/sound.cfg
+./SimObjects/Airplanes/VL_Boeing_727-200/sound.CS/sound.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/aircraft.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/model/model.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/panel.marco/Panel.cfg

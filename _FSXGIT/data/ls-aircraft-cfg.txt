@@ -263,6 +263,7 @@
 ./SimObjects/Airplanes/Project Airbus A321-211/aircraft.cfg
 ./SimObjects/Airplanes/Project Airbus A321-231/aircraft.cfg
 ./SimObjects/Airplanes/Project Airbus A380-800/aircraft.cfg
+./SimObjects/Airplanes/Project Airbus A380-800 VC/aircraft.cfg
 ./SimObjects/Airplanes/Projet Noratlas/aircraft.cfg
 ./SimObjects/Airplanes/RAAF CT-4A/aircraft.cfg
 ./SimObjects/Airplanes/RealAir SF-260/aircraft.cfg

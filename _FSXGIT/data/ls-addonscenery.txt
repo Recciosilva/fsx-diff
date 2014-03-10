@@ -530,6 +530,10 @@
 ./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0
 ./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0/scenery
 ./Addon Scenery/Europe/_DEL_Malta Intl. Airport V1.0/texture
+./Addon Scenery/FlyTampa-Buffalo
+./Addon Scenery/FlyTampa-Buffalo/Doc
+./Addon Scenery/FlyTampa-Buffalo/scenery
+./Addon Scenery/FlyTampa-Buffalo/texture
 ./Addon Scenery/FlyTampa-Libraries
 ./Addon Scenery/FlyTampa-Libraries/scenery
 ./Addon Scenery/FlyTampa-Libraries/texture
@@ -696,6 +700,9 @@
 ./Addon Scenery/MiddleEast/Saudi Arabia/Jeddah_OEJN
 ./Addon Scenery/MiddleEast/Saudi Arabia/Jeddah_OEJN/scenery
 ./Addon Scenery/MiddleEast/Syria
+./Addon Scenery/MiddleEast/Syria/Aleppo_OSAP_FS9
+./Addon Scenery/MiddleEast/Syria/Aleppo_OSAP_FS9/scenery
+./Addon Scenery/MiddleEast/Syria/Aleppo_OSAP_FS9/Texture
 ./Addon Scenery/MiddleEast/Syria/Damascus Airport Extreme 2014
 ./Addon Scenery/MiddleEast/Syria/Damascus Airport Extreme 2014/scenery
 ./Addon Scenery/MiddleEast/Syria/Damascus Airport Extreme 2014/Texture
@@ -728,6 +735,18 @@
 ./Addon Scenery/MiddleEast/UAE/Dubai X
 ./Addon Scenery/MiddleEast/UAE/Dubai X/scenery
 ./Addon Scenery/MiddleEast/UAE/Dubai X/texture
+./Addon Scenery/MMMX-T2G
+./Addon Scenery/MMMX-T2G/Docs
+./Addon Scenery/MMMX-T2G/Docs/Charts
+./Addon Scenery/MMMX-T2G/MMMX
+./Addon Scenery/MMMX-T2G/MMMX/Scenery
+./Addon Scenery/MMMX-T2G/MMMX/Texture
+./Addon Scenery/MMMX-T2G/MMMX-city
+./Addon Scenery/MMMX-T2G/MMMX-city/scenery
+./Addon Scenery/MMMX-T2G/MMMX-city/texture
+./Addon Scenery/MMMX-T2G/MMMX-terrain
+./Addon Scenery/MMMX-T2G/MMMX-terrain/Scenery
+./Addon Scenery/MMMX-T2G/MMMX-terrain/Texture
 ./Addon Scenery/North Africa
 ./Addon Scenery/North Africa/Algeria
 ./Addon Scenery/North Africa/Algeria/scenery
@@ -1069,6 +1088,7 @@
 ./Addon Scenery/SouthAmerica/Mexico/Mexico_Mesh/scenery
 ./Addon Scenery/SouthAmerica/Mexico/Mexico_Misc_Airports
 ./Addon Scenery/SouthAmerica/Mexico/Mexico_Misc_Airports/scenery
+./Addon Scenery/SouthAmerica/Mexico/Mexico_Misc_Airports/scenery/_REMOVED
 ./Addon Scenery/static-library-objects
 ./Addon Scenery/static-library-objects/scenery
 ./Addon Scenery/static-library-objects/scenery/sources
