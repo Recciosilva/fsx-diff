@@ -4,6 +4,7 @@
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-300/aircraft.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-400/aircraft.cfg
 ./SimObjects/Airplanes/50N Wilco Merge Boeing 737-500/aircraft.cfg
+./SimObjects/Airplanes/A-1H/aircraft.cfg
 ./SimObjects/Airplanes/A-29B-SuperTucano/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM/aircraft.cfg
 ./SimObjects/Airplanes/Aerosoft Airbus X A320 Extended CFM NEO/aircraft.cfg
@@ -63,6 +64,7 @@
 ./SimObjects/Airplanes/C208B/aircraft.cfg
 ./SimObjects/Airplanes/C46/aircraft.cfg
 ./SimObjects/Airplanes/C604_PAD/aircraft.cfg
+./SimObjects/Airplanes/CAC_Boomerang/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Airbus 350-900 V4/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-8 V3/aircraft.cfg
 ./SimObjects/Airplanes/CamSim Boeing 787-9 V3/aircraft.cfg
@@ -70,6 +72,7 @@
 ./SimObjects/Airplanes/Canberra_B15/aircraft.cfg
 ./SimObjects/Airplanes/Canberra_B16/aircraft.cfg
 ./SimObjects/Airplanes/Canberra_B6/aircraft.cfg
+./SimObjects/Airplanes/Carenado B1900D/aircraft.cfg
 ./SimObjects/Airplanes/Carenado BONANZA V35B/aircraft.cfg
 ./SimObjects/Airplanes/Carenado BONANZA V35B TIP TANKS/aircraft.cfg
 ./SimObjects/Airplanes/Carenado C185F/aircraft.cfg
@@ -245,8 +248,8 @@
 ./SimObjects/Airplanes/P-51D_Little_Friends_VLR/Alternative Aircraft.CFG File/aircraft.cfg
 ./SimObjects/Airplanes/P51_Racer/aircraft.cfg
 ./SimObjects/Airplanes/PA28_180/aircraft.cfg
-./SimObjects/Airplanes/ParaFoil/aircraft.cfg
 ./SimObjects/Airplanes/Pasped Skylark HD/aircraft.cfg
+./SimObjects/Airplanes/PC-6C_H2/aircraft.cfg
 ./SimObjects/Airplanes/Pilatus_PC12/aircraft.cfg
 ./SimObjects/Airplanes/Piper_J3Cub/aircraft.cfg
 ./SimObjects/Airplanes/PMDG 737-600NGX/aircraft.cfg
@@ -300,6 +303,7 @@
 ./SimObjects/Airplanes/Virtavia Tornado F3/aircraft.cfg
 ./SimObjects/Airplanes/VL_737-300_BasePack/aircraft.cfg
 ./SimObjects/Airplanes/VL_Wilco_Merge_737-300/aircraft.cfg
+./SimObjects/Airplanes/VL_Wilco_Merge_737-400/aircraft.cfg
 ./SimObjects/Airplanes/VS_RV8/aircraft.cfg
 ./SimObjects/Airplanes/VS_SBD/aircraft.cfg
 ./SimObjects/Airplanes/WoA_AIA_MD_8X_Cone/aircraft.cfg

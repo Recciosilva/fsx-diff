@@ -234,6 +234,7 @@
 ./Shade
 ./ShadersHLSL
 ./sim1.dll
+./Simcheck
 ./SimMarket
 ./SimObjects
 ./simprop.dll
@@ -337,6 +338,7 @@
 ./Uninstalf50f.exe
 ./Uninstall Ants Eaglet.exe
 ./Uninstall Ants Sierra LSA.exe
+./Uninstall Ants Swamp Wallaby.exe
 ./Uninstall DH60GX.exe
 ./Uninstall FSD Navajo FSX.exe
 ./Uninstall Israeli Landclass X v106.exe
@@ -354,6 +356,7 @@
 ./Uninstall_ACG_IWM_DUXFORD_AI_FSX.exe
 ./Uninstall_ACG_IWM_DUXFORD_FSX.exe
 ./Uninstall_ALPA38.exe
+./Uninstall_B1900D.exe
 ./Uninstall_B200.exe
 ./Uninstall_Ben Gurion X
 ./Uninstall_BN2_1-6.exe
@@ -371,12 +374,14 @@
 ./UninstalYCG.exe
 ./Uninstal_737PICEVODLX_FSX.exe
 ./Uninstal_737PICX.exe
+./Uninstal_A400MX.exe
 ./Uninstal_Airbus1X_wilco.exe
 ./Uninstal_Airbus1_evo_FSX_wilco.exe
 ./Uninstal_ch_fw190a5_a9.exe
 ./Uninstal_CitXX_wilco.exe
 ./Uninstal_CRJ_FSX_wilco.exe
 ./Uninstal_FR_109K.exe
+./Uninstal_FR_Boomerang.exe
 ./Uninstal_HJJ_FSX.exe
 ./Uninstal_LebanonTerrainXV1.exe
 ./Uninstal_Sirocco_GTX2.exe

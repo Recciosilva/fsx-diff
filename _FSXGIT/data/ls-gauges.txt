@@ -1,6 +1,7 @@
 ./Gauges/00.TRIM.gau
 ./Gauges/154_B2S.gau
 ./Gauges/154_B2_APU.gau
+./Gauges/1900DKA_Cabin_alt.gau
 ./Gauges/339tc_0001.gau
 ./Gauges/717_altalert.gau
 ./Gauges/717_APCRSS.gau
@@ -281,6 +282,7 @@
 ./Gauges/RCS-B25-Suction-FSX-v1stl.gau
 ./Gauges/RCS-GPS-Switch-FSX-v1.gau
 ./Gauges/RCS-SPERRY.gau
+./Gauges/simcheck_a300.gau
 ./Gauges/squeaking brakes_Sound.gau
 ./Gauges/stt_ambtemp_tue48_v1.1.gau
 ./Gauges/STT_An24_26_V1_21.gau

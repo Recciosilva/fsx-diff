@@ -135,6 +135,9 @@
 ./Sound/c4wind4.wav
 ./Sound/c5wind2.wav
 ./Sound/c5wind3.wav
+./Sound/CA-12_20mm.wav
+./Sound/CA-12_303.wav
+./Sound/CA-12_is.wav
 ./Sound/caapdis.wav
 ./Sound/CabinAlert.WAV
 ./Sound/cagear.wav
@@ -142,6 +145,28 @@
 ./Sound/canopy_latch.wav
 ./Sound/canopy_slide.wav
 ./Sound/caover.wav
+./Sound/Carenado
+./Sound/Carenado/CarSound1900D
+./Sound/Carenado/CarSound1900D/1900_pull_up.wav
+./Sound/Carenado/CarSound1900D/AC.wav
+./Sound/Carenado/CarSound1900D/AltKnob.wav
+./Sound/Carenado/CarSound1900D/apdisconnect.wav
+./Sound/Carenado/CarSound1900D/battery.wav
+./Sound/Carenado/CarSound1900D/ELT.WAV
+./Sound/Carenado/CarSound1900D/FivehundredAlert.wav
+./Sound/Carenado/CarSound1900D/Glideslope1900.wav
+./Sound/Carenado/CarSound1900D/masterstart.wav
+./Sound/Carenado/CarSound1900D/openwindow.wav
+./Sound/Carenado/CarSound1900D/openwindow2.wav
+./Sound/Carenado/CarSound1900D/Pull_car.wav
+./Sound/Carenado/CarSound1900D/stall.wav
+./Sound/Carenado/CarSound1900D/stallvibration.wav
+./Sound/Carenado/CarSound1900D/switch_car.wav
+./Sound/Carenado/CarSound1900D/TrafficAlert.wav
+./Sound/Carenado/CarSound1900D/VcDoor_car.wav
+./Sound/Carenado/CarSound1900D/warning_master.wav
+./Sound/Carenado/CarSound1900D/wipershigh.wav
+./Sound/Carenado/CarSound1900D/wiperslow.wav
 ./Sound/CarrierTrap.wav
 ./Sound/CatapultLaunch.wav
 ./Sound/chirp.wav
@@ -645,6 +670,7 @@
 ./Sound/FlightReplicas
 ./Sound/FlightReplicas/SND1.wav
 ./Sound/FlightReplicas/SND10.wav
+./Sound/FlightReplicas/SND11.aup
 ./Sound/FlightReplicas/SND11.wav
 ./Sound/FlightReplicas/SND111.wav
 ./Sound/FlightReplicas/SND12.wav
@@ -725,6 +751,7 @@
 ./Sound/FSD Aircraft/ThreeBeeps.wav
 ./Sound/FSD Aircraft/ToneRise.wav
 ./Sound/FSD Aircraft/TrimMotion.wav
+./Sound/FSDG_heli.wav
 ./Sound/fuel_pump.wav
 ./Sound/GatesGone.wav
 ./Sound/GA_Stall.wav

@@ -369,12 +369,6 @@
 ./Addon Scenery/CitationX_Anims/Scenery
 ./Addon Scenery/CitationX_Anims/Texture
 ./Addon Scenery/Europe
-./Addon Scenery/Europe/AKESOFT VALENCIA-X FSX
-./Addon Scenery/Europe/AKESOFT VALENCIA-X FSX/scenery
-./Addon Scenery/Europe/AKESOFT VALENCIA-X FSX/texture
-./Addon Scenery/Europe/AthensEastAttiki2
-./Addon Scenery/Europe/AthensEastAttiki2/scenery
-./Addon Scenery/Europe/AthensEastAttiki2/texture
 ./Addon Scenery/Europe/Austria
 ./Addon Scenery/Europe/Austria/Austria_Misc
 ./Addon Scenery/Europe/Austria/Austria_Misc/scenery
@@ -391,13 +385,14 @@
 ./Addon Scenery/Europe/Austria/LOWS_2006
 ./Addon Scenery/Europe/Austria/LOWS_2006/scenery
 ./Addon Scenery/Europe/Austria/LOWS_2006/texture
-./Addon Scenery/Europe/Barcelona-EBLG
-./Addon Scenery/Europe/Barcelona-EBLG/scenery
 ./Addon Scenery/Europe/Belgium
 ./Addon Scenery/Europe/Belgium/EBLIG - Liege
 ./Addon Scenery/Europe/Belgium/EBLIG - Liege/scenery
-./Addon Scenery/Europe/Catalonia
-./Addon Scenery/Europe/Catalonia/scenery
+./Addon Scenery/Europe/Czech Republic
+./Addon Scenery/Europe/Czech Republic/Prague_LPKR
+./Addon Scenery/Europe/Czech Republic/Prague_LPKR/Scenery
+./Addon Scenery/Europe/Czech Republic/Prague_LPKR/Scenery/Sleep
+./Addon Scenery/Europe/Czech Republic/Prague_LPKR/Texture
 ./Addon Scenery/Europe/Denmark
 ./Addon Scenery/Europe/Denmark/Billund Airport X
 ./Addon Scenery/Europe/Denmark/Billund Airport X/Scenery
@@ -441,6 +436,32 @@
 ./Addon Scenery/Europe/Germany/EDDT_BerlinTegal
 ./Addon Scenery/Europe/Germany/EDDT_BerlinTegal/scenery
 ./Addon Scenery/Europe/Germany/EDDT_BerlinTegal/texture
+./Addon Scenery/Europe/Greece
+./Addon Scenery/Europe/Greece/AthensEastAttiki2
+./Addon Scenery/Europe/Greece/AthensEastAttiki2/scenery
+./Addon Scenery/Europe/Greece/AthensEastAttiki2/texture
+./Addon Scenery/Europe/Greece/CreteEast
+./Addon Scenery/Europe/Greece/CreteEast/scenery
+./Addon Scenery/Europe/Greece/CreteEast/texture
+./Addon Scenery/Europe/Greece/CreteWest
+./Addon Scenery/Europe/Greece/CreteWest/scenery
+./Addon Scenery/Europe/Greece/CreteWest/texture
+./Addon Scenery/Europe/Greece/LGAV.V2-SAO
+./Addon Scenery/Europe/Greece/LGAV.V2-SAO/scenery
+./Addon Scenery/Europe/Greece/LGAV.V2-SAO/texture
+./Addon Scenery/Europe/Greece/LGSM Samos
+./Addon Scenery/Europe/Greece/LGSM Samos/Copy contents to Dimitris Ntaskas's photoreal folder
+./Addon Scenery/Europe/Greece/LGSM Samos/Copy contents to Dimitris Ntaskas's photoreal folder/texture
+./Addon Scenery/Europe/Greece/LGSM Samos/Copy contents to FSX  Simobjects Airplanes folder
+./Addon Scenery/Europe/Greece/LGSM Samos/scenery
+./Addon Scenery/Europe/Greece/LGSM Samos/Screenshots
+./Addon Scenery/Europe/Greece/LGSM Samos/texture
+./Addon Scenery/Europe/Greece/LGSM Samos/texture/Aeroland Greece
+./Addon Scenery/Europe/Greece/LGSM Samos/texture/AIA 737-800 Air Berlin D-ABAF
+./Addon Scenery/Europe/Greece/LGSM Samos/texture/Avro Liner RJ100 Aegian Airlines
+./Addon Scenery/Europe/Greece/LGSM Samos/texture/C130 HAF
+./Addon Scenery/Europe/Greece/Paros
+./Addon Scenery/Europe/Greece/Paros/scenery
 ./Addon Scenery/Europe/Ireland
 ./Addon Scenery/Europe/Ireland/Fly Wonderful Islands
 ./Addon Scenery/Europe/Ireland/Fly Wonderful Islands/FWI_EIDW
@@ -521,9 +542,14 @@
 ./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Seasons/Summer
 ./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Seasons/Winter
 ./Addon Scenery/Europe/Poland/Polish Airports vol.1/EPRZ_X/Texture
-./Addon Scenery/Europe/SAOxt_LGAV.V2
-./Addon Scenery/Europe/SAOxt_LGAV.V2/scenery
-./Addon Scenery/Europe/SAOxt_LGAV.V2/texture
+./Addon Scenery/Europe/Spain
+./Addon Scenery/Europe/Spain/Barcelona_LEBL
+./Addon Scenery/Europe/Spain/Barcelona_LEBL/scenery
+./Addon Scenery/Europe/Spain/Catalonia
+./Addon Scenery/Europe/Spain/Catalonia/scenery
+./Addon Scenery/Europe/Spain/Valencia_LEVC
+./Addon Scenery/Europe/Spain/Valencia_LEVC/scenery
+./Addon Scenery/Europe/Spain/Valencia_LEVC/texture
 ./Addon Scenery/Europe/SRTM_Mesh
 ./Addon Scenery/Europe/SRTM_Mesh/scenery
 ./Addon Scenery/Europe/Sweden
@@ -722,12 +748,57 @@
 ./Addon Scenery/MiddleEast/Turkey/LBTA-VFR
 ./Addon Scenery/MiddleEast/Turkey/LBTA-VFR/scenery
 ./Addon Scenery/MiddleEast/Turkey/LBTA-VFR/texture
+./Addon Scenery/MiddleEast/Turkey/LTAC Ankara
+./Addon Scenery/MiddleEast/Turkey/LTAC Ankara/scenery
+./Addon Scenery/MiddleEast/Turkey/LTAC Ankara/texture
+./Addon Scenery/MiddleEast/Turkey/LTAF Adana
+./Addon Scenery/MiddleEast/Turkey/LTAF Adana/Scenery
+./Addon Scenery/MiddleEast/Turkey/LTAF Adana/Texture
+./Addon Scenery/MiddleEast/Turkey/LTAI Antalia
+./Addon Scenery/MiddleEast/Turkey/LTAI Antalia/SCENERY
+./Addon Scenery/MiddleEast/Turkey/LTAI Antalia/TEXTURE
+./Addon Scenery/MiddleEast/Turkey/LTAR Sivas
+./Addon Scenery/MiddleEast/Turkey/LTAR Sivas/scenery
+./Addon Scenery/MiddleEast/Turkey/LTAR Sivas/texture
+./Addon Scenery/MiddleEast/Turkey/LTAY Denizli
+./Addon Scenery/MiddleEast/Turkey/LTAY Denizli/Scenery
+./Addon Scenery/MiddleEast/Turkey/LTAY Denizli/Texture
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/documents
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/Effects
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/scenery
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/scenery/_BKUPS
 ./Addon Scenery/MiddleEast/Turkey/LTBA-Ataturk 2009/texture
+./Addon Scenery/MiddleEast/Turkey/LTBG Bandirma
+./Addon Scenery/MiddleEast/Turkey/LTBG Bandirma/scenery
+./Addon Scenery/MiddleEast/Turkey/LTBG Bandirma/screenshots
+./Addon Scenery/MiddleEast/Turkey/LTBG Bandirma/texture
+./Addon Scenery/MiddleEast/Turkey/LTBH CANAKKALE
+./Addon Scenery/MiddleEast/Turkey/LTBH CANAKKALE/scenery
+./Addon Scenery/MiddleEast/Turkey/LTBH CANAKKALE/texture
+./Addon Scenery/MiddleEast/Turkey/LTBJ Adnan Menderes
+./Addon Scenery/MiddleEast/Turkey/LTBJ Adnan Menderes/scenery
+./Addon Scenery/MiddleEast/Turkey/LTBJ Adnan Menderes/texture
+./Addon Scenery/MiddleEast/Turkey/LTBS Dalaman
+./Addon Scenery/MiddleEast/Turkey/LTBS Dalaman/scenery
+./Addon Scenery/MiddleEast/Turkey/LTBS Dalaman/texture
+./Addon Scenery/MiddleEast/Turkey/LTBZ Zafer
+./Addon Scenery/MiddleEast/Turkey/LTBZ Zafer/scenery
+./Addon Scenery/MiddleEast/Turkey/LTBZ Zafer/texture
+./Addon Scenery/MiddleEast/Turkey/LTCD Erzincan
+./Addon Scenery/MiddleEast/Turkey/LTCD Erzincan/Scenery
+./Addon Scenery/MiddleEast/Turkey/LTCD Erzincan/Texture
+./Addon Scenery/MiddleEast/Turkey/LTCE Erzurum
+./Addon Scenery/MiddleEast/Turkey/LTCE Erzurum/scenery
+./Addon Scenery/MiddleEast/Turkey/LTCE Erzurum/texture
+./Addon Scenery/MiddleEast/Turkey/LTFE Bodrum
+./Addon Scenery/MiddleEast/Turkey/LTFE Bodrum/scenery
+./Addon Scenery/MiddleEast/Turkey/LTFE Bodrum/texture
+./Addon Scenery/MiddleEast/Turkey/LTFJ Istanbul Sabiha
+./Addon Scenery/MiddleEast/Turkey/LTFJ Istanbul Sabiha/scenery
+./Addon Scenery/MiddleEast/Turkey/LTFJ Istanbul Sabiha/texture
+./Addon Scenery/MiddleEast/Turkey/Turkey_FS9_Mesh
+./Addon Scenery/MiddleEast/Turkey/Turkey_FS9_Mesh/scenery
 ./Addon Scenery/MiddleEast/UAE
 ./Addon Scenery/MiddleEast/UAE/Abu_Dhabi
 ./Addon Scenery/MiddleEast/UAE/Abu_Dhabi/scenery
@@ -735,6 +806,8 @@
 ./Addon Scenery/MiddleEast/UAE/Dubai X
 ./Addon Scenery/MiddleEast/UAE/Dubai X/scenery
 ./Addon Scenery/MiddleEast/UAE/Dubai X/texture
+./Addon Scenery/MiddleEast/UAE/Sharjah_OMSJ
+./Addon Scenery/MiddleEast/UAE/Sharjah_OMSJ/scenery
 ./Addon Scenery/MMMX-T2G
 ./Addon Scenery/MMMX-T2G/Docs
 ./Addon Scenery/MMMX-T2G/Docs/Charts
@@ -1376,6 +1449,8 @@
 ./Addon Scenery/USA/MAIW Scenery Library Objects
 ./Addon Scenery/USA/MAIW Scenery Library Objects/scenery
 ./Addon Scenery/USA/MAIW Scenery Library Objects/texture
+./Addon Scenery/USA/New England
+./Addon Scenery/USA/New England/scenery
 ./Addon Scenery/USA/ONT2012X
 ./Addon Scenery/USA/ONT2012X/scenery
 ./Addon Scenery/USA/ONT2012X/texture

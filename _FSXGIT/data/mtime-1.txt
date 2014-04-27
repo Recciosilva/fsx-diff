@@ -1,26 +1,37 @@
 ./
-./Addon Scenery/MiddleEast/Syria
-./Addon Scenery/MiddleEast/Syria/Aleppo_OSAP_FS9
-./Addon Scenery/MiddleEast/Syria/Aleppo_OSAP_FS9/scenery
-./Addon Scenery/MiddleEast/Syria/Aleppo_OSAP_FS9/Texture
-./FeelThere/b737/734.log
-./fsdreamteam/couatl/cyvr/__init__.pye
+./Effects
+./Effects/texture
+./Gauges
+./Gauges/FR_CA-12
 ./jb777memfilemap.txt
 ./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
+./modules/WideServer0.log
+./ORBX/Scripts/Backup
+./ORBX/Scripts/Backup/restore.bat
+./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
+./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
 ./Scenery/World/Scenery
-./SimObjects/Airplanes/feelThere pic 737-400
-./SimObjects/Airplanes/feelThere pic 737-400/aircraft.cfg
-./SimObjects/Airplanes/feelThere pic 737-400/texture.taban
-./SimObjects/Airplanes/P-3C_ORION_FSX/Aircraft.cfg
-./SimObjects/Airplanes/VL_Boeing_727-200
-./SimObjects/Airplanes/VL_Boeing_727-200/Aircraft.cfg
-./SimObjects/Airplanes/VL_Boeing_727-200/sound.CS/sound.cfg
-./SimObjects/Airplanes/VL_Boeing_727-200/texture.syr
-./SimObjects/Airplanes/VL_Boeing_727-200/texture.syr/thumbnail.jpg
+./SimObjects/Airplanes
+./SimObjects/Airplanes/CAC_Boomerang
+./SimObjects/Airplanes/CAC_Boomerang/Manual
+./SimObjects/Airplanes/CAC_Boomerang/model.CA-12
+./SimObjects/Airplanes/CAC_Boomerang/model.CA-13
+./SimObjects/Airplanes/CAC_Boomerang/model.CA-13rs
+./SimObjects/Airplanes/CAC_Boomerang/Paint Kit
+./SimObjects/Airplanes/CAC_Boomerang/panel
+./SimObjects/Airplanes/CAC_Boomerang/sound
+./SimObjects/Airplanes/CAC_Boomerang/texture.1
+./SimObjects/Airplanes/CAC_Boomerang/texture.2
+./SimObjects/Airplanes/CAC_Boomerang/texture.3
+./SimObjects/Rotorcraft/jf_r44_Clipper-EF/aircraft.cfg
+./Sound
+./Sound/FlightReplicas
+./terrain.cfg
+./Uninstal_FR_Boomerang.exe
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
 ./_FSXGIT/data/mtime-1.txt

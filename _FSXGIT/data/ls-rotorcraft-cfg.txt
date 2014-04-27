@@ -1,5 +1,8 @@
 ./SimObjects/Rotorcraft/Bell206B/aircraft.cfg
 ./SimObjects/Rotorcraft/EH101/aircraft.cfg
+./SimObjects/Rotorcraft/jf_r44/aircraft.cfg
+./SimObjects/Rotorcraft/jf_r44_Clipper/aircraft.cfg
+./SimObjects/Rotorcraft/jf_r44_Clipper-EF/aircraft.cfg
 ./SimObjects/Rotorcraft/jf_schweizer_300cbi/aircraft.cfg
 ./SimObjects/Rotorcraft/MD500E_CGA/aircraft.cfg
 ./SimObjects/Rotorcraft/Mi8mt/aircraft.cfg
