@@ -53,6 +53,8 @@
 ./Gauges/Cessna208.gau
 ./Gauges/CFR.fuelc.gau
 ./Gauges/ClassicsHangar_XMLSound.gau
+./Gauges/CLS747.gau
+./Gauges/cls_747_sound_gauge.gau
 ./Gauges/CLS_FSX_Sound2.gau
 ./Gauges/CONCORDE.gau
 ./Gauges/CPT.F16.gau
@@ -198,6 +200,7 @@
 ./Gauges/LVLD/fmcxml.gau
 ./Gauges/magnetic_compass.gau
 ./Gauges/Mig23_Flap.gau
+./Gauges/Milviz_Sound.gau
 ./Gauges/MilViz_T38.gau
 ./Gauges/ML-Pa28F2k2.Gauge1.gau
 ./Gauges/Money20F0.gau

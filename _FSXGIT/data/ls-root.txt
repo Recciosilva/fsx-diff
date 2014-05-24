@@ -139,7 +139,6 @@
 ./isg_test.log
 ./ISP
 ./jb777memfilemap.txt
-./Just Flight
 ./JustFlight
 ./kdcaxnewfsxunin.dat
 ./kdcaxnewfsxunin.xml

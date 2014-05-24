@@ -1,38 +1,75 @@
 ./
 ./Effects
-./Effects/texture
-./Gauges
-./Gauges/FR_CA-12
+./fsdreamteam/couatl/cyvr/__init__.pye
+./fsdreamteam/couatl/gsx/assistanceServices
+./fsdreamteam/couatl/gsx/assistanceServices/backup
 ./jb777memfilemap.txt
-./Level-D Simulations/B767-300/B767-300.ini
 ./modules
 ./modules/FSUIPC4.ini
 ./modules/FSUIPC4.log
 ./modules/WideServer.log
-./modules/WideServer0.log
 ./ORBX/Scripts/Backup
-./ORBX/Scripts/Backup/restore.bat
 ./ORBX/Scripts/FTXCentral/Regions/LastAppliedConfig.ftx
 ./ORBX/Scripts/FTXCentral/Work/DummySeasonsLog.csv
 ./Scenery/World/Scenery
 ./SimObjects/Airplanes
-./SimObjects/Airplanes/CAC_Boomerang
-./SimObjects/Airplanes/CAC_Boomerang/Manual
-./SimObjects/Airplanes/CAC_Boomerang/model.CA-12
-./SimObjects/Airplanes/CAC_Boomerang/model.CA-13
-./SimObjects/Airplanes/CAC_Boomerang/model.CA-13rs
-./SimObjects/Airplanes/CAC_Boomerang/Paint Kit
-./SimObjects/Airplanes/CAC_Boomerang/panel
-./SimObjects/Airplanes/CAC_Boomerang/sound
-./SimObjects/Airplanes/CAC_Boomerang/texture.1
-./SimObjects/Airplanes/CAC_Boomerang/texture.2
-./SimObjects/Airplanes/CAC_Boomerang/texture.3
-./SimObjects/Rotorcraft/jf_r44_Clipper-EF/aircraft.cfg
-./Sound
-./Sound/FlightReplicas
+./SimObjects/Airplanes/Beaufighter/aircraft.cfg
+./SimObjects/Airplanes/DeHavilland Vampire FB5/aircraft.cfg
+./SimObjects/Airplanes/FlightSim Developers-Milviz YF23
+./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/aircraft.cfg
+./SimObjects/Airplanes/FlightSim Developers-Milviz YF23/texture.PAV_1_800_Grey
+./SimObjects/Airplanes/Virtavia HP Hampden
+./SimObjects/Airplanes/Virtavia HP Hampden/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia HP Hampden/images
+./SimObjects/Airplanes/Virtavia HP Hampden/model
+./SimObjects/Airplanes/Virtavia HP Hampden/panel
+./SimObjects/Airplanes/Virtavia HP Hampden/sound
+./SimObjects/Airplanes/Virtavia HP Hampden/sound.pegasus
+./SimObjects/Airplanes/Virtavia HP Hampden/sound.pegasus/sound.cfg
+./SimObjects/Airplanes/Virtavia HP Hampden/texture.1
+./SimObjects/Airplanes/Virtavia HP Hampden 1
+./SimObjects/Airplanes/Virtavia HP Hampden 1/Aircraft.cfg
+./SimObjects/Airplanes/Virtavia HP Hampden 1/images
+./SimObjects/Airplanes/Virtavia HP Hampden 1/model.2
+./SimObjects/Airplanes/Virtavia HP Hampden 1/model.3
+./SimObjects/Airplanes/Virtavia HP Hampden 1/panel
+./SimObjects/Airplanes/Virtavia HP Hampden 1/sound
+./SimObjects/Airplanes/Virtavia HP Hampden 1/sound.pegasus
+./SimObjects/Airplanes/Virtavia HP Hampden 1/sound.pegasus/sound.cfg
+./SimObjects/Airplanes/Virtavia HP Hampden 1/texture.2
+./SimObjects/Airplanes/Virtavia HP Hampden 1/texture.3
+./SimObjects/Misc/AI PA-23 Aztec E Choate/Aircraft.cfg
+./SimObjects/Rotorcraft
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/model
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/panel
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/sound
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/texture.bump
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/texture.camo
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/texture.HEER
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/texture.ONU
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/texture.shared
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/texture.USMC black
+./SimObjects/Rotorcraft/Virtavia Sikorsky CH-53A/texture.USMC white
+./SimObjects/Sounds
+./SimObjects/Sounds/Bristol_Pegasus
 ./terrain.cfg
-./Uninstal_FR_Boomerang.exe
+./_FSXGIT/bkups
+./_FSXGIT/bkups/backup-2014-05-24.tar.gz
+./_FSXGIT/data/addon-modules.txt
 ./_FSXGIT/data/appdata/dll.xml
 ./_FSXGIT/data/appdata/fsx.cfg
+./_FSXGIT/data/ls-addonscenery.txt
+./_FSXGIT/data/ls-aircraft-cfg.txt
+./_FSXGIT/data/ls-config.txt
+./_FSXGIT/data/ls-effects.txt
+./_FSXGIT/data/ls-gauges.txt
+./_FSXGIT/data/ls-misc-cfg.txt
+./_FSXGIT/data/ls-modules.txt
+./_FSXGIT/data/ls-root.txt
+./_FSXGIT/data/ls-rotorcraft-cfg.txt
+./_FSXGIT/data/ls-sceneryworld.txt
+./_FSXGIT/data/ls-sound.txt
+./_FSXGIT/data/ls-texture.txt
 ./_FSXGIT/data/mtime-1.txt
 ./_FSXGIT/data/programdata/Scenery.CFG

@@ -223,4 +223,17 @@
     <ManualLoad>False</ManualLoad>
     <Path>G:\Tools\FS Recorder v2.1\FSRecorder_FSX.dll</Path>
   </Launch.Addon>
+	<Launch.Addon>
+		<Name>A2A Feel</Name>
+		<Disabled>False</Disabled>
+		<Path>Modules\A2A_Feel.dll</Path>
+		<DllStartName>module_init</DllStartName>
+		<DllStopName>module_deinit</DllStopName>
+	</Launch.Addon>
+	<Launch.Addon>
+		<Name>AccuFeelMenu</Name>
+		<Disabled>False</Disabled>
+		<ManualLoad>False</ManualLoad>
+		<Path>Modules\AccuFeelMenu.dll</Path>
+	</Launch.Addon>
 </SimBase.Document>

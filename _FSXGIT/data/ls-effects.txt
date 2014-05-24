@@ -85,6 +85,10 @@
 ./Effects/CLSFSX_747wing_lightout.fx
 ./Effects/CLSFSX_747_vclight.fx
 ./Effects/CLS_747wing_light.fx
+./Effects/cls_747_l_l_l.fx
+./Effects/cls_747_l_l_r.fx
+./Effects/CLS_747_rspray.fx
+./Effects/cls_747_rwtol.fx
 ./Effects/CLS_BAe146_Tail_light.fx
 ./Effects/CLS_beacon.fx
 ./Effects/CLS_Beacon01.fx
@@ -396,6 +400,7 @@
 ./Effects/fx_ALPHA_B24_Smoke.fx
 ./Effects/fx_ALPHA_B24_Smoke1.fx
 ./Effects/fx_ALPHA_B24_Td.fx
+./Effects/fx_ALPHA_CH_Smoke.fx
 ./Effects/fx_ALPHA_EZ_vclight.fx
 ./Effects/fx_ALPHA_EZ_vclightEXT.fx
 ./Effects/fx_ALPHA_GB_Dust.fx
@@ -408,6 +413,11 @@
 ./Effects/fx_ALPHA_He111_Td.fx
 ./Effects/fx_ALPHA_He111_vclight.fx
 ./Effects/fx_ALPHA_He111_vclight1.fx
+./Effects/fx_ALPHA_HP-Le_engstrt.fx
+./Effects/fx_ALPHA_HP_Dust.fx
+./Effects/fx_ALPHA_HP_engstrt.fx
+./Effects/fx_ALPHA_HP_Td.fx
+./Effects/fx_ALPHA_HP_vclight.fx
 ./Effects/fx_ALPHA_S55_engstrt.fx
 ./Effects/fx_ALPHA_Sh2_vclight.fx
 ./Effects/fx_ALPHA_T6_DSb.fx
@@ -978,6 +988,7 @@
 ./Effects/fx_iris_vclight_orange.fx
 ./Effects/fx_iris_vclight_red.fx
 ./Effects/fx_iris_vortices.fx
+./Effects/fx_Jav_recog.fx
 ./Effects/fx_jfgun03.fx
 ./Effects/fx_jfgun04.fx
 ./Effects/fx_jfgunDC1.fx
@@ -1451,6 +1462,7 @@
 ./Effects/fx_vclightGreH.fx
 ./Effects/fx_vclighth.fx
 ./Effects/fx_vclightlanc.fx
+./Effects/fx_vclightm.fx
 ./Effects/fx_vclightpa34.fx
 ./Effects/fx_vclightpa342.fx
 ./Effects/fx_vclightsplash.fx
@@ -2320,6 +2332,9 @@
 ./Effects/texture/fx_CARldn1900D.bmp
 ./Effects/texture/fx_CARldnPA38.bmp
 ./Effects/texture/fx_carmnd.bmp
+./Effects/texture/fx_cls_landing_light_2.bmp
+./Effects/texture/fx_cls_rs.bmp
+./Effects/texture/fx_cls_rwtol.bmp
 ./Effects/texture/fx_coflight.bmp
 ./Effects/texture/fx_cotden.bmp
 ./Effects/texture/fx_cropdust.bmp

@@ -1041,6 +1041,12 @@
 ./Addon Scenery/Pacific/Guam X v2/guam landscape/Scenery
 ./Addon Scenery/Pacific/Guam X v2/guam landscape/Texture
 ./Addon Scenery/Pacific/Guam X v2/screenshots
+./Addon Scenery/Pacific/NCAT_Atiu-4X
+./Addon Scenery/Pacific/NCAT_Atiu-4X/Scenery
+./Addon Scenery/Pacific/NCAT_Atiu-4X/Texture
+./Addon Scenery/Pacific/NCMG_Mangaia-4X
+./Addon Scenery/Pacific/NCMG_Mangaia-4X/Scenery
+./Addon Scenery/Pacific/NCMG_Mangaia-4X/Texture
 ./Addon Scenery/Pacific/NCRG_Rarotonga-4X
 ./Addon Scenery/Pacific/NCRG_Rarotonga-4X/Scenery
 ./Addon Scenery/Pacific/NCRG_Rarotonga-4X/Texture

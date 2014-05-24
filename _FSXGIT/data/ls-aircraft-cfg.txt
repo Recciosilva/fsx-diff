@@ -98,6 +98,11 @@
 ./SimObjects/Airplanes/Classics_Hangar_Fw190A-8_R2_Sturm_v1/aircraft.cfg
 ./SimObjects/Airplanes/Classics_Hangar_Fw190A-8_R2_Sturm_v2/aircraft.cfg
 ./SimObjects/Airplanes/Classics_Hangar_Fw190A-9/aircraft.cfg
+./SimObjects/Airplanes/CLS_747_200F_v15_Lite/aircraft.cfg
+./SimObjects/Airplanes/CLS_747_200M_v15_Lite/aircraft.cfg
+./SimObjects/Airplanes/CLS_747_200_v15_Lite/aircraft.cfg
+./SimObjects/Airplanes/CLS_747_300F_v15_Lite/aircraft.cfg
+./SimObjects/Airplanes/CLS_747_300_v15_Lite/aircraft.cfg
 ./SimObjects/Airplanes/CLS_A340_200/aircraft.cfg
 ./SimObjects/Airplanes/CLS_A340_300/aircraft.cfg
 ./SimObjects/Airplanes/CLS_B742_200_GE/aircraft.cfg
